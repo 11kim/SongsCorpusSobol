@@ -1,0 +1,89 @@
+[
+  [
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "питер": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc",
+          "Name sing",
+          "nomn"
+        ],
+        "normal_form": "питер"
+      }
+    },
+    {
+      "город": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "город"
+      }
+    },
+    {
+      "погулять": {
+        "OpencorporaTag": [
+          "INFN",
+          "perf",
+          "intr"
+        ],
+        "normal_form": "погулять"
+      }
+    }
+  ],
+  [
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "москву": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "accs"
+        ],
+        "normal_form": "москва"
+      }
+    },
+    {
+      "город": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "город"
+      }
+    },
+    {
+      "погулять": {
+        "OpencorporaTag": [
+          "INFN",
+          "perf",
+          "intr"
+        ],
+        "normal_form": "погулять"
+      }
+    }
+  ]
+]

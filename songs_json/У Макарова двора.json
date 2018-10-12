@@ -1,0 +1,69 @@
+[
+  [
+    {
+      "у": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "у"
+      }
+    },
+    {
+      "макарова": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc",
+          "Sgtm",
+          "Surn sing",
+          "gent"
+        ],
+        "normal_form": "макаров"
+      }
+    },
+    {
+      "двора": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "gent"
+        ],
+        "normal_form": "двор"
+      }
+    }
+  ],
+  [
+    {
+      "есть": {
+        "OpencorporaTag": [
+          "INTJ"
+        ],
+        "normal_form": "есть"
+      }
+    },
+    {
+      "укатана": {
+        "OpencorporaTag": [
+          "PRTS",
+          "perf",
+          "past",
+          "pssv femn",
+          "sing"
+        ],
+        "normal_form": "укатать"
+      }
+    },
+    {
+      "гора": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "гора"
+      }
+    }
+  ]
+]

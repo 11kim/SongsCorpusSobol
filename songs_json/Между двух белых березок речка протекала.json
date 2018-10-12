@@ -1,0 +1,130 @@
+[
+  [
+    {
+      "между": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "между"
+      }
+    },
+    {
+      "двух": {
+        "OpencorporaTag": [
+          "NUMR masc",
+          "gent"
+        ],
+        "normal_form": "два"
+      }
+    },
+    {
+      "белых": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "GNdr",
+          "Ms-f",
+          "Fixd",
+          "Surn sing",
+          "nomn"
+        ],
+        "normal_form": "белых"
+      }
+    },
+    {
+      "березок": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
+        ],
+        "normal_form": "берёзка"
+      }
+    },
+    {
+      "речка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "речка"
+      }
+    },
+    {
+      "протекала": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "протекать"
+      }
+    }
+  ],
+  [
+    {
+      "течет": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
+        ],
+        "normal_form": "течь"
+      }
+    },
+    {
+      "речка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "речка"
+      }
+    },
+    {
+      "невеличка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn",
+          "Ms-f sing",
+          "nomn"
+        ],
+        "normal_form": "невеличка"
+      }
+    },
+    {
+      "речка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "речка"
+      }
+    },
+    {
+      "глубокая": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "глубокий"
+      }
+    }
+  ]
+]

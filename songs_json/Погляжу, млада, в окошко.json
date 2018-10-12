@@ -1,0 +1,91 @@
+[
+  [
+    {
+      "погляжу": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "1per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "поглядеть"
+      }
+    },
+    {
+      "млада": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "nomn"
+        ],
+        "normal_form": "млада"
+      }
+    },
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "окошко": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut sing",
+          "nomn"
+        ],
+        "normal_form": "окошко"
+      }
+    },
+    {
+      "": {
+        "OpencorporaTag": [
+          "UNKN"
+        ],
+        "normal_form": ""
+      }
+    }
+  ],
+  [
+    {
+      "милый": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Subx",
+          "Qual masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "милый"
+      }
+    },
+    {
+      "лупит": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
+        ],
+        "normal_form": "лупить"
+      }
+    },
+    {
+      "босиком": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "босиком"
+      }
+    }
+  ]
+]

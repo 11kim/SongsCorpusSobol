@@ -1,0 +1,620 @@
+[
+  [
+    {
+      "царев": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Poss masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "царёв"
+      }
+    },
+    {
+      "сын": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "сын"
+      }
+    },
+    {
+      "вкруг": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "вкруг"
+      }
+    },
+    {
+      "города": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "gent"
+        ],
+        "normal_form": "город"
+      }
+    },
+    {
+      "гуляет": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
+        ],
+        "normal_form": "гулять"
+      }
+    }
+  ],
+  [
+    {
+      "царев": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Poss masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "царёв"
+      }
+    },
+    {
+      "сын": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "сын"
+      }
+    },
+    {
+      "себе": {
+        "OpencorporaTag": [
+          "NPRO",
+          "Anph sing",
+          "datv"
+        ],
+        "normal_form": "себя"
+      }
+    },
+    {
+      "царевну": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "царевна"
+      }
+    },
+    {
+      "ищет": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
+        ],
+        "normal_form": "искать"
+      }
+    }
+  ],
+  [
+    {
+      "царев": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Poss masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "царёв"
+      }
+    },
+    {
+      "сын": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "сын"
+      }
+    },
+    {
+      "ты": {
+        "OpencorporaTag": [
+          "NPRO",
+          "2per sing",
+          "nomn"
+        ],
+        "normal_form": "ты"
+      }
+    },
+    {
+      "войди": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "войти"
+      }
+    },
+    {
+      "сюда": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "сюда"
+      }
+    },
+    {
+      "во": {
+        "OpencorporaTag": [
+          "PREP Vpre"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "город": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "город"
+      }
+    }
+  ],
+  [
+    {
+      "царев": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Poss masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "царёв"
+      }
+    },
+    {
+      "сын": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "сын"
+      }
+    },
+    {
+      "выбирай": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "выбирать"
+      }
+    },
+    {
+      "себе": {
+        "OpencorporaTag": [
+          "NPRO",
+          "Anph sing",
+          "datv"
+        ],
+        "normal_form": "себя"
+      }
+    },
+    {
+      "царевну": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "царевна"
+      }
+    }
+  ],
+  [
+    {
+      "царев": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Poss masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "царёв"
+      }
+    },
+    {
+      "сын": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "сын"
+      }
+    },
+    {
+      "да": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "да"
+      }
+    },
+    {
+      "которую": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro",
+          "Subx",
+          "Anph femn",
+          "sing",
+          "accs"
+        ],
+        "normal_form": "который"
+      }
+    },
+    {
+      "получше": {
+        "OpencorporaTag": [
+          "COMP",
+          "Qual Cmp2"
+        ],
+        "normal_form": "хороший"
+      }
+    }
+  ],
+  [
+    {
+      "царев": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Poss masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "царёв"
+      }
+    },
+    {
+      "сын": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "сын"
+      }
+    },
+    {
+      "подойди-ка": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "подойти-ка"
+      }
+    },
+    {
+      "к": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "к"
+      }
+    },
+    {
+      "ней": {
+        "OpencorporaTag": [
+          "NPRO",
+          "femn",
+          "3per",
+          "Anph sing",
+          "loct",
+          "Af-p"
+        ],
+        "normal_form": "она"
+      }
+    },
+    {
+      "поближе": {
+        "OpencorporaTag": [
+          "COMP",
+          "Qual Cmp2"
+        ],
+        "normal_form": "близкий"
+      }
+    }
+  ],
+  [
+    {
+      "царев": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Poss masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "царёв"
+      }
+    },
+    {
+      "сын": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "сын"
+      }
+    },
+    {
+      "поклонися": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "nomn"
+        ],
+        "normal_form": "поклонися"
+      }
+    },
+    {
+      "ей": {
+        "OpencorporaTag": [
+          "NPRO",
+          "femn",
+          "3per",
+          "Anph sing",
+          "datv"
+        ],
+        "normal_form": "она"
+      }
+    },
+    {
+      "пониже": {
+        "OpencorporaTag": [
+          "COMP",
+          "Qual Cmp2"
+        ],
+        "normal_form": "низкий"
+      }
+    }
+  ],
+  [
+    {
+      "царев": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Poss masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "царёв"
+      }
+    },
+    {
+      "сын": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "сын"
+      }
+    },
+    {
+      "ты": {
+        "OpencorporaTag": [
+          "NPRO",
+          "2per sing",
+          "nomn"
+        ],
+        "normal_form": "ты"
+      }
+    },
+    {
+      "возьми": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "взять"
+      }
+    },
+    {
+      "ее": {
+        "OpencorporaTag": [
+          "NPRO",
+          "femn",
+          "3per",
+          "Anph sing",
+          "gent"
+        ],
+        "normal_form": "она"
+      }
+    },
+    {
+      "за": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "за"
+      }
+    },
+    {
+      "ручку": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "ручка"
+      }
+    }
+  ],
+  [
+    {
+      "царев": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Poss masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "царёв"
+      }
+    },
+    {
+      "сын": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "сын"
+      }
+    },
+    {
+      "посади": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "посадить"
+      }
+    },
+    {
+      "ее": {
+        "OpencorporaTag": [
+          "NPRO",
+          "femn",
+          "3per",
+          "Anph sing",
+          "gent"
+        ],
+        "normal_form": "она"
+      }
+    },
+    {
+      "на": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "на"
+      }
+    },
+    {
+      "стуло": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "стуло"
+      }
+    }
+  ],
+  [
+    {
+      "царев": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Poss masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "царёв"
+      }
+    },
+    {
+      "сын": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "сын"
+      }
+    },
+    {
+      "поцелуй": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "поцелуй"
+      }
+    },
+    {
+      "ее": {
+        "OpencorporaTag": [
+          "NPRO",
+          "femn",
+          "3per",
+          "Anph sing",
+          "gent"
+        ],
+        "normal_form": "она"
+      }
+    },
+    {
+      "милее": {
+        "OpencorporaTag": [
+          "COMP",
+          "Qual"
+        ],
+        "normal_form": "милый"
+      }
+    }
+  ]
+]

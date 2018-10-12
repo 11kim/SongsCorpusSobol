@@ -1,0 +1,682 @@
+[
+  [
+    {
+      "ох": {
+        "OpencorporaTag": [
+          "INTJ"
+        ],
+        "normal_form": "ох"
+      }
+    },
+    {
+      "девка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "девка"
+      }
+    },
+    {
+      "ты": {
+        "OpencorporaTag": [
+          "NPRO",
+          "2per sing",
+          "nomn"
+        ],
+        "normal_form": "ты"
+      }
+    },
+    {
+      "девка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "девка"
+      }
+    },
+    {
+      "красная": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "красный"
+      }
+    }
+  ],
+  [
+    {
+      "куда": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
+        ],
+        "normal_form": "куда"
+      }
+    },
+    {
+      "от": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "от"
+      }
+    },
+    {
+      "горя": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "gent"
+        ],
+        "normal_form": "горе"
+      }
+    },
+    {
+      "ты": {
+        "OpencorporaTag": [
+          "NPRO",
+          "2per sing",
+          "nomn"
+        ],
+        "normal_form": "ты"
+      }
+    },
+    {
+      "ни": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "ни"
+      }
+    },
+    {
+      "бегала": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "бегать"
+      }
+    }
+  ],
+  [
+    {
+      "нигде": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "нигде"
+      }
+    },
+    {
+      "от": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "от"
+      }
+    },
+    {
+      "горя": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "gent"
+        ],
+        "normal_form": "горе"
+      }
+    },
+    {
+      "не": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "не"
+      }
+    },
+    {
+      "убегала": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "убегать"
+      }
+    }
+  ],
+  [
+    {
+      "я": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "nomn"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "от": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "от"
+      }
+    },
+    {
+      "горя": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "gent"
+        ],
+        "normal_form": "горе"
+      }
+    },
+    {
+      "во": {
+        "OpencorporaTag": [
+          "PREP Vpre"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "чисто": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "чисто"
+      }
+    },
+    {
+      "поле": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc",
+          "Name sing",
+          "loct"
+        ],
+        "normal_form": "пол"
+      }
+    },
+    {
+      "": {
+        "OpencorporaTag": [
+          "UNKN"
+        ],
+        "normal_form": ""
+      }
+    }
+  ],
+  [
+    {
+      "а": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "а"
+      }
+    },
+    {
+      "за": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "за"
+      }
+    },
+    {
+      "мной": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "ablt"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "горе": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "горе"
+      }
+    },
+    {
+      "бежит": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "бежать"
+      }
+    },
+    {
+      "зайкою": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "ablt",
+          "V-oy"
+        ],
+        "normal_form": "зайка"
+      }
+    }
+  ],
+  [
+    {
+      "я": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "nomn"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "от": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "от"
+      }
+    },
+    {
+      "горя": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "gent"
+        ],
+        "normal_form": "горе"
+      }
+    },
+    {
+      "во": {
+        "OpencorporaTag": [
+          "PREP Vpre"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "темны": {
+        "OpencorporaTag": [
+          "ADJS",
+          "Qual plur"
+        ],
+        "normal_form": "тёмный"
+      }
+    },
+    {
+      "леса": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "леса"
+      }
+    },
+    {
+      "": {
+        "OpencorporaTag": [
+          "UNKN"
+        ],
+        "normal_form": ""
+      }
+    }
+  ],
+  [
+    {
+      "а": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "а"
+      }
+    },
+    {
+      "за": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "за"
+      }
+    },
+    {
+      "мной": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "ablt"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "горе": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "горе"
+      }
+    },
+    {
+      "с": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "с"
+      }
+    },
+    {
+      "топором": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "ablt"
+        ],
+        "normal_form": "топор"
+      }
+    },
+    {
+      "бежит": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "бежать"
+      }
+    }
+  ],
+  [
+    {
+      "я": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "nomn"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "от": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "от"
+      }
+    },
+    {
+      "горя": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "gent"
+        ],
+        "normal_form": "горе"
+      }
+    },
+    {
+      "замуж": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "замуж"
+      }
+    },
+    {
+      "пойду": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr sing",
+          "1per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "пойти"
+      }
+    },
+    {
+      "": {
+        "OpencorporaTag": [
+          "UNKN"
+        ],
+        "normal_form": ""
+      }
+    }
+  ],
+  [
+    {
+      "а": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "а"
+      }
+    },
+    {
+      "за": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "за"
+      }
+    },
+    {
+      "мной": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "ablt"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "горе": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "горе"
+      }
+    },
+    {
+      "малыми": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut plur",
+          "ablt"
+        ],
+        "normal_form": "малое"
+      }
+    },
+    {
+      "детками": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn plur",
+          "ablt"
+        ],
+        "normal_form": "детка"
+      }
+    }
+  ],
+  [
+    {
+      "я": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "nomn"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "от": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "от"
+      }
+    },
+    {
+      "горя": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "gent"
+        ],
+        "normal_form": "горе"
+      }
+    },
+    {
+      "во": {
+        "OpencorporaTag": [
+          "PREP Vpre"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "сыру": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "gen2"
+        ],
+        "normal_form": "сыр"
+      }
+    },
+    {
+      "землю": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "земля"
+      }
+    },
+    {
+      "": {
+        "OpencorporaTag": [
+          "UNKN"
+        ],
+        "normal_form": ""
+      }
+    }
+  ],
+  [
+    {
+      "а": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "а"
+      }
+    },
+    {
+      "за": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "за"
+      }
+    },
+    {
+      "мной": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "ablt"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "горе": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "горе"
+      }
+    },
+    {
+      "со": {
+        "OpencorporaTag": [
+          "PREP Vpre"
+        ],
+        "normal_form": "с"
+      }
+    },
+    {
+      "лопатою": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "ablt",
+          "V-oy"
+        ],
+        "normal_form": "лопата"
+      }
+    }
+  ]
+]

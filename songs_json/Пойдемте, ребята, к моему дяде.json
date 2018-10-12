@@ -1,0 +1,695 @@
+[
+  [
+    {
+      "пойдемте": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr plur",
+          "impr",
+          "incl"
+        ],
+        "normal_form": "пойти"
+      }
+    },
+    {
+      "ребята": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "GNdr",
+          "Pltm plur",
+          "nomn"
+        ],
+        "normal_form": "ребята"
+      }
+    },
+    {
+      "к": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "к"
+      }
+    },
+    {
+      "моему": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro masc",
+          "sing",
+          "datv"
+        ],
+        "normal_form": "мой"
+      }
+    },
+    {
+      "дяде": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "datv"
+        ],
+        "normal_form": "дядя"
+      }
+    }
+  ],
+  [
+    {
+      "попросимте": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran plur",
+          "impr",
+          "incl"
+        ],
+        "normal_form": "попросить"
+      }
+    },
+    {
+      "ребята": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "GNdr",
+          "Pltm plur",
+          "nomn"
+        ],
+        "normal_form": "ребята"
+      }
+    },
+    {
+      "взаймы": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "взаймы"
+      }
+    },
+    {
+      "денег": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
+        ],
+        "normal_form": "деньга"
+      }
+    }
+  ],
+  [
+    {
+      "наш": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "наш"
+      }
+    },
+    {
+      "дяденька": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "дяденька"
+      }
+    },
+    {
+      "скажет": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "сказать"
+      }
+    },
+    {
+      "денег": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
+        ],
+        "normal_form": "деньга"
+      }
+    },
+    {
+      "нету": {
+        "OpencorporaTag": [
+          "PRED",
+          "pres"
+        ],
+        "normal_form": "нету"
+      }
+    }
+  ],
+  [
+    {
+      "а": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "а"
+      }
+    },
+    {
+      "тетенька": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "тётенька"
+      }
+    },
+    {
+      "скажет": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "сказать"
+      }
+    },
+    {
+      "ни": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "ни"
+      }
+    },
+    {
+      "копейки": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "gent"
+        ],
+        "normal_form": "копейка"
+      }
+    }
+  ],
+  [
+    {
+      "берите": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran plur",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "брать"
+      }
+    },
+    {
+      "ребята": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "GNdr",
+          "Pltm plur",
+          "nomn"
+        ],
+        "normal_form": "ребята"
+      }
+    },
+    {
+      "по": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "по"
+      }
+    },
+    {
+      "полену": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut sing",
+          "datv"
+        ],
+        "normal_form": "полено"
+      }
+    }
+  ],
+  [
+    {
+      "щепляйте": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran plur",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "щеплять"
+      }
+    },
+    {
+      "вы": {
+        "OpencorporaTag": [
+          "NPRO",
+          "2per plur",
+          "nomn"
+        ],
+        "normal_form": "вы"
+      }
+    },
+    {
+      "лучину": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "лучина"
+      }
+    },
+    {
+      "помельчее": {
+        "OpencorporaTag": [
+          "COMP",
+          "Qual Cmp2"
+        ],
+        "normal_form": "мельчий"
+      }
+    }
+  ],
+  [
+    {
+      "разводите": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran plur",
+          "2per",
+          "pres",
+          "indc"
+        ],
+        "normal_form": "разводить"
+      }
+    },
+    {
+      "огонь": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "огонь"
+      }
+    },
+    {
+      "пожарчее": {
+        "OpencorporaTag": [
+          "COMP",
+          "Qual Cmp2"
+        ],
+        "normal_form": "жарчий"
+      }
+    }
+  ],
+  [
+    {
+      "кладите": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran plur",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "класть"
+      }
+    },
+    {
+      "ребята": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "GNdr",
+          "Pltm plur",
+          "nomn"
+        ],
+        "normal_form": "ребята"
+      }
+    },
+    {
+      "тетку": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "тётка"
+      }
+    },
+    {
+      "с": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "с"
+      }
+    },
+    {
+      "дядей": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "ablt"
+        ],
+        "normal_form": "дядя"
+      }
+    }
+  ],
+  [
+    {
+      "дяденька": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "дяденька"
+      }
+    },
+    {
+      "нам": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per plur",
+          "datv"
+        ],
+        "normal_form": "мы"
+      }
+    },
+    {
+      "скажет": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "сказать"
+      }
+    },
+    {
+      "у": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "у"
+      }
+    },
+    {
+      "нас": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per plur",
+          "gent"
+        ],
+        "normal_form": "мы"
+      }
+    },
+    {
+      "денег": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
+        ],
+        "normal_form": "деньга"
+      }
+    },
+    {
+      "много": {
+        "OpencorporaTag": [
+          "ADVB",
+          "Prdx"
+        ],
+        "normal_form": "много"
+      }
+    }
+  ],
+  [
+    {
+      "а": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "а"
+      }
+    },
+    {
+      "тетенька": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "тётенька"
+      }
+    },
+    {
+      "скажет": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "сказать"
+      }
+    },
+    {
+      "смету": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "смета"
+      }
+    },
+    {
+      "нету": {
+        "OpencorporaTag": [
+          "PRED",
+          "pres"
+        ],
+        "normal_form": "нету"
+      }
+    }
+  ],
+  [
+    {
+      "берите": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran plur",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "брать"
+      }
+    },
+    {
+      "ребята": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "GNdr",
+          "Pltm plur",
+          "nomn"
+        ],
+        "normal_form": "ребята"
+      }
+    },
+    {
+      "по": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "по"
+      }
+    },
+    {
+      "косушке": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "datv"
+        ],
+        "normal_form": "косушка"
+      }
+    }
+  ],
+  [
+    {
+      "запьем": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "запить"
+      }
+    },
+    {
+      "загуляем": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc",
+          "Sgtm",
+          "Geox sing",
+          "ablt"
+        ],
+        "normal_form": "загуляй"
+      }
+    },
+    {
+      "запляшем": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "заплясать"
+      }
+    }
+  ],
+  [
+    {
+      "вот": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "вот"
+      }
+    },
+    {
+      "горенка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "горенка"
+      }
+    },
+    {
+      "горенка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "горенка"
+      }
+    },
+    {
+      "новая": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "новый"
+      }
+    }
+  ],
+  [
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "ней": {
+        "OpencorporaTag": [
+          "NPRO",
+          "femn",
+          "3per",
+          "Anph sing",
+          "loct",
+          "Af-p"
+        ],
+        "normal_form": "она"
+      }
+    },
+    {
+      "солдатка-дворянка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "солдатка-дворянка"
+      }
+    },
+    {
+      "молодая": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "молодая"
+      }
+    }
+  ]
+]

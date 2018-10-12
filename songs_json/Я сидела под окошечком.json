@@ -1,0 +1,294 @@
+[
+  [
+    {
+      "все": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro plur",
+          "nomn"
+        ],
+        "normal_form": "весь"
+      }
+    },
+    {
+      "девчонки": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn plur",
+          "nomn"
+        ],
+        "normal_form": "девчонка"
+      }
+    },
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "хороводе": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "loct"
+        ],
+        "normal_form": "хоровод"
+      }
+    }
+  ],
+  [
+    {
+      "а": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "а"
+      }
+    },
+    {
+      "милашки": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn",
+          "Ms-f sing",
+          "gent"
+        ],
+        "normal_form": "милашка"
+      }
+    },
+    {
+      "моей": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro femn",
+          "sing",
+          "gent"
+        ],
+        "normal_form": "мой"
+      }
+    },
+    {
+      "нет": {
+        "OpencorporaTag": [
+          "PRED",
+          "pres"
+        ],
+        "normal_form": "нет"
+      }
+    }
+  ],
+  [
+    {
+      "все": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro plur",
+          "nomn"
+        ],
+        "normal_form": "весь"
+      }
+    },
+    {
+      "звездочки": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "gent"
+        ],
+        "normal_form": "звёздочка"
+      }
+    },
+    {
+      "на": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "на"
+      }
+    },
+    {
+      "небе": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut sing",
+          "loct"
+        ],
+        "normal_form": "небо"
+      }
+    }
+  ],
+  [
+    {
+      "полуночной": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "gent"
+        ],
+        "normal_form": "полуночный"
+      }
+    },
+    {
+      "одной": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro femn",
+          "sing",
+          "gent"
+        ],
+        "normal_form": "один"
+      }
+    },
+    {
+      "нет": {
+        "OpencorporaTag": [
+          "PRED",
+          "pres"
+        ],
+        "normal_form": "нет"
+      }
+    }
+  ],
+  [
+    {
+      "от": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "от"
+      }
+    },
+    {
+      "угла": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "gent"
+        ],
+        "normal_form": "угол"
+      }
+    },
+    {
+      "четвертый": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Anum inan",
+          "masc",
+          "sing",
+          "accs"
+        ],
+        "normal_form": "четыре"
+      }
+    },
+    {
+      "дом": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "accs"
+        ],
+        "normal_form": "дом"
+      }
+    }
+  ],
+  [
+    {
+      "желтой": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "gent"
+        ],
+        "normal_form": "жёлтый"
+      }
+    },
+    {
+      "краской": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "ablt"
+        ],
+        "normal_form": "краска"
+      }
+    },
+    {
+      "наведен": {
+        "OpencorporaTag": [
+          "PRTS",
+          "perf",
+          "past",
+          "pssv masc",
+          "sing"
+        ],
+        "normal_form": "навести"
+      }
+    }
+  ],
+  [
+    {
+      "три": {
+        "OpencorporaTag": [
+          "NUMR inan",
+          "accs"
+        ],
+        "normal_form": "три"
+      }
+    },
+    {
+      "девчонки": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn plur",
+          "nomn"
+        ],
+        "normal_form": "девчонка"
+      }
+    },
+    {
+      "сидят": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
+        ],
+        "normal_form": "сидеть"
+      }
+    },
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "нем": {
+        "OpencorporaTag": [
+          "ADJS",
+          "Qual masc",
+          "sing"
+        ],
+        "normal_form": "немой"
+      }
+    }
+  ]
+]

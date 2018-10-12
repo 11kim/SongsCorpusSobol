@@ -1,0 +1,125 @@
+[
+  [
+    {
+      "одна": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "один"
+      }
+    },
+    {
+      "гора": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "гора"
+      }
+    },
+    {
+      "высоко": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "высоко"
+      }
+    },
+    {
+      "а": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "а"
+      }
+    },
+    {
+      "другая": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro",
+          "Subx femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "другой"
+      }
+    },
+    {
+      "низко": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "низко"
+      }
+    }
+  ],
+  [
+    {
+      "один": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "один"
+      }
+    },
+    {
+      "милый": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Subx",
+          "Qual masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "милый"
+      }
+    },
+    {
+      "далеко": {
+        "OpencorporaTag": [
+          "ADVB",
+          "Prdx"
+        ],
+        "normal_form": "далеко"
+      }
+    },
+    {
+      "а": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "а"
+      }
+    },
+    {
+      "другой-то": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro",
+          "Subx femn",
+          "sing",
+          "gent"
+        ],
+        "normal_form": "другой-то"
+      }
+    },
+    {
+      "близко": {
+        "OpencorporaTag": [
+          "ADVB",
+          "Prdx"
+        ],
+        "normal_form": "близко"
+      }
+    }
+  ]
+]

@@ -1,0 +1,688 @@
+[
+  [
+    {
+      "что": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "что"
+      }
+    },
+    {
+      "не": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "не"
+      }
+    },
+    {
+      "белая": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "белый"
+      }
+    },
+    {
+      "зорюшка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "зорюшка"
+      }
+    }
+  ],
+  [
+    {
+      "заря": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "заря"
+      }
+    },
+    {
+      "занялася": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "nomn"
+        ],
+        "normal_form": "занялася"
+      }
+    }
+  ],
+  [
+    {
+      "молодая": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "молодая"
+      }
+    },
+    {
+      "дворяночка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "дворяночка"
+      }
+    }
+  ],
+  [
+    {
+      "дворянина": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "gent"
+        ],
+        "normal_form": "дворянин"
+      }
+    },
+    {
+      "будила": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "будить"
+      }
+    }
+  ],
+  [
+    {
+      "уставай": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "уставать"
+      }
+    },
+    {
+      "дворянинушка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "дворянинушка"
+      }
+    }
+  ],
+  [
+    {
+      "уставай": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "уставать"
+      }
+    },
+    {
+      "парень": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "парень"
+      }
+    },
+    {
+      "молодой": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "gent"
+        ],
+        "normal_form": "молодая"
+      }
+    }
+  ],
+  [
+    {
+      "все": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro plur",
+          "nomn"
+        ],
+        "normal_form": "весь"
+      }
+    },
+    {
+      "братцы-товарищи": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc plur",
+          "nomn"
+        ],
+        "normal_form": "братец-товарищ"
+      }
+    }
+  ],
+  [
+    {
+      "зашли": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "заслать"
+      }
+    },
+    {
+      "за": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "за"
+      }
+    },
+    {
+      "тобой": {
+        "OpencorporaTag": [
+          "NPRO",
+          "2per sing",
+          "ablt"
+        ],
+        "normal_form": "ты"
+      }
+    }
+  ],
+  [
+    {
+      "": {
+        "OpencorporaTag": [
+          "UNKN"
+        ],
+        "normal_form": ""
+      }
+    },
+    {
+      "братцы": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc plur",
+          "nomn"
+        ],
+        "normal_form": "братец"
+      }
+    },
+    {
+      "мои": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro plur",
+          "nomn"
+        ],
+        "normal_form": "мой"
+      }
+    },
+    {
+      "товарищи": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc plur",
+          "nomn"
+        ],
+        "normal_form": "товарищ"
+      }
+    }
+  ],
+  [
+    {
+      "вы": {
+        "OpencorporaTag": [
+          "NPRO",
+          "2per plur",
+          "nomn"
+        ],
+        "normal_form": "вы"
+      }
+    },
+    {
+      "не": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "не"
+      }
+    },
+    {
+      "киньте": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran plur",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "кинуть"
+      }
+    },
+    {
+      "меня": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "accs"
+        ],
+        "normal_form": "я"
+      }
+    }
+  ],
+  [
+    {
+      "не": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "не"
+      }
+    },
+    {
+      "киньте": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran plur",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "кинуть"
+      }
+    },
+    {
+      "не": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "не"
+      }
+    },
+    {
+      "бросьте": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran plur",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "бросить"
+      }
+    }
+  ],
+  [
+    {
+      "на": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "на"
+      }
+    },
+    {
+      "чужой": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Subx masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "чужой"
+      }
+    },
+    {
+      "дальней": {
+        "OpencorporaTag": [
+          "ADJF femn",
+          "sing",
+          "gent"
+        ],
+        "normal_form": "дальний"
+      }
+    },
+    {
+      "стороне": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "loct"
+        ],
+        "normal_form": "сторона"
+      }
+    }
+  ],
+  [
+    {
+      "на": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "на"
+      }
+    },
+    {
+      "чужой": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Subx masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "чужой"
+      }
+    },
+    {
+      "дальней": {
+        "OpencorporaTag": [
+          "ADJF femn",
+          "sing",
+          "gent"
+        ],
+        "normal_form": "дальний"
+      }
+    },
+    {
+      "сторонушке": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "datv"
+        ],
+        "normal_form": "сторонушка"
+      }
+    }
+  ],
+  [
+    {
+      "меня": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "accs"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "сон": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "сон"
+      }
+    },
+    {
+      "соклонил": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "соклонить"
+      }
+    }
+  ],
+  [
+    {
+      "скрозь": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "скрозить"
+      }
+    },
+    {
+      "мою": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro femn",
+          "sing",
+          "accs"
+        ],
+        "normal_form": "мой"
+      }
+    },
+    {
+      "головушку": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "головушка"
+      }
+    }
+  ],
+  [
+    {
+      "руда": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "руда"
+      }
+    },
+    {
+      "протекла": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "протечь"
+      }
+    }
+  ],
+  [
+    {
+      "скрозь": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "скрозить"
+      }
+    },
+    {
+      "мою": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro femn",
+          "sing",
+          "accs"
+        ],
+        "normal_form": "мой"
+      }
+    },
+    {
+      "сердечушку": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "сердечушка"
+      }
+    }
+  ],
+  [
+    {
+      "трава": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "трава"
+      }
+    },
+    {
+      "проросла": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "прорасти"
+      }
+    }
+  ],
+  [
+    {
+      "травушка-муравушка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "травушка-муравушка"
+      }
+    }
+  ],
+  [
+    {
+      "зеленый": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "зелёный"
+      }
+    },
+    {
+      "лужок": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "лужок"
+      }
+    }
+  ],
+  [
+    {
+      "крутой": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "крутой"
+      }
+    },
+    {
+      "бережок": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "бережок"
+      }
+    }
+  ],
+  [
+    {
+      "зеленый": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "зелёный"
+      }
+    },
+    {
+      "лопушок": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "лопушок"
+      }
+    }
+  ]
+]

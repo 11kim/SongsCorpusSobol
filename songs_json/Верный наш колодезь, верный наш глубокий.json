@@ -1,0 +1,397 @@
+[
+  [
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "питер": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc",
+          "Name sing",
+          "nomn"
+        ],
+        "normal_form": "питер"
+      }
+    },
+    {
+      "город": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "город"
+      }
+    },
+    {
+      "погулять": {
+        "OpencorporaTag": [
+          "INFN",
+          "perf",
+          "intr"
+        ],
+        "normal_form": "погулять"
+      }
+    }
+  ],
+  [
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "москву": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "accs"
+        ],
+        "normal_form": "москва"
+      }
+    },
+    {
+      "город": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "город"
+      }
+    },
+    {
+      "погулять": {
+        "OpencorporaTag": [
+          "INFN",
+          "perf",
+          "intr"
+        ],
+        "normal_form": "погулять"
+      }
+    }
+  ],
+  [
+    {
+      "стели": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm sing",
+          "gent"
+        ],
+        "normal_form": "стель"
+      }
+    },
+    {
+      "мне": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "datv"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "постелюшку": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "постелюшка"
+      }
+    }
+  ],
+  [
+    {
+      "питерская": {
+        "OpencorporaTag": [
+          "ADJF femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "питерский"
+      }
+    },
+    {
+      "умница": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn",
+          "Ms-f sing",
+          "nomn"
+        ],
+        "normal_form": "умница"
+      }
+    },
+    {
+      "питерская": {
+        "OpencorporaTag": [
+          "ADJF femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "питерский"
+      }
+    },
+    {
+      "умница": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn",
+          "Ms-f sing",
+          "nomn"
+        ],
+        "normal_form": "умница"
+      }
+    }
+  ],
+  [
+    {
+      "клади": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "класть"
+      }
+    },
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "изголовьице": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut sing",
+          "nomn"
+        ],
+        "normal_form": "изголовьице"
+      }
+    }
+  ],
+  [
+    {
+      "московская": {
+        "OpencorporaTag": [
+          "ADJF femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "московский"
+      }
+    },
+    {
+      "умница": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn",
+          "Ms-f sing",
+          "nomn"
+        ],
+        "normal_form": "умница"
+      }
+    },
+    {
+      "московская": {
+        "OpencorporaTag": [
+          "ADJF femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "московский"
+      }
+    },
+    {
+      "умница": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn",
+          "Ms-f sing",
+          "nomn"
+        ],
+        "normal_form": "умница"
+      }
+    }
+  ],
+  [
+    {
+      "сбери": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "сбрать"
+      }
+    },
+    {
+      "мне": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "datv"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "постелюшку": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "постелюшка"
+      }
+    },
+    {
+      "клади": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "класть"
+      }
+    },
+    {
+      "мне": {
+        "OpencorporaTag": [
+          "NPRO",
+          "1per sing",
+          "datv"
+        ],
+        "normal_form": "я"
+      }
+    },
+    {
+      "во": {
+        "OpencorporaTag": [
+          "PREP Vpre"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "шляпушку": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "шляпушка"
+      }
+    }
+  ],
+  [
+    {
+      "спасибо": {
+        "OpencorporaTag": [
+          "INTJ"
+        ],
+        "normal_form": "спасибо"
+      }
+    },
+    {
+      "девушки": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn plur",
+          "nomn"
+        ],
+        "normal_form": "девушка"
+      }
+    },
+    {
+      "спасибо": {
+        "OpencorporaTag": [
+          "INTJ"
+        ],
+        "normal_form": "спасибо"
+      }
+    },
+    {
+      "девушки": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn plur",
+          "nomn"
+        ],
+        "normal_form": "девушка"
+      }
+    }
+  ],
+  [
+    {
+      "на": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "на"
+      }
+    },
+    {
+      "мягкой": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "gent"
+        ],
+        "normal_form": "мягкий"
+      }
+    },
+    {
+      "постелюшке": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "datv"
+        ],
+        "normal_form": "постелюшка"
+      }
+    }
+  ]
+]

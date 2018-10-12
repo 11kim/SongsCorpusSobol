@@ -1,0 +1,129 @@
+[
+  [
+    {
+      "уж": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "уж"
+      }
+    },
+    {
+      "ты": {
+        "OpencorporaTag": [
+          "NPRO",
+          "2per sing",
+          "nomn"
+        ],
+        "normal_form": "ты"
+      }
+    },
+    {
+      "девушка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "девушка"
+      }
+    },
+    {
+      "обманчивая": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "обманчивый"
+      }
+    }
+  ],
+  [
+    {
+      "красавица": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "красавица"
+      }
+    },
+    {
+      "перелестливая": {
+        "OpencorporaTag": [
+          "GRND",
+          "impf",
+          "tran pres"
+        ],
+        "normal_form": "перелестливать"
+      }
+    }
+  ],
+  [
+    {
+      "ты": {
+        "OpencorporaTag": [
+          "NPRO",
+          "2per sing",
+          "nomn"
+        ],
+        "normal_form": "ты"
+      }
+    },
+    {
+      "сказала": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "сказать"
+      }
+    },
+    {
+      "что": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "что"
+      }
+    },
+    {
+      "замуж": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "замуж"
+      }
+    },
+    {
+      "не": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "не"
+      }
+    },
+    {
+      "пойдешь": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr sing",
+          "2per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "пойти"
+      }
+    }
+  ]
+]

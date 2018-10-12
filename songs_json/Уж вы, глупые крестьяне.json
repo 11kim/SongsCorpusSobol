@@ -1,0 +1,216 @@
+[
+  [
+    {
+      "уж": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "уж"
+      }
+    },
+    {
+      "вы": {
+        "OpencorporaTag": [
+          "NPRO",
+          "2per plur",
+          "nomn"
+        ],
+        "normal_form": "вы"
+      }
+    },
+    {
+      "глупые": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual plur",
+          "nomn"
+        ],
+        "normal_form": "глупый"
+      }
+    },
+    {
+      "крестьяне": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc plur",
+          "nomn"
+        ],
+        "normal_form": "крестьянин"
+      }
+    }
+  ],
+  [
+    {
+      "неразумны": {
+        "OpencorporaTag": [
+          "ADJS",
+          "Qual plur"
+        ],
+        "normal_form": "неразумный"
+      }
+    },
+    {
+      "мужики": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc plur",
+          "nomn"
+        ],
+        "normal_form": "мужик"
+      }
+    }
+  ],
+  [
+    {
+      "еще": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "ещё"
+      }
+    },
+    {
+      "бабья-то": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Poss femn",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "бабий-то"
+      }
+    },
+    {
+      "рубаха": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "рубаха"
+      }
+    }
+  ],
+  [
+    {
+      "не": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "не"
+      }
+    },
+    {
+      "тот": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro",
+          "Subx",
+          "Anph masc",
+          "sing",
+          "nomn"
+        ],
+        "normal_form": "тот"
+      }
+    },
+    {
+      "же": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "же"
+      }
+    },
+    {
+      "ли": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "ли"
+      }
+    },
+    {
+      "мешок": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "мешок"
+      }
+    }
+  ],
+  [
+    {
+      "рукава-то": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "gent"
+        ],
+        "normal_form": "рукав-то"
+      }
+    },
+    {
+      "завяжи": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "завязать"
+      }
+    }
+  ],
+  [
+    {
+      "да": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "да"
+      }
+    },
+    {
+      "что": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "что"
+      }
+    },
+    {
+      "хошь": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran sing",
+          "2per",
+          "pres",
+          "indc",
+          "Infr"
+        ],
+        "normal_form": "хотеть"
+      }
+    },
+    {
+      "положи": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran sing",
+          "impr",
+          "excl"
+        ],
+        "normal_form": "положить"
+      }
+    }
+  ]
+]

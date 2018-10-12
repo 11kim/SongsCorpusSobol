@@ -1,0 +1,511 @@
+[
+  [
+    {
+      "при": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "при"
+      }
+    },
+    {
+      "край": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
+        ],
+        "normal_form": "край"
+      }
+    },
+    {
+      "было": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr neut",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "быть"
+      }
+    },
+    {
+      "синяго": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Name sing",
+          "nomn"
+        ],
+        "normal_form": "синяго"
+      }
+    },
+    {
+      "моря": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut sing",
+          "gent"
+        ],
+        "normal_form": "море"
+      }
+    }
+  ],
+  [
+    {
+      "при": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "при"
+      }
+    },
+    {
+      "усть": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "усть"
+      }
+    },
+    {
+      "было": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr neut",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "быть"
+      }
+    },
+    {
+      "тихаго": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Name sing",
+          "nomn"
+        ],
+        "normal_form": "тихаго"
+      }
+    },
+    {
+      "дунаю": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc",
+          "Sgtm",
+          "Geox sing",
+          "datv"
+        ],
+        "normal_form": "дунай"
+      }
+    }
+  ],
+  [
+    {
+      "тут": {
+        "OpencorporaTag": [
+          "ADVB",
+          "Dmns"
+        ],
+        "normal_form": "тут"
+      }
+    },
+    {
+      "распахана": {
+        "OpencorporaTag": [
+          "PRTS",
+          "perf",
+          "past",
+          "pssv femn",
+          "sing"
+        ],
+        "normal_form": "распахать"
+      }
+    },
+    {
+      "была": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "быть"
+      }
+    },
+    {
+      "пашня": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "пашня"
+      }
+    }
+  ],
+  [
+    {
+      "не": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "не"
+      }
+    },
+    {
+      "плугами": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc plur",
+          "ablt"
+        ],
+        "normal_form": "плуг"
+      }
+    },
+    {
+      "и": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "и"
+      }
+    },
+    {
+      "не": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "не"
+      }
+    },
+    {
+      "сохами": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn plur",
+          "ablt"
+        ],
+        "normal_form": "соха"
+      }
+    },
+    {
+      "": {
+        "OpencorporaTag": [
+          "UNKN"
+        ],
+        "normal_form": ""
+      }
+    }
+  ],
+  [
+    {
+      "добрыих": {
+        "OpencorporaTag": [
+          "ADJF plur",
+          "gent"
+        ],
+        "normal_form": "добрыий"
+      }
+    },
+    {
+      "коней": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc plur",
+          "gent"
+        ],
+        "normal_form": "конь"
+      }
+    },
+    {
+      "копытами": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut plur",
+          "ablt"
+        ],
+        "normal_form": "копыто"
+      }
+    }
+  ],
+  [
+    {
+      "посеяна": {
+        "OpencorporaTag": [
+          "PRTS",
+          "perf",
+          "past",
+          "pssv femn",
+          "sing"
+        ],
+        "normal_form": "посеять"
+      }
+    },
+    {
+      "была": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "быть"
+      }
+    },
+    {
+      "пашня": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "пашня"
+      }
+    }
+  ],
+  [
+    {
+      "еще": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "ещё"
+      }
+    },
+    {
+      "теми": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro",
+          "Subx",
+          "Anph plur",
+          "ablt"
+        ],
+        "normal_form": "тот"
+      }
+    },
+    {
+      "же": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "же"
+      }
+    },
+    {
+      "драгунскими": {
+        "OpencorporaTag": [
+          "ADJF plur",
+          "ablt"
+        ],
+        "normal_form": "драгунский"
+      }
+    },
+    {
+      "телами": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut plur",
+          "ablt"
+        ],
+        "normal_form": "тело"
+      }
+    }
+  ],
+  [
+    {
+      "взборонована": {
+        "OpencorporaTag": [
+          "PRTS",
+          "perf",
+          "past",
+          "pssv femn",
+          "sing"
+        ],
+        "normal_form": "взбороновать"
+      }
+    },
+    {
+      "была": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "быть"
+      }
+    },
+    {
+      "пашня": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "пашня"
+      }
+    }
+  ],
+  [
+    {
+      "еще": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "ещё"
+      }
+    },
+    {
+      "теми": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro",
+          "Subx",
+          "Anph plur",
+          "ablt"
+        ],
+        "normal_form": "тот"
+      }
+    },
+    {
+      "же": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "же"
+      }
+    },
+    {
+      "мурзавецкими": {
+        "OpencorporaTag": [
+          "ADJF plur",
+          "ablt"
+        ],
+        "normal_form": "мурзавецкий"
+      }
+    },
+    {
+      "копьями": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut plur",
+          "ablt"
+        ],
+        "normal_form": "копьё"
+      }
+    }
+  ],
+  [
+    {
+      "поливана": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "gent"
+        ],
+        "normal_form": "поливан"
+      }
+    },
+    {
+      "была": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "быть"
+      }
+    },
+    {
+      "пашня": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "пашня"
+      }
+    }
+  ],
+  [
+    {
+      "тою": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "datv"
+        ],
+        "normal_form": "той"
+      }
+    },
+    {
+      "ли": {
+        "OpencorporaTag": [
+          "PRCL"
+        ],
+        "normal_form": "ли"
+      }
+    },
+    {
+      "христіянской": {
+        "OpencorporaTag": [
+          "ADJF femn",
+          "sing",
+          "gent"
+        ],
+        "normal_form": "христіянский"
+      }
+    },
+    {
+      "кровью": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "ablt"
+        ],
+        "normal_form": "кровь"
+      }
+    }
+  ]
+]

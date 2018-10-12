@@ -1,0 +1,171 @@
+[
+  [
+    {
+      "жила-была": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "жить-быть"
+      }
+    },
+    {
+      "девушка": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "девушка"
+      }
+    },
+    {
+      "семнадцати": {
+        "OpencorporaTag": [
+          "NUMR gent"
+        ],
+        "normal_form": "семнадцать"
+      }
+    },
+    {
+      "лет": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc plur",
+          "gent"
+        ],
+        "normal_form": "год"
+      }
+    }
+  ],
+  [
+    {
+      "любила": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "любить"
+      }
+    },
+    {
+      "молодчика": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc sing",
+          "gent"
+        ],
+        "normal_form": "молодчик"
+      }
+    },
+    {
+      "восемнадцати": {
+        "OpencorporaTag": [
+          "NUMR gent"
+        ],
+        "normal_form": "восемнадцать"
+      }
+    },
+    {
+      "лет": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc plur",
+          "gent"
+        ],
+        "normal_form": "год"
+      }
+    }
+  ],
+  [
+    {
+      "такого": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Apro neut",
+          "sing",
+          "gent"
+        ],
+        "normal_form": "такой"
+      }
+    },
+    {
+      "хорошаго": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Name sing",
+          "nomn"
+        ],
+        "normal_form": "хорошаго"
+      }
+    },
+    {
+      "": {
+        "OpencorporaTag": [
+          "UNKN"
+        ],
+        "normal_form": ""
+      }
+    },
+    {
+      "въ": {
+        "OpencorporaTag": [
+          "UNKN"
+        ],
+        "normal_form": "въ"
+      }
+    },
+    {
+      "беломъ": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
+        ],
+        "normal_form": "беломъ"
+      }
+    },
+    {
+      "свете": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc",
+          "Sgtm sing",
+          "loct"
+        ],
+        "normal_form": "свет"
+      }
+    },
+    {
+      "нетъ": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
+        ],
+        "normal_form": "нетъ"
+      }
+    }
+  ]
+]

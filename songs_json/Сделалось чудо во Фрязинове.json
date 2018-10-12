@@ -1,0 +1,93 @@
+[
+  [
+    {
+      "сделалось": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr neut",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "сделаться"
+      }
+    },
+    {
+      "чудо": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "neut sing",
+          "nomn"
+        ],
+        "normal_form": "чудо"
+      }
+    },
+    {
+      "во": {
+        "OpencorporaTag": [
+          "PREP Vpre"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "фрязинове": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc",
+          "Sgtm",
+          "Surn sing",
+          "loct"
+        ],
+        "normal_form": "фрязинов"
+      }
+    }
+  ],
+  [
+    {
+      "съели": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "tran plur",
+          "past",
+          "indc"
+        ],
+        "normal_form": "съесть"
+      }
+    },
+    {
+      "корову": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "корова"
+      }
+    },
+    {
+      "зимой": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "зимой"
+      }
+    },
+    {
+      "пауты": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc plur",
+          "nomn"
+        ],
+        "normal_form": "паут"
+      }
+    }
+  ]
+]

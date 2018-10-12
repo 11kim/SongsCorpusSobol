@@ -1,0 +1,109 @@
+[
+  [
+    {
+      "ах": {
+        "OpencorporaTag": [
+          "INTJ"
+        ],
+        "normal_form": "ах"
+      }
+    },
+    {
+      "по": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "по"
+      }
+    },
+    {
+      "сеням-сеням": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "datv"
+        ],
+        "normal_form": "сени-сени"
+      }
+    },
+    {
+      "сенечкам": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc",
+          "Name plur",
+          "datv"
+        ],
+        "normal_form": "сенечка"
+      }
+    }
+  ],
+  [
+    {
+      "по": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "по"
+      }
+    },
+    {
+      "новым": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual plur",
+          "datv"
+        ],
+        "normal_form": "новый"
+      }
+    },
+    {
+      "сеням": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "datv"
+        ],
+        "normal_form": "сени"
+      }
+    },
+    {
+      "решетчатыим": {
+        "OpencorporaTag": [
+          "ADJF masc",
+          "sing",
+          "ablt"
+        ],
+        "normal_form": "решетчатыий"
+      }
+    }
+  ],
+  [
+    {
+      "что": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "что"
+      }
+    },
+    {
+      "ходила-погуливала": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "ходить-погуливать"
+      }
+    }
+  ]
+]

@@ -1,0 +1,175 @@
+[
+  [
+    {
+      "двое": {
+        "OpencorporaTag": [
+          "NUMR",
+          "Coll nomn"
+        ],
+        "normal_form": "двое"
+      }
+    },
+    {
+      "нищенки": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "femn sing",
+          "gent"
+        ],
+        "normal_form": "нищенка"
+      }
+    },
+    {
+      "большіе": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "loct"
+        ],
+        "normal_form": "больші"
+      }
+    },
+    {
+      "": {
+        "OpencorporaTag": [
+          "UNKN"
+        ],
+        "normal_form": ""
+      }
+    }
+  ],
+  [
+    {
+      "как": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "как"
+      }
+    },
+    {
+      "телята": {
+        "OpencorporaTag": [
+          "NOUN",
+          "anim",
+          "masc plur",
+          "nomn"
+        ],
+        "normal_form": "телёнок"
+      }
+    },
+    {
+      "пропащіе": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "loct"
+        ],
+        "normal_form": "пропащі"
+      }
+    }
+  ],
+  [
+    {
+      "ноги": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "gent"
+        ],
+        "normal_form": "нога"
+      }
+    },
+    {
+      "зыблются": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
+        ],
+        "normal_form": "зыбиться"
+      }
+    }
+  ],
+  [
+    {
+      "куски": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc plur",
+          "accs"
+        ],
+        "normal_form": "кусок"
+      }
+    },
+    {
+      "сыплются": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc",
+          "Infr"
+        ],
+        "normal_form": "сыпаться"
+      }
+    }
+  ],
+  [
+    {
+      "сухари-то": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc plur",
+          "nomn"
+        ],
+        "normal_form": "сухарь-то"
+      }
+    },
+    {
+      "говорят": {
+        "OpencorporaTag": [
+          "CONJ",
+          "Prnt"
+        ],
+        "normal_form": "говорят"
+      }
+    }
+  ],
+  [
+    {
+      "целоваться": {
+        "OpencorporaTag": [
+          "INFN",
+          "impf",
+          "intr"
+        ],
+        "normal_form": "целоваться"
+      }
+    },
+    {
+      "велят": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr plur",
+          "3per",
+          "futr",
+          "indc"
+        ],
+        "normal_form": "велеть"
+      }
+    }
+  ]
+]

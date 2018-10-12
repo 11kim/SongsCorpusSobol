@@ -1,0 +1,147 @@
+[
+  [
+    {
+      "из-за": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "из-за"
+      }
+    },
+    {
+      "лесу": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "accs"
+        ],
+        "normal_form": "леса"
+      }
+    },
+    {
+      "из-за": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "из-за"
+      }
+    },
+    {
+      "гор": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
+        ],
+        "normal_form": "гора"
+      }
+    }
+  ],
+  [
+    {
+      "выкаталась": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "выкататься"
+      }
+    },
+    {
+      "туча-гром": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "туча-гром"
+      }
+    }
+  ],
+  [
+    {
+      "со": {
+        "OpencorporaTag": [
+          "PREP Vpre"
+        ],
+        "normal_form": "с"
+      }
+    },
+    {
+      "частым": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
+        ],
+        "normal_form": "частый"
+      }
+    },
+    {
+      "мелким": {
+        "OpencorporaTag": [
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
+        ],
+        "normal_form": "мелкий"
+      }
+    },
+    {
+      "дождем": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc sing",
+          "ablt"
+        ],
+        "normal_form": "дождь"
+      }
+    }
+  ],
+  [
+    {
+      "стала": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr femn",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "стать"
+      }
+    },
+    {
+      "улица": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
+        ],
+        "normal_form": "улица"
+      }
+    },
+    {
+      "грязна": {
+        "OpencorporaTag": [
+          "ADJS",
+          "Qual femn",
+          "sing"
+        ],
+        "normal_form": "грязный"
+      }
+    }
+  ]
+]
