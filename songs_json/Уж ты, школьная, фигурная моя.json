@@ -886,11 +886,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -946,15 +946,14 @@
       }
     },
     {
-      "чаемъ-водкой": {
+      "чаем-водкой": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "ablt"
         ],
-        "normal_form": "чаемъ-водка"
+        "normal_form": "чай-водка"
       }
     },
     {

@@ -363,14 +363,11 @@
       }
     },
     {
-      "друзья-пріятели": {
+      "друзья-при": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc plur",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "друг-пріятель"
+        "normal_form": "друзья-при"
       }
     },
     {
@@ -468,13 +465,13 @@
   ],
   [
     {
-      "громкія": {
+      "громкя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "громкіть"
+        "normal_form": "громкть"
       }
     },
     {

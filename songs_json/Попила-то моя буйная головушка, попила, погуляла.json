@@ -297,15 +297,16 @@
       }
     },
     {
-      "чешетъ": {
+      "чешет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "чешетъ"
+        "normal_form": "чесать"
       }
     },
     {
@@ -580,14 +581,11 @@
       }
     },
     {
-      "міром": {
+      "мъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "міром"
+        "normal_form": "мъ"
       }
     },
     {
@@ -1034,15 +1032,15 @@
       }
     },
     {
-      "мірски": {
+      "ми": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc",
-          "Geox plur",
+          "neut",
+          "Fixd sing",
           "nomn"
         ],
-        "normal_form": "мірск"
+        "normal_form": "ми"
       }
     },
     {
@@ -1242,13 +1240,11 @@
       }
     },
     {
-      "пріемную": {
+      "пр": {
         "OpencorporaTag": [
-          "ADJF femn",
-          "sing",
-          "accs"
+          "UNKN"
         ],
-        "normal_form": "пріемный"
+        "normal_form": "пр"
       }
     }
   ],

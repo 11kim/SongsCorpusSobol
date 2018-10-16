@@ -464,11 +464,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -480,15 +480,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {

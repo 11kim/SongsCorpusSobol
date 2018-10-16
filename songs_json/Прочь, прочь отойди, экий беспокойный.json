@@ -29,15 +29,11 @@
       }
     },
     {
-      "экій": {
+      "экй": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "экіть"
+        "normal_form": "экй"
       }
     },
     {
@@ -279,15 +275,14 @@
       }
     },
     {
-      "ангелъ": {
+      "ангел": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "ангелъ"
+        "normal_form": "ангел"
       }
     },
     {

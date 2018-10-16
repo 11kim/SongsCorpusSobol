@@ -700,15 +700,16 @@
       }
     },
     {
-      "протечетъ": {
+      "протечет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "протечетъ"
+        "normal_form": "протечь"
       }
     }
   ],

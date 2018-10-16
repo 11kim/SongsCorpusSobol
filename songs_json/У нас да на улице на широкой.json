@@ -181,15 +181,14 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
@@ -1515,27 +1514,23 @@
       }
     },
     {
-      "хорошъ": {
+      "хорош": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошъ"
+        "normal_form": "хороший"
       }
     },
     {
-      "пригожъ": {
+      "пригож": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "пригожъ"
+        "normal_form": "пригожий"
       }
     }
   ],

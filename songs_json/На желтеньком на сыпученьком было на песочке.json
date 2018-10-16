@@ -248,14 +248,15 @@
       }
     },
     {
-      "разудаленькій-удалый": {
+      "разудаленькй": {
         "OpencorporaTag": [
-          "ADJF",
-          "Qual masc",
-          "sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "разудаленькій-удалый"
+        "normal_form": "разудаленькть"
       }
     },
     {
@@ -585,15 +586,11 @@
       }
     },
     {
-      "такъ": {
+      "так": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "такъ"
+        "normal_form": "так"
       }
     },
     {
@@ -637,15 +634,14 @@
       }
     },
     {
-      "разъ": {
+      "раз": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "разъ"
+        "normal_form": "раз"
       }
     },
     {

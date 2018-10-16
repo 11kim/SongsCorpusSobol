@@ -377,7 +377,7 @@
       }
     },
     {
-      "крестьянскій": {
+      "крестьянскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -385,7 +385,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "крестьянскіть"
+        "normal_form": "крестьянскть"
       }
     },
     {
@@ -919,15 +919,14 @@
       }
     },
     {
-      "ножъ": {
+      "нож": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "ножъ"
+        "normal_form": "нож"
       }
     }
   ],
@@ -949,15 +948,15 @@
       }
     },
     {
-      "третій-то": {
+      "трето": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "PRTS",
+          "perf",
+          "past",
+          "pssv neut",
+          "sing"
         ],
-        "normal_form": "третіть-то"
+        "normal_form": "треть"
       }
     },
     {
@@ -1091,15 +1090,14 @@
       }
     },
     {
-      "лукъ": {
+      "лук": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "лукъ"
+        "normal_form": "лука"
       }
     }
   ],
@@ -1259,7 +1257,7 @@
       }
     },
     {
-      "крестьянскій": {
+      "крестьянскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1267,7 +1265,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "крестьянскіть"
+        "normal_form": "крестьянскть"
       }
     },
     {

@@ -919,16 +919,15 @@
       }
     },
     {
-      "погребенію": {
+      "погребеню": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "погребеніть"
+        "normal_form": "погребеня"
       }
     },
     {
@@ -1243,15 +1242,11 @@
       }
     },
     {
-      "последній": {
+      "последнй": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "последніть"
+        "normal_form": "последнй"
       }
     },
     {

@@ -829,15 +829,14 @@
       }
     },
     {
-      "большій": {
+      "больш": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "большіть"
+        "normal_form": "больша"
       }
     }
   ],
@@ -861,28 +860,26 @@
       }
     },
     {
-      "дунайскіем": {
+      "дунайскъ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran plur",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "дунайскіть"
+        "normal_form": "дунайскъ"
       }
     },
     {
-      "меньшій": {
+      "меньш": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "меньшіть"
+        "normal_form": "меньша"
       }
     }
   ],
@@ -915,15 +912,11 @@
       }
     },
     {
-      "колпикъ-отъ": {
+      "колпик-от": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "колпикъ-отъ"
+        "normal_form": "колпик-от"
       }
     },
     {
@@ -935,15 +928,15 @@
       }
     },
     {
-      "царикъ": {
+      "царик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "царикъ"
+        "normal_form": "царик"
       }
     }
   ],
@@ -1126,15 +1119,16 @@
       }
     },
     {
-      "стряпчій": {
+      "стряпч": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "masc",
+          "Sgtm",
+          "Surn sing",
+          "nomn"
         ],
-        "normal_form": "стряпчіть"
+        "normal_form": "стряпч"
       }
     }
   ],
@@ -1178,15 +1172,14 @@
       }
     },
     {
-      "перевощикъ": {
+      "перевощик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "перевощикъ"
+        "normal_form": "перевощик"
       }
     }
   ],
@@ -1459,15 +1452,14 @@
       }
     },
     {
-      "плотникъ": {
+      "плотник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "плотникъ"
+        "normal_form": "плотник"
       }
     }
   ],
@@ -2455,14 +2447,15 @@
       }
     },
     {
-      "царскіе": {
+      "царске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "царскі"
+        "normal_form": "царск"
       }
     },
     {
@@ -2684,15 +2677,14 @@
       }
     },
     {
-      "попикъ": {
+      "попик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "попикъ"
+        "normal_form": "попик"
       }
     }
   ],
@@ -2987,14 +2979,11 @@
       }
     },
     {
-      "донскіе": {
+      "донск": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "UNKN"
         ],
-        "normal_form": "донскі"
+        "normal_form": "донск"
       }
     }
   ],

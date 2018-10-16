@@ -294,11 +294,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -446,15 +446,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -506,15 +506,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -586,27 +586,27 @@
       }
     },
     {
-      "будетъ": {
+      "будет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "будетъ"
+        "normal_form": "быть"
       }
     },
     {
-      "домъ": {
+      "дом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "домъ"
+        "normal_form": "дом"
       }
     },
     {
@@ -656,15 +656,14 @@
       }
     },
     {
-      "домъ": {
+      "дом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "домъ"
+        "normal_form": "дом"
       }
     },
     {

@@ -47,7 +47,7 @@
   ],
   [
     {
-      "ѣздит": {
+      "здит": {
         "OpencorporaTag": [
           "VERB",
           "perf",
@@ -56,7 +56,7 @@
           "futr",
           "indc"
         ],
-        "normal_form": "ѣздить"
+        "normal_form": "здить"
       }
     },
     {
@@ -126,15 +126,11 @@
   ],
   [
     {
-      "пріехали": {
+      "при": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "при"
       }
     },
     {
@@ -539,16 +535,11 @@
   ],
   [
     {
-      "пріехал": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пръ"
       }
     },
     {
@@ -933,15 +924,14 @@
       }
     },
     {
-      "белъ-козелъ": {
+      "бел-козел": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "белъ-козелъ"
+        "normal_form": "бел-козёл"
       }
     }
   ],
@@ -987,11 +977,15 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
@@ -1014,15 +1008,16 @@
       }
     },
     {
-      "ходилъ": {
+      "ходил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "ходилъ"
+        "normal_form": "ходить"
       }
     }
   ],
@@ -1129,27 +1124,27 @@
       }
     },
     {
-      "пойдемъ": {
+      "пойдем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пойдемъ"
+        "normal_form": "пойти"
       }
     },
     {
-      "мужъ": {
+      "муж": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ"
+        "normal_form": "муж"
       }
     },
     {
@@ -1471,27 +1466,24 @@
       }
     },
     {
-      "передъ": {
+      "перед": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "передъ"
+        "normal_form": "перед"
       }
     },
     {
-      "поломемъ": {
+      "поломем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "поломемъ"
+        "normal_form": "полоать"
       }
     },
     {

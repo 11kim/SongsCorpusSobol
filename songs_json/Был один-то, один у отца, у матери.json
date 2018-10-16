@@ -749,15 +749,14 @@
       }
     },
     {
-      "отецъ": {
+      "отец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "отецъ"
+        "normal_form": "отец"
       }
     },
     {
@@ -1204,11 +1203,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -1222,7 +1221,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1230,7 +1229,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -1245,15 +1244,14 @@
       }
     },
     {
-      "другъ": {
+      "друг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "другъ"
+        "normal_form": "друг"
       }
     }
   ],
@@ -1572,11 +1570,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -1590,7 +1588,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1598,7 +1596,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -1613,15 +1611,14 @@
       }
     },
     {
-      "другъ": {
+      "друг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "другъ"
+        "normal_form": "друг"
       }
     }
   ],
@@ -1716,12 +1713,15 @@
       }
     },
     {
-      "молодецкіих": {
+      "молодецкъ": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "молодецкіий"
+        "normal_form": "молодецкъ"
       }
     }
   ],

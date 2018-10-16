@@ -1949,15 +1949,14 @@
       }
     },
     {
-      "сынъ": {
+      "сын": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сынъ"
+        "normal_form": "сын"
       }
     }
   ],
@@ -2380,11 +2379,11 @@
       }
     },
     {
-      "отъ": {
+      "от": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "отъ"
+        "normal_form": "от"
       }
     },
     {

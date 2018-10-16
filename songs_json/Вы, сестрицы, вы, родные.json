@@ -547,15 +547,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ],
@@ -683,15 +680,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ]

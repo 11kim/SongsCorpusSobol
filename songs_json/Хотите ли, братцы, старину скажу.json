@@ -462,14 +462,11 @@
   ],
   [
     {
-      "ѣзки": {
+      "зки": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "ѣзка"
+        "normal_form": "зки"
       }
     },
     {
@@ -1533,23 +1530,23 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "дровахъ": {
+      "дровах": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "loct"
         ],
-        "normal_form": "дровахъ"
+        "normal_form": "дрова"
       }
     }
   ],

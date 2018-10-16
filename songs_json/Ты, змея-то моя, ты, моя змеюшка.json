@@ -170,11 +170,11 @@
       }
     },
     {
-      "отъ": {
+      "от": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "отъ"
+        "normal_form": "от"
       }
     },
     {
@@ -188,27 +188,27 @@
       }
     },
     {
-      "листъ-трава": {
+      "лист-трава": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "листъ-трава"
+        "normal_form": "лист-трава"
       }
     },
     {
-      "горитъ": {
+      "горит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "горитъ"
+        "normal_form": "гореть"
       }
     }
   ],
@@ -296,11 +296,11 @@
       }
     },
     {
-      "отъ": {
+      "от": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "отъ"
+        "normal_form": "от"
       }
     },
     {

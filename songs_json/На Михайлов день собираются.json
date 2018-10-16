@@ -287,13 +287,15 @@
       }
     },
     {
-      "георгіевское": {
+      "георг": {
         "OpencorporaTag": [
-          "ADJF neut",
-          "sing",
+          "NOUN",
+          "anim",
+          "masc",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "георгіевский"
+        "normal_form": "георг"
       }
     }
   ],
@@ -473,15 +475,13 @@
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {

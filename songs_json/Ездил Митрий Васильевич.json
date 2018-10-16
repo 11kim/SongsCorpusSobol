@@ -1,7 +1,7 @@
 [
   [
     {
-      "ѣздил": {
+      "здил": {
         "OpencorporaTag": [
           "VERB",
           "perf",
@@ -10,11 +10,11 @@
           "past",
           "indc"
         ],
-        "normal_form": "ѣздить"
+        "normal_form": "здить"
       }
     },
     {
-      "митрій": {
+      "митрй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -22,7 +22,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "митріть"
+        "normal_form": "митрть"
       }
     },
     {
@@ -321,7 +321,7 @@
   ],
   [
     {
-      "ѣздит-то": {
+      "здит-то": {
         "OpencorporaTag": [
           "VERB",
           "perf",
@@ -330,11 +330,11 @@
           "futr",
           "indc"
         ],
-        "normal_form": "ѣздить-то"
+        "normal_form": "здить-то"
       }
     },
     {
-      "митрій": {
+      "митрй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -342,7 +342,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "митріть"
+        "normal_form": "митрть"
       }
     },
     {
@@ -733,19 +733,18 @@
       }
     },
     {
-      "братецъ": {
+      "братец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "братецъ"
+        "normal_form": "братец"
       }
     },
     {
-      "митрій": {
+      "митрй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -753,19 +752,19 @@
           "impr",
           "excl"
         ],
-        "normal_form": "митріть"
+        "normal_form": "митрть"
       }
     },
     {
-      "васильевичъ": {
+      "васильевич": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Patr sing",
           "nomn"
         ],
-        "normal_form": "васильевичъ"
+        "normal_form": "василий"
       }
     }
   ],
@@ -852,7 +851,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -860,7 +859,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -1268,7 +1267,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1276,7 +1275,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -1437,7 +1436,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1445,7 +1444,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -1563,14 +1562,14 @@
       }
     },
     {
-      "другіе": {
+      "друге": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
           "loct"
         ],
-        "normal_form": "другі"
+        "normal_form": "друг"
       }
     },
     {
@@ -1772,7 +1771,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1780,7 +1779,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -1941,7 +1940,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1949,7 +1948,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -2004,14 +2003,14 @@
       }
     },
     {
-      "другіе": {
+      "друге": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
           "loct"
         ],
-        "normal_form": "другі"
+        "normal_form": "друг"
       }
     },
     {
@@ -2284,7 +2283,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2292,7 +2291,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -2669,16 +2668,16 @@
       }
     },
     {
-      "митрію": {
+      "митрю": {
         "OpencorporaTag": [
           "VERB",
-          "impf",
+          "perf",
           "tran sing",
           "1per",
-          "pres",
+          "futr",
           "indc"
         ],
-        "normal_form": "митріть"
+        "normal_form": "митрить"
       }
     },
     {
@@ -3110,13 +3109,14 @@
       }
     },
     {
-      "митрія": {
+      "митря": {
         "OpencorporaTag": [
           "GRND",
-          "impf",
-          "tran pres"
+          "perf",
+          "tran past",
+          "Fimp"
         ],
-        "normal_form": "митріть"
+        "normal_form": "митрить"
       }
     },
     {
@@ -3479,16 +3479,16 @@
       }
     },
     {
-      "митрію": {
+      "митрю": {
         "OpencorporaTag": [
           "VERB",
-          "impf",
+          "perf",
           "tran sing",
           "1per",
-          "pres",
+          "futr",
           "indc"
         ],
-        "normal_form": "митріть"
+        "normal_form": "митрить"
       }
     },
     {
@@ -3506,16 +3506,16 @@
   ],
   [
     {
-      "пріезжала": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пра"
       }
     },
     {
@@ -3584,7 +3584,7 @@
       }
     },
     {
-      "митрій": {
+      "митрй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3592,7 +3592,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "митріть"
+        "normal_form": "митрть"
       }
     },
     {
@@ -3761,13 +3761,15 @@
       }
     },
     {
-      "сахарнія": {
+      "сахарн": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "сахарніть"
+        "normal_form": "сахарна"
       }
     }
   ],
@@ -4550,7 +4552,7 @@
       }
     },
     {
-      "митрій": {
+      "митрй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4558,7 +4560,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "митріть"
+        "normal_form": "митрть"
       }
     },
     {
@@ -4758,7 +4760,7 @@
       }
     },
     {
-      "булатній": {
+      "булатнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4766,7 +4768,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "булатніть"
+        "normal_form": "булатнть"
       }
     },
     {

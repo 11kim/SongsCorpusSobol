@@ -561,15 +561,16 @@
       }
     },
     {
-      "даетъ": {
+      "дает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "даетъ"
+        "normal_form": "давать"
       }
     }
   ],
@@ -629,15 +630,16 @@
       }
     },
     {
-      "кладетъ": {
+      "кладет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "кладетъ"
+        "normal_form": "класть"
       }
     }
   ],
@@ -686,15 +688,14 @@
       }
     },
     {
-      "денегъ": {
+      "денег": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "денегъ"
+        "normal_form": "деньга"
       }
     },
     {
@@ -706,15 +707,16 @@
       }
     },
     {
-      "даетъ": {
+      "дает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "даетъ"
+        "normal_form": "давать"
       }
     }
   ],
@@ -826,7 +828,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -834,7 +836,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -997,15 +999,16 @@
       }
     },
     {
-      "ходятъ": {
+      "ходят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "ходятъ"
+        "normal_form": "ходить"
       }
     }
   ],
@@ -1072,27 +1075,27 @@
       }
     },
     {
-      "хлебъ": {
+      "хлеб": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "хлебъ"
+        "normal_form": "хлеб"
       }
     },
     {
-      "едятъ": {
+      "едят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "едятъ"
+        "normal_form": "есть"
       }
     }
   ],
@@ -1330,7 +1333,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1338,7 +1341,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -1418,7 +1421,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1426,7 +1429,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -1643,15 +1646,16 @@
       }
     },
     {
-      "ходятъ": {
+      "ходят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "ходятъ"
+        "normal_form": "ходить"
       }
     }
   ],
@@ -1718,27 +1722,27 @@
       }
     },
     {
-      "хлебъ": {
+      "хлеб": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "хлебъ"
+        "normal_form": "хлеб"
       }
     },
     {
-      "едятъ": {
+      "едят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "едятъ"
+        "normal_form": "есть"
       }
     }
   ],
@@ -1949,7 +1953,7 @@
       }
     },
     {
-      "сыренькій": {
+      "сыренькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1957,7 +1961,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сыренькіть"
+        "normal_form": "сыренькть"
       }
     },
     {
@@ -2018,7 +2022,7 @@
       }
     },
     {
-      "сыренькій": {
+      "сыренькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2026,7 +2030,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сыренькіть"
+        "normal_form": "сыренькть"
       }
     },
     {
@@ -2337,27 +2341,25 @@
       }
     },
     {
-      "затемъ": {
+      "затем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "затемъ"
+        "normal_form": "затем"
       }
     },
     {
-      "привязалъ": {
+      "привязал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "привязалъ"
+        "normal_form": "привязать"
       }
     },
     {

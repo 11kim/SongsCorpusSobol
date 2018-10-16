@@ -130,14 +130,14 @@
   ],
   [
     {
-      "другіе": {
+      "друге": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
           "loct"
         ],
-        "normal_form": "другі"
+        "normal_form": "друг"
       }
     },
     {
@@ -466,11 +466,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -485,15 +485,14 @@
       }
     },
     {
-      "чортъ": {
+      "чорт": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "чортъ"
+        "normal_form": "чорт"
       }
     },
     {
@@ -954,15 +953,16 @@
       }
     },
     {
-      "пустимъ": {
+      "пустим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пустимъ"
+        "normal_form": "пустить"
       }
     },
     {
@@ -1025,11 +1025,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -1044,15 +1044,14 @@
       }
     },
     {
-      "чортъ": {
+      "чорт": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "чортъ"
+        "normal_form": "чорт"
       }
     },
     {
@@ -1602,15 +1601,16 @@
       }
     },
     {
-      "сталъ": {
+      "стал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "сталъ"
+        "normal_form": "стать"
       }
     }
   ],

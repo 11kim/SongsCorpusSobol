@@ -465,15 +465,14 @@
       }
     },
     {
-      "мужъ": {
+      "муж": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ"
+        "normal_form": "муж"
       }
     },
     {
@@ -485,15 +484,16 @@
       }
     },
     {
-      "муженечекъ": {
+      "муженечек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Ms-f",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "муженечекъ"
+        "normal_form": "муженечка"
       }
     }
   ],
@@ -698,15 +698,14 @@
       }
     },
     {
-      "мужъ": {
+      "муж": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ"
+        "normal_form": "муж"
       }
     },
     {
@@ -718,15 +717,16 @@
       }
     },
     {
-      "муженечекъ": {
+      "муженечек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Ms-f",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "муженечекъ"
+        "normal_form": "муженечка"
       }
     }
   ],
@@ -839,11 +839,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {

@@ -392,35 +392,31 @@
       }
     },
     {
-      "охъ": {
+      "ох": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "охъ"
+        "normal_form": "ох"
       }
     },
     {
-      "хорошъ": {
+      "хорош": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошъ"
+        "normal_form": "хороший"
       }
     },
     {
-      "хорошъ": {
+      "хорош": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошъ"
+        "normal_form": "хороший"
       }
     },
     {
@@ -462,15 +458,14 @@
       }
     },
     {
-      "соколъ": {
+      "сокол": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "соколъ"
+        "normal_form": "сокол"
       }
     }
   ],
@@ -543,15 +538,14 @@
       }
     },
     {
-      "ясменъ": {
+      "ясмен": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "ясменъ"
+        "normal_form": "ясмена"
       }
     }
   ],

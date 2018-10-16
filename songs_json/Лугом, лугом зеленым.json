@@ -36,14 +36,14 @@
   ],
   [
     {
-      "ѣхала": {
+      "хала": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "ѣхала"
+        "normal_form": "хала"
       }
     },
     {
@@ -248,15 +248,16 @@
       }
     },
     {
-      "потускнелъ": {
+      "потускнел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "потускнелъ"
+        "normal_form": "потускнеть"
       }
     }
   ],
@@ -437,14 +438,14 @@
   ],
   [
     {
-      "ѣхала": {
+      "хала": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "ѣхала"
+        "normal_form": "хала"
       }
     },
     {
@@ -715,27 +716,26 @@
       }
     },
     {
-      "светелъ": {
+      "светел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "светелъ"
+        "normal_form": "светлый"
       }
     },
     {
-      "сталъ": {
+      "стал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "сталъ"
+        "normal_form": "стать"
       }
     }
   ],

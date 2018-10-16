@@ -63,15 +63,11 @@
       }
     },
     {
-      "последній": {
+      "последнй": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "последніть"
+        "normal_form": "последнй"
       }
     },
     {
@@ -629,16 +625,11 @@
       }
     },
     {
-      "пріехал": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пръ"
       }
     }
   ],
@@ -832,16 +823,15 @@
       }
     },
     {
-      "россію": {
+      "россю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "россіть"
+        "normal_form": "росся"
       }
     },
     {

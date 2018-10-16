@@ -440,14 +440,15 @@
       }
     },
     {
-      "несчастіе": {
+      "несчасте": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name sing",
+          "datv"
         ],
-        "normal_form": "несчасті"
+        "normal_form": "несчаста"
       }
     },
     {
@@ -631,11 +632,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

@@ -41,7 +41,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -49,7 +49,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -101,7 +101,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -109,7 +109,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -157,23 +157,19 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -533,14 +529,15 @@
       }
     },
     {
-      "донскіе": {
+      "донске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "донскі"
+        "normal_form": "донск"
       }
     },
     {
@@ -986,7 +983,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -994,19 +991,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
-      "дружокъ": {
+      "дружок": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "дружокъ"
+        "normal_form": "дружок"
       }
     }
   ],
@@ -1218,7 +1214,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1226,19 +1222,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
-      "дружокъ": {
+      "дружок": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "дружокъ"
+        "normal_form": "дружок"
       }
     }
   ],

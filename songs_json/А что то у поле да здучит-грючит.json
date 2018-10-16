@@ -226,11 +226,14 @@
       }
     },
     {
-      "оне": {
+      "они": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "3per",
+          "Anph plur",
+          "nomn"
         ],
-        "normal_form": "оне"
+        "normal_form": "они"
       }
     },
     {
@@ -245,15 +248,16 @@
       }
     },
     {
-      "ищатъ": {
+      "ищат": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "ищатъ"
+        "normal_form": "ищать"
       }
     }
   ],
@@ -300,11 +304,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -370,11 +374,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -441,11 +445,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1192,13 +1196,13 @@
       }
     },
     {
-      "третія": {
+      "третя": {
         "OpencorporaTag": [
           "GRND",
-          "impf",
-          "tran pres"
+          "perf",
+          "tran past"
         ],
-        "normal_form": "третіть"
+        "normal_form": "трести"
       }
     },
     {
@@ -1828,15 +1832,12 @@
       }
     },
     {
-      "тамъ": {
+      "там": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "тамъ"
+        "normal_form": "там"
       }
     },
     {

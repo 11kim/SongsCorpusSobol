@@ -364,7 +364,7 @@
       }
     },
     {
-      "низкій": {
+      "низкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -372,7 +372,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "низкіть"
+        "normal_form": "низкть"
       }
     },
     {
@@ -1198,15 +1198,13 @@
       }
     },
     {
-      "хорошій": {
+      "хорош": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошіть"
+        "normal_form": "хороший"
       }
     }
   ],

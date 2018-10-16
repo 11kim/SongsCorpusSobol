@@ -495,27 +495,27 @@
       }
     },
     {
-      "генералъ": {
+      "генерал": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "генералъ"
+        "normal_form": "генерал"
       }
     },
     {
-      "померъ": {
+      "помер": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "померъ"
+        "normal_form": "помереть"
       }
     }
   ],

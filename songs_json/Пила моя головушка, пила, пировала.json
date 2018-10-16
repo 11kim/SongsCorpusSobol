@@ -280,14 +280,12 @@
   ],
   [
     {
-      "ближніе": {
+      "ближне": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS neut",
+          "sing"
         ],
-        "normal_form": "ближні"
+        "normal_form": "ближний"
       }
     },
     {
@@ -826,13 +824,11 @@
       }
     },
     {
-      "пріемную": {
+      "пр": {
         "OpencorporaTag": [
-          "ADJF femn",
-          "sing",
-          "accs"
+          "UNKN"
         ],
-        "normal_form": "пріемный"
+        "normal_form": "пр"
       }
     }
   ],
@@ -1460,7 +1456,7 @@
       }
     },
     {
-      "тальянскій": {
+      "тальянскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1468,7 +1464,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тальянскіть"
+        "normal_form": "тальянскть"
       }
     },
     {
@@ -1536,11 +1532,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

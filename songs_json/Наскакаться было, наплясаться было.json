@@ -57,13 +57,13 @@
       }
     },
     {
-      "ѳедотово": {
+      "едотово": {
         "OpencorporaTag": [
           "ADJS",
           "Qual neut",
           "sing"
         ],
-        "normal_form": "ѳедотовый"
+        "normal_form": "едотовый"
       }
     },
     {
@@ -303,16 +303,11 @@
       }
     },
     {
-      "пріехал": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пръ"
       }
     },
     {
@@ -324,14 +319,14 @@
       }
     },
     {
-      "ѳедот": {
+      "едот": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "nomn"
         ],
-        "normal_form": "ѳедот"
+        "normal_form": "едот"
       }
     }
   ],
@@ -420,15 +415,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     },
     {
@@ -620,11 +612,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -639,15 +631,11 @@
       }
     },
     {
-      "пріехалъ": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріехалъ"
+        "normal_form": "пр"
       }
     }
   ],

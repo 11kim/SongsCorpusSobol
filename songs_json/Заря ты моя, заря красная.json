@@ -164,25 +164,21 @@
       }
     },
     {
-      "пріуправиться": {
+      "пр": {
         "OpencorporaTag": [
-          "INFN",
-          "perf",
-          "intr"
+          "UNKN"
         ],
-        "normal_form": "пріуправиться"
+        "normal_form": "пр"
       }
     }
   ],
   [
     {
-      "пріуправиться": {
+      "пр": {
         "OpencorporaTag": [
-          "INFN",
-          "perf",
-          "intr"
+          "UNKN"
         ],
-        "normal_form": "пріуправиться"
+        "normal_form": "пр"
       }
     },
     {
@@ -273,15 +269,15 @@
       }
     },
     {
-      "зелененькій": {
+      "зелененьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "зелененькіть"
+        "normal_form": "зелененька"
       }
     }
   ],
@@ -336,7 +332,7 @@
       }
     },
     {
-      "высокій": {
+      "высокй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -344,7 +340,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокть"
       }
     },
     {
@@ -412,15 +408,15 @@
       }
     },
     {
-      "дубовенькій": {
+      "дубовеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "дубовенькіть"
+        "normal_form": "дубовенька"
       }
     }
   ],

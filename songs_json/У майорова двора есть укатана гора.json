@@ -938,15 +938,12 @@
       }
     },
     {
-      "радъ": {
+      "рад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "радъ"
+        "normal_form": "рад"
       }
     },
     {
@@ -995,15 +992,14 @@
       }
     },
     {
-      "сторонъ": {
+      "сторон": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "сторонъ"
+        "normal_form": "сторона"
       }
     },
     {
@@ -1018,15 +1014,16 @@
       }
     },
     {
-      "глядятъ": {
+      "глядят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "глядятъ"
+        "normal_form": "глядеть"
       }
     }
   ],
@@ -1063,14 +1060,12 @@
       }
     },
     {
-      "чужіе": {
+      "чуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "чужі"
+        "normal_form": "чужой"
       }
     },
     {

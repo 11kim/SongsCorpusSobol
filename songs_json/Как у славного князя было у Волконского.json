@@ -357,16 +357,13 @@
       }
     },
     {
-      "разсе́рдился": {
+      "разсея": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "GRND",
+          "impf",
+          "tran pres"
         ],
-        "normal_form": "разсе́рдиться"
+        "normal_form": "разсеять"
       }
     }
   ],
@@ -380,11 +377,14 @@
       }
     },
     {
-      "бестію": {
+      "бестю": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "datv"
         ],
-        "normal_form": "бестію"
+        "normal_form": "бесть"
       }
     },
     {
@@ -879,7 +879,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -887,7 +887,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -1289,13 +1289,13 @@
       }
     },
     {
-      "глубокія": {
+      "глубок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -1710,7 +1710,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1718,7 +1718,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -1905,13 +1905,14 @@
       }
     },
     {
-      "сахарнія": {
+      "сахарня": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "сахарніть"
+        "normal_form": "сахарня"
       }
     },
     {

@@ -136,15 +136,14 @@
       }
     },
     {
-      "человекъ": {
+      "человек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "человекъ"
+        "normal_form": "человек"
       }
     },
     {
@@ -579,14 +578,14 @@
       }
     },
     {
-      "служеніе": {
+      "служене": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "служені"
+        "normal_form": "служена"
       }
     },
     {
@@ -2635,7 +2634,7 @@
       }
     },
     {
-      "королевскій": {
+      "королевскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2643,7 +2642,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "королевскіть"
+        "normal_form": "королевскть"
       }
     },
     {
@@ -3237,7 +3236,7 @@
       }
     },
     {
-      "королевскій": {
+      "королевскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3245,7 +3244,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "королевскіть"
+        "normal_form": "королевскть"
       }
     },
     {

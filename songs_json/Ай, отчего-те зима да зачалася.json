@@ -608,13 +608,13 @@
       }
     },
     {
-      "русскія": {
+      "русскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "русскіть"
+        "normal_form": "русскть"
       }
     },
     {
@@ -1032,14 +1032,14 @@
       }
     },
     {
-      "большіе": {
+      "больш": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "больші"
+        "normal_form": "больша"
       }
     }
   ],
@@ -1073,14 +1073,14 @@
       }
     },
     {
-      "меньшіе": {
+      "меньш": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "меньші"
+        "normal_form": "меньша"
       }
     }
   ],
@@ -1164,13 +1164,13 @@
       }
     },
     {
-      "русскія": {
+      "русскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "русскіть"
+        "normal_form": "русскть"
       }
     },
     {
@@ -1342,14 +1342,14 @@
       }
     },
     {
-      "большіе": {
+      "больш": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "больші"
+        "normal_form": "больша"
       }
     }
   ],
@@ -1383,14 +1383,14 @@
       }
     },
     {
-      "меньшіе": {
+      "меньш": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "меньші"
+        "normal_form": "меньша"
       }
     }
   ],
@@ -1661,14 +1661,12 @@
   ],
   [
     {
-      "подьячіе": {
+      "подьяче": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "COMP",
+          "Qual Cmp2"
         ],
-        "normal_form": "подьячі"
+        "normal_form": "дьякий"
       }
     },
     {
@@ -2067,13 +2065,15 @@
       }
     },
     {
-      "дунаецкіим": {
+      "дунаецкъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "дунаецкіий"
+        "normal_form": "дунаецкъ"
       }
     },
     {
@@ -2254,13 +2254,13 @@
       }
     },
     {
-      "боярецкія": {
+      "боярецкя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "боярецкіть"
+        "normal_form": "боярецкть"
       }
     },
     {
@@ -2330,13 +2330,13 @@
       }
     },
     {
-      "всякія": {
+      "всякя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "всякіть"
+        "normal_form": "всякть"
       }
     },
     {
@@ -2616,15 +2616,14 @@
       }
     },
     {
-      "попикъ": {
+      "попик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "попикъ"
+        "normal_form": "попик"
       }
     }
   ],
@@ -2736,13 +2735,13 @@
       }
     },
     {
-      "дьяческія": {
+      "дьяческя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "дьяческіть"
+        "normal_form": "дьяческть"
       }
     },
     {
@@ -2971,15 +2970,16 @@
       }
     },
     {
-      "стряпчій": {
+      "стряпч": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "masc",
+          "Sgtm",
+          "Surn sing",
+          "nomn"
         ],
-        "normal_form": "стряпчіть"
+        "normal_form": "стряпч"
       }
     }
   ],
@@ -3705,13 +3705,13 @@
   ],
   [
     {
-      "русскія": {
+      "русскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "русскіть"
+        "normal_form": "русскть"
       }
     },
     {
@@ -3750,13 +3750,13 @@
       }
     },
     {
-      "платія": {
+      "платя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "платіть"
+        "normal_form": "платить"
       }
     },
     {
@@ -3859,15 +3859,14 @@
       }
     },
     {
-      "игуменъ": {
+      "игумен": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "игуменъ"
+        "normal_form": "игумен"
       }
     }
   ],
@@ -3969,15 +3968,14 @@
       }
     },
     {
-      "разбойникъ": {
+      "разбойник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "разбойникъ"
+        "normal_form": "разбойник"
       }
     }
   ],
@@ -4301,15 +4299,14 @@
       }
     },
     {
-      "крестьянинъ": {
+      "крестьянин": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "крестьянинъ"
+        "normal_form": "крестьянин"
       }
     }
   ],
@@ -5201,15 +5198,14 @@
       }
     },
     {
-      "плотникъ": {
+      "плотник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "плотникъ"
+        "normal_form": "плотник"
       }
     }
   ],
@@ -6077,14 +6073,11 @@
       }
     },
     {
-      "донскіе": {
+      "донск": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "UNKN"
         ],
-        "normal_form": "донскі"
+        "normal_form": "донск"
       }
     }
   ],
@@ -7324,15 +7317,14 @@
       }
     },
     {
-      "посланникъ": {
+      "посланник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "посланникъ"
+        "normal_form": "посланник"
       }
     }
   ],
@@ -7373,15 +7365,14 @@
       }
     },
     {
-      "калачникъ": {
+      "калачник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "калачникъ"
+        "normal_form": "калачник"
       }
     }
   ],
@@ -7574,15 +7565,16 @@
       }
     },
     {
-      "наступитъ": {
+      "наступит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "наступитъ"
+        "normal_form": "наступить"
       }
     }
   ],
@@ -7640,15 +7632,16 @@
       }
     },
     {
-      "скажетъ": {
+      "скажет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "скажетъ"
+        "normal_form": "сказать"
       }
     }
   ],

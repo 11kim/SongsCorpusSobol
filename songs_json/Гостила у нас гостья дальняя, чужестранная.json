@@ -209,13 +209,14 @@
       }
     },
     {
-      "великіим": {
+      "велик": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "великіий"
+        "normal_form": "велик"
       }
     }
   ],
@@ -884,16 +885,14 @@
       }
     },
     {
-      "лисію": {
+      "лис": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "лисіть"
+        "normal_form": "лис"
       }
     }
   ],
@@ -1174,16 +1173,14 @@
       }
     },
     {
-      "лисію": {
+      "лис": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "лисіть"
+        "normal_form": "лис"
       }
     }
   ],
@@ -1258,13 +1255,15 @@
       }
     },
     {
-      "громкіим": {
+      "громкъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "громкіий"
+        "normal_form": "громкъ"
       }
     },
     {
@@ -1551,13 +1550,13 @@
       }
     },
     {
-      "лисія": {
+      "лися": {
         "OpencorporaTag": [
           "GRND",
           "impf",
-          "tran pres"
+          "intr pres"
         ],
-        "normal_form": "лисіть"
+        "normal_form": "лисить"
       }
     },
     {

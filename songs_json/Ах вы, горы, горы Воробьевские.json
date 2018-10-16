@@ -41,13 +41,15 @@
       }
     },
     {
-      "воробьевскія": {
+      "воробьевск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "воробьевскіть"
+        "normal_form": "воробьевск"
       }
     }
   ],
@@ -632,15 +634,16 @@
       }
     },
     {
-      "леталъ": {
+      "летал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "леталъ"
+        "normal_form": "летать"
       }
     },
     {
@@ -652,15 +655,14 @@
       }
     },
     {
-      "степяхъ": {
+      "степях": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "loct"
         ],
-        "normal_form": "степяхъ"
+        "normal_form": "степь"
       }
     },
     {
@@ -682,15 +684,12 @@
       }
     },
     {
-      "саратовскихъ": {
+      "саратовских": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF plur",
+          "gent"
         ],
-        "normal_form": "саратовскихъ"
+        "normal_form": "саратовский"
       }
     }
   ],
@@ -1279,15 +1278,16 @@
       }
     },
     {
-      "бежитъ": {
+      "бежит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "бежитъ"
+        "normal_form": "бежать"
       }
     }
   ],
@@ -1360,15 +1360,16 @@
       }
     },
     {
-      "падетъ": {
+      "падет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "падетъ"
+        "normal_form": "пасть"
       }
     }
   ],

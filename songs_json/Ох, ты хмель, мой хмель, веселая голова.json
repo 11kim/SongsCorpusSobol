@@ -675,27 +675,25 @@
       }
     },
     {
-      "маковъ": {
+      "маков": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "маковъ"
+        "normal_form": "маковый"
       }
     },
     {
-      "цветъ": {
+      "цвет": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "цветъ"
+        "normal_form": "цвета"
       }
     }
   ],
@@ -1274,11 +1272,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1424,15 +1422,14 @@
       }
     },
     {
-      "гарнитуръ": {
+      "гарнитур": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "гарнитуръ"
+        "normal_form": "гарнитура"
       }
     },
     {
@@ -1483,15 +1480,14 @@
       }
     },
     {
-      "сарафанъ": {
+      "сарафан": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сарафанъ"
+        "normal_form": "сарафан"
       }
     },
     {
@@ -1552,15 +1548,14 @@
       }
     },
     {
-      "мешокъ": {
+      "мешок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мешокъ"
+        "normal_form": "мешок"
       }
     },
     {
@@ -1632,23 +1627,19 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "міръ": {
+      "мъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "міръ"
+        "normal_form": "мъ"
       }
     },
     {
@@ -3073,13 +3064,13 @@
   ],
   [
     {
-      "городскія": {
+      "городскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "городскіть"
+        "normal_form": "городскть"
       }
     },
     {

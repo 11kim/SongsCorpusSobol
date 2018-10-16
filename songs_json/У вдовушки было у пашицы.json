@@ -170,13 +170,15 @@
       }
     },
     {
-      "божіим": {
+      "божъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "божіий"
+        "normal_form": "божъ"
       }
     },
     {
@@ -215,14 +217,14 @@
       }
     },
     {
-      "софіюшка": {
+      "соф": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "femn sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "софіюшка"
+        "normal_form": "софа"
       }
     }
   ],
@@ -853,14 +855,14 @@
       }
     },
     {
-      "софіюшка": {
+      "софа": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "софіюшка"
+        "normal_form": "софа"
       }
     },
     {
@@ -872,16 +874,15 @@
       }
     },
     {
-      "василіем": {
+      "василъ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran plur",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василъ"
       }
     },
     {
@@ -1060,14 +1061,14 @@
       }
     },
     {
-      "софіюшку": {
+      "софу": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "accs"
         ],
-        "normal_form": "софіюшка"
+        "normal_form": "софа"
       }
     },
     {
@@ -1188,16 +1189,15 @@
       }
     },
     {
-      "софію": {
+      "софю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "софіть"
+        "normal_form": "софя"
       }
     },
     {
@@ -1316,16 +1316,15 @@
       }
     },
     {
-      "софію": {
+      "софю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "софіть"
+        "normal_form": "софя"
       }
     },
     {
@@ -1451,14 +1450,17 @@
       }
     },
     {
-      "софіи": {
+      "софи": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "anim",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Name sing",
+          "nomn"
         ],
-        "normal_form": "софіь"
+        "normal_form": "софи"
       }
     },
     {
@@ -1975,14 +1977,14 @@
       }
     },
     {
-      "софіюшке": {
+      "софе": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "datv"
         ],
-        "normal_form": "софіюшка"
+        "normal_form": "софа"
       }
     },
     {

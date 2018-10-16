@@ -392,15 +392,13 @@
       }
     },
     {
-      "старыимъ": {
+      "старыим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "старыимъ"
+        "normal_form": "старыий"
       }
     },
     {
@@ -1226,13 +1224,15 @@
       }
     },
     {
-      "младшіим": {
+      "младшъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "младшіий"
+        "normal_form": "младшъ"
       }
     },
     {
@@ -1282,7 +1282,7 @@
       }
     },
     {
-      "младшіимъ": {
+      "младшъ": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -1290,7 +1290,7 @@
           "Fixd sing",
           "nomn"
         ],
-        "normal_form": "младшіимъ"
+        "normal_form": "младшъ"
       }
     },
     {

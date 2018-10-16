@@ -545,15 +545,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {
@@ -569,15 +568,15 @@
       }
     },
     {
-      "разудаленькій": {
+      "разудаленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "разудаленькіть"
+        "normal_form": "разудаленька"
       }
     }
   ],
@@ -620,15 +619,14 @@
       }
     },
     {
-      "ковылъ-травушка": {
+      "ковыл-травушка": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "femn sing",
           "nomn"
         ],
-        "normal_form": "ковылъ-травушка"
+        "normal_form": "ковыл-травушка"
       }
     }
   ],
@@ -642,13 +640,13 @@
       }
     },
     {
-      "высокія": {
+      "высокя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокть"
       }
     },
     {
@@ -671,15 +669,14 @@
       }
     },
     {
-      "полыночекъ": {
+      "полыночек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "полыночекъ"
+        "normal_form": "полыночка"
       }
     }
   ],
@@ -826,7 +823,7 @@
       }
     },
     {
-      "крепкій": {
+      "крепкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -834,7 +831,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "крепкіть"
+        "normal_form": "крепкть"
       }
     },
     {
@@ -867,27 +864,24 @@
       }
     },
     {
-      "светелъ": {
+      "светел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "светелъ"
+        "normal_form": "светлый"
       }
     },
     {
-      "месяцъ": {
+      "месяц": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "месяцъ"
+        "normal_form": "месяц"
       }
     }
   ],

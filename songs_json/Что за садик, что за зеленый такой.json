@@ -304,15 +304,14 @@
       }
     },
     {
-      "позоръ": {
+      "позор": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "позоръ"
+        "normal_form": "позор"
       }
     }
   ],
@@ -740,15 +739,11 @@
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     },
     {
@@ -827,11 +822,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -884,15 +879,14 @@
       }
     },
     {
-      "другъ": {
+      "друг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "другъ"
+        "normal_form": "друг"
       }
     },
     {
@@ -932,15 +926,11 @@
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     },
     {

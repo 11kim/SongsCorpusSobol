@@ -1470,14 +1470,15 @@
   ],
   [
     {
-      "товарищ-пріятель": {
+      "товарищ-пр": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc sing",
+          "inan",
+          "masc",
+          "Geox sing",
           "nomn"
         ],
-        "normal_form": "товарищ-пріятель"
+        "normal_form": "товарищ-пр"
       }
     }
   ],
@@ -1671,28 +1672,28 @@
       }
     },
     {
-      "братецъ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "братецъ"
-      }
-    }
-  ],
-  [
-    {
-      "товарищ-пріятель": {
+      "братец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc sing",
           "nomn"
         ],
-        "normal_form": "товарищ-пріятель"
+        "normal_form": "братец"
+      }
+    }
+  ],
+  [
+    {
+      "товарищ-пр": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
+        ],
+        "normal_form": "товарищ-пр"
       }
     }
   ],
@@ -1968,28 +1969,28 @@
       }
     },
     {
-      "братецъ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "братецъ"
-      }
-    }
-  ],
-  [
-    {
-      "товарищ-пріятель": {
+      "братец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc sing",
           "nomn"
         ],
-        "normal_form": "товарищ-пріятель"
+        "normal_form": "братец"
+      }
+    }
+  ],
+  [
+    {
+      "товарищ-пр": {
+        "OpencorporaTag": [
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
+        ],
+        "normal_form": "товарищ-пр"
       }
     }
   ],

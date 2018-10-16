@@ -670,23 +670,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "умахъ": {
+      "умах": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "умахъ"
+        "normal_form": "ум"
       }
     },
     {
@@ -721,7 +720,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -729,7 +728,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -811,13 +810,13 @@
   ],
   [
     {
-      "ѣхать": {
+      "хать": {
         "OpencorporaTag": [
           "INFN",
           "impf",
           "intr"
         ],
-        "normal_form": "ѣхать"
+        "normal_form": "хать"
       }
     },
     {
@@ -1554,14 +1553,14 @@
       }
     },
     {
-      "именіе": {
+      "имен": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "имені"
+        "normal_form": "имя"
       }
     },
     {
@@ -3246,23 +3245,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "умахъ": {
+      "умах": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "умахъ"
+        "normal_form": "ум"
       }
     },
     {
@@ -3297,7 +3295,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3305,7 +3303,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -3831,14 +3829,14 @@
       }
     },
     {
-      "великіе": {
+      "велик": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
-          "loct"
+          "nomn"
         ],
-        "normal_form": "великі"
+        "normal_form": "велик"
       }
     }
   ],
@@ -3929,13 +3927,14 @@
       }
     },
     {
-      "именія": {
+      "имен": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "именіть"
+        "normal_form": "имя"
       }
     },
     {
@@ -4020,7 +4019,7 @@
       }
     },
     {
-      "великіій": {
+      "великй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4028,7 +4027,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "великііть"
+        "normal_form": "великть"
       }
     },
     {
@@ -4155,7 +4154,7 @@
   ],
   [
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4163,7 +4162,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -4178,21 +4177,20 @@
       }
     },
     {
-      "великіій": {
+      "велик": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "великііть"
+        "normal_form": "велик"
       }
     }
   ],
   [
     {
-      "великій": {
+      "великй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4200,7 +4198,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "великіть"
+        "normal_form": "великть"
       }
     },
     {
@@ -4215,7 +4213,7 @@
       }
     },
     {
-      "тяжкіій": {
+      "тяжкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4223,7 +4221,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тяжкііть"
+        "normal_form": "тяжкть"
       }
     },
     {
@@ -4770,15 +4768,15 @@
       }
     },
     {
-      "именіе-богачество": {
+      "имено": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "neut",
-          "Sgtm sing",
-          "nomn"
+          "PRTS",
+          "perf",
+          "past",
+          "pssv neut",
+          "sing"
         ],
-        "normal_form": "именіё-богачество"
+        "normal_form": "имить"
       }
     }
   ],
@@ -4884,13 +4882,11 @@
       }
     },
     {
-      "божіим": {
+      "бож": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "UNKN"
         ],
-        "normal_form": "божіий"
+        "normal_form": "бож"
       }
     }
   ],

@@ -647,13 +647,13 @@
       }
     },
     {
-      "глубокія": {
+      "глубок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -923,15 +923,16 @@
       }
     },
     {
-      "текутъ": {
+      "текут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "текутъ"
+        "normal_form": "течь"
       }
     }
   ],
@@ -997,15 +998,15 @@
       }
     },
     {
-      "нихъ": {
+      "них": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "3per",
+          "Anph plur",
+          "gent",
+          "Af-p"
         ],
-        "normal_form": "нихъ"
+        "normal_form": "они"
       }
     }
   ],

@@ -244,14 +244,15 @@
   ],
   [
     {
-      "брилліантом": {
+      "бриллъ": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc sing",
-          "ablt"
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "брилліант"
+        "normal_form": "бриллъ"
       }
     },
     {
@@ -947,7 +948,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -955,7 +956,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -1480,16 +1481,14 @@
       }
     },
     {
-      "лисію": {
+      "лис": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "лисіть"
+        "normal_form": "лис"
       }
     }
   ],
@@ -1940,11 +1939,14 @@
   ],
   [
     {
-      "брилліантовы": {
+      "бриллы": {
         "OpencorporaTag": [
-          "ADJS plur"
+          "NOUN",
+          "inan",
+          "femn sing",
+          "gent"
         ],
-        "normal_form": "брилліантовый"
+        "normal_form": "брилла"
       }
     },
     {

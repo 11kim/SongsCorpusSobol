@@ -143,7 +143,7 @@
   ],
   [
     {
-      "мелкій": {
+      "мелкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -151,7 +151,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "мелкіть"
+        "normal_form": "мелкть"
       }
     },
     {
@@ -166,7 +166,7 @@
       }
     },
     {
-      "мелкій": {
+      "мелкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -174,7 +174,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "мелкіть"
+        "normal_form": "мелкть"
       }
     },
     {
@@ -191,7 +191,7 @@
   ],
   [
     {
-      "мелкій": {
+      "мелкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -199,7 +199,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "мелкіть"
+        "normal_form": "мелкть"
       }
     },
     {
@@ -230,27 +230,25 @@
       }
     },
     {
-      "крутымъ": {
+      "крутым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "крутымъ"
+        "normal_form": "крутой"
       }
     },
     {
-      "бережкамъ": {
+      "бережкам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "datv"
         ],
-        "normal_form": "бережкамъ"
+        "normal_form": "бережок"
       }
     }
   ],

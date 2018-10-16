@@ -44,14 +44,12 @@
       }
     },
     {
-      "разосенніе": {
+      "разосенне": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS neut",
+          "sing"
         ],
-        "normal_form": "разосенні"
+        "normal_form": "разосенний"
       }
     },
     {
@@ -621,15 +619,15 @@
       }
     },
     {
-      "разудаленькій": {
+      "разудаленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "разудаленькіть"
+        "normal_form": "разудаленька"
       }
     },
     {
@@ -773,27 +771,24 @@
       }
     },
     {
-      "белъ": {
+      "бел": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "белъ"
+        "normal_form": "бел"
       }
     },
     {
-      "горючъ": {
+      "горюч": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "горючъ"
+        "normal_form": "горючий"
       }
     },
     {
@@ -808,15 +803,16 @@
       }
     },
     {
-      "лежитъ": {
+      "лежит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "лежитъ"
+        "normal_form": "лежать"
       }
     }
   ],
@@ -1084,27 +1080,25 @@
       }
     },
     {
-      "буйнымъ": {
+      "буйным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "буйнымъ"
+        "normal_form": "буйный"
       }
     },
     {
-      "ветромъ": {
+      "ветром": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "ветромъ"
+        "normal_form": "ветер"
       }
     },
     {
@@ -1164,27 +1158,25 @@
       }
     },
     {
-      "желтымъ": {
+      "желтым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "желтымъ"
+        "normal_form": "жёлтый"
       }
     },
     {
-      "пескомъ": {
+      "песком": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "пескомъ"
+        "normal_form": "песок"
       }
     },
     {
@@ -1262,15 +1254,16 @@
       }
     },
     {
-      "клюютъ": {
+      "клюют": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "клюютъ"
+        "normal_form": "клевать"
       }
     }
   ],
@@ -1334,15 +1327,16 @@
       }
     },
     {
-      "растетъ": {
+      "растет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "растетъ"
+        "normal_form": "расти"
       }
     }
   ],
@@ -1414,15 +1408,16 @@
       }
     },
     {
-      "сосетъ": {
+      "сосет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "сосетъ"
+        "normal_form": "сосать"
       }
     }
   ]

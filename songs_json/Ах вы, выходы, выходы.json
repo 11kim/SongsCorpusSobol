@@ -253,15 +253,16 @@
       }
     },
     {
-      "идетъ": {
+      "идет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "идетъ"
+        "normal_form": "идти"
       }
     },
     {
@@ -404,13 +405,15 @@
       }
     },
     {
-      "маіорскія": {
+      "мая": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Sgtm sing",
+          "gent"
         ],
-        "normal_form": "маіорскіть"
+        "normal_form": "май"
       }
     },
     {
@@ -598,27 +601,23 @@
       }
     },
     {
-      "женатъ": {
+      "женат": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "женатъ"
+        "normal_form": "женатый"
       }
     },
     {
-      "женатъ": {
+      "женат": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "женатъ"
+        "normal_form": "женатый"
       }
     },
     {

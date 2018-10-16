@@ -367,13 +367,15 @@
       }
     },
     {
-      "солдатскія": {
+      "солдатск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатск"
       }
     }
   ],
@@ -712,15 +714,11 @@
       }
     },
     {
-      "пріятельми": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "пріятельмить"
+        "normal_form": "пр"
       }
     }
   ],

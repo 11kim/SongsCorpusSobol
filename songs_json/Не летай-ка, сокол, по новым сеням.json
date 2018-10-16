@@ -1196,15 +1196,16 @@
       }
     },
     {
-      "косилъ": {
+      "косил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "косилъ"
+        "normal_form": "косить"
       }
     },
     {
@@ -1219,25 +1220,24 @@
       }
     },
     {
-      "старо-прежній": {
+      "старо-прежнй": {
         "OpencorporaTag": [
           "ADJS",
           "Qual neut",
           "sing"
         ],
-        "normal_form": "старый-прежніий"
+        "normal_form": "старый-прежний"
       }
     },
     {
-      "другъ": {
+      "друг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "другъ"
+        "normal_form": "друг"
       }
     },
     {

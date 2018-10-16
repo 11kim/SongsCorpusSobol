@@ -400,11 +400,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -418,15 +418,12 @@
       }
     },
     {
-      "радъ": {
+      "рад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "радъ"
+        "normal_form": "рад"
       }
     },
     {
@@ -446,15 +443,16 @@
       }
     },
     {
-      "гляделъ": {
+      "глядел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "гляделъ"
+        "normal_form": "глядеть"
       }
     },
     {
@@ -487,15 +485,16 @@
       }
     },
     {
-      "глядятъ": {
+      "глядят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "глядятъ"
+        "normal_form": "глядеть"
       }
     }
   ],

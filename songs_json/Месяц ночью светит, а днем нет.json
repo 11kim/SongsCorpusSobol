@@ -143,11 +143,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -206,11 +206,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -300,15 +300,16 @@
       }
     },
     {
-      "спрашиваетъ": {
+      "спрашивает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "спрашиваетъ"
+        "normal_form": "спрашивать"
       }
     }
   ],
@@ -375,15 +376,16 @@
       }
     },
     {
-      "ждетъ": {
+      "ждет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "ждетъ"
+        "normal_form": "ждать"
       }
     }
   ]

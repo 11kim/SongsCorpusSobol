@@ -451,13 +451,12 @@
       }
     },
     {
-      "заднія": {
+      "задня": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS femn",
+          "sing"
         ],
-        "normal_form": "задніть"
+        "normal_form": "задний"
       }
     },
     {
@@ -482,14 +481,11 @@
       }
     },
     {
-      "чужіе": {
+      "чуже": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "чужі"
+        "normal_form": "чуже"
       }
     },
     {

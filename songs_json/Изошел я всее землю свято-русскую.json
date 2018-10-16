@@ -656,7 +656,7 @@
       }
     },
     {
-      "маленькій": {
+      "маленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -664,7 +664,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "маленькіть"
+        "normal_form": "маленькть"
       }
     },
     {
@@ -692,7 +692,7 @@
       }
     },
     {
-      "маленькій": {
+      "маленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -700,7 +700,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "маленькіть"
+        "normal_form": "маленькть"
       }
     },
     {
@@ -1373,27 +1373,24 @@
       }
     },
     {
-      "грозенъ": {
+      "грозен": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "грозенъ"
+        "normal_form": "грозный"
       }
     },
     {
-      "палачъ": {
+      "палач": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "палачъ"
+        "normal_form": "палач"
       }
     }
   ],
@@ -1502,13 +1499,13 @@
       }
     },
     {
-      "высокія": {
+      "высок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокий"
       }
     }
   ],

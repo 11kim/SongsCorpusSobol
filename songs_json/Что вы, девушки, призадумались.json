@@ -254,14 +254,14 @@
   ],
   [
     {
-      "одинокіе": {
+      "одиноке": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
           "loct"
         ],
-        "normal_form": "одинокі"
+        "normal_form": "одинок"
       }
     },
     {
@@ -289,14 +289,13 @@
       }
     },
     {
-      "одинокіе": {
+      "одинок": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "одинокі"
+        "normal_form": "одинокий"
       }
     }
   ],
@@ -310,25 +309,24 @@
       }
     },
     {
-      "одинокіе": {
+      "одинок": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "одинокі"
+        "normal_form": "одинокий"
       }
     },
     {
-      "одинокіе": {
+      "одиноке": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
           "loct"
         ],
-        "normal_form": "одинокі"
+        "normal_form": "одинок"
       }
     },
     {
@@ -340,14 +338,11 @@
       }
     },
     {
-      "всякіе": {
+      "всяк": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "всякі"
+        "normal_form": "всяк"
       }
     }
   ],
@@ -361,14 +356,11 @@
       }
     },
     {
-      "всякіе": {
+      "всяк": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "всякі"
+        "normal_form": "всяк"
       }
     },
     {
@@ -541,35 +533,35 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "кабакъ": {
+      "кабак": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "кабакъ"
+        "normal_form": "кабак"
       }
     },
     {
-      "снесетъ": {
+      "снесет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "снесетъ"
+        "normal_form": "снести"
       }
     }
   ],
@@ -620,11 +612,11 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
@@ -639,15 +631,16 @@
       }
     },
     {
-      "нейдетъ": {
+      "нейдет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "нейдетъ"
+        "normal_form": "нейти"
       }
     }
   ],
@@ -1178,11 +1171,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1200,7 +1193,7 @@
   ],
   [
     {
-      "размолоденькій": {
+      "размолоденькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1208,7 +1201,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "размолоденькіть"
+        "normal_form": "размолоденькть"
       }
     },
     {

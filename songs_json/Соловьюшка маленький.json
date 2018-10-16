@@ -12,15 +12,15 @@
       }
     },
     {
-      "маленькій": {
+      "маленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "маленькіть"
+        "normal_form": "маленька"
       }
     }
   ],
@@ -37,15 +37,15 @@
       }
     },
     {
-      "тоненькій": {
+      "тоненьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "тоненькіть"
+        "normal_form": "тоненька"
       }
     }
   ],

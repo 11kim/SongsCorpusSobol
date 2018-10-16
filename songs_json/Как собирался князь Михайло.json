@@ -1296,7 +1296,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1304,7 +1304,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -1502,27 +1502,24 @@
       }
     },
     {
-      "высокъ": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокъ"
+        "normal_form": "высокий"
       }
     },
     {
-      "теремъ": {
+      "терем": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "теремъ"
+        "normal_form": "терем"
       }
     }
   ],
@@ -1868,11 +1865,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -1897,27 +1894,26 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "михаилъ": {
+      "михаил": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "михаилъ"
+        "normal_form": "михаил"
       }
     },
     {

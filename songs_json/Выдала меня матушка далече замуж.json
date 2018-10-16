@@ -302,15 +302,16 @@
       }
     },
     {
-      "едетъ": {
+      "едет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "едетъ"
+        "normal_form": "ехать"
       }
     }
   ],
@@ -901,15 +902,16 @@
       }
     },
     {
-      "убавитъ": {
+      "убавит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "убавитъ"
+        "normal_form": "убавить"
       }
     }
   ],
@@ -975,15 +977,16 @@
       }
     },
     {
-      "станетъ": {
+      "станет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "станетъ"
+        "normal_form": "стать"
       }
     }
   ]

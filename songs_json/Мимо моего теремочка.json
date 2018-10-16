@@ -406,15 +406,11 @@
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     }
   ],
@@ -1116,7 +1112,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1124,7 +1120,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -1613,11 +1609,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -1631,15 +1627,14 @@
       }
     },
     {
-      "самъ": {
+      "сам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "самъ"
+        "normal_form": "сам"
       }
     },
     {
@@ -1738,11 +1733,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {

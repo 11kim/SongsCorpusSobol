@@ -169,14 +169,11 @@
       }
     },
     {
-      "сіяла": {
+      "с": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "gent"
+          "PREP"
         ],
-        "normal_form": "сіял"
+        "normal_form": "с"
       }
     }
   ],
@@ -332,13 +329,14 @@
       }
     },
     {
-      "другія": {
+      "друг": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "другіть"
+        "normal_form": "друг"
       }
     }
   ],

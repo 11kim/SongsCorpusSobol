@@ -43,7 +43,7 @@
   ],
   [
     {
-      "разсизенькій": {
+      "разсизенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -51,7 +51,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "разсизенькіть"
+        "normal_form": "разсизенькть"
       }
     },
     {
@@ -161,23 +161,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "гостяхъ": {
+      "гостях": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "гостяхъ"
+        "normal_form": "гость"
       }
     }
   ],
@@ -275,15 +274,16 @@
       }
     },
     {
-      "спалъ": {
+      "спал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "спалъ"
+        "normal_form": "спасть"
       }
     },
     {
@@ -323,15 +323,14 @@
       }
     },
     {
-      "правомъ": {
+      "правом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "правомъ"
+        "normal_form": "право"
       }
     },
     {
@@ -346,15 +345,16 @@
       }
     },
     {
-      "спалъ": {
+      "спал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "спалъ"
+        "normal_form": "спасть"
       }
     }
   ],

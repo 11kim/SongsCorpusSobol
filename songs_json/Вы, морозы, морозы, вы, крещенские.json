@@ -49,14 +49,15 @@
       }
     },
     {
-      "крещенскіе": {
+      "крещенск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "крещенскі"
+        "normal_form": "крещенск"
       }
     }
   ],
@@ -1206,11 +1207,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -1233,23 +1234,21 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {
@@ -1261,15 +1260,14 @@
       }
     },
     {
-      "оборотъ": {
+      "оборот": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "оборотъ"
+        "normal_form": "оборот"
       }
     },
     {

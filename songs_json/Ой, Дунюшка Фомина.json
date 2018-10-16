@@ -20,14 +20,14 @@
       }
     },
     {
-      "ѳомина": {
+      "омина": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "ѳомина"
+        "normal_form": "омина"
       }
     }
   ],
@@ -368,14 +368,15 @@
   ],
   [
     {
-      "раск": {
+      "раскъ": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
+          "anim",
+          "masc",
+          "Fixd sing",
           "nomn"
         ],
-        "normal_form": "раск"
+        "normal_form": "раскъ"
       }
     },
     {

@@ -342,15 +342,16 @@
       }
     },
     {
-      "шумятъ": {
+      "шумят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "шумятъ"
+        "normal_form": "шуметь"
       }
     }
   ],
@@ -635,15 +636,13 @@
       }
     },
     {
-      "немъ": {
+      "нем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "немъ"
+        "normal_form": "немой"
       }
     },
     {

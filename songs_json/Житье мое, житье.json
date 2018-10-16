@@ -140,15 +140,14 @@
       }
     },
     {
-      "старикъ": {
+      "старик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "старикъ"
+        "normal_form": "старик"
       }
     },
     {
@@ -837,15 +836,16 @@
       }
     },
     {
-      "перейдемъ": {
+      "перейдем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "перейдемъ"
+        "normal_form": "перейти"
       }
     }
   ]

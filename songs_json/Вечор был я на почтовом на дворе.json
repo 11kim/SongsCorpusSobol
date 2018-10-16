@@ -292,7 +292,7 @@
   ],
   [
     {
-      "всякій": {
+      "всякй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -300,7 +300,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "всякіть"
+        "normal_form": "всякть"
       }
     },
     {
@@ -827,13 +827,11 @@
       }
     },
     {
-      "пріятно": {
+      "про": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual neut",
-          "sing"
+          "PREP"
         ],
-        "normal_form": "пріятный"
+        "normal_form": "про"
       }
     },
     {

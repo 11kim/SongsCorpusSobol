@@ -505,15 +505,12 @@
       }
     },
     {
-      "нехорошій": {
+      "нехорош": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "нехорошіть"
+        "normal_form": "нехороший"
       }
     }
   ],
@@ -861,15 +858,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -1489,16 +1486,11 @@
       }
     },
     {
-      "пріушла": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріуйти"
+        "normal_form": "пр"
       }
     }
   ],
@@ -1628,7 +1620,7 @@
       }
     },
     {
-      "беленькій": {
+      "беленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1636,7 +1628,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленькть"
       }
     },
     {

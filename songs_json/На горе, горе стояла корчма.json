@@ -352,7 +352,7 @@
       }
     },
     {
-      "россійскій": {
+      "россй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -360,19 +360,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "россійскіть"
+        "normal_form": "россть"
       }
     },
     {
-      "купецъ": {
+      "купец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "купецъ"
+        "normal_form": "купец"
       }
     }
   ],
@@ -408,11 +407,11 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
@@ -429,21 +428,20 @@
       }
     },
     {
-      "полякъ": {
+      "поляк": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "полякъ"
+        "normal_form": "поляк"
       }
     }
   ],
   [
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -451,7 +449,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -474,11 +472,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -495,27 +493,27 @@
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     },
     {
-      "казакъ": {
+      "казак": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "казакъ"
+        "normal_form": "казак"
       }
     }
   ],
@@ -564,27 +562,28 @@
       }
     },
     {
-      "золотомъ": {
+      "золотом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "ablt"
         ],
-        "normal_form": "золотомъ"
+        "normal_form": "золото"
       }
     },
     {
-      "даетъ": {
+      "дает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "даетъ"
+        "normal_form": "давать"
       }
     }
   ],
@@ -633,27 +632,28 @@
       }
     },
     {
-      "серебромъ": {
+      "серебром": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "ablt"
         ],
-        "normal_form": "серебромъ"
+        "normal_form": "серебро"
       }
     },
     {
-      "даетъ": {
+      "дает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "даетъ"
+        "normal_form": "давать"
       }
     }
   ],
@@ -702,15 +702,14 @@
       }
     },
     {
-      "денегъ": {
+      "денег": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "денегъ"
+        "normal_form": "деньга"
       }
     },
     {
@@ -722,15 +721,16 @@
       }
     },
     {
-      "даетъ": {
+      "дает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "даетъ"
+        "normal_form": "давать"
       }
     }
   ],
@@ -851,7 +851,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -859,7 +859,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {

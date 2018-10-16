@@ -191,15 +191,11 @@
       }
     },
     {
-      "такъ": {
+      "так": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "такъ"
+        "normal_form": "так"
       }
     },
     {
@@ -250,15 +246,16 @@
   ],
   [
     {
-      "пріоденьте": {
+      "пре": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran plur",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "datv"
         ],
-        "normal_form": "пріодеть"
+        "normal_form": "пра"
       }
     },
     {
@@ -272,15 +269,11 @@
       }
     },
     {
-      "пріокутайте": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran plur",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "пріокутать"
+        "normal_form": "пр"
       }
     },
     {
@@ -366,15 +359,14 @@
       }
     },
     {
-      "платокъ": {
+      "платок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "платокъ"
+        "normal_form": "платок"
       }
     }
   ],
@@ -621,15 +613,15 @@
       }
     },
     {
-      "маленькій": {
+      "маленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "маленькіть"
+        "normal_form": "маленька"
       }
     },
     {
@@ -644,15 +636,15 @@
       }
     },
     {
-      "басенькій": {
+      "басеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "басенькіть"
+        "normal_form": "басенька"
       }
     }
   ],
@@ -785,14 +777,15 @@
       }
     },
     {
-      "сафьяненькіе": {
+      "сафьяненьк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "сафьяненькі"
+        "normal_form": "сафьяненька"
       }
     }
   ],

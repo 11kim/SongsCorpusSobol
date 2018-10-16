@@ -333,13 +333,13 @@
       }
     },
     {
-      "мягкія": {
+      "мягкя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "мягкіть"
+        "normal_form": "мягкть"
       }
     },
     {
@@ -1270,15 +1270,12 @@
       }
     },
     {
-      "тамъ": {
+      "там": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "тамъ"
+        "normal_form": "там"
       }
     },
     {
@@ -1290,27 +1287,25 @@
       }
     },
     {
-      "дунаемъ": {
+      "дунаем": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "Sgtm",
+          "Geox sing",
+          "ablt"
         ],
-        "normal_form": "дунаемъ"
+        "normal_form": "дунай"
       }
     },
     {
-      "тамъ": {
+      "там": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "тамъ"
+        "normal_form": "там"
       }
     },
     {
@@ -1322,7 +1317,7 @@
       }
     },
     {
-      "тихіимъ": {
+      "тихъ": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -1330,7 +1325,7 @@
           "Fixd sing",
           "nomn"
         ],
-        "normal_form": "тихіимъ"
+        "normal_form": "тихъ"
       }
     }
   ],

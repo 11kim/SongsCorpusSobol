@@ -135,13 +135,13 @@
       }
     },
     {
-      "хорошія": {
+      "хорош": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошіть"
+        "normal_form": "хороший"
       }
     }
   ],
@@ -158,13 +158,13 @@
       }
     },
     {
-      "пригожія": {
+      "пригож": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "пригожіть"
+        "normal_form": "пригожий"
       }
     }
   ],

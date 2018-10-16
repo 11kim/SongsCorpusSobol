@@ -345,39 +345,38 @@
       }
     },
     {
-      "маковъ": {
+      "маков": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "маковъ"
+        "normal_form": "маковый"
       }
     },
     {
-      "цветъ": {
+      "цвет": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "цветъ"
+        "normal_form": "цвета"
       }
     },
     {
-      "цвететъ": {
+      "цветет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "цвететъ"
+        "normal_form": "цвести"
       }
     }
   ],
@@ -869,7 +868,7 @@
       }
     },
     {
-      "синій": {
+      "синй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -877,7 +876,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "синіть"
+        "normal_form": "синть"
       }
     },
     {
@@ -922,11 +921,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -1086,11 +1085,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

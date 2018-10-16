@@ -183,15 +183,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -444,27 +444,25 @@
       }
     },
     {
-      "одинъ": {
+      "один": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "одинъ"
+        "normal_form": "один"
       }
     },
     {
-      "годышекъ": {
+      "годышек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "годышекъ"
+        "normal_form": "годышка"
       }
     },
     {
@@ -504,15 +502,12 @@
       }
     },
     {
-      "радъ": {
+      "рад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "радъ"
+        "normal_form": "рад"
       }
     },
     {
@@ -545,35 +540,31 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {
-      "хорошимъ": {
+      "хорошим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual plur",
+          "datv"
         ],
-        "normal_form": "хорошимъ"
+        "normal_form": "хороший"
       }
     },
     {

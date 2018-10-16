@@ -438,13 +438,13 @@
   ],
   [
     {
-      "третія": {
+      "третя": {
         "OpencorporaTag": [
           "GRND",
-          "impf",
-          "tran pres"
+          "perf",
+          "tran past"
         ],
-        "normal_form": "третіть"
+        "normal_form": "трести"
       }
     },
     {
@@ -736,13 +736,15 @@
       }
     },
     {
-      "солдатскіим": {
+      "солдатскъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "солдатскіий"
+        "normal_form": "солдатскъ"
       }
     },
     {

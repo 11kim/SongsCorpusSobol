@@ -93,13 +93,16 @@
   ],
   [
     {
-      "пріотважиться": {
+      "пря": {
         "OpencorporaTag": [
-          "INFN",
-          "perf",
-          "intr"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Arch sing",
+          "nomn"
         ],
-        "normal_form": "пріотважиться"
+        "normal_form": "пря"
       }
     },
     {
@@ -164,14 +167,11 @@
       }
     },
     {
-      "чужіе": {
+      "чуже": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "чужі"
+        "normal_form": "чуже"
       }
     },
     {

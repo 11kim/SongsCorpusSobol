@@ -309,11 +309,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -341,15 +341,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ],
@@ -634,27 +631,25 @@
       }
     },
     {
-      "краснымъ": {
+      "красным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "краснымъ"
+        "normal_form": "красный"
       }
     },
     {
-      "девушкамъ": {
+      "девушкам": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "девушкамъ"
+        "normal_form": "девушка"
       }
     }
   ],

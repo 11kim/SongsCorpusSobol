@@ -163,13 +163,13 @@
       }
     },
     {
-      "чужія": {
+      "чужя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "чужіть"
+        "normal_form": "чужть"
       }
     },
     {
@@ -602,16 +602,16 @@
   ],
   [
     {
-      "пріезжаю": {
+      "прю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Arch sing",
+          "accs"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пря"
       }
     },
     {
@@ -758,15 +758,11 @@
       }
     },
     {
-      "противъ": {
+      "против": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "противъ"
+        "normal_form": "против"
       }
     },
     {
@@ -859,15 +855,14 @@
       }
     },
     {
-      "ситомъ": {
+      "ситом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "ситомъ"
+        "normal_form": "сито"
       }
     },
     {

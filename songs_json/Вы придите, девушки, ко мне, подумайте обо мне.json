@@ -230,15 +230,11 @@
       }
     },
     {
-      "безъ": {
+      "без": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "безъ"
+        "normal_form": "без"
       }
     },
     {
@@ -488,15 +484,15 @@
       }
     },
     {
-      "велитъ": {
+      "велит": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "велитъ"
+        "normal_form": "велита"
       }
     }
   ],

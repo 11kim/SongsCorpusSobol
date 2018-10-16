@@ -128,16 +128,11 @@
       }
     },
     {
-      "пріаукнулась": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріаукнуться"
+        "normal_form": "пр"
       }
     }
   ],
@@ -447,7 +442,7 @@
   ],
   [
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -455,7 +450,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {

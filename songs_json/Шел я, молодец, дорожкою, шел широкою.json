@@ -537,15 +537,16 @@
       }
     },
     {
-      "завезъ": {
+      "завез": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "завезъ"
+        "normal_form": "завезти"
       }
     }
   ],
@@ -1029,15 +1030,13 @@
       }
     },
     {
-      "крупенъ": {
+      "крупен": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "крупенъ"
+        "normal_form": "крупный"
       }
     },
     {
@@ -1052,15 +1051,16 @@
       }
     },
     {
-      "идетъ": {
+      "идет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "идетъ"
+        "normal_form": "идти"
       }
     }
   ],
@@ -1114,15 +1114,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -1137,15 +1133,16 @@
       }
     },
     {
-      "течетъ": {
+      "течет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "течетъ"
+        "normal_form": "течь"
       }
     }
   ],
@@ -1191,15 +1188,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -1214,15 +1207,16 @@
       }
     },
     {
-      "кипятъ": {
+      "кипят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "кипятъ"
+        "normal_form": "кипеть"
       }
     }
   ],
@@ -1260,15 +1254,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -1283,15 +1273,16 @@
       }
     },
     {
-      "падетъ": {
+      "падет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "падетъ"
+        "normal_form": "пасть"
       }
     }
   ],
@@ -1350,15 +1341,16 @@
       }
     },
     {
-      "высушитъ": {
+      "высушит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "высушитъ"
+        "normal_form": "высушить"
       }
     }
   ],

@@ -597,13 +597,15 @@
       }
     },
     {
-      "солдатскія": {
+      "солдатск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатск"
       }
     }
   ],
@@ -853,14 +855,15 @@
       }
     },
     {
-      "повольскіе": {
+      "повольск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "повольскі"
+        "normal_form": "повольск"
       }
     }
   ],

@@ -107,16 +107,11 @@
       }
     },
     {
-      "пріуснула": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріуснуть"
+        "normal_form": "пр"
       }
     }
   ],
@@ -533,15 +528,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {

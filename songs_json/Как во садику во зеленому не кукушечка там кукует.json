@@ -434,14 +434,14 @@
       }
     },
     {
-      "долгіе": {
+      "долге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "долгі"
+        "normal_form": "долг"
       }
     },
     {
@@ -733,14 +733,14 @@
       }
     },
     {
-      "долгіе": {
+      "долге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "долгі"
+        "normal_form": "долг"
       }
     },
     {
@@ -984,14 +984,16 @@
       }
     },
     {
-      "крепкіе": {
+      "крепк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "nomn"
         ],
-        "normal_form": "крепкі"
+        "normal_form": "крепк"
       }
     }
   ],
@@ -1028,14 +1030,14 @@
       }
     },
     {
-      "долгіе": {
+      "долг": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
-          "loct"
+          "nomn"
         ],
-        "normal_form": "долгі"
+        "normal_form": "долг"
       }
     }
   ]

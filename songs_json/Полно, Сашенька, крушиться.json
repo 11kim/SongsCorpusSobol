@@ -136,14 +136,11 @@
       }
     },
     {
-      "пріятель": {
+      "прь": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріятель"
+        "normal_form": "прь"
       }
     },
     {
@@ -699,13 +696,13 @@
       }
     },
     {
-      "чужія": {
+      "чужя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "чужіть"
+        "normal_form": "чужть"
       }
     },
     {
@@ -730,13 +727,12 @@
       }
     },
     {
-      "чужія": {
+      "чуж": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "чужіть"
+        "normal_form": "чужой"
       }
     },
     {

@@ -706,7 +706,7 @@
       }
     },
     {
-      "дурачій": {
+      "дурачй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -714,7 +714,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дурачіть"
+        "normal_form": "дурачть"
       }
     },
     {
@@ -932,51 +932,46 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
-      "маковъ": {
+      "маков": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "маковъ"
+        "normal_form": "маковый"
       }
     },
     {
-      "цветъ": {
+      "цвет": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "цветъ"
+        "normal_form": "цвета"
       }
     },
     {
-      "цвететъ": {
+      "цветет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "цвететъ"
+        "normal_form": "цвести"
       }
     }
   ],
@@ -1022,15 +1017,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {

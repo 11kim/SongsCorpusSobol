@@ -720,27 +720,25 @@
       }
     },
     {
-      "маковъ": {
+      "маков": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "маковъ"
+        "normal_form": "маковый"
       }
     },
     {
-      "цветъ": {
+      "цвет": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "цветъ"
+        "normal_form": "цвета"
       }
     }
   ],
@@ -1289,11 +1287,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1439,15 +1437,14 @@
       }
     },
     {
-      "гарнитуръ": {
+      "гарнитур": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "гарнитуръ"
+        "normal_form": "гарнитура"
       }
     },
     {
@@ -1498,15 +1495,14 @@
       }
     },
     {
-      "сарафанъ": {
+      "сарафан": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сарафанъ"
+        "normal_form": "сарафан"
       }
     },
     {
@@ -1689,11 +1685,11 @@
       }
     },
     {
-      "мір": {
+      "мъ": {
         "OpencorporaTag": [
           "UNKN"
         ],
-        "normal_form": "мір"
+        "normal_form": "мъ"
       }
     },
     {

@@ -377,14 +377,15 @@
   ],
   [
     {
-      "во-других-то": {
+      "во-другихъ-то": {
         "OpencorporaTag": [
-          "ADJF",
-          "Apro",
-          "Subx plur",
-          "gent"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "во-другой-то"
+        "normal_form": "во-другихъ-то"
       }
     },
     {
@@ -431,12 +432,15 @@
   ],
   [
     {
-      "во-вторых-то": {
+      "во-вторыхъ-то": {
         "OpencorporaTag": [
-          "CONJ",
-          "Prnt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "во-вторых-то"
+        "normal_form": "во-вторыхъ-то"
       }
     },
     {
@@ -776,15 +780,15 @@
       }
     },
     {
-      "петрозаводскій": {
+      "петрозаводск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "петрозаводскіть"
+        "normal_form": "петрозаводск"
       }
     }
   ],

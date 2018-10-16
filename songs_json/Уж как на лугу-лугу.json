@@ -438,13 +438,16 @@
       }
     },
     {
-      "пріобманчива": {
+      "пра": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual femn",
-          "sing"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріобманчивый"
+        "normal_form": "пра"
       }
     },
     {
@@ -829,23 +832,22 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "попомъ": {
+      "попом": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "попомъ"
+        "normal_form": "поп"
       }
     }
   ],

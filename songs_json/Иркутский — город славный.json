@@ -1,7 +1,7 @@
 [
   [
     {
-      "иркутскій": {
+      "иркутскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -9,7 +9,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "иркутскіть"
+        "normal_form": "иркутскть"
       }
     },
     {
@@ -21,15 +21,14 @@
       }
     },
     {
-      "городъ": {
+      "город": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "городъ"
+        "normal_form": "город"
       }
     },
     {
@@ -137,7 +136,7 @@
   ],
   [
     {
-      "настоящій": {
+      "настоящй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -145,7 +144,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "настоящіть"
+        "normal_form": "настоящть"
       }
     },
     {
@@ -242,14 +241,14 @@
       }
     },
     {
-      "лихіе": {
+      "лихе": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "neut sing",
           "loct"
         ],
-        "normal_form": "лихі"
+        "normal_form": "лихо"
       }
     }
   ],

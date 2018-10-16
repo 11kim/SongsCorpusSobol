@@ -232,15 +232,14 @@
       }
     },
     {
-      "ямокъ": {
+      "ямок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "ямокъ"
+        "normal_form": "ямка"
       }
     }
   ],
@@ -455,15 +454,11 @@
       }
     },
     {
-      "никакъ": {
+      "никак": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRCL"
         ],
-        "normal_form": "никакъ"
+        "normal_form": "никак"
       }
     },
     {
@@ -1131,15 +1126,14 @@
       }
     },
     {
-      "вербовомъ": {
+      "вербовом": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "вербовомъ"
+        "normal_form": "вербовый"
       }
     },
     {

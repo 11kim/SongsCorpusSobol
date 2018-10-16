@@ -529,15 +529,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -601,15 +601,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -702,23 +702,19 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -822,15 +818,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {
@@ -844,15 +839,16 @@
       }
     },
     {
-      "побилъ": {
+      "побил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "побилъ"
+        "normal_form": "побить"
       }
     },
     {
@@ -876,15 +872,16 @@
       }
     },
     {
-      "пожурилъ": {
+      "пожурил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пожурилъ"
+        "normal_form": "пожурить"
       }
     }
   ],
@@ -995,15 +992,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -1112,11 +1109,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1132,15 +1129,11 @@
       }
     },
     {
-      "векъ": {
+      "век": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "векъ"
+        "normal_form": "век"
       }
     },
     {

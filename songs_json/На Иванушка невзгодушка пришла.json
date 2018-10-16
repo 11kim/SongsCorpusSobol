@@ -274,15 +274,16 @@
       }
     },
     {
-      "пройдетъ": {
+      "пройдет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пройдетъ"
+        "normal_form": "пройти"
       }
     }
   ],
@@ -764,15 +765,11 @@
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     },
     {
@@ -979,15 +976,14 @@
       }
     },
     {
-      "полуштофъ": {
+      "полуштоф": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "полуштофъ"
+        "normal_form": "полуштоф"
       }
     }
   ],
@@ -1020,15 +1016,14 @@
       }
     },
     {
-      "белъ": {
+      "бел": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "белъ"
+        "normal_form": "бел"
       }
     },
     {
@@ -1043,15 +1038,14 @@
       }
     },
     {
-      "пирогъ": {
+      "пирог": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "пирогъ"
+        "normal_form": "пирог"
       }
     }
   ],
@@ -1084,39 +1078,38 @@
       }
     },
     {
-      "сладкихъ": {
+      "сладких": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "сладкихъ"
+        "normal_form": "сладкое"
       }
     },
     {
-      "яблоковъ": {
+      "яблоков": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Sgtm",
+          "Surn sing",
           "nomn"
         ],
-        "normal_form": "яблоковъ"
+        "normal_form": "яблоков"
       }
     },
     {
-      "пятокъ": {
+      "пяток": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "пятокъ"
+        "normal_form": "пятка"
       }
     }
   ]

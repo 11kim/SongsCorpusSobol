@@ -41,7 +41,7 @@
       }
     },
     {
-      "сегоднешній": {
+      "сегоднешнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -49,7 +49,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сегоднешніть"
+        "normal_form": "сегоднешнть"
       }
     },
     {
@@ -103,7 +103,7 @@
       }
     },
     {
-      "теперешній": {
+      "теперешнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -111,7 +111,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "теперешніть"
+        "normal_form": "теперешнть"
       }
     },
     {
@@ -309,15 +309,14 @@
       }
     },
     {
-      "виноградъ": {
+      "виноград": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "виноградъ"
+        "normal_form": "виноград"
       }
     }
   ],
@@ -742,15 +741,14 @@
       }
     },
     {
-      "высокомъ": {
+      "высоком": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "высокомъ"
+        "normal_form": "высокий"
       }
     },
     {
@@ -1077,14 +1075,15 @@
       }
     },
     {
-      "незнакоменькіе": {
+      "незнакоменьк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "незнакоменькі"
+        "normal_form": "незнакоменька"
       }
     }
   ],

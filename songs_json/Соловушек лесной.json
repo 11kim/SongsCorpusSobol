@@ -1128,14 +1128,11 @@
       }
     },
     {
-      "маіор": {
+      "ма": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіор"
+        "normal_form": "ма"
       }
     }
   ],
@@ -1149,14 +1146,17 @@
       }
     },
     {
-      "маіором-то": {
+      "мао": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
+          "anim",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "маіором-то"
+        "normal_form": "мао"
       }
     },
     {
@@ -1292,11 +1292,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {

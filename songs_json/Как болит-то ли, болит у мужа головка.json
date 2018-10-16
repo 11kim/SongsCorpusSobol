@@ -572,15 +572,16 @@
       }
     },
     {
-      "скажетъ": {
+      "скажет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "скажетъ"
+        "normal_form": "сказать"
       }
     }
   ],
@@ -649,15 +650,16 @@
       }
     },
     {
-      "плачетъ": {
+      "плачет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "плачетъ"
+        "normal_form": "плакать"
       }
     }
   ],
@@ -707,15 +709,16 @@
       }
     },
     {
-      "возрыдаетъ": {
+      "возрыдает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "возрыдаетъ"
+        "normal_form": "возрыдать"
       }
     }
   ],

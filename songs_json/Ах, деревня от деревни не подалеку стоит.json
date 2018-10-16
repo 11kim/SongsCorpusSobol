@@ -876,13 +876,14 @@
   ],
   [
     {
-      "чаем-кофіем": {
+      "чаем-кофъ": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual masc",
-          "sing"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "чаемый-кофіемый"
+        "normal_form": "чай-кофъ"
       }
     },
     {
@@ -1424,11 +1425,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1469,15 +1470,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -1494,11 +1491,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {

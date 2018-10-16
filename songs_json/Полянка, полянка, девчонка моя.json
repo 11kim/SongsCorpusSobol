@@ -504,27 +504,26 @@
       }
     },
     {
-      "милымъ": {
+      "милым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Subx",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "милымъ"
+        "normal_form": "милый"
       }
     },
     {
-      "дружкомъ": {
+      "дружком": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "дружкомъ"
+        "normal_form": "дружок"
       }
     }
   ],
@@ -727,7 +726,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -735,7 +734,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -911,11 +910,11 @@
   ],
   [
     {
-      "ѣду": {
+      "ду": {
         "OpencorporaTag": [
           "UNKN"
         ],
-        "normal_form": "ѣду"
+        "normal_form": "ду"
       }
     },
     {
@@ -927,14 +926,12 @@
       }
     },
     {
-      "дальніе": {
+      "дальне": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS neut",
+          "sing"
         ],
-        "normal_form": "дальні"
+        "normal_form": "дальний"
       }
     },
     {
@@ -1294,15 +1291,14 @@
       }
     },
     {
-      "самъ": {
+      "сам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "самъ"
+        "normal_form": "сам"
       }
     },
     {

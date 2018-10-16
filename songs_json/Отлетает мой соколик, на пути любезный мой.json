@@ -174,15 +174,15 @@
       }
     },
     {
-      "дальній": {
+      "дальн": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "дальніть"
+        "normal_form": "дальна"
       }
     },
     {
@@ -480,19 +480,18 @@
       }
     },
     {
-      "одинъ": {
+      "один": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "одинъ"
+        "normal_form": "один"
       }
     },
     {
-      "кругленькій": {
+      "кругленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -500,19 +499,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "кругленькіть"
+        "normal_form": "кругленькть"
       }
     },
     {
-      "годокъ": {
+      "годок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "годокъ"
+        "normal_form": "годок"
       }
     },
     {

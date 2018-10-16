@@ -137,7 +137,7 @@
       }
     },
     {
-      "девичій": {
+      "девичй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -145,19 +145,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "девичіть"
+        "normal_form": "девичть"
       }
     },
     {
-      "обманъ": {
+      "обман": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "обманъ"
+        "normal_form": "обман"
       }
     }
   ],

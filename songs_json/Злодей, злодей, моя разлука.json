@@ -581,16 +581,15 @@
       }
     },
     {
-      "армію": {
+      "арм": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "арміть"
+        "normal_form": "арма"
       }
     }
   ],
@@ -774,7 +773,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -782,7 +781,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {

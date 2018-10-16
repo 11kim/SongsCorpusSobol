@@ -197,7 +197,7 @@
       }
     },
     {
-      "крутенькій": {
+      "крутенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -205,7 +205,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "крутенькіть"
+        "normal_form": "крутенькть"
       }
     },
     {
@@ -529,39 +529,35 @@
       }
     },
     {
-      "насъ": {
+      "нас": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "gent"
         ],
-        "normal_form": "насъ"
+        "normal_form": "мы"
       }
     },
     {
-      "дорогъ": {
+      "дорог": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "дорогъ"
+        "normal_form": "дорога"
       }
     },
     {
-      "перевозъ": {
+      "перевоз": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "перевозъ"
+        "normal_form": "перевоз"
       }
     },
     {
@@ -591,15 +587,16 @@
       }
     },
     {
-      "стоитъ": {
+      "стоит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr",
+          "Impe sing",
+          "pres",
+          "indc"
         ],
-        "normal_form": "стоитъ"
+        "normal_form": "стоить"
       }
     },
     {

@@ -1147,15 +1147,16 @@
       }
     },
     {
-      "продаетъ": {
+      "продает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "продаетъ"
+        "normal_form": "продавать"
       }
     }
   ],
@@ -1234,15 +1235,16 @@
       }
     },
     {
-      "естъ": {
+      "ест": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "естъ"
+        "normal_form": "есть"
       }
     }
   ],
@@ -1318,15 +1320,16 @@
       }
     },
     {
-      "варитъ": {
+      "варит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "варитъ"
+        "normal_form": "варить"
       }
     }
   ],

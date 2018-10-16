@@ -172,7 +172,7 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -180,7 +180,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонскть"
       }
     },
     {
@@ -546,7 +546,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -554,7 +554,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -741,15 +741,15 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонск"
       }
     }
   ],
@@ -851,7 +851,7 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -859,7 +859,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонскть"
       }
     }
   ],
@@ -1106,13 +1106,13 @@
       }
     },
     {
-      "глубокія": {
+      "глубок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -2132,7 +2132,7 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2140,7 +2140,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонскть"
       }
     }
   ],
@@ -2333,15 +2333,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     },
     {
@@ -2496,7 +2493,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2504,7 +2501,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {

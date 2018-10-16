@@ -143,14 +143,13 @@
       }
     },
     {
-      "высокіе": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -554,7 +553,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -562,7 +561,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -1048,7 +1047,7 @@
       }
     },
     {
-      "княжій": {
+      "княжй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1056,7 +1055,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "княжіть"
+        "normal_form": "княжть"
       }
     },
     {
@@ -1965,13 +1964,13 @@
       }
     },
     {
-      "глубокія": {
+      "глубок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -2233,7 +2232,7 @@
       }
     },
     {
-      "княжій": {
+      "княжй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2241,7 +2240,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "княжіть"
+        "normal_form": "княжть"
       }
     },
     {
@@ -2748,11 +2747,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -2778,14 +2777,14 @@
       }
     },
     {
-      "князь-бояринъ": {
+      "князь-боярин": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc sing",
           "nomn"
         ],
-        "normal_form": "князь-бояринъ"
+        "normal_form": "князь-боярин"
       }
     },
     {

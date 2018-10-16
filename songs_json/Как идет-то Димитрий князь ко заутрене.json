@@ -22,7 +22,7 @@
       }
     },
     {
-      "димитрій": {
+      "димитрй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -30,7 +30,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "димитріть"
+        "normal_form": "димитрть"
       }
     },
     {
@@ -160,13 +160,15 @@
       }
     },
     {
-      "громкіим": {
+      "громкъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "громкіий"
+        "normal_form": "громкъ"
       }
     },
     {
@@ -262,7 +264,7 @@
       }
     },
     {
-      "димитрій": {
+      "димитрй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -270,7 +272,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "димитріть"
+        "normal_form": "димитрть"
       }
     },
     {
@@ -696,7 +698,7 @@
       }
     },
     {
-      "димитрій": {
+      "димитрй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -704,7 +706,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "димитріть"
+        "normal_form": "димитрть"
       }
     },
     {
@@ -1144,15 +1146,14 @@
       }
     },
     {
-      "братецъ": {
+      "братец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "братецъ"
+        "normal_form": "братец"
       }
     }
   ],
@@ -2192,7 +2193,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2200,7 +2201,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -3547,7 +3548,7 @@
       }
     },
     {
-      "димитрій": {
+      "димитрй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3555,7 +3556,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "димитріть"
+        "normal_form": "димитрть"
       }
     },
     {
@@ -3636,7 +3637,7 @@
       }
     },
     {
-      "димитрій": {
+      "димитрй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3644,7 +3645,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "димитріть"
+        "normal_form": "димитрть"
       }
     },
     {
@@ -3957,7 +3958,7 @@
       }
     },
     {
-      "димитрій": {
+      "димитрй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3965,7 +3966,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "димитріть"
+        "normal_form": "димитрть"
       }
     },
     {
@@ -4524,11 +4525,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -4563,15 +4564,14 @@
       }
     },
     {
-      "снамъ": {
+      "снам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "datv"
         ],
-        "normal_form": "снамъ"
+        "normal_form": "сон"
       }
     },
     {

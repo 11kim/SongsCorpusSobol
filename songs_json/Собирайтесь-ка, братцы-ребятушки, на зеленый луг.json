@@ -423,7 +423,7 @@
       }
     },
     {
-      "молоденькій": {
+      "молоденькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -431,7 +431,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "молоденькіть"
+        "normal_form": "молоденькть"
       }
     },
     {
@@ -2541,15 +2541,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -2639,15 +2635,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -2662,15 +2654,16 @@
       }
     },
     {
-      "бежитъ": {
+      "бежит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "бежитъ"
+        "normal_form": "бежать"
       }
     }
   ]

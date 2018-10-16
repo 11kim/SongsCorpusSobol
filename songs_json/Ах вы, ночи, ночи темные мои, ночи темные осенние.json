@@ -86,13 +86,14 @@
       }
     },
     {
-      "осеннія": {
+      "осенн": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "осенніть"
+        "normal_form": "осенна"
       }
     }
   ],
@@ -581,7 +582,7 @@
       }
     },
     {
-      "горькій": {
+      "горькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -589,7 +590,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "горькіть"
+        "normal_form": "горькть"
       }
     },
     {

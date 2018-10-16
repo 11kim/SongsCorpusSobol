@@ -49,7 +49,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -57,19 +57,17 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
-      "хорошій": {
+      "хорош": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошіть"
+        "normal_form": "хороший"
       }
     }
   ],

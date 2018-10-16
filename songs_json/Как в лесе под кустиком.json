@@ -251,15 +251,16 @@
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     }
   ],
@@ -316,15 +317,16 @@
       }
     },
     {
-      "сталъ": {
+      "стал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "сталъ"
+        "normal_form": "стать"
       }
     }
   ],

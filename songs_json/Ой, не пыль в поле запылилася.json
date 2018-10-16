@@ -516,15 +516,14 @@
       }
     },
     {
-      "синемъ": {
+      "синем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "синемъ"
+        "normal_form": "синий"
       }
     },
     {
@@ -1010,27 +1009,24 @@
       }
     },
     {
-      "высокъ": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокъ"
+        "normal_form": "высокий"
       }
     },
     {
-      "теремъ": {
+      "терем": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "теремъ"
+        "normal_form": "терем"
       }
     },
     {
@@ -1042,15 +1038,15 @@
       }
     },
     {
-      "поконецъ": {
+      "поконец": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut plur",
+          "gent",
+          "Infr"
         ],
-        "normal_form": "поконецъ"
+        "normal_form": "поконце"
       }
     },
     {

@@ -217,23 +217,21 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "кемъ": {
+      "кем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "кемъ"
+        "normal_form": "кто"
       }
     },
     {
@@ -344,27 +342,24 @@
       }
     },
     {
-      "самъ": {
+      "сам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "самъ"
+        "normal_form": "сам"
       }
     },
     {
-      "охочъ": {
+      "охоч": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "охочъ"
+        "normal_form": "охочий"
       }
     },
     {
@@ -411,15 +406,16 @@
       }
     },
     {
-      "будутъ": {
+      "будут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "будутъ"
+        "normal_form": "быть"
       }
     },
     {

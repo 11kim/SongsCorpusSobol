@@ -63,13 +63,14 @@
       }
     },
     {
-      "разосеннія": {
+      "разосенн": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "разосенніть"
+        "normal_form": "разосенна"
       }
     }
   ],
@@ -93,13 +94,12 @@
       }
     },
     {
-      "осеннія": {
+      "осення": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS femn",
+          "sing"
         ],
-        "normal_form": "осенніть"
+        "normal_form": "осенний"
       }
     },
     {
@@ -126,13 +126,15 @@
       }
     },
     {
-      "последнія": {
+      "последн": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "последніть"
+        "normal_form": "последна"
       }
     }
   ],
@@ -200,13 +202,13 @@
       }
     },
     {
-      "высокія": {
+      "высок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -651,14 +653,13 @@
       }
     },
     {
-      "высокіе": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -1082,27 +1083,29 @@
       }
     },
     {
-      "гулялъ-то": {
+      "гулял-то": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "гулялъ-то"
+        "normal_form": "гулять-то"
       }
     },
     {
-      "гулялъ": {
+      "гулял": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "гулялъ"
+        "normal_form": "гулять"
       }
     },
     {
@@ -1114,27 +1117,24 @@
       }
     },
     {
-      "дикимъ": {
+      "диким": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual plur",
+          "datv"
         ],
-        "normal_form": "дикимъ"
+        "normal_form": "дикий"
       }
     },
     {
-      "степямъ": {
+      "степям": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "степямъ"
+        "normal_form": "степь"
       }
     }
   ],
@@ -2076,15 +2076,16 @@
       }
     },
     {
-      "падетъ": {
+      "падет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "падетъ"
+        "normal_form": "пасть"
       }
     }
   ],

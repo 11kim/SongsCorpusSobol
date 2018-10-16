@@ -122,15 +122,13 @@
       }
     },
     {
-      "старъ": {
+      "стар": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "старъ"
+        "normal_form": "старый"
       }
     },
     {
@@ -145,27 +143,27 @@
       }
     },
     {
-      "орелъ": {
+      "орел": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "орелъ"
+        "normal_form": "орёл"
       }
     },
     {
-      "летитъ": {
+      "летит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "летитъ"
+        "normal_form": "лететь"
       }
     }
   ],
@@ -512,27 +510,29 @@
       }
     },
     {
-      "былъ-то": {
+      "был-то": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ-то"
+        "normal_form": "быть-то"
       }
     },
     {
-      "гулялъ": {
+      "гулял": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "гулялъ"
+        "normal_form": "гулять"
       }
     },
     {

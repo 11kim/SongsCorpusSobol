@@ -196,13 +196,13 @@
       }
     },
     {
-      "какія": {
+      "какя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "какіть"
+        "normal_form": "какть"
       }
     },
     {
@@ -243,14 +243,16 @@
       }
     },
     {
-      "хорошіе": {
+      "хороше": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Sgtm",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "хороші"
+        "normal_form": "хорош"
       }
     },
     {
@@ -286,14 +288,12 @@
       }
     },
     {
-      "дальніе": {
+      "дальне": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS neut",
+          "sing"
         ],
-        "normal_form": "дальні"
+        "normal_form": "дальний"
       }
     },
     {
@@ -368,7 +368,7 @@
   ],
   [
     {
-      "дальній": {
+      "дальнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -376,7 +376,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дальніть"
+        "normal_form": "дальнть"
       }
     },
     {
@@ -424,7 +424,7 @@
   ],
   [
     {
-      "ближній": {
+      "ближнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -432,7 +432,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "ближніть"
+        "normal_form": "ближнть"
       }
     },
     {

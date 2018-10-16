@@ -223,7 +223,7 @@
       }
     },
     {
-      "солдатскій": {
+      "солдатскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -231,7 +231,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатскть"
       }
     },
     {
@@ -330,15 +330,15 @@
       }
     },
     {
-      "молоденькій": {
+      "молоденьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "молоденькіть"
+        "normal_form": "молоденька"
       }
     }
   ],

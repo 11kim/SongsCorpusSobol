@@ -692,16 +692,16 @@
   ],
   [
     {
-      "пріехала": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пра"
       }
     },
     {
@@ -855,14 +855,15 @@
       }
     },
     {
-      "казанскіе": {
+      "казанске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "казанскі"
+        "normal_form": "казанск"
       }
     },
     {
@@ -1399,14 +1400,15 @@
       }
     },
     {
-      "беленькіе": {
+      "беленьк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькі"
+        "normal_form": "беленька"
       }
     }
   ],
@@ -1421,40 +1423,42 @@
       }
     },
     {
-      "беленькіе": {
+      "беленьк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькі"
+        "normal_form": "беленька"
       }
     },
     {
-      "вострокисленькіе": {
+      "вострокисленьк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "вострокисленькі"
+        "normal_form": "вострокисленька"
       }
     }
   ],
   [
     {
-      "пріехала": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пра"
       }
     },
     {

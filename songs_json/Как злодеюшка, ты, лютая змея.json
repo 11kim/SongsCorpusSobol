@@ -167,15 +167,14 @@
       }
     },
     {
-      "листъ-траву": {
+      "лист-траву": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "accs"
         ],
-        "normal_form": "листъ-трава"
+        "normal_form": "лист-трава"
       }
     },
     {
@@ -993,13 +992,14 @@
       }
     },
     {
-      "звонкія": {
+      "звонк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "звонкіть"
+        "normal_form": "звонк"
       }
     }
   ],
@@ -1143,7 +1143,7 @@
       }
     },
     {
-      "высокій": {
+      "высокй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1151,7 +1151,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокть"
       }
     },
     {
@@ -1368,7 +1368,7 @@
       }
     },
     {
-      "высокій": {
+      "высокй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1376,7 +1376,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокть"
       }
     },
     {

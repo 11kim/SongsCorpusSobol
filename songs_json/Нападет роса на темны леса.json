@@ -74,14 +74,13 @@
       }
     },
     {
-      "дремучіе": {
+      "дремуч": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "дремучі"
+        "normal_form": "дремучий"
       }
     },
     {
@@ -253,14 +252,15 @@
       }
     },
     {
-      "чуже-пріезжаго": {
+      "чуже-пр": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc sing",
-          "loct"
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "чуж-пріезжаго"
+        "normal_form": "чуже-пр"
       }
     }
   ],
@@ -274,15 +274,11 @@
       }
     },
     {
-      "пріезжаго": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "neut",
-          "Fixd sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріезжаго"
+        "normal_form": "пр"
       }
     },
     {

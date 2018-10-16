@@ -198,15 +198,13 @@
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {
@@ -713,15 +711,16 @@
       }
     },
     {
-      "воспородилъ": {
+      "воспородил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "воспородилъ"
+        "normal_form": "воспородить"
       }
     },
     {
@@ -1197,23 +1196,21 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "кемъ": {
+      "кем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "кемъ"
+        "normal_form": "кто"
       }
     },
     {
@@ -1228,15 +1225,16 @@
       }
     },
     {
-      "держалъ": {
+      "держал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "держалъ"
+        "normal_form": "держать"
       }
     },
     {
@@ -1266,15 +1264,14 @@
       }
     },
     {
-      "одинъ": {
+      "один": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "одинъ"
+        "normal_form": "один"
       }
     },
     {
@@ -1299,15 +1296,16 @@
       }
     },
     {
-      "держалъ": {
+      "держал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "держалъ"
+        "normal_form": "держать"
       }
     },
     {
@@ -1319,11 +1317,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1491,7 +1489,7 @@
   ],
   [
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1499,7 +1497,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {

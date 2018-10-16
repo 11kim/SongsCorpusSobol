@@ -897,15 +897,14 @@
       }
     },
     {
-      "камышъ-трава": {
+      "камыш-трава": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "камышъ-трава"
+        "normal_form": "камыш-трава"
       }
     }
   ],
@@ -948,39 +947,37 @@
       }
     },
     {
-      "частъ": {
+      "част": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "частъ"
+        "normal_form": "частый"
       }
     },
     {
-      "ракитовъ": {
+      "ракитов": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Sgtm",
+          "Surn sing",
           "nomn"
         ],
-        "normal_form": "ракитовъ"
+        "normal_form": "ракитов"
       }
     },
     {
-      "кустъ": {
+      "куст": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "кустъ"
+        "normal_form": "куст"
       }
     }
   ],
@@ -1353,13 +1350,13 @@
       }
     },
     {
-      "третія": {
+      "третя": {
         "OpencorporaTag": [
           "GRND",
-          "impf",
-          "tran pres"
+          "perf",
+          "tran past"
         ],
-        "normal_form": "третіть"
+        "normal_form": "трести"
       }
     },
     {
@@ -1755,7 +1752,7 @@
       }
     },
     {
-      "высокій": {
+      "высокй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1763,7 +1760,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокть"
       }
     },
     {
@@ -1908,15 +1905,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -1931,15 +1924,16 @@
       }
     },
     {
-      "текутъ": {
+      "текут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "текутъ"
+        "normal_form": "течь"
       }
     }
   ],
@@ -1987,15 +1981,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -2010,15 +2000,16 @@
       }
     },
     {
-      "падетъ": {
+      "падет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "падетъ"
+        "normal_form": "пасть"
       }
     }
   ],
@@ -2075,15 +2066,16 @@
       }
     },
     {
-      "высушитъ": {
+      "высушит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "высушитъ"
+        "normal_form": "высушить"
       }
     }
   ],

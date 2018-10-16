@@ -760,11 +760,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -778,15 +778,14 @@
       }
     },
     {
-      "сынъ": {
+      "сын": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сынъ"
+        "normal_form": "сын"
       }
     },
     {
@@ -811,15 +810,14 @@
       }
     },
     {
-      "сынъ": {
+      "сын": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сынъ"
+        "normal_form": "сын"
       }
     },
     {
@@ -1111,7 +1109,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1119,7 +1117,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -1271,11 +1269,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1558,35 +1556,34 @@
       }
     },
     {
-      "малыхъ": {
+      "малых": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "малыхъ"
+        "normal_form": "малое"
       }
     },
     {
-      "детушекъ": {
+      "детушек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "детушекъ"
+        "normal_form": "детушки"
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {

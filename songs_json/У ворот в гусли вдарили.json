@@ -171,13 +171,12 @@
       }
     },
     {
-      "пегія": {
+      "пег": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "пегіть"
+        "normal_form": "пегий"
       }
     }
   ],
@@ -279,7 +278,7 @@
   ],
   [
     {
-      "ѣдет": {
+      "дет": {
         "OpencorporaTag": [
           "PRTS",
           "perf",
@@ -287,7 +286,7 @@
           "pssv masc",
           "sing"
         ],
-        "normal_form": "ѣдеть"
+        "normal_form": "деть"
       }
     },
     {

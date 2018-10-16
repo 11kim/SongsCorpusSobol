@@ -13,15 +13,15 @@
       }
     },
     {
-      "коломенскій": {
+      "коломенск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "коломенскіть"
+        "normal_form": "коломенск"
       }
     }
   ],
@@ -39,15 +39,15 @@
       }
     },
     {
-      "коротенькій": {
+      "коротеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "коротенькіть"
+        "normal_form": "коротенька"
       }
     }
   ],
@@ -688,7 +688,7 @@
   ],
   [
     {
-      "безногій": {
+      "безногй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -696,7 +696,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "безногіть"
+        "normal_form": "безногть"
       }
     },
     {

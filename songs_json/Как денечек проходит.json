@@ -204,16 +204,11 @@
       }
     },
     {
-      "пріезжает": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr sing",
-          "3per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -867,27 +862,23 @@
       }
     },
     {
-      "годикъ": {
+      "годик": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "годикъ"
+        "normal_form": "годик"
       }
     },
     {
-      "тамъ": {
+      "там": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "тамъ"
+        "normal_form": "там"
       }
     },
     {
@@ -1170,15 +1161,12 @@
       }
     },
     {
-      "тамъ": {
+      "там": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "тамъ"
+        "normal_form": "там"
       }
     },
     {
@@ -1283,15 +1271,16 @@
       }
     },
     {
-      "будетъ": {
+      "будет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "будетъ"
+        "normal_form": "быть"
       }
     }
   ],

@@ -9,16 +9,11 @@
       }
     },
     {
-      "пріехал": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пръ"
       }
     },
     {
@@ -93,16 +88,11 @@
       }
     },
     {
-      "пріехал": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пр"
       }
     },
     {
@@ -455,15 +445,12 @@
       }
     },
     {
-      "радъ": {
+      "рад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "радъ"
+        "normal_form": "рад"
       }
     },
     {
@@ -973,15 +960,15 @@
       }
     },
     {
-      "молоденькій": {
+      "молоденьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "молоденькіть"
+        "normal_form": "молоденька"
       }
     },
     {

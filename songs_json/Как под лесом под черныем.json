@@ -449,23 +449,23 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
-      "соседушкамъ": {
+      "соседушкам": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Ms-f plur",
+          "datv"
         ],
-        "normal_form": "соседушкамъ"
+        "normal_form": "соседушка"
       }
     }
   ],
@@ -631,27 +631,25 @@
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {
-      "соседушкамъ": {
+      "соседушкам": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Ms-f plur",
+          "datv"
         ],
-        "normal_form": "соседушкамъ"
+        "normal_form": "соседушка"
       }
     }
   ],
@@ -782,15 +780,13 @@
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {

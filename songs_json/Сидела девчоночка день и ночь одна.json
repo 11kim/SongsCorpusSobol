@@ -226,7 +226,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -234,7 +234,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -302,13 +302,15 @@
       }
     },
     {
-      "дубовенькія": {
+      "дубовеньк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "дубовенькіть"
+        "normal_form": "дубовенька"
       }
     }
   ],
@@ -411,15 +413,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -470,15 +472,12 @@
       }
     },
     {
-      "затемъ": {
+      "затем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "затемъ"
+        "normal_form": "затем"
       }
     },
     {
@@ -521,15 +520,16 @@
       }
     },
     {
-      "бывалъ": {
+      "бывал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "бывалъ"
+        "normal_form": "бывать"
       }
     },
     {
@@ -957,15 +957,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -1008,15 +1008,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -1078,15 +1078,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -1139,15 +1139,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -1273,15 +1273,14 @@
       }
     },
     {
-      "закономъ": {
+      "законом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "закономъ"
+        "normal_form": "закон"
       }
     },
     {

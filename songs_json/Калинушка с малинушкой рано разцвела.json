@@ -318,15 +318,16 @@
       }
     },
     {
-      "пріеду": {
+      "пру": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn",
-          "Sgtm sing",
+          "Sgtm",
+          "Geox sing",
           "accs"
         ],
-        "normal_form": "пріеда"
+        "normal_form": "пра"
       }
     },
     {
@@ -911,23 +912,21 @@
       }
     },
     {
-      "насъ": {
+      "нас": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "gent"
         ],
-        "normal_form": "насъ"
+        "normal_form": "мы"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1466,16 +1465,15 @@
       }
     },
     {
-      "середній-ет": {
+      "середнъ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "3per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "середній-ть"
+        "normal_form": "середнъ"
       }
     },
     {

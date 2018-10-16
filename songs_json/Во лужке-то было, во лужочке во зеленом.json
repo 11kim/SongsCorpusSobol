@@ -384,14 +384,15 @@
       }
     },
     {
-      "донскіе": {
+      "донске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "донскі"
+        "normal_form": "донск"
       }
     },
     {
@@ -469,15 +470,14 @@
       }
     },
     {
-      "бунчукъ": {
+      "бунчук": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "бунчукъ"
+        "normal_form": "бунчук"
       }
     }
   ],
@@ -862,7 +862,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -870,7 +870,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {

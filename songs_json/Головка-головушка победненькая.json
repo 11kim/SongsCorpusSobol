@@ -169,15 +169,16 @@
       }
     },
     {
-      "воскормилъ": {
+      "воскормил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "воскормилъ"
+        "normal_form": "воскормить"
       }
     },
     {
@@ -200,15 +201,14 @@
       }
     },
     {
-      "отецъ": {
+      "отец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "отецъ"
+        "normal_form": "отец"
       }
     },
     {
@@ -347,11 +347,16 @@
       }
     },
     {
-      "мір": {
+      "м": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     }
   ],
@@ -881,15 +886,15 @@
       }
     },
     {
-      "ленъ": {
+      "лен": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "ленъ"
+        "normal_form": "лена"
       }
     },
     {
@@ -943,15 +948,12 @@
       }
     },
     {
-      "нечемъ": {
+      "нечем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO sing",
+          "ablt"
         ],
-        "normal_form": "нечемъ"
+        "normal_form": "нечего"
       }
     },
     {

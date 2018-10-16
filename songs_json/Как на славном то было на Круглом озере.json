@@ -421,14 +421,14 @@
       }
     },
     {
-      "казачіи": {
+      "казачи": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "anim",
+          "masc plur",
+          "nomn"
         ],
-        "normal_form": "казачіь"
+        "normal_form": "казач"
       }
     },
     {
@@ -738,7 +738,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -746,7 +746,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -786,7 +786,7 @@
       }
     },
     {
-      "господній": {
+      "господнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -794,7 +794,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "господніть"
+        "normal_form": "господнть"
       }
     },
     {

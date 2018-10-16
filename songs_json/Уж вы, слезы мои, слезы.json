@@ -63,13 +63,13 @@
       }
     },
     {
-      "горючія": {
+      "горючя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "горючіть"
+        "normal_form": "горючть"
       }
     },
     {
@@ -191,15 +191,12 @@
       }
     },
     {
-      "нерабочій": {
+      "нерабоч": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "нерабочіть"
+        "normal_form": "нерабочий"
       }
     }
   ],

@@ -189,15 +189,14 @@
       }
     },
     {
-      "квасъ": {
+      "квас": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "квасъ"
+        "normal_form": "квас"
       }
     },
     {
@@ -333,13 +332,13 @@
   ],
   [
     {
-      "сухринскія": {
+      "сухринскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "сухринскіть"
+        "normal_form": "сухринскть"
       }
     },
     {
@@ -388,13 +387,13 @@
       }
     },
     {
-      "кушминскія": {
+      "кушминскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "кушминскіть"
+        "normal_form": "кушминскть"
       }
     },
     {
@@ -459,13 +458,15 @@
       }
     },
     {
-      "маленькія": {
+      "маленьк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "маленькіть"
+        "normal_form": "маленька"
       }
     }
   ],
@@ -502,25 +503,27 @@
       }
     },
     {
-      "аленькія": {
+      "аленьк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "аленькіть"
+        "normal_form": "аленька"
       }
     }
   ],
   [
     {
-      "коврижскія": {
+      "коврижскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "коврижскіть"
+        "normal_form": "коврижскть"
       }
     },
     {
@@ -556,13 +559,13 @@
   ],
   [
     {
-      "ячменевскія": {
+      "ячменевскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "ячменевскіть"
+        "normal_form": "ячменевскть"
       }
     },
     {
@@ -709,13 +712,13 @@
   ],
   [
     {
-      "крутихинскія": {
+      "крутихинскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "крутихинскіть"
+        "normal_form": "крутихинскть"
       }
     },
     {
@@ -1063,13 +1066,13 @@
   ],
   [
     {
-      "яровскія": {
+      "яровскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "яровскіть"
+        "normal_form": "яровскть"
       }
     },
     {
@@ -1205,15 +1208,15 @@
       }
     },
     {
-      "бусъ": {
+      "бус": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "бусъ"
+        "normal_form": "бусы"
       }
     },
     {
@@ -1257,11 +1260,14 @@
       }
     },
     {
-      "ямъ": {
+      "ям": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "ямъ"
+        "normal_form": "ям"
       }
     },
     {
@@ -1310,13 +1316,13 @@
   ],
   [
     {
-      "кривскія": {
+      "кривскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "кривскіть"
+        "normal_form": "кривскть"
       }
     },
     {
@@ -1438,11 +1444,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {

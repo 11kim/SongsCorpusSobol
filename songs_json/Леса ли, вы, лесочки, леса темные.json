@@ -421,15 +421,11 @@
       }
     },
     {
-      "кіеве": {
+      "к": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "datv"
+          "PREP"
         ],
-        "normal_form": "кіева"
+        "normal_form": "к"
       }
     }
   ],
@@ -526,15 +522,15 @@
       }
     },
     {
-      "третій-то": {
+      "трето": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "PRTS",
+          "perf",
+          "past",
+          "pssv neut",
+          "sing"
         ],
-        "normal_form": "третіть-то"
+        "normal_form": "треть"
       }
     },
     {
@@ -1163,13 +1159,11 @@
       }
     },
     {
-      "кіевской": {
+      "к": {
         "OpencorporaTag": [
-          "ADJF femn",
-          "sing",
-          "gent"
+          "PREP"
         ],
-        "normal_form": "кіевский"
+        "normal_form": "к"
       }
     },
     {
@@ -1302,7 +1296,7 @@
       }
     },
     {
-      "животворящій": {
+      "животворящй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1310,7 +1304,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "животворящіть"
+        "normal_form": "животворящть"
       }
     },
     {

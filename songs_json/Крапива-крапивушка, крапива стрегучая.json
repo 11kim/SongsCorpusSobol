@@ -378,11 +378,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -397,11 +397,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -448,11 +448,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -467,11 +467,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -507,11 +507,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -663,16 +663,11 @@
       }
     },
     {
-      "про́снутся": {
+      "про": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr plur",
-          "3per",
-          "futr",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "про́снуться"
+        "normal_form": "про"
       }
     }
   ],
@@ -755,13 +750,13 @@
       }
     },
     {
-      "городскія": {
+      "городскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "городскіть"
+        "normal_form": "городскть"
       }
     },
     {
@@ -1139,11 +1134,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -2449,13 +2444,13 @@
       }
     },
     {
-      "глубокія": {
+      "глубок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],

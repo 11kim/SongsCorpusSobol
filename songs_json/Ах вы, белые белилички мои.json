@@ -797,15 +797,13 @@
       }
     },
     {
-      "новымъ": {
+      "новым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual plur",
+          "datv"
         ],
-        "normal_form": "новымъ"
+        "normal_form": "новый"
       }
     },
     {
@@ -817,15 +815,15 @@
       }
     },
     {
-      "сенямъ": {
+      "сеням": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "datv"
         ],
-        "normal_form": "сенямъ"
+        "normal_form": "сени"
       }
     }
   ],

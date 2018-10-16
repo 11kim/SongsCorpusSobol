@@ -226,27 +226,25 @@
       }
     },
     {
-      "краснымъ": {
+      "красным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "краснымъ"
+        "normal_form": "красный"
       }
     },
     {
-      "девицамъ": {
+      "девицам": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "девицамъ"
+        "normal_form": "девица"
       }
     },
     {
@@ -336,14 +334,14 @@
       }
     },
     {
-      "строгіе": {
+      "строге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "строгі"
+        "normal_form": "строг"
       }
     },
     {

@@ -523,16 +523,14 @@
       }
     },
     {
-      "линію": {
+      "линю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "datv"
         ],
-        "normal_form": "линіть"
+        "normal_form": "линь"
       }
     },
     {
@@ -581,15 +579,11 @@
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     },
     {

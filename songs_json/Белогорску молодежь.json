@@ -78,13 +78,13 @@
       }
     },
     {
-      "синія": {
+      "синя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "синіть"
+        "normal_form": "синить"
       }
     },
     {
@@ -101,14 +101,15 @@
   ],
   [
     {
-      "персидскіе": {
+      "персидске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "персидскі"
+        "normal_form": "персидск"
       }
     },
     {

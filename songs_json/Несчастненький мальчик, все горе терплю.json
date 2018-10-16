@@ -1,7 +1,7 @@
 [
   [
     {
-      "несчастненькій": {
+      "несчастненькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -9,7 +9,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "несчастненькіть"
+        "normal_form": "несчастненькть"
       }
     },
     {
@@ -395,16 +395,11 @@
       }
     },
     {
-      "пріятен": {
+      "пръ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Sgtm",
-          "Surn sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріятен"
+        "normal_form": "пръ"
       }
     },
     {
@@ -562,12 +557,15 @@
       }
     },
     {
-      "лихіих": {
+      "лихъ": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "лихіий"
+        "normal_form": "лихъ"
       }
     },
     {

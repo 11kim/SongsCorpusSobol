@@ -121,7 +121,7 @@
       }
     },
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -129,7 +129,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
@@ -413,15 +413,11 @@
       }
     },
     {
-      "пріехали": {
+      "при": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "при"
       }
     },
     {
@@ -565,16 +561,11 @@
       }
     },
     {
-      "пріехала": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -598,16 +589,16 @@
       }
     },
     {
-      "пріехала": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пра"
       }
     },
     {
@@ -1307,7 +1298,7 @@
       }
     },
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1315,7 +1306,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {

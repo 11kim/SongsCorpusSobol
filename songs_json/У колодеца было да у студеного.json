@@ -673,13 +673,15 @@
       }
     },
     {
-      "высокіим": {
+      "высокъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "высокіий"
+        "normal_form": "высокъ"
       }
     }
   ],
@@ -979,13 +981,15 @@
       }
     },
     {
-      "заморскія": {
+      "заморск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "заморскіть"
+        "normal_form": "заморск"
       }
     }
   ],
@@ -1706,15 +1710,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {
@@ -2117,13 +2120,15 @@
       }
     },
     {
-      "высокіим": {
+      "высокъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "высокіий"
+        "normal_form": "высокъ"
       }
     }
   ],
@@ -2410,27 +2415,23 @@
       }
     },
     {
-      "съедучіе": {
+      "съедуч": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "съедучі"
+        "normal_form": "съедучий"
       }
     }
   ],
   [
     {
-      "зміи": {
+      "зми": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "зміь"
+        "normal_form": "зми"
       }
     },
     {
@@ -2452,14 +2453,13 @@
       }
     },
     {
-      "клевучіе": {
+      "клевуч": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "клевучі"
+        "normal_form": "клевучий"
       }
     }
   ],
@@ -2546,14 +2546,16 @@
       }
     },
     {
-      "шведскіе": {
+      "шведск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Fixd",
+          "Orgn sing",
+          "nomn"
         ],
-        "normal_form": "шведскі"
+        "normal_form": "шведск"
       }
     }
   ],

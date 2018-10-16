@@ -952,23 +952,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "зеленомъ": {
+      "зеленом": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "зеленомъ"
+        "normal_form": "зелёный"
       }
     },
     {
@@ -1186,15 +1185,14 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
@@ -1281,15 +1279,14 @@
       }
     },
     {
-      "сыромъ": {
+      "сыром": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "сыромъ"
+        "normal_form": "сыр"
       }
     },
     {

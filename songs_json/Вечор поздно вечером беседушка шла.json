@@ -926,15 +926,16 @@
       }
     },
     {
-      "замретъ": {
+      "замрет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "замретъ"
+        "normal_form": "замереть"
       }
     }
   ],
@@ -988,15 +989,16 @@
       }
     },
     {
-      "отойдетъ": {
+      "отойдет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "отойдетъ"
+        "normal_form": "отойти"
       }
     }
   ]

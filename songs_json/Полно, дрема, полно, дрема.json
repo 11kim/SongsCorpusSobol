@@ -202,15 +202,16 @@
       }
     },
     {
-      "будетъ": {
+      "будет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "будетъ"
+        "normal_form": "быть"
       }
     }
   ],
@@ -468,15 +469,16 @@
       }
     },
     {
-      "перестанетъ": {
+      "перестанет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "перестанетъ"
+        "normal_form": "перестать"
       }
     }
   ],
@@ -522,27 +524,24 @@
       }
     },
     {
-      "назадъ": {
+      "назад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "назадъ"
+        "normal_form": "назад"
       }
     },
     {
-      "возьметъ": {
+      "возьмет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "возьметъ"
+        "normal_form": "взять"
       }
     }
   ]

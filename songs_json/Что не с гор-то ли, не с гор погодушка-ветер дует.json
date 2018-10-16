@@ -162,14 +162,15 @@
   ],
   [
     {
-      "востраканскіе": {
+      "востраканске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "востраканскі"
+        "normal_form": "востраканск"
       }
     },
     {
@@ -203,13 +204,12 @@
       }
     },
     {
-      "легкія-то": {
+      "легко": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADVB",
+          "Prdx"
         ],
-        "normal_form": "легкіть-то"
+        "normal_form": "легко"
       }
     },
     {
@@ -254,13 +254,12 @@
       }
     },
     {
-      "легкія-то": {
+      "легко": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADVB",
+          "Prdx"
         ],
-        "normal_form": "легкіть-то"
+        "normal_form": "легко"
       }
     },
     {
@@ -383,7 +382,7 @@
       }
     },
     {
-      "крутенькій": {
+      "крутенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -391,7 +390,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "крутенькіть"
+        "normal_form": "крутенькть"
       }
     },
     {
@@ -424,7 +423,7 @@
       }
     },
     {
-      "крутенькій": {
+      "крутенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -432,7 +431,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "крутенькіть"
+        "normal_form": "крутенькть"
       }
     },
     {
@@ -455,7 +454,7 @@
       }
     },
     {
-      "жолтенькій": {
+      "жолтенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -463,7 +462,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "жолтенькіть"
+        "normal_form": "жолтенькть"
       }
     },
     {
@@ -559,13 +558,14 @@
       }
     },
     {
-      "разбестія-бестія": {
+      "разбест": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "разбестія-бестіть"
+        "normal_form": "разбест"
       }
     },
     {
@@ -579,13 +579,13 @@
       }
     },
     {
-      "разбестія": {
+      "разбестя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "разбестіть"
+        "normal_form": "разбестить"
       }
     },
     {

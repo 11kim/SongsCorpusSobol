@@ -61,7 +61,7 @@
       }
     },
     {
-      "добренькій": {
+      "добренькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -69,7 +69,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "добренькіть"
+        "normal_form": "добренькть"
       }
     },
     {
@@ -508,14 +508,16 @@
       }
     },
     {
-      "міре": {
+      "м": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     },
     {

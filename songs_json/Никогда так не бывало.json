@@ -1091,15 +1091,13 @@
       }
     },
     {
-      "богатъ": {
+      "богат": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "богатъ"
+        "normal_form": "богатый"
       }
     },
     {
@@ -1114,15 +1112,13 @@
       }
     },
     {
-      "славенъ": {
+      "славен": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "славенъ"
+        "normal_form": "славный"
       }
     }
   ],

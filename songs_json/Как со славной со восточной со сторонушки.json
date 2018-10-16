@@ -121,7 +121,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -129,19 +129,19 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
-      "донъ": {
+      "дон": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "донъ"
+        "normal_form": "дон"
       }
     }
   ],
@@ -397,14 +397,15 @@
       }
     },
     {
-      "донскіе": {
+      "донске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "донскі"
+        "normal_form": "донск"
       }
     },
     {
@@ -737,7 +738,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -745,7 +746,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -1370,15 +1371,15 @@
       }
     },
     {
-      "третій-то": {
+      "трето": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "PRTS",
+          "perf",
+          "past",
+          "pssv neut",
+          "sing"
         ],
-        "normal_form": "третіть-то"
+        "normal_form": "треть"
       }
     },
     {

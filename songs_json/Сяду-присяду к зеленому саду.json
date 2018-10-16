@@ -108,15 +108,16 @@
       }
     },
     {
-      "обойдетъ": {
+      "обойдет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "обойдетъ"
+        "normal_form": "обойти"
       }
     }
   ],

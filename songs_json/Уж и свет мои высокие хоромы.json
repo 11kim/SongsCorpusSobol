@@ -39,14 +39,14 @@
       }
     },
     {
-      "высокіе": {
+      "высоке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высок"
       }
     },
     {
@@ -539,7 +539,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -547,7 +547,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -876,15 +876,11 @@
       }
     },
     {
-      "пріезду": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn",
-          "Sgtm sing",
-          "accs"
+          "UNKN"
         ],
-        "normal_form": "пріезда"
+        "normal_form": "пр"
       }
     }
   ]

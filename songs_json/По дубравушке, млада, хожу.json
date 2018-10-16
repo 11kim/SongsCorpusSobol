@@ -433,15 +433,16 @@
       }
     },
     {
-      "замолвитъ": {
+      "замолвит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "замолвитъ"
+        "normal_form": "замолвить"
       }
     }
   ],
@@ -502,15 +503,16 @@
       }
     },
     {
-      "утешитъ": {
+      "утешит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "утешитъ"
+        "normal_form": "утешить"
       }
     }
   ]

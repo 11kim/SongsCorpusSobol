@@ -37,7 +37,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -45,7 +45,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -208,7 +208,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -216,7 +216,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -281,7 +281,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -289,7 +289,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -725,7 +725,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -733,7 +733,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -838,12 +838,13 @@
       }
     },
     {
-      "глубокіих": {
+      "глубок": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіий"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -926,15 +927,12 @@
       }
     },
     {
-      "сосновыій": {
+      "сосновы": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual plur"
         ],
-        "normal_form": "сосновыіть"
+        "normal_form": "сосновый"
       }
     }
   ],

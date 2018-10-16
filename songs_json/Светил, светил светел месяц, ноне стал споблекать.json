@@ -200,7 +200,7 @@
   ],
   [
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -208,7 +208,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -692,15 +692,14 @@
       }
     },
     {
-      "галстучкомъ": {
+      "галстучком": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "галстучкомъ"
+        "normal_form": "галстучек"
       }
     }
   ]

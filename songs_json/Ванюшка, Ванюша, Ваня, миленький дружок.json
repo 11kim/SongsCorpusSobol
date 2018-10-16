@@ -37,7 +37,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -45,7 +45,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -258,16 +258,11 @@
       }
     },
     {
-      "пріуснут": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr plur",
-          "3per",
-          "futr",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріуснуть"
+        "normal_form": "пр"
       }
     }
   ],

@@ -405,27 +405,25 @@
       }
     },
     {
-      "перевозъ-отъ": {
+      "перевоз-от": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "перевозъ-отъ"
+        "normal_form": "перевоз-от"
       }
     },
     {
-      "дорогъ": {
+      "дорог": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "дорогъ"
+        "normal_form": "дорога"
       }
     },
     {
@@ -469,15 +467,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {
@@ -574,15 +571,11 @@
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     },
     {
@@ -633,15 +626,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {

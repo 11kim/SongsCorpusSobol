@@ -316,15 +316,15 @@
       }
     },
     {
-      "миленькій-милой": {
+      "миленьк": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "femn",
-          "Name sing",
-          "ablt"
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькій-мила"
+        "normal_form": "миленька"
       }
     }
   ],
@@ -403,15 +403,11 @@
       }
     },
     {
-      "дакъ": {
+      "дак": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "дакъ"
+        "normal_form": "дак"
       }
     },
     {

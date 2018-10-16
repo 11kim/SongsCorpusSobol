@@ -57,14 +57,14 @@
       }
     },
     {
-      "другіе": {
+      "друге": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
           "loct"
         ],
-        "normal_form": "другі"
+        "normal_form": "друг"
       }
     },
     {
@@ -113,14 +113,14 @@
   ],
   [
     {
-      "третіи": {
+      "трети": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "gent"
         ],
-        "normal_form": "третіь"
+        "normal_form": "треть"
       }
     },
     {
@@ -350,15 +350,16 @@
       }
     },
     {
-      "пойдемъ": {
+      "пойдем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пойдемъ"
+        "normal_form": "пойти"
       }
     },
     {
@@ -1382,15 +1383,16 @@
       }
     },
     {
-      "захотелъ": {
+      "захотел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "захотелъ"
+        "normal_form": "захотеть"
       }
     }
   ],
@@ -1442,27 +1444,25 @@
       }
     },
     {
-      "чортъ": {
+      "чорт": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "чортъ"
+        "normal_form": "чорт"
       }
     },
     {
-      "поволокъ": {
+      "поволок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "поволокъ"
+        "normal_form": "поволока"
       }
     }
   ]

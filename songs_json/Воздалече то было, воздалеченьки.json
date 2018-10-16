@@ -536,30 +536,21 @@
       }
     },
     {
-      "пріоденуся": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріоденуся"
+        "normal_form": "пр"
       }
     }
   ],
   [
     {
-      "пріоденусь": {
+      "прь": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr sing",
-          "1per",
-          "futr",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріодеться"
+        "normal_form": "прь"
       }
     },
     {
@@ -914,15 +905,15 @@
       }
     },
     {
-      "третій-то": {
+      "трето": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "PRTS",
+          "perf",
+          "past",
+          "pssv neut",
+          "sing"
         ],
-        "normal_form": "третіть-то"
+        "normal_form": "треть"
       }
     },
     {

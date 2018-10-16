@@ -101,13 +101,14 @@
       }
     },
     {
-      "стрекучія": {
+      "стрекуч": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "стрекучіть"
+        "normal_form": "стрекуча"
       }
     }
   ],
@@ -1007,13 +1008,13 @@
       }
     },
     {
-      "глубокія": {
+      "глубок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -1070,14 +1071,13 @@
       }
     },
     {
-      "высокіе": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высокий"
       }
     }
   ],

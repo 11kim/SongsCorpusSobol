@@ -859,15 +859,13 @@
       }
     },
     {
-      "малъ": {
+      "мал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "малъ"
+        "normal_form": "маленький"
       }
     },
     {
@@ -879,15 +877,16 @@
       }
     },
     {
-      "знаетъ": {
+      "знает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "знаетъ"
+        "normal_form": "знать"
       }
     },
     {
@@ -960,27 +959,27 @@
       }
     },
     {
-      "любитъ": {
+      "любит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "любитъ"
+        "normal_form": "любить"
       }
     },
     {
-      "самъ": {
+      "сам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "самъ"
+        "normal_form": "сам"
       }
     },
     {

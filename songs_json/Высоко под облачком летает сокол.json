@@ -255,15 +255,14 @@
       }
     },
     {
-      "соколичекъ": {
+      "соколичек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "соколичекъ"
+        "normal_form": "соколичка"
       }
     },
     {
@@ -275,15 +274,14 @@
       }
     },
     {
-      "синемъ": {
+      "синем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "синемъ"
+        "normal_form": "синий"
       }
     },
     {
@@ -353,15 +351,12 @@
       }
     },
     {
-      "тамъ": {
+      "там": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "тамъ"
+        "normal_form": "там"
       }
     },
     {
@@ -409,27 +404,27 @@
       }
     },
     {
-      "соколичекъ": {
+      "соколичек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "соколичекъ"
+        "normal_form": "соколичка"
       }
     },
     {
-      "плаваетъ": {
+      "плавает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "плаваетъ"
+        "normal_form": "плавать"
       }
     },
     {

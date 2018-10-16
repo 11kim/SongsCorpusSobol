@@ -171,16 +171,11 @@
   ],
   [
     {
-      "пріехал": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пръ"
       }
     },
     {
@@ -1631,16 +1626,16 @@
   ],
   [
     {
-      "пріехала": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пра"
       }
     },
     {
@@ -2647,16 +2642,16 @@
   ],
   [
     {
-      "пріехала": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пра"
       }
     },
     {
@@ -3143,23 +3138,23 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
-      "светъ": {
+      "свет": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "Sgtm sing",
+          "accs"
         ],
-        "normal_form": "светъ"
+        "normal_form": "свет"
       }
     },
     {

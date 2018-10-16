@@ -1610,15 +1610,12 @@
       }
     },
     {
-      "радъ": {
+      "рад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "радъ"
+        "normal_form": "рад"
       }
     },
     {
@@ -1641,15 +1638,16 @@
       }
     },
     {
-      "примолвилъ": {
+      "примолвил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "примолвилъ"
+        "normal_form": "примолвить"
       }
     },
     {

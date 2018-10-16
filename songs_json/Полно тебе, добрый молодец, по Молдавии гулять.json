@@ -50,14 +50,15 @@
       }
     },
     {
-      "молдавіи": {
+      "молдави": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "молдавіь"
+        "normal_form": "молдавить"
       }
     },
     {
@@ -130,7 +131,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -138,7 +139,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -174,15 +175,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -220,15 +217,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {
@@ -763,7 +759,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -771,7 +767,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -845,11 +841,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -864,11 +860,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -915,11 +911,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -993,11 +989,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {

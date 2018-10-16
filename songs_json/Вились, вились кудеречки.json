@@ -127,14 +127,15 @@
       }
     },
     {
-      "беду-несчастіе": {
+      "беду-несчасте": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "accs"
+          "anim",
+          "femn",
+          "Name sing",
+          "datv"
         ],
-        "normal_form": "беда-несчастіё"
+        "normal_form": "беду-несчаста"
       }
     },
     {
@@ -159,14 +160,14 @@
       }
     },
     {
-      "солдатствіе": {
+      "солдатств": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "солдатстві"
+        "normal_form": "солдатство"
       }
     }
   ],

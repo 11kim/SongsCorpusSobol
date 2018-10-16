@@ -492,15 +492,16 @@
       }
     },
     {
-      "пашетъ": {
+      "пашет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "пашетъ"
+        "normal_form": "пахать"
       }
     }
   ],
@@ -574,13 +575,13 @@
       }
     },
     {
-      "широкія": {
+      "широк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкий"
       }
     },
     {
@@ -595,13 +596,13 @@
       }
     },
     {
-      "глубокія": {
+      "глубок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -723,15 +724,14 @@
       }
     },
     {
-      "охотникъ": {
+      "охотник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "охотникъ"
+        "normal_form": "охотник"
       }
     },
     {
@@ -744,27 +744,27 @@
       }
     },
     {
-      "собакъ": {
+      "собак": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "accs"
         ],
-        "normal_form": "собакъ"
+        "normal_form": "собака"
       }
     },
     {
-      "держитъ": {
+      "держит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "держитъ"
+        "normal_form": "держать"
       }
     }
   ],

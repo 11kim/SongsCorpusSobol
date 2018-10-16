@@ -322,15 +322,14 @@
       }
     },
     {
-      "снегъ": {
+      "снег": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "снегъ"
+        "normal_form": "снег"
       }
     }
   ],
@@ -366,15 +365,14 @@
       }
     },
     {
-      "цветокъ": {
+      "цветок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "цветокъ"
+        "normal_form": "цветок"
       }
     }
   ],

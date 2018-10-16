@@ -40,7 +40,7 @@
       }
     },
     {
-      "дворянскій": {
+      "дворянскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -48,7 +48,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дворянскіть"
+        "normal_form": "дворянскть"
       }
     },
     {
@@ -164,7 +164,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -172,7 +172,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -449,15 +449,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -828,35 +828,30 @@
       }
     },
     {
-      "вечоръ": {
+      "вечор": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "вечоръ"
+        "normal_form": "вечор"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "рыночекъ": {
+      "рыночек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "рыночекъ"
+        "normal_form": "рыночка"
       }
     },
     {

@@ -564,7 +564,7 @@
       }
     },
     {
-      "дальній": {
+      "дальнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -572,7 +572,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дальніть"
+        "normal_form": "дальнть"
       }
     },
     {
@@ -801,16 +801,11 @@
       }
     },
     {
-      "пріехал": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пръ"
       }
     },
     {

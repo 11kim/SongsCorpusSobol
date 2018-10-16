@@ -32,13 +32,13 @@
   ],
   [
     {
-      "ярославскія": {
+      "ярославскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "ярославскіть"
+        "normal_form": "ярославскть"
       }
     },
     {
@@ -202,14 +202,15 @@
       }
     },
     {
-      "царскіе": {
+      "царск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "царскі"
+        "normal_form": "царск"
       }
     }
   ],
@@ -223,14 +224,15 @@
       }
     },
     {
-      "рекрутскіе": {
+      "рекрутске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "рекрутскі"
+        "normal_form": "рекрутск"
       }
     },
     {

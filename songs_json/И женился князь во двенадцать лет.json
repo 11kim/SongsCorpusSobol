@@ -936,15 +936,16 @@
       }
     },
     {
-      "стоитъ": {
+      "стоит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr",
+          "Impe sing",
+          "pres",
+          "indc"
         ],
-        "normal_form": "стоитъ"
+        "normal_form": "стоить"
       }
     },
     {
@@ -959,27 +960,24 @@
       }
     },
     {
-      "высокъ": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокъ"
+        "normal_form": "высокий"
       }
     },
     {
-      "терёмъ": {
+      "терём": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "терёмъ"
+        "normal_form": "терь"
       }
     }
   ],
@@ -1359,27 +1357,24 @@
       }
     },
     {
-      "высокъ": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокъ"
+        "normal_form": "высокий"
       }
     },
     {
-      "терёмъ": {
+      "терём": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "терёмъ"
+        "normal_form": "терь"
       }
     },
     {
@@ -1393,15 +1388,16 @@
       }
     },
     {
-      "стоитъ": {
+      "стоит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr",
+          "Impe sing",
+          "pres",
+          "indc"
         ],
-        "normal_form": "стоитъ"
+        "normal_form": "стоить"
       }
     }
   ],
@@ -2468,15 +2464,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ],

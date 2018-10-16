@@ -114,14 +114,15 @@
       }
     },
     {
-      "маленькіе": {
+      "маленьк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "маленькі"
+        "normal_form": "маленька"
       }
     }
   ],
@@ -415,16 +416,11 @@
       }
     },
     {
-      "кофію": {
+      "коф": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "кофіть"
+        "normal_form": "коф"
       }
     }
   ],

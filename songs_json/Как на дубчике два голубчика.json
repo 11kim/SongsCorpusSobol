@@ -758,27 +758,28 @@
       }
     },
     {
-      "этотъ": {
+      "этот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
+          "ADJF",
+          "Apro",
+          "Subx",
+          "Anph inan",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "sing",
+          "accs"
         ],
-        "normal_form": "этотъ"
+        "normal_form": "этот"
       }
     },
     {
-      "голубокъ": {
+      "голубок": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "голубокъ"
+        "normal_form": "голубок"
       }
     },
     {
@@ -808,27 +809,26 @@
       }
     },
     {
-      "милъ": {
+      "мил": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "милъ"
+        "normal_form": "мила"
       }
     },
     {
-      "дружокъ": {
+      "дружок": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "дружокъ"
+        "normal_form": "дружок"
       }
     }
   ],
@@ -881,15 +881,14 @@
       }
     },
     {
-      "отецъ": {
+      "отец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "отецъ"
+        "normal_form": "отец"
       }
     }
   ],
@@ -1092,27 +1091,26 @@
       }
     },
     {
-      "жемчугомъ": {
+      "жемчугом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "жемчугомъ"
+        "normal_form": "жемчуг"
       }
     },
     {
-      "убранъ": {
+      "убран": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRTS",
+          "perf",
+          "past",
+          "pssv masc",
+          "sing"
         ],
-        "normal_form": "убранъ"
+        "normal_form": "убрать"
       }
     }
   ],
@@ -1649,11 +1647,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1746,15 +1744,12 @@
       }
     },
     {
-      "говорятъ": {
+      "говорят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ",
+          "Prnt"
         ],
-        "normal_form": "говорятъ"
+        "normal_form": "говорят"
       }
     }
   ],
@@ -1810,11 +1805,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1829,15 +1824,14 @@
       }
     },
     {
-      "смеятъ": {
+      "смеят": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "смеятъ"
+        "normal_form": "смеёнок"
       }
     }
   ]

@@ -77,14 +77,16 @@
       }
     },
     {
-      "тяжкіе": {
+      "тяжк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Fixd",
+          "Orgn sing",
+          "nomn"
         ],
-        "normal_form": "тяжкі"
+        "normal_form": "тяжк"
       }
     },
     {
@@ -393,23 +395,22 @@
       }
     },
     {
-      "другъ": {
+      "друг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "другъ"
+        "normal_form": "друг"
       }
     },
     {
-      "отъ": {
+      "от": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "отъ"
+        "normal_form": "от"
       }
     },
     {
@@ -508,15 +509,11 @@
       }
     },
     {
-      "векъ": {
+      "век": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "векъ"
+        "normal_form": "век"
       }
     },
     {
@@ -573,14 +570,15 @@
       }
     },
     {
-      "грузіи": {
+      "грузи": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "грузіь"
+        "normal_form": "грузить"
       }
     },
     {
@@ -760,13 +758,13 @@
       }
     },
     {
-      "мелкія": {
+      "мелкя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "мелкіть"
+        "normal_form": "мелкть"
       }
     },
     {

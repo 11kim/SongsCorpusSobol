@@ -39,15 +39,16 @@
       }
     },
     {
-      "болитъ": {
+      "болит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "болитъ"
+        "normal_form": "болеть"
       }
     }
   ],
@@ -599,7 +600,7 @@
       }
     },
     {
-      "маленькій": {
+      "маленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -607,7 +608,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "маленькіть"
+        "normal_form": "маленькть"
       }
     },
     {
@@ -655,7 +656,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -663,7 +664,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -757,14 +758,15 @@
       }
     },
     {
-      "дубовенькіе": {
+      "дубовеньк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "дубовенькі"
+        "normal_form": "дубовенька"
       }
     }
   ],

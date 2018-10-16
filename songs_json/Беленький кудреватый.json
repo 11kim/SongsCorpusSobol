@@ -1,7 +1,7 @@
 [
   [
     {
-      "беленькій": {
+      "беленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -9,7 +9,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленькть"
       }
     },
     {
@@ -472,14 +472,14 @@
   ],
   [
     {
-      "другіе": {
+      "друге": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
           "loct"
         ],
-        "normal_form": "другі"
+        "normal_form": "друг"
       }
     },
     {
@@ -514,15 +514,14 @@
       }
     },
     {
-      "ухомъ": {
+      "ухом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "ухомъ"
+        "normal_form": "ухо"
       }
     },
     {
@@ -549,14 +548,15 @@
   ],
   [
     {
-      "третіи-то": {
+      "трето": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "PRTS",
+          "perf",
+          "past",
+          "pssv neut",
+          "sing"
         ],
-        "normal_form": "третіь-то"
+        "normal_form": "треть"
       }
     },
     {
@@ -674,15 +674,16 @@
       }
     },
     {
-      "ходитъ": {
+      "ходит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "ходитъ"
+        "normal_form": "ходить"
       }
     },
     {
@@ -1271,15 +1272,13 @@
       }
     },
     {
-      "старъ": {
+      "стар": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "старъ"
+        "normal_form": "старый"
       }
     },
     {
@@ -1291,11 +1290,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1328,15 +1327,16 @@
       }
     },
     {
-      "сталъ": {
+      "стал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "сталъ"
+        "normal_form": "стать"
       }
     }
   ],

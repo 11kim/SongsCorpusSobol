@@ -142,15 +142,16 @@
       }
     },
     {
-      "живетъ": {
+      "живет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "живетъ"
+        "normal_form": "жить"
       }
     },
     {
@@ -611,14 +612,14 @@
   ],
   [
     {
-      "другіе": {
+      "друге": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
           "loct"
         ],
-        "normal_form": "другі"
+        "normal_form": "друг"
       }
     },
     {
@@ -937,15 +938,14 @@
       }
     },
     {
-      "врагъ": {
+      "враг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "врагъ"
+        "normal_form": "враг"
       }
     },
     {

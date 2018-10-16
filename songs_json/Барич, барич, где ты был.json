@@ -96,15 +96,16 @@
       }
     },
     {
-      "пилъ": {
+      "пил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пилъ"
+        "normal_form": "пить"
       }
     }
   ],

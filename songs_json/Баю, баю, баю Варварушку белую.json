@@ -504,27 +504,25 @@
       }
     },
     {
-      "воровъ": {
+      "воров": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "воровъ"
+        "normal_form": "вор"
       }
     },
     {
-      "каменьщичковъ": {
+      "каменьщичков": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "каменьщичковъ"
+        "normal_form": "каменьщичок"
       }
     }
   ],

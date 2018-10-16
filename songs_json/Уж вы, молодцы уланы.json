@@ -124,27 +124,24 @@
       }
     },
     {
-      "подъ": {
+      "под": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "подъ"
+        "normal_form": "под"
       }
     },
     {
-      "можаемъ": {
+      "можаем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "1per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "можаемъ"
+        "normal_form": "можать"
       }
     },
     {
@@ -325,15 +322,14 @@
       }
     },
     {
-      "дворъ": {
+      "двор": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "дворъ"
+        "normal_form": "двор"
       }
     },
     {
@@ -452,15 +448,11 @@
       }
     },
     {
-      "чрезъ": {
+      "чрез": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "чрезъ"
+        "normal_form": "чрез"
       }
     },
     {

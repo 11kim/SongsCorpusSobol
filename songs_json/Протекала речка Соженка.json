@@ -510,7 +510,7 @@
       }
     },
     {
-      "хорошій": {
+      "хорошй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -518,7 +518,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "хорошіть"
+        "normal_form": "хорошть"
       }
     },
     {
@@ -900,14 +900,11 @@
       }
     },
     {
-      "пріятелей": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn plur",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "пріятель"
+        "normal_form": "пр"
       }
     }
   ]

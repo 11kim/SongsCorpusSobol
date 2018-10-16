@@ -61,15 +61,15 @@
       }
     },
     {
-      "молоденькій": {
+      "молоденьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "молоденькіть"
+        "normal_form": "молоденька"
       }
     }
   ],
@@ -967,14 +967,12 @@
   ],
   [
     {
-      "дальніе": {
+      "дальне": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS neut",
+          "sing"
         ],
-        "normal_form": "дальні"
+        "normal_form": "дальний"
       }
     },
     {
@@ -986,14 +984,13 @@
       }
     },
     {
-      "ближніе": {
+      "ближн": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "ближні"
+        "normal_form": "ближный"
       }
     }
   ],
@@ -1010,14 +1007,15 @@
       }
     },
     {
-      "посторонніе": {
+      "посторонн": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "посторонні"
+        "normal_form": "посторонна"
       }
     }
   ],

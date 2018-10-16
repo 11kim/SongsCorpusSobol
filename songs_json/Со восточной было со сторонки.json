@@ -480,15 +480,15 @@
       }
     },
     {
-      "человечій": {
+      "человеч": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "человечіть"
+        "normal_form": "человеч"
       }
     }
   ],
@@ -922,15 +922,11 @@
       }
     },
     {
-      "вотъ": {
+      "вот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRCL"
         ],
-        "normal_form": "вотъ"
+        "normal_form": "вот"
       }
     },
     {
@@ -942,39 +938,32 @@
       }
     },
     {
-      "какъ-то": {
+      "как-то": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "какъ-то"
+        "normal_form": "как-то"
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {
-      "казачекъ": {
+      "казачек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "казачекъ"
+        "normal_form": "казачка"
       }
     },
     {

@@ -71,15 +71,15 @@
       }
     },
     {
-      "бурлацкій": {
+      "бурлацк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "бурлацкіть"
+        "normal_form": "бурлацк"
       }
     }
   ],
@@ -132,15 +132,16 @@
       }
     },
     {
-      "посадскій": {
+      "посадск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Orgn sing",
+          "nomn"
         ],
-        "normal_form": "посадскіть"
+        "normal_form": "посадск"
       }
     }
   ],
@@ -273,15 +274,14 @@
       }
     },
     {
-      "праздникъ": {
+      "праздник": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "праздникъ"
+        "normal_form": "праздник"
       }
     },
     {
@@ -293,15 +293,14 @@
       }
     },
     {
-      "рублевикъ": {
+      "рублевик": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "рублевикъ"
+        "normal_form": "рублёвик"
       }
     }
   ],
@@ -365,13 +364,16 @@
   ],
   [
     {
-      "александрійскую": {
+      "александрю": {
         "OpencorporaTag": [
-          "ADJF femn",
-          "sing",
-          "accs"
+          "VERB",
+          "perf",
+          "intr sing",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "александрійский"
+        "normal_form": "александрить"
       }
     },
     {

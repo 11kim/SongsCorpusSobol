@@ -288,7 +288,7 @@
       }
     },
     {
-      "остатній": {
+      "остатнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -296,7 +296,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "остатніть"
+        "normal_form": "остатнть"
       }
     },
     {
@@ -1162,16 +1162,11 @@
       }
     },
     {
-      "на...л": {
+      "на": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran masc",
-          "sing",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "на...ть"
+        "normal_form": "на"
       }
     }
   ]

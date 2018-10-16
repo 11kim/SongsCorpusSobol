@@ -157,7 +157,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -165,7 +165,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -323,7 +323,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -331,7 +331,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -362,7 +362,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -370,7 +370,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -560,7 +560,7 @@
       }
     },
     {
-      "легонькій": {
+      "легонькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -568,7 +568,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "легонькіть"
+        "normal_form": "легонькть"
       }
     },
     {
@@ -587,31 +587,31 @@
   ],
   [
     {
-      "легонькій": {
+      "легоньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "легонькіть"
+        "normal_form": "легонька"
       }
     },
     {
-      "расхоженькій": {
+      "расхоженьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "расхоженькіть"
+        "normal_form": "расхоженька"
       }
     },
     {
-      "расхоженькій": {
+      "расхоженькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -619,7 +619,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "расхоженькіть"
+        "normal_form": "расхоженькть"
       }
     },
     {
@@ -838,15 +838,16 @@
       }
     },
     {
-      "сталъ": {
+      "стал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "сталъ"
+        "normal_form": "стать"
       }
     },
     {
@@ -1054,23 +1055,24 @@
       }
     },
     {
-      "снимутъ": {
+      "снимут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "снимутъ"
+        "normal_form": "снять"
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1201,15 +1203,14 @@
       }
     },
     {
-      "свекоръ": {
+      "свекор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "свекоръ"
+        "normal_form": "свёкор"
       }
     },
     {
@@ -1327,15 +1328,14 @@
       }
     },
     {
-      "мужъ": {
+      "муж": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ"
+        "normal_form": "муж"
       }
     },
     {

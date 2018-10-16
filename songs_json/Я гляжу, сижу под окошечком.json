@@ -324,15 +324,16 @@
       }
     },
     {
-      "бежимъ": {
+      "бежим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "бежимъ"
+        "normal_form": "бежать"
       }
     },
     {
@@ -996,14 +997,14 @@
       }
     },
     {
-      "глубокіе": {
+      "глубоке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "глубокі"
+        "normal_form": "глубок"
       }
     }
   ],
@@ -1202,14 +1203,14 @@
       }
     },
     {
-      "глубокіе": {
+      "глубоке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "глубокі"
+        "normal_form": "глубок"
       }
     }
   ],
@@ -2549,39 +2550,34 @@
       }
     },
     {
-      "новъ": {
+      "нов": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "новъ"
+        "normal_form": "новый"
       }
     },
     {
-      "высокъ": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокъ"
+        "normal_form": "высокий"
       }
     },
     {
-      "теремъ": {
+      "терем": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "теремъ"
+        "normal_form": "терем"
       }
     }
   ],

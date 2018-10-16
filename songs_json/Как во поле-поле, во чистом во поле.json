@@ -172,14 +172,12 @@
       }
     },
     {
-      "чужіе": {
+      "чуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "чужі"
+        "normal_form": "чужой"
       }
     },
     {
@@ -193,14 +191,12 @@
   ],
   [
     {
-      "ближніе": {
+      "ближне": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS neut",
+          "sing"
         ],
-        "normal_form": "ближні"
+        "normal_form": "ближний"
       }
     },
     {
@@ -259,11 +255,14 @@
       }
     },
     {
-      "ихъ": {
+      "их": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "3per",
+          "Anph plur",
+          "gent"
         ],
-        "normal_form": "ихъ"
+        "normal_form": "они"
       }
     },
     {
@@ -617,13 +616,13 @@
       }
     },
     {
-      "чужія": {
+      "чужя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "чужіть"
+        "normal_form": "чужть"
       }
     },
     {
@@ -842,13 +841,13 @@
       }
     },
     {
-      "чужія": {
+      "чужя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "чужіть"
+        "normal_form": "чужть"
       }
     },
     {

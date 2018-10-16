@@ -33,16 +33,11 @@
       }
     },
     {
-      "пріехал": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -271,16 +266,14 @@
       }
     },
     {
-      "россію": {
+      "росс": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "россіть"
+        "normal_form": "росс"
       }
     }
   ],
@@ -1228,15 +1221,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {

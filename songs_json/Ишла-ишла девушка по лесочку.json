@@ -137,15 +137,14 @@
       }
     },
     {
-      "груздочекъ": {
+      "груздочек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "груздочекъ"
+        "normal_form": "груздочка"
       }
     }
   ],
@@ -399,7 +398,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -407,7 +406,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -535,11 +534,15 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
@@ -551,15 +554,16 @@
       }
     },
     {
-      "видитъ": {
+      "видит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "видитъ"
+        "normal_form": "видеть"
       }
     }
   ],
@@ -608,11 +612,15 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
@@ -624,15 +632,16 @@
       }
     },
     {
-      "слышитъ": {
+      "слышит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "слышитъ"
+        "normal_form": "слышать"
       }
     }
   ],
@@ -664,16 +673,11 @@
       }
     },
     {
-      "пріустала": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріустать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -711,16 +715,11 @@
       }
     },
     {
-      "пріуснула": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріуснуть"
+        "normal_form": "пр"
       }
     }
   ],
@@ -758,7 +757,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -766,7 +765,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {

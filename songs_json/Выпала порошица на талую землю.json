@@ -652,27 +652,22 @@
       }
     },
     {
-      "самъ": {
+      "сам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "самъ"
+        "normal_form": "сам"
       }
     },
     {
-      "попъ-отъ": {
+      "поп-от": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "попъ-отъ"
+        "normal_form": "поп-от"
       }
     },
     {

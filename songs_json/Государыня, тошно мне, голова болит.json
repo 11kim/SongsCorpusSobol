@@ -208,15 +208,16 @@
       }
     },
     {
-      "глядятъ": {
+      "глядят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "глядятъ"
+        "normal_form": "глядеть"
       }
     }
   ],
@@ -300,15 +301,16 @@
       }
     },
     {
-      "велятъ": {
+      "велят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "велятъ"
+        "normal_form": "велеть"
       }
     }
   ],

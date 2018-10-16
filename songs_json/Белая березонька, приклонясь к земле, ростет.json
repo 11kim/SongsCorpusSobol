@@ -132,13 +132,13 @@
       }
     },
     {
-      "горькія": {
+      "горькя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "горькіть"
+        "normal_form": "горькть"
       }
     },
     {
@@ -647,15 +647,14 @@
       }
     },
     {
-      "свекоръ": {
+      "свекор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "свекоръ"
+        "normal_form": "свёкор"
       }
     },
     {
@@ -680,13 +679,13 @@
   ],
   [
     {
-      "третія": {
+      "третя": {
         "OpencorporaTag": [
           "GRND",
-          "impf",
-          "tran pres"
+          "perf",
+          "tran past"
         ],
-        "normal_form": "третіть"
+        "normal_form": "трести"
       }
     },
     {
@@ -771,15 +770,14 @@
       }
     },
     {
-      "мужъ": {
+      "муж": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ"
+        "normal_form": "муж"
       }
     },
     {
@@ -985,13 +983,15 @@
       }
     },
     {
-      "господскіим": {
+      "господскъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "господскіий"
+        "normal_form": "господскъ"
       }
     },
     {
@@ -1016,13 +1016,15 @@
       }
     },
     {
-      "господскіим": {
+      "господскъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "господскіий"
+        "normal_form": "господскъ"
       }
     },
     {
@@ -1161,13 +1163,15 @@
       }
     },
     {
-      "чужемужніим": {
+      "чужемужнъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "чужемужніий"
+        "normal_form": "чужемужнъ"
       }
     },
     {
@@ -1679,15 +1683,16 @@
       }
     },
     {
-      "хотятъ": {
+      "хотят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "хотятъ"
+        "normal_form": "хотеть"
       }
     },
     {
@@ -1780,14 +1785,16 @@
   ],
   [
     {
-      "третіе": {
+      "трете": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "VERB",
+          "impf",
+          "tran plur",
+          "2per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "треті"
+        "normal_form": "тереть"
       }
     },
     {

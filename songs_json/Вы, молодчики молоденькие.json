@@ -22,14 +22,15 @@
       }
     },
     {
-      "молоденькіе": {
+      "молоденьк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "молоденькі"
+        "normal_form": "молоденька"
       }
     }
   ],
@@ -64,14 +65,15 @@
       }
     },
     {
-      "коротенькіе": {
+      "коротеньк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "коротенькі"
+        "normal_form": "коротенька"
       }
     }
   ],

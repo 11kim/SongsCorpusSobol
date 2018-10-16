@@ -965,23 +965,22 @@
       }
     },
     {
-      "эхъ": {
+      "эх": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "эхъ"
+        "normal_form": "эх"
       }
     },
     {
-      "хозяинъ": {
+      "хозяин": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "хозяинъ"
+        "normal_form": "хозяин"
       }
     },
     {
@@ -1020,15 +1019,15 @@
       }
     },
     {
-      "ураломъ": {
+      "уралом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "Geox sing",
+          "ablt"
         ],
-        "normal_form": "ураломъ"
+        "normal_form": "урал"
       }
     },
     {

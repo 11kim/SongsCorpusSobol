@@ -871,7 +871,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -879,7 +879,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -1176,13 +1176,16 @@
       }
     },
     {
-      "пріему": {
+      "пру": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "datv"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "accs"
         ],
-        "normal_form": "пріий"
+        "normal_form": "пра"
       }
     },
     {

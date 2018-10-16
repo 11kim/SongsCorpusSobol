@@ -19,7 +19,7 @@
       }
     },
     {
-      "размолодешенькій": {
+      "размолодешенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -27,7 +27,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "размолодешенькіть"
+        "normal_form": "размолодешенькть"
       }
     },
     {
@@ -463,35 +463,33 @@
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "милымъ": {
+      "милым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Subx",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "милымъ"
+        "normal_form": "милый"
       }
     },
     {
@@ -559,15 +557,13 @@
       }
     },
     {
-      "миленькимъ": {
+      "миленьким": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "миленькимъ"
+        "normal_form": "миленький"
       }
     },
     {

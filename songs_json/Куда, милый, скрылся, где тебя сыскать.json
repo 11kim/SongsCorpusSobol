@@ -340,7 +340,7 @@
   ],
   [
     {
-      "ѣдет": {
+      "дет": {
         "OpencorporaTag": [
           "PRTS",
           "perf",
@@ -348,7 +348,7 @@
           "pssv masc",
           "sing"
         ],
-        "normal_form": "ѣдеть"
+        "normal_form": "деть"
       }
     },
     {
@@ -449,7 +449,7 @@
       }
     },
     {
-      "черкесскій": {
+      "черкесскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -457,7 +457,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "черкесскіть"
+        "normal_form": "черкесскть"
       }
     },
     {
@@ -613,15 +613,14 @@
       }
     },
     {
-      "грошъ": {
+      "грош": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "грошъ"
+        "normal_form": "грош"
       }
     }
   ],
@@ -728,23 +727,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "комъ": {
+      "ком": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "комъ"
+        "normal_form": "ком"
       }
     },
     {
@@ -759,15 +757,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ]

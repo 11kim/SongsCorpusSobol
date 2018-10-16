@@ -84,14 +84,14 @@
   ],
   [
     {
-      "трай-рум-рум": {
+      "трай-румъ-рум": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "nomn"
         ],
-        "normal_form": "трай-рум-рум"
+        "normal_form": "трай-румъ-рум"
       }
     },
     {
@@ -359,16 +359,15 @@
   ],
   [
     {
-      "третію": {
+      "третю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третя"
       }
     },
     {
@@ -385,16 +384,15 @@
       }
     },
     {
-      "третію": {
+      "третю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третя"
       }
     },
     {
@@ -586,39 +584,38 @@
       }
     },
     {
-      "возъ": {
+      "воз": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "возъ"
+        "normal_form": "воз"
       }
     },
     {
-      "хлебовъ": {
+      "хлебов": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "хлебовъ"
+        "normal_form": "хлеб"
       }
     },
     {
-      "везетъ": {
+      "везет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "везетъ"
+        "normal_form": "везти"
       }
     }
   ],
@@ -778,39 +775,38 @@
       }
     },
     {
-      "возъ": {
+      "воз": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "возъ"
+        "normal_form": "воз"
       }
     },
     {
-      "дудокъ": {
+      "дудок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "дудокъ"
+        "normal_form": "дудка"
       }
     },
     {
-      "везетъ": {
+      "везет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "везетъ"
+        "normal_form": "везти"
       }
     }
   ],
@@ -894,11 +890,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -913,29 +909,28 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "вершокъ": {
+      "вершок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "вершокъ"
+        "normal_form": "вершок"
       }
     }
   ],
   [
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -943,7 +938,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -979,39 +974,38 @@
       }
     },
     {
-      "возъ": {
+      "воз": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "возъ"
+        "normal_form": "воз"
       }
     },
     {
-      "чеботовъ": {
+      "чеботов": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "чеботовъ"
+        "normal_form": "чёбот"
       }
     },
     {
-      "везетъ": {
+      "везет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "везетъ"
+        "normal_form": "везти"
       }
     }
   ],
@@ -1171,39 +1165,38 @@
       }
     },
     {
-      "возъ": {
+      "воз": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "возъ"
+        "normal_form": "воз"
       }
     },
     {
-      "книжекъ": {
+      "книжек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "книжекъ"
+        "normal_form": "книжка"
       }
     },
     {
-      "везетъ": {
+      "везет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "везетъ"
+        "normal_form": "везти"
       }
     }
   ],

@@ -194,27 +194,26 @@
       }
     },
     {
-      "генералъ": {
+      "генерал": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "генералъ"
+        "normal_form": "генерал"
       }
     },
     {
-      "смоленскій": {
+      "смоленск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "смоленскіть"
+        "normal_form": "смоленск"
       }
     },
     {
@@ -226,27 +225,23 @@
       }
     },
     {
-      "маіоръ": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіоръ"
+        "normal_form": "маъ"
       }
     },
     {
-      "преображенскій": {
+      "преображенск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "преображенскіть"
+        "normal_form": "преображенск"
       }
     }
   ],
@@ -284,7 +279,7 @@
       }
     },
     {
-      "семеновскій": {
+      "семеновскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -292,7 +287,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "семеновскіть"
+        "normal_form": "семеновскть"
       }
     },
     {
@@ -504,27 +499,27 @@
       }
     },
     {
-      "генералъ": {
+      "генерал": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "генералъ"
+        "normal_form": "генерал"
       }
     },
     {
-      "пилъ": {
+      "пил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пилъ"
+        "normal_form": "пить"
       }
     },
     {
@@ -547,15 +542,11 @@
       }
     },
     {
-      "маіоръ": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіоръ"
+        "normal_form": "маъ"
       }
     },
     {
@@ -830,23 +821,27 @@
       }
     },
     {
-      "генералъ": {
+      "генерал": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "генералъ"
+        "normal_form": "генерал"
       }
     },
     {
-      "елъ": {
+      "ел": {
         "OpencorporaTag": [
-          "UNKN"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "елъ"
+        "normal_form": "есть"
       }
     },
     {
@@ -869,23 +864,24 @@
       }
     },
     {
-      "маіоръ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "маіоръ"
-      }
-    },
-    {
-      "елъ": {
+      "маъ": {
         "OpencorporaTag": [
           "UNKN"
         ],
-        "normal_form": "елъ"
+        "normal_form": "маъ"
+      }
+    },
+    {
+      "ел": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "есть"
       }
     },
     {
@@ -1147,27 +1143,27 @@
       }
     },
     {
-      "генералъ": {
+      "генерал": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "генералъ"
+        "normal_form": "генерал"
       }
     },
     {
-      "любитъ": {
+      "любит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "любитъ"
+        "normal_form": "любить"
       }
     },
     {
@@ -1192,27 +1188,24 @@
       }
     },
     {
-      "маіоръ": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіоръ"
+        "normal_form": "маъ"
       }
     },
     {
-      "любитъ": {
+      "любит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "любитъ"
+        "normal_form": "любить"
       }
     },
     {

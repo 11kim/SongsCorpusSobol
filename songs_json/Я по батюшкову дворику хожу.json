@@ -400,14 +400,11 @@
       }
     },
     {
-      "кра̀сота": {
+      "кра": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "кра̀сота"
+        "normal_form": "кра"
       }
     }
   ],
@@ -1174,15 +1171,13 @@
       }
     },
     {
-      "нуженъ": {
+      "нужен": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "нуженъ"
+        "normal_form": "нужный"
       }
     },
     {
@@ -1197,15 +1192,14 @@
       }
     },
     {
-      "подарочекъ": {
+      "подарочек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "подарочекъ"
+        "normal_form": "подарочек"
       }
     }
   ],

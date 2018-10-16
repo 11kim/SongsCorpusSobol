@@ -96,13 +96,14 @@
       }
     },
     {
-      "мелкія": {
+      "мелк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "мелкіть"
+        "normal_form": "мёлк"
       }
     }
   ],
@@ -216,15 +217,15 @@
       }
     },
     {
-      "молоденькій": {
+      "молоденьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "молоденькіть"
+        "normal_form": "молоденька"
       }
     }
   ],
@@ -326,13 +327,11 @@
       }
     },
     {
-      "пріуныв": {
+      "пр": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "intr past"
+          "UNKN"
         ],
-        "normal_form": "пріуныть"
+        "normal_form": "пр"
       }
     },
     {

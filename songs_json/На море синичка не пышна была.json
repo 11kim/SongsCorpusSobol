@@ -546,15 +546,12 @@
       }
     },
     {
-      "радъ": {
+      "рад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "радъ"
+        "normal_form": "рад"
       }
     },
     {
@@ -1301,15 +1298,14 @@
       }
     },
     {
-      "прилетевшій": {
+      "прилетевш": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "прилетевшіть"
+        "normal_form": "прилетевш"
       }
     },
     {
@@ -1342,7 +1338,7 @@
   ],
   [
     {
-      "ѣдет": {
+      "дет": {
         "OpencorporaTag": [
           "PRTS",
           "perf",
@@ -1350,7 +1346,7 @@
           "pssv masc",
           "sing"
         ],
-        "normal_form": "ѣдеть"
+        "normal_form": "деть"
       }
     },
     {
@@ -1362,16 +1358,11 @@
       }
     },
     {
-      "пріедет": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr sing",
-          "3per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пръ"
       }
     },
     {
@@ -1426,15 +1417,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     }
   ],

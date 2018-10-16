@@ -369,13 +369,13 @@
   ],
   [
     {
-      "могучія": {
+      "могучя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "могучіть"
+        "normal_form": "могучть"
       }
     },
     {
@@ -1546,39 +1546,37 @@
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     },
     {
-      "идетъ": {
+      "идет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "идетъ"
+        "normal_form": "идти"
       }
     },
     {
-      "хочетъ": {
+      "хочет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "хочетъ"
+        "normal_form": "хотеть"
       }
     },
     {
@@ -1598,27 +1596,27 @@
       }
     },
     {
-      "вдовахъ": {
+      "вдовах": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "loct"
         ],
-        "normal_form": "вдовахъ"
+        "normal_form": "вдова"
       }
     },
     {
-      "сидитъ": {
+      "сидит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "сидитъ"
+        "normal_form": "сидеть"
       }
     }
   ],

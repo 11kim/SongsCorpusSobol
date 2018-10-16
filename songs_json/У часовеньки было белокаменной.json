@@ -118,7 +118,7 @@
       }
     },
     {
-      "казачій": {
+      "казачй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -126,19 +126,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "казачіть"
+        "normal_form": "казачть"
       }
     },
     {
-      "кругъ": {
+      "круг": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "кругъ"
+        "normal_form": "круг"
       }
     }
   ],
@@ -393,14 +392,15 @@
       }
     },
     {
-      "донскіе": {
+      "донске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "донскі"
+        "normal_form": "донск"
       }
     },
     {
@@ -818,7 +818,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -826,7 +826,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -1051,14 +1051,15 @@
       }
     },
     {
-      "горскіе": {
+      "горск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "горскі"
+        "normal_form": "горск"
       }
     }
   ]

@@ -214,13 +214,15 @@
       }
     },
     {
-      "солдатскія": {
+      "солдатск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатск"
       }
     }
   ],
@@ -444,7 +446,7 @@
       }
     },
     {
-      "сердечній": {
+      "сердечнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -452,7 +454,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сердечніть"
+        "normal_form": "сердечнть"
       }
     },
     {
@@ -523,7 +525,7 @@
       }
     },
     {
-      "сердечній": {
+      "сердечнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -531,7 +533,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сердечніть"
+        "normal_form": "сердечнть"
       }
     },
     {
@@ -1242,7 +1244,7 @@
       }
     },
     {
-      "сердечній": {
+      "сердечнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1250,7 +1252,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сердечніть"
+        "normal_form": "сердечнть"
       }
     },
     {

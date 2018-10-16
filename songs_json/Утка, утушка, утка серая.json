@@ -152,11 +152,11 @@
       }
     },
     {
-      "жъ": {
+      "ж": {
         "OpencorporaTag": [
-          "UNKN"
+          "CONJ"
         ],
-        "normal_form": "жъ"
+        "normal_form": "ж"
       }
     },
     {
@@ -486,23 +486,22 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
-      "луговъ": {
+      "лугов": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "луговъ"
+        "normal_form": "луг"
       }
     },
     {

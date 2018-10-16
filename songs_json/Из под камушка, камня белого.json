@@ -531,11 +531,15 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
@@ -550,15 +554,16 @@
       }
     },
     {
-      "губилъ": {
+      "губил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "губилъ"
+        "normal_form": "губить"
       }
     }
   ],
@@ -1170,11 +1175,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1310,15 +1315,14 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
@@ -1442,15 +1446,14 @@
       }
     },
     {
-      "сыромъ": {
+      "сыром": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "сыромъ"
+        "normal_form": "сыр"
       }
     },
     {
@@ -1597,15 +1600,13 @@
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {

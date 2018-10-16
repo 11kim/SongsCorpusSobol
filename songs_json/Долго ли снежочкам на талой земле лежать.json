@@ -1226,15 +1226,16 @@
       }
     },
     {
-      "купимъ": {
+      "купим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "купимъ"
+        "normal_form": "купить"
       }
     },
     {
@@ -1320,15 +1321,16 @@
       }
     },
     {
-      "позавтракаемъ": {
+      "позавтракаем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "позавтракаемъ"
+        "normal_form": "позавтракать"
       }
     }
   ],
@@ -1472,28 +1474,24 @@
       }
     },
     {
-      "запоемъ": {
+      "запоем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "запоемъ"
+        "normal_form": "запоем"
       }
     }
   ],
   [
     {
-      "трах-трах-тарарах-тах-тах-тарарушечки": {
+      "трах-трахъ-тарарахъ-тахъ-тахъ-тарарушечки": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "gent"
         ],
-        "normal_form": "трах-трах-тарарах-тах-тах-тарарушечка"
+        "normal_form": "трах-трахъ-тарарахъ-тахъ-тахъ-тарарушечка"
       }
     }
   ],

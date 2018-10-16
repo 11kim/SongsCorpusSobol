@@ -277,14 +277,15 @@
       }
     },
     {
-      "патріярхи": {
+      "патри": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc plur",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "патріярх"
+        "normal_form": "патереть"
       }
     },
     {
@@ -486,11 +487,15 @@
       }
     },
     {
-      "имъ": {
+      "им": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "neut sing",
+          "gent",
+          "Abbr"
         ],
-        "normal_form": "имъ"
+        "normal_form": "имя"
       }
     },
     {
@@ -643,13 +648,13 @@
       }
     },
     {
-      "глубокія": {
+      "глубокя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокть"
       }
     },
     {

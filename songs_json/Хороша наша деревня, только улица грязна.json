@@ -332,14 +332,15 @@
       }
     },
     {
-      "уральскіе": {
+      "уральске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "уральскі"
+        "normal_form": "уральск"
       }
     },
     {
@@ -416,13 +417,15 @@
       }
     },
     {
-      "сухіим": {
+      "сухъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "сухіий"
+        "normal_form": "сухъ"
       }
     },
     {
@@ -447,13 +450,15 @@
       }
     },
     {
-      "сухіим": {
+      "сухъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "сухіий"
+        "normal_form": "сухъ"
       }
     },
     {
@@ -811,14 +816,15 @@
       }
     },
     {
-      "такіе": {
+      "таке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn",
+          "Sgtm sing",
+          "datv"
         ],
-        "normal_form": "такі"
+        "normal_form": "така"
       }
     },
     {
@@ -1055,15 +1061,11 @@
       }
     },
     {
-      "калачикомъ": {
+      "калачиком": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "калачикомъ"
+        "normal_form": "калачиком"
       }
     },
     {

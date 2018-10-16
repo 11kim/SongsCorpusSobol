@@ -180,15 +180,14 @@
       }
     },
     {
-      "гробъ": {
+      "гроб": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "гробъ"
+        "normal_form": "гроб"
       }
     }
   ],
@@ -236,15 +235,11 @@
       }
     },
     {
-      "передній": {
+      "переднй": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "передніть"
+        "normal_form": "переднй"
       }
     },
     {
@@ -285,15 +280,13 @@
       }
     },
     {
-      "хорошій": {
+      "хорош": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошіть"
+        "normal_form": "хороший"
       }
     }
   ],

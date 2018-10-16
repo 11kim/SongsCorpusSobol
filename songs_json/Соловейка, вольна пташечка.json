@@ -168,27 +168,25 @@
       }
     },
     {
-      "краснымъ": {
+      "красным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "краснымъ"
+        "normal_form": "красный"
       }
     },
     {
-      "девкамъ": {
+      "девкам": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "девкамъ"
+        "normal_form": "девка"
       }
     }
   ],
@@ -623,14 +621,14 @@
       }
     },
     {
-      "дорогіе": {
+      "дороге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "дорогі"
+        "normal_form": "дорога"
       }
     },
     {
@@ -688,11 +686,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -1026,14 +1024,14 @@
       }
     },
     {
-      "высокіе": {
+      "высоке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высок"
       }
     },
     {

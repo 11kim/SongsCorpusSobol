@@ -521,7 +521,7 @@
       }
     },
     {
-      "сизенькій": {
+      "сизенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -529,7 +529,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сизенькіть"
+        "normal_form": "сизенькть"
       }
     },
     {
@@ -564,15 +564,14 @@
       }
     },
     {
-      "молодчикъ": {
+      "молодчик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодчикъ"
+        "normal_form": "молодчик"
       }
     }
   ],
@@ -865,14 +864,16 @@
       }
     },
     {
-      "міру-народу": {
+      "м": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір-народ"
+        "normal_form": "метр"
       }
     }
   ],
@@ -896,14 +897,16 @@
       }
     },
     {
-      "міру": {
+      "м": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     },
     {
@@ -1090,23 +1093,21 @@
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {

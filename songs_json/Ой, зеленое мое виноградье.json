@@ -391,23 +391,22 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "человекомъ": {
+      "человеком": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "человекомъ"
+        "normal_form": "человек"
       }
     }
   ],
@@ -459,11 +458,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -525,23 +524,22 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "советомъ": {
+      "советом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "советомъ"
+        "normal_form": "совет"
       }
     }
   ],
@@ -774,7 +772,7 @@
       }
     },
     {
-      "точію": {
+      "точю": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -783,7 +781,7 @@
           "pres",
           "indc"
         ],
-        "normal_form": "точіть"
+        "normal_form": "точть"
       }
     },
     {

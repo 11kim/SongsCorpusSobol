@@ -159,15 +159,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ],
@@ -575,7 +572,7 @@
       }
     },
     {
-      "разудаленькій": {
+      "разудаленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -583,7 +580,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "разудаленькіть"
+        "normal_form": "разудаленькть"
       }
     },
     {
@@ -783,7 +780,7 @@
       }
     },
     {
-      "разудаленькій": {
+      "разудаленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -791,7 +788,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "разудаленькіть"
+        "normal_form": "разудаленькть"
       }
     },
     {

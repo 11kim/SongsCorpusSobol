@@ -703,14 +703,16 @@
       }
     },
     {
-      "пріятелю": {
+      "прю": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc sing",
-          "datv"
+          "inan",
+          "femn",
+          "Sgtm",
+          "Arch sing",
+          "accs"
         ],
-        "normal_form": "пріятель"
+        "normal_form": "пря"
       }
     },
     {
@@ -739,14 +741,11 @@
       }
     },
     {
-      "пріятель": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріятель"
+        "normal_form": "пр"
       }
     },
     {

@@ -364,7 +364,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -372,7 +372,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -396,7 +396,7 @@
   ],
   [
     {
-      "разхорошій": {
+      "разхорошй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -404,7 +404,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "разхорошіть"
+        "normal_form": "разхорошть"
       }
     },
     {
@@ -678,7 +678,7 @@
       }
     },
     {
-      "разхорошій": {
+      "разхорошй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -686,7 +686,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "разхорошіть"
+        "normal_form": "разхорошть"
       }
     },
     {
@@ -739,15 +739,14 @@
       }
     },
     {
-      "одномъ": {
+      "одном": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Apro masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "одномъ"
+        "normal_form": "один"
       }
     }
   ],
@@ -1826,15 +1825,16 @@
       }
     },
     {
-      "нейдетъ": {
+      "нейдет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "нейдетъ"
+        "normal_form": "нейти"
       }
     }
   ]

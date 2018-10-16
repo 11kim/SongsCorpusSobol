@@ -907,15 +907,16 @@
       }
     },
     {
-      "растетъ": {
+      "растет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "растетъ"
+        "normal_form": "расти"
       }
     },
     {
@@ -1102,13 +1103,13 @@
       }
     },
     {
-      "старо-прежній": {
+      "старо-прежнй": {
         "OpencorporaTag": [
           "ADJS",
           "Qual neut",
           "sing"
         ],
-        "normal_form": "старый-прежніий"
+        "normal_form": "старый-прежний"
       }
     },
     {

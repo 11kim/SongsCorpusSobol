@@ -1010,29 +1010,30 @@
       }
     },
     {
-      "непріятеля": {
+      "непр": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "neut",
-          "Sgtm sing",
+          "inan",
+          "masc",
+          "Geox sing",
           "nomn"
         ],
-        "normal_form": "непріятеля"
+        "normal_form": "непр"
       }
     }
   ],
   [
     {
-      "непріятеля": {
+      "непря": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "neut",
-          "Sgtm sing",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Arch sing",
           "nomn"
         ],
-        "normal_form": "непріятеля"
+        "normal_form": "непря"
       }
     },
     {
@@ -1125,7 +1126,7 @@
       }
     },
     {
-      "шведскій": {
+      "шведскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1133,7 +1134,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "шведскіть"
+        "normal_form": "шведскть"
       }
     },
     {

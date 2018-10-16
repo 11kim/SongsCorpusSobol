@@ -447,15 +447,16 @@
       }
     },
     {
-      "толкутъ": {
+      "толкут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "толкутъ"
+        "normal_form": "толочь"
       }
     }
   ],
@@ -507,15 +508,16 @@
       }
     },
     {
-      "катятъ": {
+      "катят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "катятъ"
+        "normal_form": "катить"
       }
     }
   ],
@@ -567,15 +569,16 @@
       }
     },
     {
-      "тащатъ": {
+      "тащат": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "тащатъ"
+        "normal_form": "тащить"
       }
     }
   ],
@@ -608,15 +611,14 @@
       }
     },
     {
-      "голикомъ": {
+      "голиком": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "голикомъ"
+        "normal_form": "голик"
       }
     },
     {
@@ -632,15 +634,16 @@
       }
     },
     {
-      "секутъ": {
+      "секут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "секутъ"
+        "normal_form": "сечь"
       }
     }
   ],

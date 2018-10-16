@@ -294,15 +294,16 @@
       }
     },
     {
-      "поспелъ": {
+      "поспел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "поспелъ"
+        "normal_form": "поспеть"
       }
     },
     {
@@ -322,15 +323,15 @@
       }
     },
     {
-      "ермакъ": {
+      "ермак": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "ермакъ"
+        "normal_form": "ермак"
       }
     },
     {

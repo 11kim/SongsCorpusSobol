@@ -126,23 +126,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "гостяхъ": {
+      "гостях": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "гостяхъ"
+        "normal_form": "гость"
       }
     }
   ],

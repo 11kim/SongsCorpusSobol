@@ -85,15 +85,14 @@
       }
     },
     {
-      "распріятныя": {
+      "распря": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "gent"
+          "inan",
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "распріятный"
+        "normal_form": "распря"
       }
     },
     {
@@ -631,15 +630,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {

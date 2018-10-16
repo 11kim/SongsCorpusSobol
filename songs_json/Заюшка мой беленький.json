@@ -23,29 +23,29 @@
       }
     },
     {
-      "беленькій": {
+      "беленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленька"
       }
     }
   ],
   [
     {
-      "беленькій": {
+      "беленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленька"
       }
     },
     {
@@ -60,15 +60,15 @@
       }
     },
     {
-      "серенькій": {
+      "сереньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "серенькіть"
+        "normal_form": "серенька"
       }
     }
   ],
@@ -219,15 +219,15 @@
   ],
   [
     {
-      "серенькій": {
+      "сереньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "серенькіть"
+        "normal_form": "серенька"
       }
     },
     {
@@ -272,27 +272,29 @@
       }
     },
     {
-      "виделъ": {
+      "видел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "виделъ"
+        "normal_form": "видеть"
       }
     },
     {
-      "виделъ": {
+      "видел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "виделъ"
+        "normal_form": "видеть"
       }
     },
     {
@@ -411,15 +413,15 @@
       }
     },
     {
-      "беленькій": {
+      "беленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленька"
       }
     },
     {
@@ -653,15 +655,11 @@
       }
     },
     {
-      "чемъ": {
+      "чем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "чемъ"
+        "normal_form": "чем"
       }
     },
     {
@@ -703,15 +701,14 @@
       }
     },
     {
-      "бокамъ": {
+      "бокам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "datv"
         ],
-        "normal_form": "бокамъ"
+        "normal_form": "бок"
       }
     },
     {
@@ -805,15 +802,16 @@
       }
     },
     {
-      "плакалъ": {
+      "плакал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "плакалъ"
+        "normal_form": "плакать"
       }
     },
     {
@@ -843,27 +841,29 @@
       }
     },
     {
-      "плакалъ": {
+      "плакал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "плакалъ"
+        "normal_form": "плакать"
       }
     },
     {
-      "плакалъ": {
+      "плакал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "плакалъ"
+        "normal_form": "плакать"
       }
     },
     {
@@ -977,27 +977,24 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
-      "плакалъ": {
+      "плакал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "плакалъ"
+        "normal_form": "плакать"
       }
     },
     {

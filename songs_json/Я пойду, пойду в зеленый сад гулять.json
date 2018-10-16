@@ -316,27 +316,23 @@
       }
     },
     {
-      "молодушкамъ": {
+      "молодушкам": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "молодушкамъ"
+        "normal_form": "молодушка"
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     },
     {
@@ -683,7 +679,7 @@
   ],
   [
     {
-      "ѣдет": {
+      "дет": {
         "OpencorporaTag": [
           "PRTS",
           "perf",
@@ -691,7 +687,7 @@
           "pssv masc",
           "sing"
         ],
-        "normal_form": "ѣдеть"
+        "normal_form": "деть"
       }
     },
     {

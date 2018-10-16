@@ -641,15 +641,16 @@
       }
     },
     {
-      "бьютъ": {
+      "бьют": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "бьютъ"
+        "normal_form": "бить"
       }
     }
   ],
@@ -676,15 +677,16 @@
       }
     },
     {
-      "бьютъ": {
+      "бьют": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "бьютъ"
+        "normal_form": "бить"
       }
     }
   ],
@@ -1332,16 +1334,11 @@
       }
     },
     {
-      "гніет": {
+      "гн": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "3per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "гніть"
+        "normal_form": "гн"
       }
     },
     {

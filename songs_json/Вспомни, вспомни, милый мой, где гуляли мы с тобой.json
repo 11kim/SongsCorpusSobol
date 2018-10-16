@@ -1160,13 +1160,15 @@
       }
     },
     {
-      "румяненькія": {
+      "румяненьк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "румяненькіть"
+        "normal_form": "румяненька"
       }
     },
     {
@@ -1181,14 +1183,15 @@
       }
     },
     {
-      "забавненькіе": {
+      "забавненьк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "забавненькі"
+        "normal_form": "забавненька"
       }
     }
   ],

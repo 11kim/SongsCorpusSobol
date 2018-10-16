@@ -241,11 +241,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -300,21 +300,20 @@
       }
     },
     {
-      "изюмомъ": {
+      "изюмом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "изюмомъ"
+        "normal_form": "изюм"
       }
     }
   ],
   [
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -322,7 +321,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -393,15 +392,14 @@
       }
     },
     {
-      "зубамъ": {
+      "зубам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "datv"
         ],
-        "normal_form": "зубамъ"
+        "normal_form": "зуб"
       }
     },
     {
@@ -506,27 +504,27 @@
       }
     },
     {
-      "животъ": {
+      "живот": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "животъ"
+        "normal_form": "живот"
       }
     },
     {
-      "пухнетъ": {
+      "пухнет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "пухнетъ"
+        "normal_form": "пухнуть"
       }
     }
   ]

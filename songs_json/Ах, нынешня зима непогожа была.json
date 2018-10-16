@@ -532,7 +532,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -540,7 +540,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -633,27 +633,25 @@
       }
     },
     {
-      "яснымъ": {
+      "ясным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "яснымъ"
+        "normal_form": "ясный"
       }
     },
     {
-      "соколомъ": {
+      "соколом": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "соколомъ"
+        "normal_form": "сокол"
       }
     }
   ],
@@ -709,27 +707,21 @@
       }
     },
     {
-      "добрымъ": {
+      "добрым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual plur",
+          "datv"
         ],
-        "normal_form": "добрымъ"
+        "normal_form": "добрый"
       }
     },
     {
-      "молодцомъ": {
+      "молодцом": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "молодцомъ"
+        "normal_form": "молодцом"
       }
     }
   ],
@@ -924,11 +916,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1115,11 +1107,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -1134,15 +1126,14 @@
       }
     },
     {
-      "холопъ": {
+      "холоп": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "холопъ"
+        "normal_form": "холоп"
       }
     },
     {
@@ -1358,11 +1349,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -1377,15 +1368,14 @@
       }
     },
     {
-      "холопъ": {
+      "холоп": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "холопъ"
+        "normal_form": "холоп"
       }
     },
     {
@@ -1399,11 +1389,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1499,15 +1489,14 @@
       }
     },
     {
-      "самъ": {
+      "сам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "самъ"
+        "normal_form": "сам"
       }
     },
     {
@@ -1820,11 +1809,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -1840,15 +1829,14 @@
       }
     },
     {
-      "холопъ": {
+      "холоп": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "холопъ"
+        "normal_form": "холоп"
       }
     },
     {
@@ -1873,15 +1861,14 @@
       }
     },
     {
-      "холопъ": {
+      "холоп": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "холопъ"
+        "normal_form": "холоп"
       }
     }
   ],
@@ -2092,15 +2079,12 @@
       }
     },
     {
-      "радъ": {
+      "рад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "радъ"
+        "normal_form": "рад"
       }
     },
     {

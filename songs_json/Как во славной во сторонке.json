@@ -212,7 +212,7 @@
       }
     },
     {
-      "зимній": {
+      "зимнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -220,7 +220,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "зимніть"
+        "normal_form": "зимнть"
       }
     },
     {
@@ -237,17 +237,15 @@
   ],
   [
     {
-      "россійскаго": {
+      "россо": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc",
-          "Sgtm",
-          "Fixd",
-          "Geox sing",
+          "neut",
+          "Fixd sing",
           "nomn"
         ],
-        "normal_form": "россійскаго"
+        "normal_form": "россо"
       }
     },
     {
@@ -533,14 +531,15 @@
   ],
   [
     {
-      "московскіе": {
+      "московске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "московскі"
+        "normal_form": "московск"
       }
     },
     {
@@ -705,16 +704,11 @@
       }
     },
     {
-      "пріезжал": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пр"
       }
     }
   ],

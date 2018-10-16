@@ -161,16 +161,15 @@
       }
     },
     {
-      "исторію": {
+      "истор": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "исторіть"
+        "normal_form": "истора"
       }
     }
   ],
@@ -186,14 +185,15 @@
       }
     },
     {
-      "исторіи": {
+      "истори": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "исторіь"
+        "normal_form": "истори"
       }
     },
     {

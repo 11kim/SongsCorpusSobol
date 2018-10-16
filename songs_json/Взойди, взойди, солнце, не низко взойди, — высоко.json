@@ -465,15 +465,14 @@
       }
     },
     {
-      "братецъ": {
+      "братец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "братецъ"
+        "normal_form": "братец"
       }
     },
     {
@@ -679,15 +678,14 @@
       }
     },
     {
-      "свекоръ": {
+      "свекор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "свекоръ"
+        "normal_form": "свёкор"
       }
     },
     {
@@ -800,14 +798,16 @@
       }
     },
     {
-      "третіе": {
+      "трете": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "VERB",
+          "impf",
+          "tran plur",
+          "2per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "треті"
+        "normal_form": "тереть"
       }
     },
     {
@@ -838,15 +838,14 @@
       }
     },
     {
-      "деверечекъ": {
+      "деверечек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "деверечекъ"
+        "normal_form": "деверечка"
       }
     },
     {
@@ -861,15 +860,14 @@
       }
     },
     {
-      "насмешникъ": {
+      "насмешник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "насмешникъ"
+        "normal_form": "насмешник"
       }
     }
   ],
@@ -986,15 +984,14 @@
       }
     },
     {
-      "мужъ": {
+      "муж": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ"
+        "normal_form": "муж"
       }
     },
     {
@@ -1203,15 +1200,11 @@
   ],
   [
     {
-      "прійдет": {
+      "пръ": {
         "OpencorporaTag": [
-          "PRTS",
-          "perf",
-          "past",
-          "pssv masc",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "прійдеть"
+        "normal_form": "пръ"
       }
     },
     {
@@ -1244,23 +1237,22 @@
       }
     },
     {
-      "свекоръ": {
+      "свекор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "свекоръ"
+        "normal_form": "свёкор"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1275,15 +1267,16 @@
       }
     },
     {
-      "пойдетъ": {
+      "пойдет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пойдетъ"
+        "normal_form": "пойти"
       }
     }
   ],
@@ -1363,15 +1356,16 @@
       }
     },
     {
-      "хочетъ": {
+      "хочет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "хочетъ"
+        "normal_form": "хотеть"
       }
     }
   ],
@@ -1418,35 +1412,39 @@
       }
     },
     {
-      "самъ": {
+      "сам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "самъ"
+        "normal_form": "сам"
       }
     },
     {
-      "будетъ": {
+      "будет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "будетъ"
+        "normal_form": "быть"
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
@@ -1514,11 +1512,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1545,15 +1543,16 @@
       }
     },
     {
-      "пойдетъ": {
+      "пойдет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пойдетъ"
+        "normal_form": "пойти"
       }
     }
   ],
@@ -1650,15 +1649,16 @@
       }
     },
     {
-      "возьметъ": {
+      "возьмет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "возьметъ"
+        "normal_form": "взять"
       }
     }
   ],
@@ -1744,15 +1744,16 @@
       }
     },
     {
-      "минуетъ": {
+      "минует": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "минуетъ"
+        "normal_form": "миновать"
       }
     }
   ],
@@ -1816,27 +1817,27 @@
       }
     },
     {
-      "разъ": {
+      "раз": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "разъ"
+        "normal_form": "раз"
       }
     },
     {
-      "поцелуетъ": {
+      "поцелует": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "поцелуетъ"
+        "normal_form": "поцеловать"
       }
     }
   ]

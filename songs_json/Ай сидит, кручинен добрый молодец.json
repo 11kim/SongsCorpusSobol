@@ -157,16 +157,15 @@
       }
     },
     {
-      "сво́ю": {
+      "свою": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "ADJF",
+          "Apro",
+          "Anph femn",
+          "sing",
+          "accs"
         ],
-        "normal_form": "сво́ть"
+        "normal_form": "свой"
       }
     },
     {
@@ -241,12 +240,13 @@
       }
     },
     {
-      "могучіих": {
+      "могуч": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "могучіий"
+        "normal_form": "могучий"
       }
     }
   ],
@@ -410,15 +410,11 @@
       }
     },
     {
-      "какъ-то": {
+      "как-то": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "какъ-то"
+        "normal_form": "как-то"
       }
     },
     {
@@ -681,15 +677,12 @@
       }
     },
     {
-      "тамъ": {
+      "там": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "тамъ"
+        "normal_form": "там"
       }
     },
     {
@@ -712,15 +705,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ],
@@ -738,14 +728,11 @@
       }
     },
     {
-      "мо́лодца": {
+      "моа": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc sing",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "мо́лодец"
+        "normal_form": "моа"
       }
     },
     {
@@ -835,15 +822,11 @@
       }
     },
     {
-      "о́ни": {
+      "ои": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "о́нить"
+        "normal_form": "ои"
       }
     },
     {
@@ -925,15 +908,14 @@
       }
     },
     {
-      "человекъ": {
+      "человек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "человекъ"
+        "normal_form": "человек"
       }
     },
     {
@@ -1082,15 +1064,16 @@
       }
     },
     {
-      "спитъ": {
+      "спит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "спитъ"
+        "normal_form": "спать"
       }
     }
   ],
@@ -1818,14 +1801,14 @@
       }
     },
     {
-      "служеніе": {
+      "служене": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "служені"
+        "normal_form": "служена"
       }
     },
     {
@@ -2419,16 +2402,15 @@
       }
     },
     {
-      "докла́дал": {
+      "доклаъ": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran masc",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "докла́дать"
+        "normal_form": "доклаъ"
       }
     },
     {
@@ -2495,14 +2477,15 @@
       }
     },
     {
-      "литовскіи": {
+      "литовск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "femn sing",
-          "gent"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "литовскіь"
+        "normal_form": "литовск"
       }
     }
   ],
@@ -2767,16 +2750,17 @@
   ],
   [
     {
-      "насыпа́ла-то": {
+      "насыпао": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "насыпа́ть-то"
+        "normal_form": "насыпао"
       }
     },
     {
@@ -2826,13 +2810,15 @@
       }
     },
     {
-      "шелко́в": {
+      "шелкоъ": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran past"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "шелко́ть"
+        "normal_form": "шелкоъ"
       }
     },
     {
@@ -2967,7 +2953,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2975,7 +2961,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -3351,16 +3337,11 @@
   ],
   [
     {
-      "пріезжал": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пръ"
       }
     },
     {
@@ -3696,7 +3677,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3704,7 +3685,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -3719,14 +3700,15 @@
       }
     },
     {
-      "мо́лодец": {
+      "мо": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc sing",
+          "inan",
+          "neut",
+          "Fixd sing",
           "nomn"
         ],
-        "normal_form": "мо́лодец"
+        "normal_form": "мо"
       }
     }
   ],
@@ -4208,7 +4190,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4216,7 +4198,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -4872,15 +4854,14 @@
       }
     },
     {
-      "право́й": {
+      "правой": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "gent"
         ],
-        "normal_form": "право́ть"
+        "normal_form": "правый"
       }
     },
     {
@@ -5160,7 +5141,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -5168,7 +5149,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -5501,7 +5482,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -5509,7 +5490,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -5524,14 +5505,15 @@
       }
     },
     {
-      "мо́лодец": {
+      "мо": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc sing",
+          "inan",
+          "neut",
+          "Fixd sing",
           "nomn"
         ],
-        "normal_form": "мо́лодец"
+        "normal_form": "мо"
       }
     }
   ],
@@ -5811,14 +5793,11 @@
       }
     },
     {
-      "близко-по́-близку": {
+      "близко-по": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "accs"
+          "PREP"
         ],
-        "normal_form": "близко-по́-близка"
+        "normal_form": "близко-по"
       }
     }
   ],
@@ -5966,13 +5945,15 @@
       }
     },
     {
-      "немецкія": {
+      "немецк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "немецкіть"
+        "normal_form": "немецк"
       }
     }
   ],
@@ -6510,25 +6491,23 @@
       }
     },
     {
-      "до́бру": {
+      "доу": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "accs"
+          "UNKN"
         ],
-        "normal_form": "до́бра"
+        "normal_form": "доу"
       }
     },
     {
-      "мо́лодцу": {
+      "мо": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc sing",
-          "datv"
+          "inan",
+          "neut",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "мо́лодец"
+        "normal_form": "мо"
       }
     }
   ],
@@ -6755,14 +6734,15 @@
       }
     },
     {
-      "злаче́н": {
+      "злачеъ": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
+          "anim",
+          "masc",
+          "Fixd sing",
           "nomn"
         ],
-        "normal_form": "злаче́н"
+        "normal_form": "злачеъ"
       }
     },
     {
@@ -7147,13 +7127,16 @@
       }
     },
     {
-      "саха́рнія": {
+      "саха": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "саха́рніть"
+        "normal_form": "саха"
       }
     }
   ],

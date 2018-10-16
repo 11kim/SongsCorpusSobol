@@ -426,27 +426,24 @@
       }
     },
     {
-      "белъ": {
+      "бел": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "белъ"
+        "normal_form": "бел"
       }
     },
     {
-      "горючъ": {
+      "горюч": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "горючъ"
+        "normal_form": "горючий"
       }
     },
     {
@@ -828,14 +825,14 @@
       }
     },
     {
-      "россіюшку": {
+      "росс": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "accs"
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "россіюшка"
+        "normal_form": "росс"
       }
     }
   ],
@@ -882,14 +879,15 @@
       }
     },
     {
-      "непріятелю": {
+      "непр": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc sing",
-          "datv"
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "непріятель"
+        "normal_form": "непр"
       }
     }
   ],

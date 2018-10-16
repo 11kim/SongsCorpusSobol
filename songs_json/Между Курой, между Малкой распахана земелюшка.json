@@ -526,27 +526,19 @@
   ],
   [
     {
-      "пріопнулся": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріопнуться"
+        "normal_form": "пр"
       }
     },
     {
-      "пріопнувши": {
+      "пр": {
         "OpencorporaTag": [
-          "GRND",
-          "perf",
-          "tran past",
-          "V-sh"
+          "UNKN"
         ],
-        "normal_form": "пріопнуть"
+        "normal_form": "пр"
       }
     },
     {
@@ -686,43 +678,39 @@
       }
     },
     {
-      "отъ": {
+      "от": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "отъ"
+        "normal_form": "от"
       }
     },
     {
-      "донскихъ": {
+      "донских": {
+        "OpencorporaTag": [
+          "ADJF plur",
+          "gent"
+        ],
+        "normal_form": "донский"
+      }
+    },
+    {
+      "от": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "от"
+      }
+    },
+    {
+      "казачушек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "донскихъ"
-      }
-    },
-    {
-      "отъ": {
-        "OpencorporaTag": [
-          "UNKN"
-        ],
-        "normal_form": "отъ"
-      }
-    },
-    {
-      "казачушекъ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "казачушекъ"
+        "normal_form": "казачушка"
       }
     }
   ]

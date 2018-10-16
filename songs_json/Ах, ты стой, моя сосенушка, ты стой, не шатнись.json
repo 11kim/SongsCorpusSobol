@@ -9,11 +9,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -299,15 +299,14 @@
       }
     },
     {
-      "писарямъ": {
+      "писарям": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "datv"
         ],
-        "normal_form": "писарямъ"
+        "normal_form": "писарь"
       }
     },
     {
@@ -719,15 +718,14 @@
       }
     },
     {
-      "молодчикъ": {
+      "молодчик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодчикъ"
+        "normal_form": "молодчик"
       }
     }
   ],
@@ -1031,14 +1029,16 @@
       }
     },
     {
-      "міре": {
+      "м": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     },
     {

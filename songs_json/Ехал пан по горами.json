@@ -1,14 +1,14 @@
 [
   [
     {
-      "ѣхал": {
+      "хал": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѣхала"
+        "normal_form": "хала"
       }
     },
     {
@@ -448,25 +448,23 @@
   ],
   [
     {
-      "хорошіе": {
+      "хорош": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хороші"
+        "normal_form": "хороший"
       }
     },
     {
-      "пригожіе": {
+      "пригож": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "пригожі"
+        "normal_form": "пригожий"
       }
     },
     {

@@ -148,15 +148,14 @@
       }
     },
     {
-      "невестъ": {
+      "невест": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "невестъ"
+        "normal_form": "невеста"
       }
     },
     {
@@ -351,27 +350,25 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "женишокъ": {
+      "женишок": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "женишокъ"
+        "normal_form": "женишок"
       }
     }
   ],
@@ -463,15 +460,14 @@
       }
     },
     {
-      "кафтанъ": {
+      "кафтан": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "кафтанъ"
+        "normal_form": "кафтан"
       }
     }
   ],
@@ -551,27 +547,25 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "кафтанъ": {
+      "кафтан": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "кафтанъ"
+        "normal_form": "кафтан"
       }
     }
   ],
@@ -663,15 +657,14 @@
       }
     },
     {
-      "кушакъ": {
+      "кушак": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "кушакъ"
+        "normal_form": "кушак"
       }
     }
   ],
@@ -751,27 +744,25 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "кушакъ": {
+      "кушак": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "кушакъ"
+        "normal_form": "кушак"
       }
     }
   ],
@@ -950,27 +941,25 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "сапожокъ": {
+      "сапожок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сапожокъ"
+        "normal_form": "сапожок"
       }
     }
   ],

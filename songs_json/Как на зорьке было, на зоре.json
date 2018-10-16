@@ -552,27 +552,26 @@
       }
     },
     {
-      "сиротъ": {
+      "сирот": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Ms-f plur",
+          "gent"
         ],
-        "normal_form": "сиротъ"
+        "normal_form": "сирота"
       }
     },
     {
-      "молодыхъ": {
+      "молодых": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "молодыхъ"
+        "normal_form": "молодая"
       }
     }
   ],

@@ -340,11 +340,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -729,15 +729,14 @@
       }
     },
     {
-      "стулъ": {
+      "стул": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "стулъ"
+        "normal_form": "стул"
       }
     }
   ],
@@ -881,15 +880,14 @@
       }
     },
     {
-      "остригемъ": {
+      "остригем": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "остригемъ"
+        "normal_form": "остригем"
       }
     },
     {

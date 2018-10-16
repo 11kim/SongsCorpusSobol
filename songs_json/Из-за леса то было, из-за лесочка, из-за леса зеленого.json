@@ -297,15 +297,15 @@
       }
     },
     {
-      "офицерскій": {
+      "офицерск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "офицерскіть"
+        "normal_form": "офицерск"
       }
     }
   ],
@@ -463,14 +463,15 @@
       }
     },
     {
-      "непріятели": {
+      "непр": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "femn sing",
-          "gent"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "непріятель"
+        "normal_form": "непр"
       }
     }
   ],
@@ -495,14 +496,15 @@
       }
     },
     {
-      "донскіе": {
+      "донске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "донскі"
+        "normal_form": "донск"
       }
     },
     {

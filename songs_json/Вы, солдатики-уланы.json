@@ -161,27 +161,21 @@
       }
     },
     {
-      "подъ": {
+      "под": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "подъ"
+        "normal_form": "под"
       }
     },
     {
-      "можайскимъ": {
+      "можайским": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "можайскимъ"
+        "normal_form": "можайский"
       }
     },
     {
@@ -1053,15 +1047,14 @@
       }
     },
     {
-      "лавкамъ": {
+      "лавкам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "лавкамъ"
+        "normal_form": "лавка"
       }
     }
   ],
@@ -1102,15 +1095,14 @@
       }
     },
     {
-      "скамейкамъ": {
+      "скамейкам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "скамейкамъ"
+        "normal_form": "скамейка"
       }
     }
   ],
@@ -1600,11 +1592,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1639,11 +1631,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -1683,15 +1675,14 @@
       }
     },
     {
-      "детокъ": {
+      "деток": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "детокъ"
+        "normal_form": "детка"
       }
     }
   ],
@@ -1723,15 +1714,14 @@
       }
     },
     {
-      "детокъ": {
+      "деток": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "детокъ"
+        "normal_form": "детка"
       }
     },
     {
@@ -1811,11 +1801,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -1936,11 +1926,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -1980,15 +1970,14 @@
       }
     },
     {
-      "денегъ": {
+      "денег": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "денегъ"
+        "normal_form": "деньга"
       }
     }
   ],
@@ -2020,15 +2009,14 @@
       }
     },
     {
-      "денегъ": {
+      "денег": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "денегъ"
+        "normal_form": "деньга"
       }
     },
     {

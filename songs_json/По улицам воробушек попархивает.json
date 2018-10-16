@@ -635,15 +635,16 @@
       }
     },
     {
-      "велятъ": {
+      "велят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "велятъ"
+        "normal_form": "велеть"
       }
     }
   ],
@@ -845,15 +846,11 @@
       }
     },
     {
-      "такъ": {
+      "так": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "такъ"
+        "normal_form": "так"
       }
     },
     {
@@ -865,15 +862,15 @@
       }
     },
     {
-      "рубцевъ": {
+      "рубцев": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "рубцевъ"
+        "normal_form": "рубцы"
       }
     }
   ],
@@ -919,15 +916,11 @@
       }
     },
     {
-      "такъ": {
+      "так": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "такъ"
+        "normal_form": "так"
       }
     },
     {
@@ -971,15 +964,11 @@
       }
     },
     {
-      "такъ": {
+      "так": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "такъ"
+        "normal_form": "так"
       }
     },
     {
@@ -991,15 +980,14 @@
       }
     },
     {
-      "одинъ": {
+      "один": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "одинъ"
+        "normal_form": "один"
       }
     }
   ],

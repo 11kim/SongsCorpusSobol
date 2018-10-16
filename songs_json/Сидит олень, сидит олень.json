@@ -195,15 +195,11 @@
       }
     },
     {
-      "такъ": {
+      "так": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "такъ"
+        "normal_form": "так"
       }
     },
     {
@@ -254,15 +250,16 @@
   ],
   [
     {
-      "пріоденьте": {
+      "пре": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran plur",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "datv"
         ],
-        "normal_form": "пріодеть"
+        "normal_form": "пра"
       }
     },
     {
@@ -276,15 +273,11 @@
       }
     },
     {
-      "пріукутайте": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran plur",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "пріукутать"
+        "normal_form": "пр"
       }
     }
   ],

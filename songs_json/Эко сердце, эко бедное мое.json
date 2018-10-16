@@ -1187,27 +1187,27 @@
       }
     },
     {
-      "подарочекъ": {
+      "подарочек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "подарочекъ"
+        "normal_form": "подарочек"
       }
     },
     {
-      "принесъ": {
+      "принес": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "принесъ"
+        "normal_form": "принести"
       }
     }
   ],
@@ -1254,15 +1254,14 @@
       }
     },
     {
-      "полуштофъ": {
+      "полуштоф": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "полуштофъ"
+        "normal_form": "полуштоф"
       }
     }
   ],

@@ -698,15 +698,11 @@
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     },
     {
@@ -718,15 +714,16 @@
       }
     },
     {
-      "возьметъ": {
+      "возьмет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "возьметъ"
+        "normal_form": "взять"
       }
     }
   ],
@@ -786,7 +783,7 @@
       }
     },
     {
-      "крестьянскій": {
+      "крестьянскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -794,7 +791,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "крестьянскіть"
+        "normal_form": "крестьянскть"
       }
     },
     {

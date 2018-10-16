@@ -33,14 +33,14 @@
       }
     },
     {
-      "компаніи": {
+      "компан": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "компаніь"
+        "normal_form": "компан"
       }
     },
     {
@@ -115,14 +115,13 @@
       }
     },
     {
-      "здравіе": {
+      "здрав": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "здраві"
+        "normal_form": "здравый"
       }
     },
     {

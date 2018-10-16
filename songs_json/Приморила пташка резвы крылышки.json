@@ -86,16 +86,16 @@
   ],
   [
     {
-      "пріопнула": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріопнуть"
+        "normal_form": "пра"
       }
     },
     {
@@ -206,7 +206,7 @@
       }
     },
     {
-      "бедненькій": {
+      "бедненькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -214,7 +214,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "бедненькіть"
+        "normal_form": "бедненькть"
       }
     },
     {
@@ -250,7 +250,7 @@
       }
     },
     {
-      "маленькій": {
+      "маленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -258,7 +258,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "маленькіть"
+        "normal_form": "маленькть"
       }
     },
     {

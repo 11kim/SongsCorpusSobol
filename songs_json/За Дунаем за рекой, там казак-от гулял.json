@@ -702,7 +702,7 @@
       }
     },
     {
-      "развороненькій": {
+      "развороненькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -710,7 +710,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "развороненькіть"
+        "normal_form": "развороненькть"
       }
     },
     {
@@ -1150,15 +1150,11 @@
       }
     },
     {
-      "хозяинъ-отъ": {
+      "хозяин-от": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "хозяинъ-отъ"
+        "normal_form": "хозяин-от"
       }
     },
     {
@@ -1173,11 +1169,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1203,15 +1199,16 @@
       }
     },
     {
-      "лежитъ": {
+      "лежит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "лежитъ"
+        "normal_form": "лежать"
       }
     }
   ],

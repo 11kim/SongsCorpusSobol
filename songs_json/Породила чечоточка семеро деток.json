@@ -58,14 +58,14 @@
       }
     },
     {
-      "ѳедосью": {
+      "едосью": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "ablt"
         ],
-        "normal_form": "ѳедось"
+        "normal_form": "едось"
       }
     },
     {
@@ -240,14 +240,14 @@
       }
     },
     {
-      "ѳедосью": {
+      "едосью": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "ablt"
         ],
-        "normal_form": "ѳедось"
+        "normal_form": "едось"
       }
     }
   ],
@@ -596,14 +596,14 @@
       }
     },
     {
-      "дорогіе": {
+      "дороге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "дорогі"
+        "normal_form": "дорога"
       }
     },
     {
@@ -615,14 +615,13 @@
       }
     },
     {
-      "далекіе": {
+      "далек": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "далекі"
+        "normal_form": "далёкий"
       }
     }
   ],
@@ -722,15 +721,11 @@
       }
     },
     {
-      "кіева": {
+      "ка": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "кіева"
+        "normal_form": "ка"
       }
     },
     {
@@ -832,15 +827,11 @@
       }
     },
     {
-      "пріезжали": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -971,14 +962,15 @@
       }
     },
     {
-      "ферезіях": {
+      "ферез": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn plur",
-          "loct"
+          "anim",
+          "masc",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "ферезіь"
+        "normal_form": "фереза"
       }
     }
   ],
@@ -1352,13 +1344,14 @@
       }
     },
     {
-      "варварія": {
+      "варвар": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "варваріть"
+        "normal_form": "варвар"
       }
     }
   ],
@@ -1537,12 +1530,11 @@
       }
     },
     {
-      "пріезжих": {
+      "пръ": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "пріезжий"
+        "normal_form": "пръ"
       }
     },
     {

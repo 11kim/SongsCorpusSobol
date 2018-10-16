@@ -1633,13 +1633,11 @@
       }
     },
     {
-      "до́-пьяна": {
+      "до": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual femn",
-          "sing"
+          "PREP"
         ],
-        "normal_form": "до́-пьяный"
+        "normal_form": "до"
       }
     }
   ],
@@ -3947,15 +3945,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {

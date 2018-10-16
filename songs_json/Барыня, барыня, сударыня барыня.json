@@ -47,16 +47,16 @@
   ],
   [
     {
-      "пріехала": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пра"
       }
     },
     {
@@ -756,13 +756,14 @@
   ],
   [
     {
-      "чаем-кофіем": {
+      "чаем-кофъ": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual masc",
-          "sing"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "чаемый-кофіемый"
+        "normal_form": "чай-кофъ"
       }
     },
     {

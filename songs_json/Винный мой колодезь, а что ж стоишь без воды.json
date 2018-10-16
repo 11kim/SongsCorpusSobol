@@ -122,15 +122,16 @@
       }
     },
     {
-      "выпивалъ": {
+      "выпивал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "выпивалъ"
+        "normal_form": "выпивать"
       }
     },
     {
@@ -145,15 +146,16 @@
       }
     },
     {
-      "выбивалъ": {
+      "выбивал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "выбивалъ"
+        "normal_form": "выбивать"
       }
     }
   ],

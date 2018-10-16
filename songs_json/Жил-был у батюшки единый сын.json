@@ -391,15 +391,14 @@
       }
     },
     {
-      "человекъ": {
+      "человек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "человекъ"
+        "normal_form": "человек"
       }
     },
     {
@@ -519,14 +518,14 @@
       }
     },
     {
-      "долгіе": {
+      "долге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "долгі"
+        "normal_form": "долг"
       }
     },
     {
@@ -1392,14 +1391,15 @@
       }
     },
     {
-      "королевскіе": {
+      "королевск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскі"
+        "normal_form": "королевск"
       }
     }
   ],
@@ -1425,13 +1425,13 @@
       }
     },
     {
-      "такія": {
+      "такя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "такіть"
+        "normal_form": "такть"
       }
     },
     {
@@ -1662,14 +1662,15 @@
       }
     },
     {
-      "королевскіе": {
+      "королевск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскі"
+        "normal_form": "королевск"
       }
     }
   ],
@@ -1854,15 +1855,14 @@
       }
     },
     {
-      "черно́й": {
+      "черной": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "черно́ть"
+        "normal_form": "чёрный"
       }
     },
     {
@@ -2027,14 +2027,15 @@
       }
     },
     {
-      "королевскіе": {
+      "королевск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскі"
+        "normal_form": "королевск"
       }
     }
   ],
@@ -2424,14 +2425,15 @@
       }
     },
     {
-      "королевскіе": {
+      "королевск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскі"
+        "normal_form": "королевск"
       }
     }
   ],
@@ -2458,13 +2460,12 @@
       }
     },
     {
-      "немило́стливые": {
+      "немило": {
         "OpencorporaTag": [
-          "ADJF",
-          "Qual plur",
-          "nomn"
+          "ADJS neut",
+          "sing"
         ],
-        "normal_form": "немило́стливый"
+        "normal_form": "немилый"
       }
     }
   ],
@@ -2904,7 +2905,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2912,7 +2913,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -3304,14 +3305,15 @@
       }
     },
     {
-      "королевскіе": {
+      "королевск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскі"
+        "normal_form": "королевск"
       }
     }
   ],
@@ -3815,7 +3817,7 @@
       }
     },
     {
-      "удаленькій": {
+      "удаленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3823,11 +3825,11 @@
           "impr",
           "excl"
         ],
-        "normal_form": "удаленькіть"
+        "normal_form": "удаленькть"
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3835,7 +3837,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -4130,7 +4132,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4138,7 +4140,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -4754,14 +4756,15 @@
       }
     },
     {
-      "королевскіе": {
+      "королевске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "королевскі"
+        "normal_form": "королевск"
       }
     }
   ],
@@ -4787,13 +4790,13 @@
       }
     },
     {
-      "такія": {
+      "такя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "такіть"
+        "normal_form": "такть"
       }
     },
     {
@@ -5433,14 +5436,15 @@
       }
     },
     {
-      "королевскіе": {
+      "королевск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскі"
+        "normal_form": "королевск"
       }
     }
   ],
@@ -6291,7 +6295,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -6299,7 +6303,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -6747,14 +6751,11 @@
       }
     },
     {
-      "буде́т": {
+      "буде": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "буде́т"
+        "normal_form": "буде"
       }
     }
   ],
@@ -6973,7 +6974,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -6981,7 +6982,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -7958,13 +7959,15 @@
       }
     },
     {
-      "сахарнія": {
+      "сахарн": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "сахарніть"
+        "normal_form": "сахарна"
       }
     }
   ],

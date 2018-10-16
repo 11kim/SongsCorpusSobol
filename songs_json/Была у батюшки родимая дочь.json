@@ -261,7 +261,7 @@
       }
     },
     {
-      "махонькій": {
+      "махонькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -269,7 +269,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "махонькіть"
+        "normal_form": "махонькть"
       }
     },
     {
@@ -535,7 +535,7 @@
       }
     },
     {
-      "махонькій": {
+      "махонькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -543,7 +543,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "махонькіть"
+        "normal_form": "махонькть"
       }
     },
     {
@@ -1102,11 +1102,11 @@
       }
     },
     {
-      "бъ": {
+      "б": {
         "OpencorporaTag": [
-          "UNKN"
+          "PRCL"
         ],
-        "normal_form": "бъ"
+        "normal_form": "б"
       }
     },
     {
@@ -1128,15 +1128,14 @@
       }
     },
     {
-      "стружокъ": {
+      "стружок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "стружокъ"
+        "normal_form": "стружок"
       }
     },
     {
@@ -1148,15 +1147,16 @@
       }
     },
     {
-      "стоитъ": {
+      "стоит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr",
+          "Impe sing",
+          "pres",
+          "indc"
         ],
-        "normal_form": "стоитъ"
+        "normal_form": "стоить"
       }
     }
   ],
@@ -1740,23 +1740,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "садъ": {
+      "сад": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "садъ"
+        "normal_form": "сад"
       }
     }
   ],
@@ -1873,15 +1872,14 @@
       }
     },
     {
-      "садъ": {
+      "сад": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "садъ"
+        "normal_form": "сад"
       }
     },
     {
@@ -1908,7 +1906,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1916,7 +1914,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -2206,7 +2204,7 @@
   ],
   [
     {
-      "середній": {
+      "середнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2214,7 +2212,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "середніть"
+        "normal_form": "середнть"
       }
     },
     {

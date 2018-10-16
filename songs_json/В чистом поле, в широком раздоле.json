@@ -551,23 +551,21 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "рекрутскомъ": {
+      "рекрутском": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "рекрутскомъ"
+        "normal_form": "рекрутский"
       }
     },
     {
@@ -1535,7 +1533,7 @@
       }
     },
     {
-      "прежній": {
+      "прежнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1543,7 +1541,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "прежніть"
+        "normal_form": "прежнть"
       }
     },
     {

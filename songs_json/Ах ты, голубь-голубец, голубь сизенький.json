@@ -41,15 +41,15 @@
       }
     },
     {
-      "сизенькій": {
+      "сизеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "сизенькіть"
+        "normal_form": "сизенька"
       }
     }
   ],
@@ -66,27 +66,27 @@
       }
     },
     {
-      "сизенькій": {
+      "сизеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "сизенькіть"
+        "normal_form": "сизенька"
       }
     },
     {
-      "сизокрыленькій": {
+      "сизокрыленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "сизокрыленькіть"
+        "normal_form": "сизокрыленька"
       }
     }
   ],
@@ -189,11 +189,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -207,47 +207,48 @@
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "гостяхъ": {
+      "гостях": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "гостяхъ"
+        "normal_form": "гость"
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     },
     {

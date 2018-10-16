@@ -1134,15 +1134,14 @@
       }
     },
     {
-      "воронъ": {
+      "ворон": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "воронъ"
+        "normal_form": "ворон"
       }
     },
     {
@@ -1175,7 +1174,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1183,7 +1182,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -1244,15 +1243,14 @@
       }
     },
     {
-      "ножъ": {
+      "нож": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "ножъ"
+        "normal_form": "нож"
       }
     }
   ]

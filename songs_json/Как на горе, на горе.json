@@ -389,7 +389,7 @@
       }
     },
     {
-      "синій": {
+      "синй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -397,7 +397,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "синіть"
+        "normal_form": "синть"
       }
     },
     {
@@ -561,27 +561,26 @@
       }
     },
     {
-      "сынъ": {
+      "сын": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сынъ"
+        "normal_form": "сын"
       }
     },
     {
-      "константинъ": {
+      "константин": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "константинъ"
+        "normal_form": "константин"
       }
     }
   ],
@@ -742,15 +741,11 @@
   ],
   [
     {
-      "пріезжали": {
+      "при": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "при"
       }
     },
     {

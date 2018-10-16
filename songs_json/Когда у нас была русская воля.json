@@ -247,15 +247,16 @@
       }
     },
     {
-      "ведетъ": {
+      "ведет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "ведетъ"
+        "normal_form": "вести"
       }
     }
   ],
@@ -304,15 +305,16 @@
       }
     },
     {
-      "несетъ": {
+      "несет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "несетъ"
+        "normal_form": "нести"
       }
     }
   ],
@@ -370,11 +372,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -388,15 +390,14 @@
       }
     },
     {
-      "братъ": {
+      "брат": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "братъ"
+        "normal_form": "брат"
       }
     },
     {
@@ -421,15 +422,14 @@
       }
     },
     {
-      "братъ": {
+      "брат": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "братъ"
+        "normal_form": "брат"
       }
     }
   ],
@@ -498,16 +498,11 @@
       }
     },
     {
-      "пріедешь": {
+      "прь": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr sing",
-          "2per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "прь"
       }
     },
     {

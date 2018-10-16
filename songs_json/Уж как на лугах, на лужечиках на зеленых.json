@@ -142,13 +142,13 @@
       }
     },
     {
-      "беленькія": {
+      "беленькя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленькть"
       }
     },
     {
@@ -244,14 +244,12 @@
       }
     },
     {
-      "нижніе": {
+      "нижне": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS neut",
+          "sing"
         ],
-        "normal_form": "нижні"
+        "normal_form": "нижний"
       }
     },
     {
@@ -729,14 +727,11 @@
   ],
   [
     {
-      "пріупившись": {
+      "пр": {
         "OpencorporaTag": [
-          "GRND",
-          "perf",
-          "intr past",
-          "V-sh"
+          "UNKN"
         ],
-        "normal_form": "пріупиться"
+        "normal_form": "пр"
       }
     },
     {
@@ -761,16 +756,16 @@
       }
     },
     {
-      "пріуснула": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріуснуть"
+        "normal_form": "пра"
       }
     }
   ],

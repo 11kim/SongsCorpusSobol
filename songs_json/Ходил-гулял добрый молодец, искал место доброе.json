@@ -284,14 +284,13 @@
       }
     },
     {
-      "высокіе": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -308,14 +307,13 @@
       }
     },
     {
-      "высокіе": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высокий"
       }
     },
     {
@@ -330,14 +328,13 @@
       }
     },
     {
-      "широкіе": {
+      "широк": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "широкі"
+        "normal_form": "широкий"
       }
     }
   ],
@@ -1057,27 +1054,26 @@
       }
     },
     {
-      "чистымъ": {
+      "чистым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "чистымъ"
+        "normal_form": "чистый"
       }
     },
     {
-      "золотомъ": {
+      "золотом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "ablt"
         ],
-        "normal_form": "золотомъ"
+        "normal_form": "золото"
       }
     }
   ],
@@ -1122,33 +1118,31 @@
       }
     },
     {
-      "чистыимъ": {
+      "чистыим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "чистыимъ"
+        "normal_form": "чистыий"
       }
     },
     {
-      "серебромъ": {
+      "серебром": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "ablt"
         ],
-        "normal_form": "серебромъ"
+        "normal_form": "серебро"
       }
     }
   ],
   [
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1156,7 +1150,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -1179,11 +1173,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {

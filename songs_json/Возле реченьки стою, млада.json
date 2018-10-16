@@ -770,14 +770,15 @@
       }
     },
     {
-      "божіей": {
+      "божй": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn plur",
-          "gent"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "божіь"
+        "normal_form": "божть"
       }
     },
     {
@@ -870,14 +871,16 @@
       }
     },
     {
-      "третіе": {
+      "трете": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "VERB",
+          "impf",
+          "tran plur",
+          "2per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "треті"
+        "normal_form": "тереть"
       }
     },
     {
@@ -919,15 +922,14 @@
       }
     },
     {
-      "садъ": {
+      "сад": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "садъ"
+        "normal_form": "сад"
       }
     }
   ],

@@ -276,13 +276,13 @@
       }
     },
     {
-      "легкія": {
+      "легкя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "легкіть"
+        "normal_form": "легкть"
       }
     },
     {
@@ -680,15 +680,13 @@
       }
     },
     {
-      "жеребій": {
+      "жереб": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "жеребіть"
+        "normal_form": "жерёбый"
       }
     }
   ],
@@ -915,15 +913,11 @@
       }
     },
     {
-      "последній": {
+      "последнй": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "последніть"
+        "normal_form": "последнй"
       }
     },
     {
@@ -1090,7 +1084,7 @@
       }
     },
     {
-      "казачій": {
+      "казачй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1098,7 +1092,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "казачіть"
+        "normal_form": "казачть"
       }
     },
     {

@@ -217,7 +217,7 @@
       }
     },
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -225,19 +225,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
-      "господинъ": {
+      "господин": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "господинъ"
+        "normal_form": "господин"
       }
     }
   ],
@@ -282,27 +281,26 @@
       }
     },
     {
-      "захаръ": {
+      "захар": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "захаръ"
+        "normal_form": "захар"
       }
     },
     {
-      "господинъ": {
+      "господин": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "господинъ"
+        "normal_form": "господин"
       }
     }
   ],
@@ -1093,14 +1091,14 @@
       }
     },
     {
-      "ѳенюшка": {
+      "енюшка": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "ѳенюшка"
+        "normal_form": "енюшка"
       }
     }
   ],
@@ -1118,14 +1116,11 @@
       }
     },
     {
-      "ѳеня": {
+      "еня": {
         "OpencorporaTag": [
-          "GRND",
-          "perf",
-          "tran past",
-          "Fimp"
+          "UNKN"
         ],
-        "normal_form": "ѳенить"
+        "normal_form": "еня"
       }
     },
     {
@@ -1263,14 +1258,11 @@
       }
     },
     {
-      "ѳеня": {
+      "еня": {
         "OpencorporaTag": [
-          "GRND",
-          "perf",
-          "tran past",
-          "Fimp"
+          "UNKN"
         ],
-        "normal_form": "ѳенить"
+        "normal_form": "еня"
       }
     },
     {

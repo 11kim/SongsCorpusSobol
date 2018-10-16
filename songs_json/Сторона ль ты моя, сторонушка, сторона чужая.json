@@ -520,13 +520,14 @@
       }
     },
     {
-      "разбестія": {
+      "разбест": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "разбестіть"
+        "normal_form": "разбест"
       }
     },
     {
@@ -542,23 +543,22 @@
       }
     },
     {
-      "чортъ": {
+      "чорт": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "чортъ"
+        "normal_form": "чорт"
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -609,13 +609,14 @@
       }
     },
     {
-      "разбестія": {
+      "разбест": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "разбестіть"
+        "normal_form": "разбест"
       }
     },
     {

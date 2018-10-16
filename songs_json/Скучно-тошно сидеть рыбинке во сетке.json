@@ -345,16 +345,11 @@
   ],
   [
     {
-      "пріобтер": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріобтереть"
+        "normal_form": "пръ"
       }
     },
     {
@@ -414,16 +409,11 @@
   ],
   [
     {
-      "пріобсек": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріобсечь"
+        "normal_form": "пръ"
       }
     },
     {
@@ -584,15 +574,15 @@
       }
     },
     {
-      "бедненькій": {
+      "бедненьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "бедненькіть"
+        "normal_form": "бедненька"
       }
     },
     {

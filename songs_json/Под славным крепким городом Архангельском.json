@@ -601,35 +601,34 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "чистымъ": {
+      "чистым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "чистымъ"
+        "normal_form": "чистый"
       }
     },
     {
-      "серебромъ": {
+      "серебром": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "ablt"
         ],
-        "normal_form": "серебромъ"
+        "normal_form": "серебро"
       }
     }
   ],
@@ -654,41 +653,40 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "краснымъ": {
+      "красным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "краснымъ"
+        "normal_form": "красный"
       }
     },
     {
-      "золотомъ": {
+      "золотом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "ablt"
         ],
-        "normal_form": "золотомъ"
+        "normal_form": "золото"
       }
     }
   ],
   [
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -696,7 +694,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -708,35 +706,33 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "скатнымъ": {
+      "скатным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "скатнымъ"
+        "normal_form": "скатный"
       }
     },
     {
-      "жемчугомъ": {
+      "жемчугом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "жемчугомъ"
+        "normal_form": "жемчуг"
       }
     }
   ],
@@ -1448,15 +1444,11 @@
       }
     },
     {
-      "божій": {
+      "бож": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "божіть"
+        "normal_form": "бож"
       }
     }
   ],
@@ -1579,23 +1571,22 @@
       }
     },
     {
-      "отъ": {
+      "от": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "отъ"
+        "normal_form": "от"
       }
     },
     {
-      "черныхъ": {
+      "черных": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "черныхъ"
+        "normal_form": "чёрный"
       }
     },
     {
@@ -1715,15 +1706,11 @@
       }
     },
     {
-      "божій": {
+      "бож": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "божіть"
+        "normal_form": "бож"
       }
     }
   ],

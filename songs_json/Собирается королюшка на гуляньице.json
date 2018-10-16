@@ -591,15 +591,16 @@
       }
     },
     {
-      "спитъ": {
+      "спит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "спитъ"
+        "normal_form": "спать"
       }
     },
     {
@@ -623,27 +624,24 @@
       }
     },
     {
-      "такъ": {
+      "так": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "такъ"
+        "normal_form": "так"
       }
     },
     {
-      "лежитъ": {
+      "лежит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "лежитъ"
+        "normal_form": "лежать"
       }
     }
   ],
@@ -1209,15 +1207,14 @@
       }
     },
     {
-      "сонъ": {
+      "сон": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сонъ"
+        "normal_form": "сон"
       }
     },
     {
@@ -1277,27 +1274,27 @@
       }
     },
     {
-      "соколъ": {
+      "сокол": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "соколъ"
+        "normal_form": "сокол"
       }
     },
     {
-      "вылеталъ": {
+      "вылетал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "вылеталъ"
+        "normal_form": "вылетать"
       }
     }
   ],
@@ -1390,23 +1387,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "твоемъ": {
+      "твоем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Apro masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "твоемъ"
+        "normal_form": "твой"
       }
     },
     {
@@ -1539,7 +1535,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1547,7 +1543,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {

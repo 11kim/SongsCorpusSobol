@@ -83,14 +83,14 @@
   ],
   [
     {
-      "долгіе": {
+      "долге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "долгі"
+        "normal_form": "долг"
       }
     },
     {
@@ -862,15 +862,14 @@
       }
     },
     {
-      "столъ": {
+      "стол": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "столъ"
+        "normal_form": "стол"
       }
     },
     {
@@ -968,7 +967,7 @@
       }
     },
     {
-      "добренькій": {
+      "добренькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -976,7 +975,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "добренькіть"
+        "normal_form": "добренькть"
       }
     },
     {
@@ -1108,15 +1107,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ],
@@ -1456,14 +1452,16 @@
       }
     },
     {
-      "піивал": {
+      "п": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "femn",
+          "Fixd",
+          "Abbr sing",
           "nomn"
         ],
-        "normal_form": "піивал"
+        "normal_form": "плата"
       }
     }
   ],
@@ -1581,7 +1579,7 @@
       }
     },
     {
-      "литовскій": {
+      "литовскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1589,7 +1587,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "литовскіть"
+        "normal_form": "литовскть"
       }
     },
     {
@@ -1734,14 +1732,16 @@
       }
     },
     {
-      "піивал": {
+      "п": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "femn",
+          "Fixd",
+          "Abbr sing",
           "nomn"
         ],
-        "normal_form": "піивал"
+        "normal_form": "плата"
       }
     }
   ],
@@ -1859,7 +1859,7 @@
       }
     },
     {
-      "литовскій": {
+      "литовскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1867,7 +1867,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "литовскіть"
+        "normal_form": "литовскть"
       }
     },
     {
@@ -1903,7 +1903,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1911,7 +1911,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -2012,14 +2012,16 @@
       }
     },
     {
-      "піивал": {
+      "п": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "femn",
+          "Fixd",
+          "Abbr sing",
           "nomn"
         ],
-        "normal_form": "піивал"
+        "normal_form": "плата"
       }
     }
   ],
@@ -2137,7 +2139,7 @@
       }
     },
     {
-      "литовскій": {
+      "литовскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2145,7 +2147,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "литовскіть"
+        "normal_form": "литовскть"
       }
     },
     {
@@ -2313,15 +2315,14 @@
       }
     },
     {
-      "право́й": {
+      "правой": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "gent"
         ],
-        "normal_form": "право́ть"
+        "normal_form": "правый"
       }
     },
     {
@@ -2376,15 +2377,15 @@
       }
     },
     {
-      "бело́й": {
+      "белой": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "ablt"
         ],
-        "normal_form": "бело́ть"
+        "normal_form": "бела"
       }
     },
     {
@@ -2632,13 +2633,15 @@
       }
     },
     {
-      "королевскія": {
+      "королевск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскіть"
+        "normal_form": "королевск"
       }
     }
   ],
@@ -2734,7 +2737,7 @@
   ],
   [
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2742,7 +2745,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
@@ -2835,7 +2838,7 @@
   ],
   [
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2843,7 +2846,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
@@ -3541,7 +3544,7 @@
       }
     },
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3549,7 +3552,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
@@ -3593,14 +3596,15 @@
       }
     },
     {
-      "королевскіе": {
+      "королевске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "королевскі"
+        "normal_form": "королевск"
       }
     },
     {
@@ -3925,7 +3929,7 @@
       }
     },
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3933,7 +3937,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
@@ -4390,14 +4394,15 @@
       }
     },
     {
-      "королевскіе": {
+      "королевске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "королевскі"
+        "normal_form": "королевск"
       }
     },
     {
@@ -4927,7 +4932,7 @@
       }
     },
     {
-      "удаленькій": {
+      "удаленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4935,7 +4940,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "удаленькіть"
+        "normal_form": "удаленькть"
       }
     },
     {
@@ -5465,11 +5470,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -5518,11 +5523,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -5570,11 +5575,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -5984,7 +5989,7 @@
       }
     },
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -5992,7 +5997,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
@@ -6304,7 +6309,7 @@
       }
     },
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -6312,7 +6317,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
@@ -6551,14 +6556,15 @@
       }
     },
     {
-      "ро́дный": {
+      "рой": {
         "OpencorporaTag": [
-          "ADJF",
-          "Qual masc",
-          "sing",
+          "NOUN",
+          "anim",
+          "masc",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "ро́дный"
+        "normal_form": "рой"
       }
     },
     {
@@ -6783,7 +6789,7 @@
       }
     },
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -6791,7 +6797,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
@@ -6942,14 +6948,15 @@
       }
     },
     {
-      "ро́дный": {
+      "рой": {
         "OpencorporaTag": [
-          "ADJF",
-          "Qual masc",
-          "sing",
+          "NOUN",
+          "anim",
+          "masc",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "ро́дный"
+        "normal_form": "рой"
       }
     },
     {
@@ -7397,13 +7404,15 @@
       }
     },
     {
-      "сахарнія": {
+      "сахарн": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "сахарніть"
+        "normal_form": "сахарна"
       }
     }
   ],

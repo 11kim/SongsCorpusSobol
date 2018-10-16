@@ -635,11 +635,11 @@
       }
     },
     {
-      "охъ": {
+      "ох": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "охъ"
+        "normal_form": "ох"
       }
     },
     {
@@ -673,15 +673,16 @@
       }
     },
     {
-      "сгубилъ": {
+      "сгубил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "сгубилъ"
+        "normal_form": "сгубить"
       }
     },
     {

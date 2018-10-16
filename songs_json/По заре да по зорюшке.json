@@ -718,15 +718,16 @@
       }
     },
     {
-      "целуетъ": {
+      "целует": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "целуетъ"
+        "normal_form": "целовать"
       }
     }
   ],
@@ -752,15 +753,16 @@
       }
     },
     {
-      "обнимаетъ": {
+      "обнимает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "обнимаетъ"
+        "normal_form": "обнимать"
       }
     }
   ],

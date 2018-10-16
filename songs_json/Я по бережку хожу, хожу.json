@@ -721,38 +721,31 @@
       }
     },
     {
-      "перехожіе": {
+      "перехож": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "перехожі"
+        "normal_form": "перехожий"
       }
     }
   ],
   [
     {
-      "перехожіе": {
+      "перехож": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "перехожі"
+        "normal_form": "перехожий"
       }
     },
     {
-      "переезжіе": {
+      "переезж": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "UNKN"
         ],
-        "normal_form": "переезжі"
+        "normal_form": "переезж"
       }
     }
   ],
@@ -1094,15 +1087,14 @@
       }
     },
     {
-      "великій": {
+      "велик": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "великіть"
+        "normal_form": "велик"
       }
     },
     {
@@ -1147,11 +1139,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -1176,38 +1168,31 @@
       }
     },
     {
-      "перехожіе": {
+      "перехож": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "перехожі"
+        "normal_form": "перехожий"
       }
     }
   ],
   [
     {
-      "перехожіе": {
+      "перехож": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "перехожі"
+        "normal_form": "перехожий"
       }
     },
     {
-      "переезжіе": {
+      "переезж": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "UNKN"
         ],
-        "normal_form": "переезжі"
+        "normal_form": "переезж"
       }
     }
   ],

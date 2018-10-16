@@ -167,35 +167,35 @@
       }
     },
     {
-      "генералъ": {
+      "генерал": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "генералъ"
+        "normal_form": "генерал"
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -218,35 +218,32 @@
       }
     },
     {
-      "маіоръ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "маіоръ"
-      }
-    },
-    {
-      "былъ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "былъ"
-      }
-    },
-    {
-      "въ": {
+      "маъ": {
         "OpencorporaTag": [
           "UNKN"
         ],
-        "normal_form": "въ"
+        "normal_form": "маъ"
+      }
+    },
+    {
+      "был": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "быть"
+      }
+    },
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
       }
     },
     {
@@ -514,27 +511,27 @@
       }
     },
     {
-      "генералъ": {
+      "генерал": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "генералъ"
+        "normal_form": "генерал"
       }
     },
     {
-      "пилъ": {
+      "пил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пилъ"
+        "normal_form": "пить"
       }
     },
     {
@@ -557,27 +554,24 @@
       }
     },
     {
-      "маіоръ": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіоръ"
+        "normal_form": "маъ"
       }
     },
     {
-      "пилъ": {
+      "пил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пилъ"
+        "normal_form": "пить"
       }
     },
     {
@@ -862,23 +856,27 @@
       }
     },
     {
-      "генералъ": {
+      "генерал": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "генералъ"
+        "normal_form": "генерал"
       }
     },
     {
-      "елъ": {
+      "ел": {
         "OpencorporaTag": [
-          "UNKN"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "елъ"
+        "normal_form": "есть"
       }
     },
     {
@@ -901,23 +899,24 @@
       }
     },
     {
-      "маіоръ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "маіоръ"
-      }
-    },
-    {
-      "елъ": {
+      "маъ": {
         "OpencorporaTag": [
           "UNKN"
         ],
-        "normal_form": "елъ"
+        "normal_form": "маъ"
+      }
+    },
+    {
+      "ел": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "есть"
       }
     },
     {
@@ -1219,35 +1218,35 @@
       }
     },
     {
-      "генералъ": {
+      "генерал": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "генералъ"
+        "normal_form": "генерал"
       }
     },
     {
-      "спалъ": {
+      "спал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "спалъ"
+        "normal_form": "спасть"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1270,35 +1269,32 @@
       }
     },
     {
-      "маіоръ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "маіоръ"
-      }
-    },
-    {
-      "спалъ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "спалъ"
-      }
-    },
-    {
-      "въ": {
+      "маъ": {
         "OpencorporaTag": [
           "UNKN"
         ],
-        "normal_form": "въ"
+        "normal_form": "маъ"
+      }
+    },
+    {
+      "спал": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "спасть"
+      }
+    },
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
       }
     },
     {
@@ -1607,27 +1603,27 @@
       }
     },
     {
-      "генералъ": {
+      "генерал": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "генералъ"
+        "normal_form": "генерал"
       }
     },
     {
-      "спалъ": {
+      "спал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "спалъ"
+        "normal_form": "спасть"
       }
     },
     {
@@ -1658,27 +1654,24 @@
       }
     },
     {
-      "маіоръ": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіоръ"
+        "normal_form": "маъ"
       }
     },
     {
-      "спалъ": {
+      "спал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "спалъ"
+        "normal_form": "спасть"
       }
     },
     {
@@ -1966,35 +1959,35 @@
       }
     },
     {
-      "генералъ": {
+      "генерал": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "генералъ"
+        "normal_form": "генерал"
       }
     },
     {
-      "спалъ": {
+      "спал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "спалъ"
+        "normal_form": "спасть"
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -2019,35 +2012,32 @@
       }
     },
     {
-      "маіоръ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "маіоръ"
-      }
-    },
-    {
-      "спалъ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "спалъ"
-      }
-    },
-    {
-      "съ": {
+      "маъ": {
         "OpencorporaTag": [
           "UNKN"
         ],
-        "normal_form": "съ"
+        "normal_form": "маъ"
+      }
+    },
+    {
+      "спал": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "спасть"
+      }
+    },
+    {
+      "с": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "с"
       }
     },
     {

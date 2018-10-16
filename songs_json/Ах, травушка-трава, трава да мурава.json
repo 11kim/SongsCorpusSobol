@@ -766,7 +766,7 @@
       }
     },
     {
-      "крайній": {
+      "крайнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -774,7 +774,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "крайніть"
+        "normal_form": "крайнть"
       }
     },
     {
@@ -807,7 +807,7 @@
       }
     },
     {
-      "крайній": {
+      "крайнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -815,7 +815,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "крайніть"
+        "normal_form": "крайнть"
       }
     },
     {
@@ -879,14 +879,15 @@
   ],
   [
     {
-      "такіе": {
+      "таке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn",
+          "Sgtm sing",
+          "datv"
         ],
-        "normal_form": "такі"
+        "normal_form": "така"
       }
     },
     {
@@ -1062,15 +1063,13 @@
       }
     },
     {
-      "тяжелъ": {
+      "тяжел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "тяжелъ"
+        "normal_form": "тяжёлый"
       }
     }
   ],
@@ -1247,15 +1246,14 @@
       }
     },
     {
-      "уборъ": {
+      "убор": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "уборъ"
+        "normal_form": "убор"
       }
     },
     {

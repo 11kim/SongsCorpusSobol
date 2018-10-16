@@ -299,15 +299,16 @@
       }
     },
     {
-      "сушитъ": {
+      "сушит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "сушитъ"
+        "normal_form": "сушить"
       }
     }
   ],

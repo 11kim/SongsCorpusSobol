@@ -65,7 +65,7 @@
   ],
   [
     {
-      "игнатій": {
+      "игнатй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -73,19 +73,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "игнатіть"
+        "normal_form": "игнатть"
       }
     },
     {
-      "парѳенович": {
+      "пар": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Patr sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "парѳен"
+        "normal_form": "пара"
       }
     }
   ],
@@ -517,7 +516,7 @@
       }
     },
     {
-      "игнатій": {
+      "игнатй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -525,19 +524,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "игнатіть"
+        "normal_form": "игнатть"
       }
     },
     {
-      "парѳеновичъ": {
+      "пар": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "парѳеновичъ"
+        "normal_form": "пара"
       }
     }
   ],

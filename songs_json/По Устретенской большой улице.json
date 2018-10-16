@@ -136,7 +136,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -144,7 +144,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -346,14 +346,13 @@
       }
     },
     {
-      "могучіе": {
+      "могуче": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual neut",
+          "sing"
         ],
-        "normal_form": "могучі"
+        "normal_form": "могучий"
       }
     },
     {
@@ -586,7 +585,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -594,7 +593,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -867,7 +866,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -875,7 +874,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -1258,7 +1257,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1266,7 +1265,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -1278,7 +1277,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1286,7 +1285,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -1841,7 +1840,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1849,7 +1848,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -2154,13 +2153,15 @@
       }
     },
     {
-      "черкасскіим": {
+      "черкасск": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "черкасскіий"
+        "normal_form": "черкасск"
       }
     }
   ],
@@ -2268,7 +2269,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2276,7 +2277,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -2530,7 +2531,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2538,7 +2539,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -2653,16 +2654,11 @@
   ],
   [
     {
-      "пріезжал": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пръ"
       }
     },
     {
@@ -2693,7 +2689,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2701,7 +2697,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -2985,7 +2981,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2993,7 +2989,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -3117,27 +3113,26 @@
       }
     },
     {
-      "младъ": {
+      "млад": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "младъ"
+        "normal_form": "млада"
       }
     },
     {
-      "ключникъ": {
+      "ключник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "ключникъ"
+        "normal_form": "ключник"
       }
     },
     {

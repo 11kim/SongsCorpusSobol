@@ -122,14 +122,15 @@
   ],
   [
     {
-      "московскіе": {
+      "московске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "московскі"
+        "normal_form": "московск"
       }
     },
     {
@@ -390,7 +391,7 @@
   ],
   [
     {
-      "ѣхали": {
+      "хали": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -399,7 +400,7 @@
           "Name sing",
           "nomn"
         ],
-        "normal_form": "ѣхали"
+        "normal_form": "хали"
       }
     },
     {
@@ -1600,15 +1601,11 @@
   ],
   [
     {
-      "пріодень": {
+      "прь": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "пріодеть"
+        "normal_form": "прь"
       }
     },
     {

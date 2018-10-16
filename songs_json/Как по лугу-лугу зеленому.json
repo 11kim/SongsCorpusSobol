@@ -187,14 +187,14 @@
       }
     },
     {
-      "развысокіе": {
+      "развысоке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "развысокі"
+        "normal_form": "развысок"
       }
     },
     {
@@ -751,14 +751,14 @@
   ],
   [
     {
-      "тебе,молодой": {
+      "тебей": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "femn sing",
-          "gent"
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "тебе,молодая"
+        "normal_form": "тебей"
       }
     },
     {
@@ -856,23 +856,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "зеленомъ": {
+      "зеленом": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "зеленомъ"
+        "normal_form": "зелёный"
       }
     },
     {

@@ -632,15 +632,16 @@
       }
     },
     {
-      "начнетъ": {
+      "начнет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "начнетъ"
+        "normal_form": "начать"
       }
     }
   ],
@@ -687,15 +688,16 @@
       }
     },
     {
-      "станетъ": {
+      "станет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "станетъ"
+        "normal_form": "стать"
       }
     }
   ],
@@ -1169,15 +1171,16 @@
       }
     },
     {
-      "начнетъ": {
+      "начнет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "начнетъ"
+        "normal_form": "начать"
       }
     }
   ],
@@ -1619,15 +1622,16 @@
       }
     },
     {
-      "начнетъ": {
+      "начнет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "начнетъ"
+        "normal_form": "начать"
       }
     }
   ],

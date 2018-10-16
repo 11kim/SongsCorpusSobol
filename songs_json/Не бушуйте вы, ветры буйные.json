@@ -85,14 +85,14 @@
       }
     },
     {
-      "осенніе": {
+      "осенн": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "осенні"
+        "normal_form": "осенна"
       }
     }
   ],
@@ -1381,13 +1381,12 @@
       }
     },
     {
-      "прощенія": {
+      "прощен": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "прощеніть"
+        "normal_form": "прощёный"
       }
     }
   ],
@@ -1434,13 +1433,12 @@
       }
     },
     {
-      "прощенія": {
+      "прощен": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "прощеніть"
+        "normal_form": "прощёный"
       }
     }
   ],

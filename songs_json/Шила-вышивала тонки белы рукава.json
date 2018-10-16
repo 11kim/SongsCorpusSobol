@@ -427,7 +427,7 @@
       }
     },
     {
-      "девичій": {
+      "девичй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -435,7 +435,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "девичіть"
+        "normal_form": "девичть"
       }
     },
     {
@@ -846,15 +846,14 @@
       }
     },
     {
-      "дворянинъ": {
+      "дворянин": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "дворянинъ"
+        "normal_form": "дворянин"
       }
     }
   ],

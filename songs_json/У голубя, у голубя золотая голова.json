@@ -600,27 +600,29 @@
       }
     },
     {
-      "саночкахъ": {
+      "саночках": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "loct"
         ],
-        "normal_form": "саночкахъ"
+        "normal_form": "саночки"
       }
     },
     {
-      "городовыхъ": {
+      "городовых": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "GNdr",
+          "Ms-f",
+          "Pltm",
+          "Surn plur",
+          "gent"
         ],
-        "normal_form": "городовыхъ"
+        "normal_form": "городов"
       }
     }
   ],

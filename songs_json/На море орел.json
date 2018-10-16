@@ -966,11 +966,11 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
@@ -996,15 +996,16 @@
       }
     },
     {
-      "текутъ": {
+      "текут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "текутъ"
+        "normal_form": "течь"
       }
     }
   ],
@@ -1087,15 +1088,16 @@
       }
     },
     {
-      "нейдутъ": {
+      "нейдут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "нейдутъ"
+        "normal_form": "нейти"
       }
     }
   ],
@@ -1183,27 +1185,23 @@
       }
     },
     {
-      "денегъ": {
+      "денег": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "денегъ"
+        "normal_form": "деньга"
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ],
@@ -1303,27 +1301,23 @@
       }
     },
     {
-      "крыльевъ": {
+      "крыльев": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "крыльевъ"
+        "normal_form": "крыло"
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ]

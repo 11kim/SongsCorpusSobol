@@ -1696,27 +1696,23 @@
       }
     },
     {
-      "двухъ": {
+      "двух": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NUMR masc",
+          "gent"
         ],
-        "normal_form": "двухъ"
+        "normal_form": "два"
       }
     },
     {
-      "столбахъ": {
+      "столбах": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "столбахъ"
+        "normal_form": "столб"
       }
     }
   ],

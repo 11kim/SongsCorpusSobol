@@ -1092,14 +1092,17 @@
       }
     },
     {
-      "громкіе": {
+      "громк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Orgn sing",
+          "nomn"
         ],
-        "normal_form": "громкі"
+        "normal_form": "громк"
       }
     }
   ],

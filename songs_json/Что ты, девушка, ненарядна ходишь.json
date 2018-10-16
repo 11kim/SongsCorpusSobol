@@ -236,14 +236,11 @@
       }
     },
     {
-      "маіора": {
+      "ма": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "маіор"
+        "normal_form": "ма"
       }
     }
   ],
@@ -278,12 +275,15 @@
   ],
   [
     {
-      "во-вторых-то": {
+      "во-вторыхъ-то": {
         "OpencorporaTag": [
-          "CONJ",
-          "Prnt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "во-вторых-то"
+        "normal_form": "во-вторыхъ-то"
       }
     },
     {

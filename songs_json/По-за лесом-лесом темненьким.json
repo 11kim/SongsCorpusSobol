@@ -97,14 +97,11 @@
       }
     },
     {
-      "пріубитая": {
+      "пр": {
         "OpencorporaTag": [
-          "ADJF",
-          "Qual femn",
-          "sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріубитый"
+        "normal_form": "пр"
       }
     }
   ],
@@ -161,14 +158,11 @@
       }
     },
     {
-      "пріубитой": {
+      "пр": {
         "OpencorporaTag": [
-          "ADJF",
-          "Qual femn",
-          "sing",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "пріубитый"
+        "normal_form": "пр"
       }
     }
   ],
@@ -568,7 +562,7 @@
   ],
   [
     {
-      "средній": {
+      "среднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -576,7 +570,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "средніть"
+        "normal_form": "среднть"
       }
     },
     {

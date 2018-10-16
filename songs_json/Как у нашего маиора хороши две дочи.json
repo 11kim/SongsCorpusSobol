@@ -28,14 +28,11 @@
       }
     },
     {
-      "маіора": {
+      "маа": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "маіор"
+        "normal_form": "маа"
       }
     },
     {
@@ -635,14 +632,11 @@
       }
     },
     {
-      "маіор": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіор"
+        "normal_form": "маъ"
       }
     },
     {
@@ -692,14 +686,11 @@
       }
     },
     {
-      "маіор": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіор"
+        "normal_form": "маъ"
       }
     },
     {
@@ -1152,11 +1143,15 @@
       }
     },
     {
-      "сіи": {
+      "си": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "neut",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "сіи"
+        "normal_form": "си"
       }
     },
     {
@@ -1241,15 +1236,13 @@
       }
     },
     {
-      "насъ": {
+      "нас": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "gent"
         ],
-        "normal_form": "насъ"
+        "normal_form": "мы"
       }
     },
     {
@@ -1263,15 +1256,16 @@
       }
     },
     {
-      "станутъ": {
+      "станут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "станутъ"
+        "normal_form": "стать"
       }
     }
   ],

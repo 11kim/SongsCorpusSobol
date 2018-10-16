@@ -243,15 +243,11 @@
       }
     },
     {
-      "пріаукивати": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "пріаукиватить"
+        "normal_form": "пр"
       }
     }
   ],
@@ -382,15 +378,15 @@
       }
     },
     {
-      "темненькій": {
+      "темненьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "темненькіть"
+        "normal_form": "темненька"
       }
     },
     {

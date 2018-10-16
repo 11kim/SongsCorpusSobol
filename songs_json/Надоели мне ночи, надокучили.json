@@ -187,14 +187,14 @@
       }
     },
     {
-      "казачіи": {
+      "казач": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "казачіь"
+        "normal_form": "казач"
       }
     },
     {
@@ -502,14 +502,15 @@
       }
     },
     {
-      "моздокскіе": {
+      "моздокск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "моздокскі"
+        "normal_form": "моздокск"
       }
     }
   ],

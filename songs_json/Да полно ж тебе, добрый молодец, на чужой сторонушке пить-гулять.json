@@ -167,7 +167,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -175,7 +175,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -562,14 +562,15 @@
       }
     },
     {
-      "шелковенькіе": {
+      "шелковеньк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "шелковенькі"
+        "normal_form": "шелковенька"
       }
     }
   ],
@@ -886,13 +887,11 @@
       }
     },
     {
-      "прійтить-то": {
+      "пр": {
         "OpencorporaTag": [
-          "INFN",
-          "perf",
-          "tran"
+          "UNKN"
         ],
-        "normal_form": "прійтить-то"
+        "normal_form": "пр"
       }
     },
     {
@@ -970,15 +969,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ],
@@ -1014,13 +1010,11 @@
       }
     },
     {
-      "прійтить": {
+      "пр": {
         "OpencorporaTag": [
-          "INFN",
-          "perf",
-          "tran"
+          "UNKN"
         ],
-        "normal_form": "прійтить"
+        "normal_form": "пр"
       }
     },
     {
@@ -1040,15 +1034,16 @@
       }
     },
     {
-      "угадаютъ": {
+      "угадают": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "угадаютъ"
+        "normal_form": "угадать"
       }
     },
     {
@@ -1140,13 +1135,11 @@
       }
     },
     {
-      "прійтить": {
+      "пр": {
         "OpencorporaTag": [
-          "INFN",
-          "perf",
-          "tran"
+          "UNKN"
         ],
-        "normal_form": "прійтить"
+        "normal_form": "пр"
       }
     },
     {

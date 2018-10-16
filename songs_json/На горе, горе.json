@@ -346,15 +346,14 @@
       }
     },
     {
-      "панъ": {
+      "пан": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "панъ"
+        "normal_form": "пан"
       }
     }
   ],
@@ -378,7 +377,7 @@
       }
     },
     {
-      "синій": {
+      "синй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -386,7 +385,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "синіть"
+        "normal_form": "синть"
       }
     },
     {
@@ -577,15 +576,11 @@
   ],
   [
     {
-      "пріехали": {
+      "при": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "при"
       }
     },
     {
@@ -821,23 +816,19 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
-      "кіева": {
+      "к": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "кіева"
+        "normal_form": "к"
       }
     }
   ],
@@ -1008,23 +999,19 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
-      "кіева": {
+      "к": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "кіева"
+        "normal_form": "к"
       }
     }
   ],
@@ -1092,11 +1079,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

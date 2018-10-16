@@ -568,27 +568,24 @@
       }
     },
     {
-      "промежъ": {
+      "промеж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "промежъ"
+        "normal_form": "промеж"
       }
     },
     {
-      "нимъ": {
+      "ним": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
+          "NPRO",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "3per",
+          "Anph sing",
+          "ablt",
+          "Af-p"
         ],
-        "normal_form": "нимъ"
+        "normal_form": "он"
       }
     }
   ],

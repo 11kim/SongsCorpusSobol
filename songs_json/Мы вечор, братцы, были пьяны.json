@@ -1317,27 +1317,25 @@
       }
     },
     {
-      "золоторогіе": {
+      "золоторог": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "золоторогі"
+        "normal_form": "золоторогий"
       }
     }
   ],
   [
     {
-      "золоторогіе": {
+      "золотороге": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
           "loct"
         ],
-        "normal_form": "золоторогі"
+        "normal_form": "золоторог"
       }
     },
     {
@@ -1681,15 +1679,11 @@
       }
     },
     {
-      "окіан-море": {
+      "ок": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "окіан-море"
+        "normal_form": "ок"
       }
     }
   ],

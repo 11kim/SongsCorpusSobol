@@ -62,15 +62,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ],
@@ -284,15 +281,15 @@
       }
     },
     {
-      "распріятныя": {
+      "распр": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Name sing",
-          "gent"
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "распріятный"
+        "normal_form": "распр"
       }
     }
   ]

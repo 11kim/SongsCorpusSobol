@@ -747,14 +747,16 @@
   ],
   [
     {
-      "узголовійца": {
+      "узголова": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc sing",
+          "masc",
+          "Sgtm",
+          "Surn sing",
           "gent"
         ],
-        "normal_form": "узголовіец"
+        "normal_form": "узголов"
       }
     },
     {
@@ -768,13 +770,13 @@
       }
     },
     {
-      "высокія": {
+      "высок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -1067,14 +1069,16 @@
   ],
   [
     {
-      "узголовійца": {
+      "узголова": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc sing",
+          "masc",
+          "Sgtm",
+          "Surn sing",
           "gent"
         ],
-        "normal_form": "узголовіец"
+        "normal_form": "узголов"
       }
     },
     {
@@ -1431,14 +1435,16 @@
   ],
   [
     {
-      "узголовійца": {
+      "узголова": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc sing",
+          "masc",
+          "Sgtm",
+          "Surn sing",
           "gent"
         ],
-        "normal_form": "узголовіец"
+        "normal_form": "узголов"
       }
     },
     {

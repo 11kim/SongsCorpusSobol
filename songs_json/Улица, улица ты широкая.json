@@ -557,39 +557,36 @@
       }
     },
     {
-      "всехъ": {
+      "всех": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Apro plur",
+          "gent"
         ],
-        "normal_form": "всехъ"
+        "normal_form": "весь"
       }
     },
     {
-      "васъ": {
+      "вас": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "accs"
         ],
-        "normal_form": "васъ"
+        "normal_form": "вы"
       }
     },
     {
-      "подаритъ": {
+      "подарит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "подаритъ"
+        "normal_form": "подарить"
       }
     }
   ],
@@ -687,27 +684,25 @@
       }
     },
     {
-      "стольнымъ": {
+      "стольным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "стольнымъ"
+        "normal_form": "стольный"
       }
     },
     {
-      "городомъ": {
+      "городом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "городомъ"
+        "normal_form": "город"
       }
     }
   ],

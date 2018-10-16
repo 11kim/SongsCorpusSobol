@@ -1199,15 +1199,16 @@
       }
     },
     {
-      "зять-етъ": {
+      "зять-ет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "зять-етъ"
+        "normal_form": "зять-ть"
       }
     },
     {
@@ -1219,15 +1220,15 @@
       }
     },
     {
-      "воротъ": {
+      "ворот": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "воротъ"
+        "normal_form": "ворота"
       }
     }
   ],
@@ -1317,11 +1318,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1347,15 +1348,16 @@
       }
     },
     {
-      "болитъ": {
+      "болит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "болитъ"
+        "normal_form": "болеть"
       }
     },
     {

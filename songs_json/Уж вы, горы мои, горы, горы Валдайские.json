@@ -62,13 +62,15 @@
       }
     },
     {
-      "валдайскія": {
+      "валдайск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "валдайскіть"
+        "normal_form": "валдайск"
       }
     }
   ],
@@ -641,11 +643,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -659,15 +661,16 @@
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     },
     {
@@ -689,15 +692,16 @@
       }
     },
     {
-      "гулялъ": {
+      "гулял": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "гулялъ"
+        "normal_form": "гулять"
       }
     },
     {
@@ -709,7 +713,7 @@
       }
     },
     {
-      "дикіихъ": {
+      "дикъ": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -717,7 +721,7 @@
           "Fixd sing",
           "nomn"
         ],
-        "normal_form": "дикіихъ"
+        "normal_form": "дикъ"
       }
     },
     {
@@ -729,15 +733,14 @@
       }
     },
     {
-      "степяхъ": {
+      "степях": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "loct"
         ],
-        "normal_form": "степяхъ"
+        "normal_form": "степь"
       }
     }
   ],
@@ -767,11 +770,11 @@
       }
     },
     {
-      "жъ": {
+      "ж": {
         "OpencorporaTag": [
-          "UNKN"
+          "CONJ"
         ],
-        "normal_form": "жъ"
+        "normal_form": "ж"
       }
     },
     {
@@ -785,27 +788,27 @@
       }
     },
     {
-      "воронъ": {
+      "ворон": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "воронъ"
+        "normal_form": "ворон"
       }
     },
     {
-      "виделъ": {
+      "видел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "виделъ"
+        "normal_form": "видеть"
       }
     },
     {
@@ -828,15 +831,16 @@
       }
     },
     {
-      "посматривалъ": {
+      "посматривал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "посматривалъ"
+        "normal_form": "посматривать"
       }
     }
   ],
@@ -850,11 +854,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -868,39 +872,42 @@
       }
     },
     {
-      "виделъ": {
+      "видел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "виделъ"
+        "normal_form": "видеть"
       }
     },
     {
-      "повидалъ": {
+      "повидал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "повидалъ"
+        "normal_form": "повидать"
       }
     },
     {
-      "виделъ": {
+      "видел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "виделъ"
+        "normal_form": "видеть"
       }
     },
     {
@@ -1154,15 +1161,11 @@
   ],
   [
     {
-      "пріискались": {
+      "прь": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріискаться"
+        "normal_form": "прь"
       }
     },
     {

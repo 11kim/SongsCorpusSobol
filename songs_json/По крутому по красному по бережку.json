@@ -317,15 +317,14 @@
       }
     },
     {
-      "человекъ": {
+      "человек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "человекъ"
+        "normal_form": "человек"
       }
     }
   ],
@@ -822,35 +821,34 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "краснымъ": {
+      "красным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "краснымъ"
+        "normal_form": "красный"
       }
     },
     {
-      "золотомъ": {
+      "золотом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "ablt"
         ],
-        "normal_form": "золотомъ"
+        "normal_form": "золото"
       }
     }
   ],
@@ -900,35 +898,34 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "чистымъ": {
+      "чистым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "чистымъ"
+        "normal_form": "чистый"
       }
     },
     {
-      "серебромъ": {
+      "серебром": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "ablt"
         ],
-        "normal_form": "серебромъ"
+        "normal_form": "серебро"
       }
     }
   ],
@@ -942,7 +939,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -950,7 +947,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -973,35 +970,32 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "крупнымъ": {
+      "крупным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual plur",
+          "datv"
         ],
-        "normal_form": "крупнымъ"
+        "normal_form": "крупный"
       }
     },
     {
-      "жемчугомъ": {
+      "жемчугом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "жемчугомъ"
+        "normal_form": "жемчуг"
       }
     }
   ],

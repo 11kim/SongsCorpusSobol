@@ -1105,7 +1105,7 @@
   ],
   [
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1113,7 +1113,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -1321,14 +1321,14 @@
       }
     },
     {
-      "ѳедора": {
+      "едора": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -1464,15 +1464,16 @@
       }
     },
     {
-      "зайдемъ": {
+      "зайдем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "зайдемъ"
+        "normal_form": "зайти"
       }
     }
   ],

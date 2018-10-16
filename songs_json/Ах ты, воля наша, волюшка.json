@@ -187,14 +187,14 @@
       }
     },
     {
-      "солдатствіе": {
+      "солдатств": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "солдатстві"
+        "normal_form": "солдатство"
       }
     }
   ],
@@ -251,14 +251,15 @@
       }
     },
     {
-      "губернскіе": {
+      "губернск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "губернскі"
+        "normal_form": "губернск"
       }
     }
   ],
@@ -310,15 +311,15 @@
       }
     },
     {
-      "бирженскій": {
+      "бирженск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "бирженскіть"
+        "normal_form": "бирженск"
       }
     }
   ],
@@ -362,15 +363,15 @@
       }
     },
     {
-      "сереговскій": {
+      "сереговск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "сереговскіть"
+        "normal_form": "сереговск"
       }
     }
   ],
@@ -637,13 +638,13 @@
       }
     },
     {
-      "солдатскія": {
+      "солдатскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатскть"
       }
     },
     {

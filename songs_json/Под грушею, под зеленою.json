@@ -394,15 +394,11 @@
   ],
   [
     {
-      "пріезжай": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пр"
       }
     },
     {
@@ -417,15 +413,11 @@
       }
     },
     {
-      "пріезжай": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пр"
       }
     },
     {
@@ -468,15 +460,11 @@
       }
     },
     {
-      "пріеду": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn",
-          "Sgtm sing",
-          "accs"
+          "UNKN"
         ],
-        "normal_form": "пріеда"
+        "normal_form": "пр"
       }
     },
     {
@@ -491,15 +479,11 @@
       }
     },
     {
-      "пріеду": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn",
-          "Sgtm sing",
-          "accs"
+          "UNKN"
         ],
-        "normal_form": "пріеда"
+        "normal_form": "пр"
       }
     },
     {
@@ -516,7 +500,7 @@
   ],
   [
     {
-      "ѣдет": {
+      "дет": {
         "OpencorporaTag": [
           "PRTS",
           "perf",
@@ -524,7 +508,7 @@
           "pssv masc",
           "sing"
         ],
-        "normal_form": "ѣдеть"
+        "normal_form": "деть"
       }
     },
     {
@@ -729,11 +713,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -770,15 +754,11 @@
       }
     },
     {
-      "напередъ": {
+      "наперед": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "напередъ"
+        "normal_form": "наперёд"
       }
     },
     {
@@ -832,15 +812,14 @@
       }
     },
     {
-      "братецъ": {
+      "братец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "братецъ"
+        "normal_form": "братец"
       }
     },
     {
@@ -1218,14 +1197,16 @@
       }
     },
     {
-      "пріятству": {
+      "пру": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "neut sing",
-          "datv"
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "accs"
         ],
-        "normal_form": "пріятство"
+        "normal_form": "пра"
       }
     },
     {

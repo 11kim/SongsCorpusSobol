@@ -92,27 +92,27 @@
       }
     },
     {
-      "ведромъ": {
+      "ведром": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "ведромъ"
+        "normal_form": "вёдро"
       }
     },
     {
-      "поливаетъ": {
+      "поливает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "поливаетъ"
+        "normal_form": "поливать"
       }
     }
   ],
@@ -278,15 +278,16 @@
       }
     },
     {
-      "отдамъ": {
+      "отдам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "отдамъ"
+        "normal_form": "отдать"
       }
     },
     {
@@ -300,15 +301,11 @@
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     }
   ],
@@ -526,15 +523,14 @@
       }
     },
     {
-      "братецъ": {
+      "братец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "братецъ"
+        "normal_form": "братец"
       }
     },
     {

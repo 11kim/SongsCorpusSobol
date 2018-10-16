@@ -327,45 +327,39 @@
       }
     },
     {
-      "хорошій": {
+      "хорош": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошіть"
+        "normal_form": "хороший"
       }
     },
     {
-      "пригожій": {
+      "пригож": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "пригожіть"
+        "normal_form": "пригожий"
       }
     }
   ],
   [
     {
-      "хорошій": {
+      "хорош": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошіть"
+        "normal_form": "хороший"
       }
     },
     {
-      "пригожій": {
+      "пригожй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -373,7 +367,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "пригожіть"
+        "normal_form": "пригожть"
       }
     },
     {
@@ -836,11 +830,11 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {

@@ -195,7 +195,7 @@
       }
     },
     {
-      "нижайшій": {
+      "нижайшй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -203,7 +203,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "нижайшіть"
+        "normal_form": "нижайшть"
       }
     },
     {
@@ -821,15 +821,16 @@
       }
     },
     {
-      "носилъ": {
+      "носил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "носилъ"
+        "normal_form": "носить"
       }
     }
   ],

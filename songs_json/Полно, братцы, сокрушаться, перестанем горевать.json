@@ -965,7 +965,7 @@
       }
     },
     {
-      "дикіимъ": {
+      "дикъ": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -973,7 +973,7 @@
           "Fixd sing",
           "nomn"
         ],
-        "normal_form": "дикіимъ"
+        "normal_form": "дикъ"
       }
     },
     {
@@ -985,15 +985,14 @@
       }
     },
     {
-      "степямъ": {
+      "степям": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "степямъ"
+        "normal_form": "степь"
       }
     }
   ],
@@ -1049,15 +1048,11 @@
       }
     },
     {
-      "подъ": {
+      "под": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "подъ"
+        "normal_form": "под"
       }
     },
     {
@@ -1081,15 +1076,14 @@
       }
     },
     {
-      "штыкахъ": {
+      "штыках": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "штыкахъ"
+        "normal_form": "штык"
       }
     }
   ],

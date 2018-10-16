@@ -214,11 +214,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -639,15 +639,11 @@
       }
     },
     {
-      "пріятныя": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "пріятный"
+        "normal_form": "пр"
       }
     }
   ],
@@ -1202,15 +1198,14 @@
       }
     },
     {
-      "дуракъ": {
+      "дурак": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "дуракъ"
+        "normal_form": "дурак"
       }
     },
     {
@@ -1503,15 +1498,14 @@
       }
     },
     {
-      "гневъ": {
+      "гнев": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "гневъ"
+        "normal_form": "гнев"
       }
     },
     {

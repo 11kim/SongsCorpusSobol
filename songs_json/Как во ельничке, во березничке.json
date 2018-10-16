@@ -1201,39 +1201,37 @@
       }
     },
     {
-      "вашъ": {
+      "ваш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "вашъ"
+        "normal_form": "ваш"
       }
     },
     {
-      "иванъ-то": {
+      "иван-то": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "иванъ-то"
+        "normal_form": "иван-то"
       }
     },
     {
-      "братъ": {
+      "брат": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "братъ"
+        "normal_form": "брат"
       }
     }
   ],

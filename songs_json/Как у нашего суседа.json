@@ -272,16 +272,14 @@
       }
     },
     {
-      "опасностію": {
+      "опасност": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "опасностіть"
+        "normal_form": "опасност"
       }
     }
   ],
@@ -898,7 +896,7 @@
   ],
   [
     {
-      "этакій": {
+      "этакй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -906,7 +904,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "этакіть"
+        "normal_form": "этакть"
       }
     },
     {

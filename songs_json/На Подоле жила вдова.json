@@ -734,15 +734,16 @@
       }
     },
     {
-      "третій": {
+      "трет": {
         "OpencorporaTag": [
           "VERB",
           "impf",
           "tran sing",
-          "impr",
-          "excl"
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "третіть"
+        "normal_form": "тереть"
       }
     },
     {
@@ -950,11 +951,11 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {

@@ -553,7 +553,7 @@
       }
     },
     {
-      "старшій": {
+      "старшй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -561,7 +561,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "старшіть"
+        "normal_form": "старшть"
       }
     },
     {
@@ -801,15 +801,14 @@
       }
     },
     {
-      "летъ": {
+      "лет": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "летъ"
+        "normal_form": "год"
       }
     },
     {
@@ -913,15 +912,14 @@
       }
     },
     {
-      "денегъ": {
+      "денег": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "денегъ"
+        "normal_form": "деньга"
       }
     },
     {
@@ -961,15 +959,14 @@
       }
     },
     {
-      "денегъ": {
+      "денег": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "денегъ"
+        "normal_form": "деньга"
       }
     },
     {
@@ -1062,15 +1059,14 @@
       }
     },
     {
-      "детокъ": {
+      "деток": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "детокъ"
+        "normal_form": "детка"
       }
     },
     {
@@ -1110,15 +1106,14 @@
       }
     },
     {
-      "детокъ": {
+      "деток": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "детокъ"
+        "normal_form": "детка"
       }
     },
     {
@@ -1520,16 +1515,11 @@
       }
     },
     {
-      "пріехал": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -1561,35 +1551,29 @@
       }
     },
     {
-      "векъ": {
+      "век": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "векъ"
+        "normal_form": "век"
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {

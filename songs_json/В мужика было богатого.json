@@ -97,14 +97,13 @@
       }
     },
     {
-      "хорошіе": {
+      "хорош": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хороші"
+        "normal_form": "хороший"
       }
     }
   ],
@@ -391,7 +390,7 @@
       }
     },
     {
-      "меньшій": {
+      "меньшй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -399,7 +398,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "меньшіть"
+        "normal_form": "меньшть"
       }
     },
     {
@@ -697,16 +696,13 @@
       }
     },
     {
-      "жеребію": {
+      "жереб": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "жеребіть"
+        "normal_form": "жерёбый"
       }
     }
   ],
@@ -742,15 +738,13 @@
       }
     },
     {
-      "жеребій": {
+      "жереб": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "жеребіть"
+        "normal_form": "жерёбый"
       }
     }
   ],
@@ -801,7 +795,7 @@
   ],
   [
     {
-      "старшій": {
+      "старшй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -809,7 +803,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "старшіть"
+        "normal_form": "старшть"
       }
     },
     {
@@ -955,7 +949,7 @@
       }
     },
     {
-      "меньшій": {
+      "меньшй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -963,7 +957,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "меньшіть"
+        "normal_form": "меньшть"
       }
     },
     {

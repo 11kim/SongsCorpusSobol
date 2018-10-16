@@ -122,13 +122,14 @@
       }
     },
     {
-      "верійскому": {
+      "вер": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "datv"
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "верійский"
+        "normal_form": "вера"
       }
     }
   ],
@@ -275,27 +276,27 @@
       }
     },
     {
-      "соколъ": {
+      "сокол": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "соколъ"
+        "normal_form": "сокол"
       }
     },
     {
-      "летитъ": {
+      "летит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "летитъ"
+        "normal_form": "лететь"
       }
     }
   ],
@@ -371,27 +372,29 @@
       }
     },
     {
-      "крыльемъ": {
+      "крыльем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "1per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "крыльемъ"
+        "normal_form": "крылить"
       }
     },
     {
-      "машетъ": {
+      "машет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "машетъ"
+        "normal_form": "махать"
       }
     }
   ],
@@ -405,7 +408,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -413,7 +416,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -821,14 +824,14 @@
       }
     },
     {
-      "долгіе": {
+      "долге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "долгі"
+        "normal_form": "долг"
       }
     },
     {

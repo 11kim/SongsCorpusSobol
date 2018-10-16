@@ -21,14 +21,12 @@
       }
     },
     {
-      "большіе": {
+      "больше": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "COMP",
+          "Qual"
         ],
-        "normal_form": "больші"
+        "normal_form": "большой"
       }
     },
     {
@@ -61,14 +59,12 @@
       }
     },
     {
-      "пропащіе": {
+      "пропащ": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "пропащі"
+        "normal_form": "пропащий"
       }
     }
   ],

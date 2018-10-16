@@ -44,7 +44,7 @@
   ],
   [
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -52,7 +52,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -295,15 +295,14 @@
       }
     },
     {
-      "чужихъ": {
+      "чужих": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "чужихъ"
+        "normal_form": "чужое"
       }
     },
     {

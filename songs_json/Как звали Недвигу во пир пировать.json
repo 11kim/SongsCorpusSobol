@@ -643,16 +643,16 @@
   ],
   [
     {
-      "пріезжала": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пра"
       }
     },
     {
@@ -972,15 +972,15 @@
       }
     },
     {
-      "купріян": {
+      "купр": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Name sing",
+          "Geox sing",
           "nomn"
         ],
-        "normal_form": "купріян"
+        "normal_form": "купр"
       }
     },
     {
@@ -1673,16 +1673,16 @@
   ],
   [
     {
-      "пріезжала": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пра"
       }
     },
     {
@@ -1834,15 +1834,16 @@
       }
     },
     {
-      "спалъ-ночевалъ": {
+      "спал-ночевал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "спалъ-ночевалъ"
+        "normal_form": "спасть-ночевать"
       }
     }
   ],

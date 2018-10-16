@@ -315,15 +315,13 @@
       }
     },
     {
-      "широкій": {
+      "широк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкий"
       }
     }
   ],
@@ -648,12 +646,11 @@
       }
     },
     {
-      "пріемна": {
+      "пр": {
         "OpencorporaTag": [
-          "ADJS femn",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріёмный"
+        "normal_form": "пр"
       }
     }
   ],
@@ -667,15 +664,11 @@
       }
     },
     {
-      "пріемной": {
+      "прй": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріемной"
+        "normal_form": "прй"
       }
     },
     {
@@ -687,14 +680,14 @@
       }
     },
     {
-      "присутствіе": {
+      "присутств": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "присутстві"
+        "normal_form": "присутство"
       }
     }
   ],
@@ -708,14 +701,15 @@
       }
     },
     {
-      "присутствіи": {
+      "присутстви": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "VERB",
+          "perf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "присутствіь"
+        "normal_form": "присутствить"
       }
     },
     {

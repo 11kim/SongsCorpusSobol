@@ -63,13 +63,15 @@
       }
     },
     {
-      "новенькія": {
+      "новеньк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "новенькіть"
+        "normal_form": "новенька"
       }
     }
   ],
@@ -83,13 +85,15 @@
       }
     },
     {
-      "сосновенькія": {
+      "сосновеньк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "сосновенькіть"
+        "normal_form": "сосновенька"
       }
     }
   ],

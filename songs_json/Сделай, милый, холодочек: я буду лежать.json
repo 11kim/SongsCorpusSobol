@@ -276,14 +276,14 @@
   ],
   [
     {
-      "дорогіе": {
+      "дороге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "дорогі"
+        "normal_form": "дорога"
       }
     },
     {
@@ -318,15 +318,14 @@
       }
     },
     {
-      "кумачъ": {
+      "кумач": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "кумачъ"
+        "normal_form": "кумач"
       }
     },
     {

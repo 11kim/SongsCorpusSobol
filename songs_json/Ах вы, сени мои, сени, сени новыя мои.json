@@ -1299,27 +1299,28 @@
       }
     },
     {
-      "красныхъ": {
+      "красных": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "GNdr",
+          "Ms-f",
+          "Fixd",
+          "Surn sing",
           "nomn"
         ],
-        "normal_form": "красныхъ"
+        "normal_form": "красных"
       }
     },
     {
-      "девокъ": {
+      "девок": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "девокъ"
+        "normal_form": "девка"
       }
     },
     {

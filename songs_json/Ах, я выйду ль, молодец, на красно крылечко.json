@@ -293,15 +293,11 @@
       }
     },
     {
-      "пріумолкли": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr plur",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріумолкнуть"
+        "normal_form": "пр"
       }
     }
   ],
@@ -569,14 +565,11 @@
       }
     },
     {
-      "чужіе": {
+      "чуже": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "чужі"
+        "normal_form": "чуже"
       }
     },
     {
@@ -605,13 +598,13 @@
       }
     },
     {
-      "чужія": {
+      "чужя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "чужіть"
+        "normal_form": "чужть"
       }
     },
     {

@@ -456,7 +456,7 @@
       }
     },
     {
-      "теперешній": {
+      "теперешнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -464,7 +464,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "теперешніть"
+        "normal_form": "теперешнть"
       }
     },
     {
@@ -569,15 +569,11 @@
       }
     },
     {
-      "чемъ": {
+      "чем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "чемъ"
+        "normal_form": "чем"
       }
     },
     {
@@ -591,11 +587,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

@@ -672,15 +672,14 @@
       }
     },
     {
-      "снегъ": {
+      "снег": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "снегъ"
+        "normal_form": "снег"
       }
     }
   ],
@@ -724,15 +723,15 @@
       }
     },
     {
-      "цветъ": {
+      "цвет": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "цветъ"
+        "normal_form": "цвета"
       }
     }
   ],
@@ -766,15 +765,14 @@
       }
     },
     {
-      "колесомъ": {
+      "колесом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "колесомъ"
+        "normal_form": "колесо"
       }
     }
   ],
@@ -808,15 +806,14 @@
       }
     },
     {
-      "соколомъ": {
+      "соколом": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "соколомъ"
+        "normal_form": "сокол"
       }
     }
   ],

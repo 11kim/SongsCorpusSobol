@@ -39,15 +39,11 @@
       }
     },
     {
-      "кіеве": {
+      "ке": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "datv"
+          "UNKN"
         ],
-        "normal_form": "кіева"
+        "normal_form": "ке"
       }
     }
   ],
@@ -641,16 +637,11 @@
       }
     },
     {
-      "кіев": {
+      "къ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Sgtm",
-          "Surn sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "кіев"
+        "normal_form": "къ"
       }
     },
     {
@@ -1918,15 +1909,15 @@
       }
     },
     {
-      "младыій": {
+      "младый": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "masc",
+          "Name sing",
+          "nomn"
         ],
-        "normal_form": "младыіть"
+        "normal_form": "младый"
       }
     },
     {

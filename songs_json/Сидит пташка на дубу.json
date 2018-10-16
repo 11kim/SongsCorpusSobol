@@ -390,7 +390,7 @@
       }
     },
     {
-      "даянскій": {
+      "даянскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -398,7 +398,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "даянскіть"
+        "normal_form": "даянскть"
       }
     },
     {
@@ -993,15 +993,15 @@
       }
     },
     {
-      "василій": {
+      "васил": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "masc",
+          "Name sing",
+          "nomn"
         ],
-        "normal_form": "василіть"
+        "normal_form": "васил"
       }
     }
   ],

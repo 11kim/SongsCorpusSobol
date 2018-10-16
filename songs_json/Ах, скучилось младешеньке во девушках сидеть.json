@@ -360,23 +360,24 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "нимъ": {
+      "ним": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
+          "NPRO",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "3per",
+          "Anph sing",
+          "ablt",
+          "Af-p"
         ],
-        "normal_form": "нимъ"
+        "normal_form": "он"
       }
     },
     {

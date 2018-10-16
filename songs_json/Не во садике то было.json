@@ -892,16 +892,15 @@
       }
     },
     {
-      "рожденію": {
+      "рожден": {
         "OpencorporaTag": [
-          "VERB",
+          "PRTS",
           "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "past",
+          "pssv masc",
+          "sing"
         ],
-        "normal_form": "рожденіть"
+        "normal_form": "родить"
       }
     }
   ]

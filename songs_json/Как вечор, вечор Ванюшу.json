@@ -237,15 +237,16 @@
       }
     },
     {
-      "пропадалъ": {
+      "пропадал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пропадалъ"
+        "normal_form": "пропадать"
       }
     }
   ],

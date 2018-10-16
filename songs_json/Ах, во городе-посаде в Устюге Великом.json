@@ -796,14 +796,15 @@
       }
     },
     {
-      "посадскіе": {
+      "посадске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "посадскі"
+        "normal_form": "посадск"
       }
     },
     {
@@ -820,15 +821,11 @@
   ],
   [
     {
-      "пріезжали": {
+      "при": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "при"
       }
     },
     {
@@ -1233,13 +1230,14 @@
       }
     },
     {
-      "дорогія": {
+      "дорог": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "дорогіть"
+        "normal_form": "дорога"
       }
     }
   ],

@@ -647,15 +647,16 @@
       }
     },
     {
-      "глядитъ": {
+      "глядит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "глядитъ"
+        "normal_form": "глядеть"
       }
     }
   ],

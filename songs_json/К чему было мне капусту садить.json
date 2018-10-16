@@ -283,16 +283,11 @@
       }
     },
     {
-      "пріаукивала": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріаукивать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -324,7 +319,7 @@
       }
     },
     {
-      "любезненькій": {
+      "любезненькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -332,7 +327,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "любезненькіть"
+        "normal_form": "любезненькть"
       }
     },
     {
@@ -416,19 +411,19 @@
       }
     },
     {
-      "темненькій": {
+      "темненьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "темненькіть"
+        "normal_form": "темненька"
       }
     },
     {
-      "зелененькій": {
+      "зелененькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -436,7 +431,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "зелененькіть"
+        "normal_form": "зелененькть"
       }
     },
     {

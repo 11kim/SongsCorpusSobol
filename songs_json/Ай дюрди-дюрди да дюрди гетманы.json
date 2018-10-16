@@ -524,13 +524,15 @@
       }
     },
     {
-      "царскія": {
+      "царск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "царскіть"
+        "normal_form": "царск"
       }
     }
   ],
@@ -547,13 +549,15 @@
       }
     },
     {
-      "царскія": {
+      "царск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "царскіть"
+        "normal_form": "царск"
       }
     },
     {
@@ -568,13 +572,15 @@
       }
     },
     {
-      "умильнія": {
+      "умильн": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "умильніть"
+        "normal_form": "умильна"
       }
     }
   ],
@@ -623,13 +629,15 @@
       }
     },
     {
-      "царскія": {
+      "царск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "царскіть"
+        "normal_form": "царск"
       }
     }
   ],
@@ -2086,27 +2094,19 @@
       }
     },
     {
-      "пріупито": {
+      "пр": {
         "OpencorporaTag": [
-          "PRTS",
-          "impf",
-          "past",
-          "pssv neut",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріупить"
+        "normal_form": "пр"
       }
     },
     {
-      "пріуедено": {
+      "пр": {
         "OpencorporaTag": [
-          "PRTS",
-          "perf",
-          "past",
-          "pssv neut",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріуесть"
+        "normal_form": "пр"
       }
     }
   ],
@@ -2152,15 +2152,11 @@
       }
     },
     {
-      "пріулежано": {
+      "пр": {
         "OpencorporaTag": [
-          "PRTS",
-          "perf",
-          "past",
-          "pssv neut",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріулежать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -2898,14 +2894,14 @@
       }
     },
     {
-      "булатніе": {
+      "булатн": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
-          "loct"
+          "nomn"
         ],
-        "normal_form": "булатні"
+        "normal_form": "булатн"
       }
     }
   ],
@@ -3073,14 +3069,14 @@
       }
     },
     {
-      "булатніе": {
+      "булатне": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "булатні"
+        "normal_form": "булатня"
       }
     }
   ],

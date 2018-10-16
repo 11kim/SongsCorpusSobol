@@ -1646,14 +1646,13 @@
       }
     },
     {
-      "похваленіе": {
+      "похвален": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "похвалені"
+        "normal_form": "похвальный"
       }
     }
   ],
@@ -1698,14 +1697,15 @@
       }
     },
     {
-      "поврежденіе": {
+      "поврежден": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "PRTS",
+          "perf",
+          "past",
+          "pssv masc",
+          "sing"
         ],
-        "normal_form": "повреждені"
+        "normal_form": "повредить"
       }
     }
   ],

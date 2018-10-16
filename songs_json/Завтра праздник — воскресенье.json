@@ -53,19 +53,16 @@
       }
     },
     {
-      "гулящій": {
+      "гулящ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "гулящіть"
+        "normal_form": "гулящий"
       }
     },
     {
-      "веселящій": {
+      "веселящй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -73,7 +70,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "веселящіть"
+        "normal_form": "веселящть"
       }
     },
     {
@@ -430,7 +427,7 @@
       }
     },
     {
-      "симбирскій": {
+      "симбирскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -438,7 +435,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "симбирскіть"
+        "normal_form": "симбирскть"
       }
     },
     {
@@ -794,13 +791,15 @@
       }
     },
     {
-      "вечерніим": {
+      "вечернъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "вечерніий"
+        "normal_form": "вечернъ"
       }
     },
     {

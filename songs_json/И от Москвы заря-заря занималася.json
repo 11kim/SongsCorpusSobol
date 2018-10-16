@@ -271,15 +271,11 @@
       }
     },
     {
-      "напередъ": {
+      "наперед": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "напередъ"
+        "normal_form": "наперёд"
       }
     },
     {
@@ -758,13 +754,13 @@
   ],
   [
     {
-      "ѣхать": {
+      "хать": {
         "OpencorporaTag": [
           "INFN",
           "impf",
           "intr"
         ],
-        "normal_form": "ѣхать"
+        "normal_form": "хать"
       }
     },
     {

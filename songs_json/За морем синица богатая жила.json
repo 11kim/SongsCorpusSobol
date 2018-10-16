@@ -408,15 +408,13 @@
       }
     },
     {
-      "печнымъ": {
+      "печным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "печнымъ"
+        "normal_form": "печный"
       }
     },
     {
@@ -658,15 +656,12 @@
       }
     },
     {
-      "радъ": {
+      "рад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "радъ"
+        "normal_form": "рад"
       }
     },
     {
@@ -882,15 +877,16 @@
       }
     },
     {
-      "ткалъ": {
+      "ткал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "ткалъ"
+        "normal_form": "ткать"
       }
     },
     {
@@ -902,15 +898,16 @@
       }
     },
     {
-      "прялъ": {
+      "прял": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "прялъ"
+        "normal_form": "прясть"
       }
     },
     {
@@ -940,15 +937,16 @@
       }
     },
     {
-      "ходилъ": {
+      "ходил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "ходилъ"
+        "normal_form": "ходить"
       }
     }
   ],
@@ -1110,11 +1108,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1137,15 +1135,16 @@
       }
     },
     {
-      "пашутъ": {
+      "пашут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "пашутъ"
+        "normal_form": "пахать"
       }
     },
     {
@@ -1168,15 +1167,16 @@
       }
     },
     {
-      "едятъ": {
+      "едят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "едятъ"
+        "normal_form": "есть"
       }
     }
   ],
@@ -1233,27 +1233,27 @@
       }
     },
     {
-      "хлебъ": {
+      "хлеб": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "хлебъ"
+        "normal_form": "хлеб"
       }
     },
     {
-      "едятъ": {
+      "едят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "едятъ"
+        "normal_form": "есть"
       }
     }
   ]

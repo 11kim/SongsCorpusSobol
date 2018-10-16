@@ -32,15 +32,12 @@
       }
     },
     {
-      "хорошенекъ": {
+      "хорошенек": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "хорошенекъ"
+        "normal_form": "хорошенький"
       }
     }
   ],
@@ -65,15 +62,16 @@
       }
     },
     {
-      "пригоженекъ": {
+      "пригоженек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Ms-f",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "пригоженекъ"
+        "normal_form": "пригоженька"
       }
     }
   ],
@@ -108,15 +106,16 @@
       }
     },
     {
-      "пригоженекъ": {
+      "пригоженек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Ms-f",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "пригоженекъ"
+        "normal_form": "пригоженька"
       }
     }
   ],

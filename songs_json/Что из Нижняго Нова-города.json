@@ -441,15 +441,14 @@
       }
     },
     {
-      "беломъ": {
+      "белом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "беломъ"
+        "normal_form": "бел"
       }
     },
     {
@@ -646,13 +645,16 @@
   ],
   [
     {
-      "безпріютная": {
+      "безпря": {
         "OpencorporaTag": [
-          "ADJF femn",
-          "sing",
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Arch sing",
           "nomn"
         ],
-        "normal_form": "безпріютный"
+        "normal_form": "безпря"
       }
     },
     {

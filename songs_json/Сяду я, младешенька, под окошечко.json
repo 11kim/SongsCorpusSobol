@@ -209,7 +209,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -217,7 +217,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -829,15 +829,12 @@
       }
     },
     {
-      "кумачныій": {
+      "кумачны": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual plur"
         ],
-        "normal_form": "кумачныіть"
+        "normal_form": "кумачный"
       }
     }
   ],

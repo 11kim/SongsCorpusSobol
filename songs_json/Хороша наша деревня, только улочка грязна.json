@@ -478,13 +478,15 @@
       }
     },
     {
-      "сухіим": {
+      "сухъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "сухіий"
+        "normal_form": "сухъ"
       }
     },
     {
@@ -509,13 +511,15 @@
       }
     },
     {
-      "сухіим": {
+      "сухъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "сухіий"
+        "normal_form": "сухъ"
       }
     },
     {
@@ -826,15 +830,12 @@
       }
     },
     {
-      "тамъ": {
+      "там": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "тамъ"
+        "normal_form": "там"
       }
     },
     {
@@ -849,15 +850,16 @@
       }
     },
     {
-      "стоитъ": {
+      "стоит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr",
+          "Impe sing",
+          "pres",
+          "indc"
         ],
-        "normal_form": "стоитъ"
+        "normal_form": "стоить"
       }
     }
   ],
@@ -1588,7 +1590,7 @@
       }
     },
     {
-      "маленькій": {
+      "маленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1596,7 +1598,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "маленькіть"
+        "normal_form": "маленькть"
       }
     },
     {

@@ -185,7 +185,7 @@
       }
     },
     {
-      "гулящій": {
+      "гулящй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -193,7 +193,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "гулящіть"
+        "normal_form": "гулящть"
       }
     },
     {
@@ -233,27 +233,21 @@
       }
     },
     {
-      "гулящій": {
+      "гулящ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "гулящіть"
+        "normal_form": "гулящий"
       }
     },
     {
-      "веселящій": {
+      "веселящ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "веселящіть"
+        "normal_form": "веселящий"
       }
     }
   ],

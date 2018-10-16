@@ -757,27 +757,24 @@
       }
     },
     {
-      "зеленъ": {
+      "зелен": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "зеленъ"
+        "normal_form": "зелёный"
       }
     },
     {
-      "садъ": {
+      "сад": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "садъ"
+        "normal_form": "сад"
       }
     },
     {

@@ -1947,14 +1947,11 @@
       }
     },
     {
-      "прійму": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "datv"
+          "UNKN"
         ],
-        "normal_form": "прійм"
+        "normal_form": "пр"
       }
     },
     {
@@ -2272,16 +2269,15 @@
   ],
   [
     {
-      "кровію": {
+      "кровю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "кровіть"
+        "normal_form": "кровя"
       }
     },
     {

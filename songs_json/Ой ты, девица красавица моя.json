@@ -154,7 +154,7 @@
       }
     },
     {
-      "беленькій": {
+      "беленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -162,19 +162,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленькть"
       }
     },
     {
-      "снежокъ": {
+      "снежок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "снежокъ"
+        "normal_form": "снежок"
       }
     }
   ],
@@ -211,11 +210,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -230,7 +229,7 @@
       }
     },
     {
-      "аленькій": {
+      "аленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -238,19 +237,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "аленькіть"
+        "normal_form": "аленькть"
       }
     },
     {
-      "цветокъ": {
+      "цветок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "цветокъ"
+        "normal_form": "цветок"
       }
     }
   ],

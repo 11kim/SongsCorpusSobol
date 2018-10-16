@@ -558,13 +558,13 @@
       }
     },
     {
-      "высокія": {
+      "высок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -1505,11 +1505,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {

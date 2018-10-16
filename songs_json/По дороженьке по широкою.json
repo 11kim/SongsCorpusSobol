@@ -85,14 +85,15 @@
       }
     },
     {
-      "сила-армія": {
+      "сила-арм": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "nomn"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "сила-армія"
+        "normal_form": "сила-арма"
       }
     }
   ],
@@ -108,13 +109,15 @@
       }
     },
     {
-      "гвардія": {
+      "гвард": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "masc",
+          "Name sing",
+          "nomn"
         ],
-        "normal_form": "гвардіть"
+        "normal_form": "гвард"
       }
     }
   ],
@@ -290,14 +293,16 @@
       }
     },
     {
-      "крепкіе": {
+      "крепк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "nomn"
         ],
-        "normal_form": "крепкі"
+        "normal_form": "крепк"
       }
     }
   ],

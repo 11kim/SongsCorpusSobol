@@ -407,15 +407,16 @@
       }
     },
     {
-      "полюбилъ": {
+      "полюбил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "полюбилъ"
+        "normal_form": "полюбить"
       }
     }
   ],
@@ -932,7 +933,7 @@
       }
     },
     {
-      "синенькій": {
+      "синенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -940,7 +941,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "синенькіть"
+        "normal_form": "синенькть"
       }
     },
     {
@@ -1138,15 +1139,14 @@
       }
     },
     {
-      "цветокъ": {
+      "цветок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "цветокъ"
+        "normal_form": "цветок"
       }
     }
   ],
@@ -1191,7 +1191,7 @@
       }
     },
     {
-      "итальянскій": {
+      "итальянскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1199,7 +1199,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "итальянскіть"
+        "normal_form": "итальянскть"
       }
     },
     {

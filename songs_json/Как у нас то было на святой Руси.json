@@ -661,16 +661,15 @@
       }
     },
     {
-      "армію": {
+      "арм": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "арміть"
+        "normal_form": "арма"
       }
     }
   ],
@@ -710,16 +709,14 @@
       }
     },
     {
-      "гвардію": {
+      "гвардю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "datv"
         ],
-        "normal_form": "гвардіть"
+        "normal_form": "гвардь"
       }
     }
   ],
@@ -756,15 +753,15 @@
       }
     },
     {
-      "семеновскій": {
+      "семеновск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "семеновскіть"
+        "normal_form": "семеновск"
       }
     }
   ],

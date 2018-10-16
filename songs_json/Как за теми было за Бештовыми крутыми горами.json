@@ -1171,13 +1171,13 @@
       }
     },
     {
-      "такія": {
+      "такя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "такіть"
+        "normal_form": "такть"
       }
     },
     {
@@ -1627,14 +1627,15 @@
       }
     },
     {
-      "грузіи": {
+      "грузи": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "грузіь"
+        "normal_form": "грузить"
       }
     },
     {

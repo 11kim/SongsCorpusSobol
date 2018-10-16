@@ -435,15 +435,16 @@
       }
     },
     {
-      "приказываютъ": {
+      "приказывают": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "приказываютъ"
+        "normal_form": "приказывать"
       }
     }
   ],
@@ -559,15 +560,13 @@
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {
@@ -590,15 +589,16 @@
       }
     },
     {
-      "велятъ": {
+      "велят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "велятъ"
+        "normal_form": "велеть"
       }
     }
   ],
@@ -1052,27 +1052,27 @@
       }
     },
     {
-      "лежитъ": {
+      "лежит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "лежитъ"
+        "normal_form": "лежать"
       }
     },
     {
-      "свекоръ": {
+      "свекор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "свекоръ"
+        "normal_form": "свёкор"
       }
     },
     {
@@ -1411,15 +1411,16 @@
       }
     },
     {
-      "лежатъ": {
+      "лежат": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "лежатъ"
+        "normal_form": "лежать"
       }
     }
   ],
@@ -1466,7 +1467,7 @@
       }
     },
     {
-      "собачію": {
+      "собачю": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1475,7 +1476,7 @@
           "pres",
           "indc"
         ],
-        "normal_form": "собачіть"
+        "normal_form": "собачть"
       }
     },
     {
@@ -1560,7 +1561,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1568,7 +1569,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {

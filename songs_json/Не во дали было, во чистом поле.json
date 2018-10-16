@@ -230,14 +230,14 @@
       }
     },
     {
-      "крепкіе": {
+      "крепке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "крепкі"
+        "normal_form": "крепка"
       }
     },
     {
@@ -890,27 +890,27 @@
       }
     },
     {
-      "громъ": {
+      "гром": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "громъ"
+        "normal_form": "гром"
       }
     },
     {
-      "загремелъ": {
+      "загремел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "загремелъ"
+        "normal_form": "загреметь"
       }
     }
   ],
@@ -1283,27 +1283,27 @@
       }
     },
     {
-      "колоколъ": {
+      "колокол": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "колоколъ"
+        "normal_form": "колокол"
       }
     },
     {
-      "прозвенелъ": {
+      "прозвенел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "прозвенелъ"
+        "normal_form": "прозвенеть"
       }
     }
   ],
@@ -1468,7 +1468,7 @@
       }
     },
     {
-      "набольшій": {
+      "набольшй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1476,7 +1476,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "набольшіть"
+        "normal_form": "набольшть"
       }
     },
     {

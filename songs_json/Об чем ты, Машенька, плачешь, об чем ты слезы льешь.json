@@ -112,23 +112,19 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -176,15 +172,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -281,27 +273,29 @@
       }
     },
     {
-      "тотъ": {
+      "тот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro",
+          "Subx",
+          "Anph masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "тотъ"
+        "normal_form": "тот"
       }
     },
     {
-      "сталъ": {
+      "стал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "сталъ"
+        "normal_form": "стать"
       }
     },
     {
@@ -379,27 +373,29 @@
       }
     },
     {
-      "тотъ": {
+      "тот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro",
+          "Subx",
+          "Anph masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "тотъ"
+        "normal_form": "тот"
       }
     },
     {
-      "сталъ": {
+      "стал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "сталъ"
+        "normal_form": "стать"
       }
     },
     {
@@ -779,7 +775,7 @@
       }
     },
     {
-      "размиленькій": {
+      "размиленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -787,7 +783,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "размиленькіть"
+        "normal_form": "размиленькть"
       }
     },
     {
@@ -1274,7 +1270,7 @@
       }
     },
     {
-      "размиленькій": {
+      "размиленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1282,7 +1278,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "размиленькіть"
+        "normal_form": "размиленькть"
       }
     },
     {

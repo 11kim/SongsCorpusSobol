@@ -316,15 +316,14 @@
       }
     },
     {
-      "полуштофъ": {
+      "полуштоф": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "полуштофъ"
+        "normal_form": "полуштоф"
       }
     }
   ],
@@ -796,15 +795,13 @@
       }
     },
     {
-      "хорошъ": {
+      "хорош": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошъ"
+        "normal_form": "хороший"
       }
     }
   ]

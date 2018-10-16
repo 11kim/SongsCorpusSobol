@@ -58,14 +58,14 @@
       }
     },
     {
-      "ѳедосью": {
+      "едосью": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "ablt"
         ],
-        "normal_form": "ѳедось"
+        "normal_form": "едось"
       }
     },
     {
@@ -103,16 +103,14 @@
       }
     },
     {
-      "марію": {
+      "мар": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "маріть"
+        "normal_form": "мара"
       }
     }
   ],
@@ -240,14 +238,14 @@
       }
     },
     {
-      "ѳедосью": {
+      "едосью": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "ablt"
         ],
-        "normal_form": "ѳедось"
+        "normal_form": "едось"
       }
     }
   ],
@@ -369,16 +367,14 @@
       }
     },
     {
-      "марію": {
+      "мар": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "маріть"
+        "normal_form": "мара"
       }
     }
   ],
@@ -448,15 +444,11 @@
       }
     },
     {
-      "пріехали": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -470,15 +462,11 @@
       }
     },
     {
-      "кіева": {
+      "ка": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "кіева"
+        "normal_form": "ка"
       }
     },
     {
@@ -1333,12 +1321,11 @@
       }
     },
     {
-      "пріезжих": {
+      "пръ": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "пріезжий"
+        "normal_form": "пръ"
       }
     },
     {

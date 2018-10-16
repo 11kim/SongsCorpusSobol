@@ -363,23 +363,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "походъ": {
+      "поход": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "походъ"
+        "normal_form": "поход"
       }
     },
     {
@@ -445,13 +444,15 @@
       }
     },
     {
-      "грузинскія": {
+      "грузинск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "грузинскіть"
+        "normal_form": "грузинск"
       }
     }
   ],
@@ -486,14 +487,15 @@
       }
     },
     {
-      "оссетинскіе": {
+      "оссетинск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "оссетинскі"
+        "normal_form": "оссетинск"
       }
     }
   ]

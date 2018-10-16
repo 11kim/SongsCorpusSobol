@@ -1,7 +1,7 @@
 [
   [
     {
-      "ѣздил": {
+      "здил": {
         "OpencorporaTag": [
           "VERB",
           "perf",
@@ -10,7 +10,7 @@
           "past",
           "indc"
         ],
-        "normal_form": "ѣздить"
+        "normal_form": "здить"
       }
     },
     {
@@ -814,13 +814,12 @@
       }
     },
     {
-      "нехорошія": {
+      "нехорош": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "нехорошіть"
+        "normal_form": "нехороший"
       }
     }
   ],
@@ -866,14 +865,15 @@
       }
     },
     {
-      "прусскіе": {
+      "прусск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "прусскі"
+        "normal_form": "прусск"
       }
     }
   ],
@@ -1313,7 +1313,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1321,7 +1321,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -1839,13 +1839,15 @@
       }
     },
     {
-      "королевскія": {
+      "королевск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскіть"
+        "normal_form": "королевск"
       }
     }
   ],
@@ -2142,16 +2144,11 @@
       }
     },
     {
-      "подо́конью": {
+      "подо": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn",
-          "Sgtm",
-          "Geox sing",
-          "accs"
+          "PREP Vpre"
         ],
-        "normal_form": "подо́конья"
+        "normal_form": "под"
       }
     }
   ],
@@ -2306,16 +2303,11 @@
       }
     },
     {
-      "подо́конью": {
+      "подо": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn",
-          "Sgtm",
-          "Geox sing",
-          "accs"
+          "PREP Vpre"
         ],
-        "normal_form": "подо́конья"
+        "normal_form": "под"
       }
     }
   ],
@@ -2368,13 +2360,15 @@
       }
     },
     {
-      "королевскія": {
+      "королевск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскіть"
+        "normal_form": "королевск"
       }
     }
   ],
@@ -2756,15 +2750,11 @@
       }
     },
     {
-      "пріупито": {
+      "про": {
         "OpencorporaTag": [
-          "PRTS",
-          "impf",
-          "past",
-          "pssv neut",
-          "sing"
+          "PREP"
         ],
-        "normal_form": "пріупить"
+        "normal_form": "про"
       }
     },
     {
@@ -2800,15 +2790,11 @@
       }
     },
     {
-      "пріуедено": {
+      "пр": {
         "OpencorporaTag": [
-          "PRTS",
-          "perf",
-          "past",
-          "pssv neut",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріуесть"
+        "normal_form": "пр"
       }
     }
   ],
@@ -2871,15 +2857,11 @@
       }
     },
     {
-      "пріухожено": {
+      "пр": {
         "OpencorporaTag": [
-          "PRTS",
-          "perf",
-          "past",
-          "pssv neut",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріуходить"
+        "normal_form": "пр"
       }
     }
   ],
@@ -2909,14 +2891,16 @@
       }
     },
     {
-      "зелено́м-то": {
+      "зеленоо": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "neut",
+          "Fixd",
+          "Orgn sing",
           "nomn"
         ],
-        "normal_form": "зелено́м-то"
+        "normal_form": "зеленоо"
       }
     },
     {
@@ -2931,15 +2915,11 @@
       }
     },
     {
-      "пріугуляно": {
+      "пр": {
         "OpencorporaTag": [
-          "PRTS",
-          "perf",
-          "past",
-          "pssv neut",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріугулять"
+        "normal_form": "пр"
       }
     }
   ],
@@ -3004,15 +2984,11 @@
       }
     },
     {
-      "пріуспано": {
+      "пр": {
         "OpencorporaTag": [
-          "PRTS",
-          "perf",
-          "past",
-          "pssv neut",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріуспать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -3559,14 +3535,14 @@
       }
     },
     {
-      "булатніе": {
+      "булатне": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "булатні"
+        "normal_form": "булатня"
       }
     },
     {
@@ -4200,13 +4176,12 @@
       }
     },
     {
-      "нехорошія": {
+      "нехорош": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "нехорошіть"
+        "normal_form": "нехороший"
       }
     }
   ],

@@ -153,16 +153,11 @@
       }
     },
     {
-      "пріозначится": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr sing",
-          "3per",
-          "futr",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріозначиться"
+        "normal_form": "пр"
       }
     }
   ],
@@ -179,16 +174,16 @@
       }
     },
     {
-      "пріостанется": {
+      "пря": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr sing",
-          "3per",
-          "futr",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Arch sing",
+          "nomn"
         ],
-        "normal_form": "пріостаться"
+        "normal_form": "пря"
       }
     },
     {
@@ -275,12 +270,14 @@
       }
     },
     {
-      "россійскіих": {
+      "росс": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "россійскіий"
+        "normal_form": "росс"
       }
     }
   ],
@@ -332,15 +329,15 @@
       }
     },
     {
-      "маморфисъ": {
+      "маморфис": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "маморфисъ"
+        "normal_form": "маморфис"
       }
     }
   ],
@@ -392,15 +389,15 @@
       }
     },
     {
-      "верейскій": {
+      "верейск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "верейскіть"
+        "normal_form": "верейск"
       }
     }
   ],
@@ -414,7 +411,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -422,7 +419,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -453,15 +450,15 @@
       }
     },
     {
-      "ворецкій": {
+      "ворецк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "ворецкіть"
+        "normal_form": "ворецк"
       }
     }
   ],
@@ -657,13 +654,15 @@
       }
     },
     {
-      "солдатскія": {
+      "солдатск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатск"
       }
     }
   ]

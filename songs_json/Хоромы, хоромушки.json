@@ -26,14 +26,14 @@
   ],
   [
     {
-      "развысокіе": {
+      "развысоке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "развысокі"
+        "normal_form": "развысок"
       }
     },
     {
@@ -263,13 +263,15 @@
       }
     },
     {
-      "высокіим": {
+      "высокъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "высокіий"
+        "normal_form": "высокъ"
       }
     },
     {

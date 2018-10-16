@@ -718,23 +718,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "умахъ": {
+      "умах": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "умахъ"
+        "normal_form": "ум"
       }
     },
     {
@@ -813,7 +812,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -821,7 +820,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -1337,15 +1336,11 @@
       }
     },
     {
-      "кіян-море": {
+      "ке": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "кіян-море"
+        "normal_form": "ке"
       }
     },
     {
@@ -1653,15 +1648,11 @@
       }
     },
     {
-      "пріехали": {
+      "при": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "при"
       }
     },
     {
@@ -1866,14 +1857,11 @@
   ],
   [
     {
-      "ѣсть": {
+      "сть": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "ѣсть"
+        "normal_form": "сть"
       }
     },
     {
@@ -2044,14 +2032,16 @@
       }
     },
     {
-      "думу-думаетъ": {
+      "думу-думает": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "accs"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "дума-думаетъ"
+        "normal_form": "думу-думать"
       }
     }
   ],
@@ -2611,11 +2601,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -2861,15 +2851,11 @@
       }
     },
     {
-      "кіеве": {
+      "к": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "datv"
+          "PREP"
         ],
-        "normal_form": "кіева"
+        "normal_form": "к"
       }
     }
   ],

@@ -468,15 +468,15 @@
       }
     },
     {
-      "козелъ": {
+      "козел": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "козелъ"
+        "normal_form": "козлы"
       }
     },
     {
@@ -499,15 +499,16 @@
       }
     },
     {
-      "зашелъ": {
+      "зашел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "зашелъ"
+        "normal_form": "зайти"
       }
     }
   ],
@@ -768,11 +769,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -922,15 +923,11 @@
       }
     },
     {
-      "передъ": {
+      "перед": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "передъ"
+        "normal_form": "перед"
       }
     },
     {

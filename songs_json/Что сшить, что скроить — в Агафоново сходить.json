@@ -45,11 +45,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -121,15 +121,12 @@
       }
     },
     {
-      "ченцовскихъ": {
+      "ченцовских": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF plur",
+          "gent"
         ],
-        "normal_form": "ченцовскихъ"
+        "normal_form": "ченцовский"
       }
     },
     {
@@ -182,15 +179,12 @@
       }
     },
     {
-      "богородсковскихъ": {
+      "богородсковских": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF plur",
+          "gent"
         ],
-        "normal_form": "богородсковскихъ"
+        "normal_form": "богородсковский"
       }
     },
     {
@@ -336,15 +330,12 @@
       }
     },
     {
-      "парфеновскихъ": {
+      "парфеновских": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF plur",
+          "gent"
         ],
-        "normal_form": "парфеновскихъ"
+        "normal_form": "парфеновский"
       }
     },
     {
@@ -482,7 +473,7 @@
       }
     },
     {
-      "іюдински": {
+      "юдински": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
@@ -490,7 +481,7 @@
           "Geox plur",
           "nomn"
         ],
-        "normal_form": "іюдинск"
+        "normal_form": "юдинск"
       }
     },
     {
@@ -561,7 +552,7 @@
       }
     },
     {
-      "іюдински": {
+      "юдински": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
@@ -569,7 +560,7 @@
           "Geox plur",
           "nomn"
         ],
-        "normal_form": "іюдинск"
+        "normal_form": "юдинск"
       }
     },
     {

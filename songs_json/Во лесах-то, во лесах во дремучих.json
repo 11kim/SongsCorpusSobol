@@ -47,12 +47,13 @@
       }
     },
     {
-      "дремучіих": {
+      "дремуч": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "дремучіий"
+        "normal_form": "дремучий"
       }
     }
   ],
@@ -326,13 +327,15 @@
       }
     },
     {
-      "сладкіим": {
+      "сладкъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "сладкіий"
+        "normal_form": "сладкъ"
       }
     },
     {
@@ -585,15 +588,16 @@
       }
     },
     {
-      "кладутъ": {
+      "кладут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "кладутъ"
+        "normal_form": "класть"
       }
     }
   ],
@@ -771,7 +775,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -779,7 +783,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -933,11 +937,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -952,15 +956,16 @@
       }
     },
     {
-      "ходятъ": {
+      "ходят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "ходятъ"
+        "normal_form": "ходить"
       }
     }
   ],
@@ -1017,15 +1022,16 @@
       }
     },
     {
-      "едятъ": {
+      "едят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "едятъ"
+        "normal_form": "есть"
       }
     }
   ],
@@ -1148,7 +1154,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1156,7 +1162,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -1362,7 +1368,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1370,7 +1376,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {

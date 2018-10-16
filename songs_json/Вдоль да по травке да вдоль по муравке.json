@@ -343,15 +343,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {
@@ -472,14 +471,16 @@
       }
     },
     {
-      "міре": {
+      "м": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     },
     {

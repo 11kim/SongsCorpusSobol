@@ -660,15 +660,14 @@
       }
     },
     {
-      "дворикъ": {
+      "дворик": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "дворикъ"
+        "normal_form": "дворик"
       }
     },
     {
@@ -1112,11 +1111,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {

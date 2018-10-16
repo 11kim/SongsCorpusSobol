@@ -167,14 +167,11 @@
       }
     },
     {
-      "сіяла": {
+      "с": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "gent"
+          "PREP"
         ],
-        "normal_form": "сіял"
+        "normal_form": "с"
       }
     }
   ],
@@ -209,7 +206,7 @@
   ],
   [
     {
-      "секретарскій": {
+      "секретарскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -217,7 +214,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "секретарскіть"
+        "normal_form": "секретарскть"
       }
     },
     {
@@ -372,16 +369,16 @@
   ],
   [
     {
-      "пріобоймемся": {
+      "пря": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr plur",
-          "1per",
-          "futr",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Arch sing",
+          "nomn"
         ],
-        "normal_form": "пріобойаться"
+        "normal_form": "пря"
       }
     },
     {

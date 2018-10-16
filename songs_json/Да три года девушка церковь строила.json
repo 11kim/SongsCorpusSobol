@@ -351,15 +351,14 @@
       }
     },
     {
-      "игумномъ-попомъ": {
+      "игумном-попом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "игумномъ-попомъ"
+        "normal_form": "игумно-поп"
       }
     }
   ],
@@ -450,11 +449,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

@@ -1461,11 +1461,11 @@
       }
     },
     {
-      "охъ": {
+      "ох": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "охъ"
+        "normal_form": "ох"
       }
     },
     {
@@ -2149,13 +2149,16 @@
       }
     },
     {
-      "редкія": {
+      "редк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "nomn"
         ],
-        "normal_form": "редкіть"
+        "normal_form": "редк"
       }
     }
   ],
@@ -2180,13 +2183,16 @@
       }
     },
     {
-      "редкія": {
+      "редк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "nomn"
         ],
-        "normal_form": "редкіть"
+        "normal_form": "редк"
       }
     }
   ]

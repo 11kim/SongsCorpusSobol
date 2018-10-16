@@ -621,27 +621,29 @@
       }
     },
     {
-      "леталъ-то": {
+      "летал-то": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "леталъ-то"
+        "normal_form": "летать-то"
       }
     },
     {
-      "леталъ": {
+      "летал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "леталъ"
+        "normal_form": "летать"
       }
     },
     {
@@ -932,27 +934,24 @@
       }
     },
     {
-      "белъ": {
+      "бел": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "белъ"
+        "normal_form": "бел"
       }
     },
     {
-      "горючъ": {
+      "горюч": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "горючъ"
+        "normal_form": "горючий"
       }
     },
     {
@@ -1605,39 +1604,40 @@
       }
     },
     {
-      "вдовахъ": {
+      "вдовах": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "loct"
         ],
-        "normal_form": "вдовахъ"
+        "normal_form": "вдова"
       }
     },
     {
-      "сидитъ": {
+      "сидит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "сидитъ"
+        "normal_form": "сидеть"
       }
     },
     {
-      "хочетъ": {
+      "хочет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "хочетъ"
+        "normal_form": "хотеть"
       }
     },
     {
@@ -1649,27 +1649,24 @@
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     },
     {
-      "идетъ": {
+      "идет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "идетъ"
+        "normal_form": "идти"
       }
     }
   ],

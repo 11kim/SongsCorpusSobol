@@ -27,7 +27,7 @@
       }
     },
     {
-      "сегодняшній": {
+      "сегодняшнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -35,7 +35,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сегодняшніть"
+        "normal_form": "сегодняшнть"
       }
     },
     {
@@ -82,7 +82,7 @@
       }
     },
     {
-      "теперешній": {
+      "теперешнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -90,7 +90,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "теперешніть"
+        "normal_form": "теперешнть"
       }
     },
     {
@@ -131,7 +131,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -139,7 +139,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -512,15 +512,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ],

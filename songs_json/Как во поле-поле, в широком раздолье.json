@@ -162,16 +162,11 @@
       }
     },
     {
-      "пріезжает": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr sing",
-          "3per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -339,7 +334,7 @@
   ],
   [
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -347,7 +342,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -688,15 +683,12 @@
       }
     },
     {
-      "радъ": {
+      "рад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "радъ"
+        "normal_form": "рад"
       }
     },
     {
@@ -738,23 +730,21 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "кемъ": {
+      "кем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "кемъ"
+        "normal_form": "кто"
       }
     },
     {
@@ -804,23 +794,21 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "кемъ": {
+      "кем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "кемъ"
+        "normal_form": "кто"
       }
     },
     {

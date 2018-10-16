@@ -565,7 +565,7 @@
       }
     },
     {
-      "тонкій": {
+      "тонкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -573,7 +573,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тонкіть"
+        "normal_form": "тонкть"
       }
     },
     {
@@ -632,15 +632,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {
@@ -697,15 +696,16 @@
       }
     },
     {
-      "пойдемъ": {
+      "пойдем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пойдемъ"
+        "normal_form": "пойти"
       }
     },
     {
@@ -815,7 +815,7 @@
       }
     },
     {
-      "тонкій": {
+      "тонкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -823,7 +823,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тонкіть"
+        "normal_form": "тонкть"
       }
     },
     {
@@ -933,23 +933,22 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1185,15 +1184,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     },
     {

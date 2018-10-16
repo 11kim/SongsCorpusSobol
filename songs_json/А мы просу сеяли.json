@@ -91,15 +91,16 @@
       }
     },
     {
-      "вытопчемъ": {
+      "вытопчем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "вытопчемъ"
+        "normal_form": "вытоптать"
       }
     },
     {
@@ -129,27 +130,23 @@
       }
     },
     {
-      "чемъ-то": {
+      "чем-то": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "чемъ-то"
+        "normal_form": "что-то"
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {
@@ -210,15 +207,16 @@
       }
     },
     {
-      "выпустимъ": {
+      "выпустим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "выпустимъ"
+        "normal_form": "выпустить"
       }
     },
     {
@@ -269,15 +267,16 @@
       }
     },
     {
-      "переймемъ": {
+      "переймем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "переймемъ"
+        "normal_form": "перенять"
       }
     },
     {
@@ -307,27 +306,23 @@
       }
     },
     {
-      "чемъ-то": {
+      "чем-то": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "чемъ-то"
+        "normal_form": "что-то"
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {
@@ -359,35 +354,34 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
-      "шелковымъ": {
+      "шелковым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt",
+          "Infr"
         ],
-        "normal_form": "шелковымъ"
+        "normal_form": "шёлковый"
       }
     },
     {
-      "неводомъ": {
+      "неводом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "неводомъ"
+        "normal_form": "невод"
       }
     },
     {
@@ -438,15 +432,16 @@
       }
     },
     {
-      "выкупимъ": {
+      "выкупим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "выкупимъ"
+        "normal_form": "выкупить"
       }
     },
     {
@@ -476,27 +471,23 @@
       }
     },
     {
-      "чемъ-то": {
+      "чем-то": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "чемъ-то"
+        "normal_form": "что-то"
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {
@@ -546,15 +537,16 @@
       }
     },
     {
-      "дадимъ": {
+      "дадим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "дадимъ"
+        "normal_form": "дать"
       }
     },
     {
@@ -571,15 +563,16 @@
       }
     },
     {
-      "рублевъ": {
+      "рублев": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Sgtm",
+          "Surn sing",
           "nomn"
         ],
-        "normal_form": "рублевъ"
+        "normal_form": "рублёв"
       }
     },
     {
@@ -618,15 +611,13 @@
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {
@@ -677,15 +668,16 @@
       }
     },
     {
-      "дадимъ": {
+      "дадим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "дадимъ"
+        "normal_form": "дать"
       }
     },
     {
@@ -718,15 +710,11 @@
       }
     },
     {
-      "вотъ": {
+      "вот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRCL"
         ],
-        "normal_form": "вотъ"
+        "normal_form": "вот"
       }
     },
     {
@@ -738,15 +726,13 @@
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {

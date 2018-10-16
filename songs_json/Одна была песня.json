@@ -305,14 +305,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     }
   ],
@@ -326,14 +326,14 @@
       }
     },
     {
-      "ѳедора": {
+      "едора": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -348,14 +348,14 @@
       }
     },
     {
-      "марѳа": {
+      "мар": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "femn plur",
           "gent"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     }
   ],
@@ -521,14 +521,14 @@
       }
     },
     {
-      "марѳа": {
+      "мара": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "gent"
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -589,14 +589,14 @@
       }
     },
     {
-      "марѳа": {
+      "мара": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "gent"
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -716,14 +716,14 @@
       }
     },
     {
-      "марѳа": {
+      "мар": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "femn plur",
           "gent"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -829,14 +829,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -877,15 +877,16 @@
       }
     },
     {
-      "едетъ": {
+      "едет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "едетъ"
+        "normal_form": "ехать"
       }
     }
   ],
@@ -904,14 +905,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -1044,14 +1045,14 @@
       }
     },
     {
-      "марѳу": {
+      "мару": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "femn sing",
+          "accs"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -1093,14 +1094,14 @@
       }
     },
     {
-      "марѳа": {
+      "мар": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "femn plur",
           "gent"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -1368,14 +1369,14 @@
       }
     },
     {
-      "марѳу": {
+      "мар": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     }
   ],
@@ -1508,14 +1509,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     }
   ],
@@ -1873,14 +1874,14 @@
       }
     },
     {
-      "марѳа": {
+      "мар": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "femn plur",
           "gent"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -1928,15 +1929,14 @@
       }
     },
     {
-      "ѳедоръ": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "ѳедоръ"
+        "normal_form": "едора"
       }
     },
     {
@@ -1993,15 +1993,13 @@
       }
     },
     {
-      "всемъ": {
+      "всем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Apro plur",
+          "datv"
         ],
-        "normal_form": "всемъ"
+        "normal_form": "весь"
       }
     },
     {
@@ -2117,14 +2115,14 @@
       }
     },
     {
-      "марѳа": {
+      "мара": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "gent"
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -2164,14 +2162,14 @@
       }
     },
     {
-      "марѳа": {
+      "мара": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "gent"
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -2223,14 +2221,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -2287,15 +2285,11 @@
       }
     },
     {
-      "сейчасъ": {
+      "сейчас": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "сейчасъ"
+        "normal_form": "сейчас"
       }
     },
     {
@@ -2340,27 +2334,22 @@
       }
     },
     {
-      "ѳедоръ": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "ѳедоръ"
+        "normal_form": "едора"
       }
     },
     {
-      "сейчасъ": {
+      "сейчас": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "сейчасъ"
+        "normal_form": "сейчас"
       }
     },
     {
@@ -2411,14 +2400,14 @@
       }
     },
     {
-      "марѳа": {
+      "мара": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "gent"
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -2456,14 +2445,14 @@
       }
     },
     {
-      "марѳа": {
+      "мара": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "gent"
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -2493,14 +2482,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -2659,25 +2648,25 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
-      "марѳу": {
+      "мар": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     }
   ],
@@ -3313,15 +3302,11 @@
   ],
   [
     {
-      "прійди": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "прійти"
+        "normal_form": "пр"
       }
     },
     {

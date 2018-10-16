@@ -630,27 +630,22 @@
       }
     },
     {
-      "трехъ": {
+      "трех": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NUMR gent"
         ],
-        "normal_form": "трехъ"
+        "normal_form": "три"
       }
     },
     {
-      "девчоночекъ": {
+      "девчоночек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "девчоночекъ"
+        "normal_form": "девчоночка"
       }
     },
     {

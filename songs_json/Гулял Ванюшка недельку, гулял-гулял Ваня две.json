@@ -529,23 +529,19 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "чемъ": {
+      "чем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "чемъ"
+        "normal_form": "чем"
       }
     },
     {
@@ -806,14 +802,11 @@
       }
     },
     {
-      "пріемышам": {
+      "пръ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn plur",
-          "datv"
+          "UNKN"
         ],
-        "normal_form": "пріемышь"
+        "normal_form": "пръ"
       }
     },
     {

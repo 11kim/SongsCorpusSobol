@@ -937,14 +937,15 @@
       }
     },
     {
-      "несчастіе": {
+      "несчасте": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name sing",
+          "datv"
         ],
-        "normal_form": "несчасті"
+        "normal_form": "несчаста"
       }
     },
     {
@@ -992,14 +993,15 @@
       }
     },
     {
-      "непріятели": {
+      "непри": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "непріятель"
+        "normal_form": "непереть"
       }
     },
     {

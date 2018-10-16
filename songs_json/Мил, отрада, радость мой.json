@@ -346,13 +346,11 @@
   ],
   [
     {
-      "распріятно": {
+      "распро": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual neut",
-          "sing"
+          "ADVB"
         ],
-        "normal_form": "распріятный"
+        "normal_form": "распро"
       }
     },
     {
@@ -371,13 +369,15 @@
   ],
   [
     {
-      "распріятно": {
+      "распр": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual neut",
-          "sing"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "распріятный"
+        "normal_form": "распр"
       }
     },
     {

@@ -222,15 +222,11 @@
       }
     },
     {
-      "последній": {
+      "последнй": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "последніть"
+        "normal_form": "последнй"
       }
     },
     {
@@ -556,13 +552,13 @@
       }
     },
     {
-      "горячія": {
+      "горяч": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "горячіть"
+        "normal_form": "горячий"
       }
     }
   ],

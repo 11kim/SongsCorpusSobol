@@ -384,16 +384,15 @@
       }
     },
     {
-      "армію": {
+      "арм": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "арміть"
+        "normal_form": "арма"
       }
     }
   ],
@@ -683,13 +682,13 @@
       }
     },
     {
-      "высокія": {
+      "высок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокий"
       }
     }
   ],

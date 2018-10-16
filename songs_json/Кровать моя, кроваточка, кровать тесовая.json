@@ -201,14 +201,15 @@
       }
     },
     {
-      "компаніи": {
+      "компани": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "anim",
+          "femn",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "компаніь"
+        "normal_form": "компани"
       }
     },
     {
@@ -870,42 +871,39 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "молодцомъ": {
+      "молодцом": {
+        "OpencorporaTag": [
+          "ADVB"
+        ],
+        "normal_form": "молодцом"
+      }
+    },
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "компани": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
+          "femn",
           "Fixd sing",
           "nomn"
         ],
-        "normal_form": "молодцомъ"
-      }
-    },
-    {
-      "въ": {
-        "OpencorporaTag": [
-          "UNKN"
-        ],
-        "normal_form": "въ"
-      }
-    },
-    {
-      "компаніи": {
-        "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
-        ],
-        "normal_form": "компаніь"
+        "normal_form": "компани"
       }
     },
     {
@@ -1591,14 +1589,15 @@
       }
     },
     {
-      "компаніи": {
+      "компани": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "anim",
+          "femn",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "компаніь"
+        "normal_form": "компани"
       }
     },
     {

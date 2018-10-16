@@ -418,7 +418,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -426,7 +426,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -793,15 +793,11 @@
       }
     },
     {
-      "противъ": {
+      "против": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "противъ"
+        "normal_form": "против"
       }
     },
     {
@@ -910,11 +906,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1040,27 +1036,26 @@
       }
     },
     {
-      "белъ": {
+      "бел": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "белъ"
+        "normal_form": "бел"
       }
     },
     {
-      "козелъ": {
+      "козел": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "козелъ"
+        "normal_form": "козлы"
       }
     },
     {
@@ -1082,39 +1077,36 @@
       }
     },
     {
-      "пошелъ": {
+      "пошел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пошелъ"
+        "normal_form": "пойти"
       }
     },
     {
-      "козелъ": {
+      "козел": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "козелъ"
+        "normal_form": "козлы"
       }
     },
     {
-      "подъ": {
+      "под": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "подъ"
+        "normal_form": "под"
       }
     },
     {

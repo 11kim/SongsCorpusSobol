@@ -523,16 +523,11 @@
       }
     },
     {
-      "кіев": {
+      "къ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Sgtm",
-          "Surn sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "кіев"
+        "normal_form": "къ"
       }
     },
     {
@@ -889,7 +884,7 @@
   ],
   [
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -897,7 +892,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
@@ -988,7 +983,7 @@
   ],
   [
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -996,7 +991,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
@@ -1565,7 +1560,7 @@
       }
     },
     {
-      "маленькій": {
+      "маленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1573,7 +1568,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "маленькіть"
+        "normal_form": "маленькть"
       }
     },
     {
@@ -2216,12 +2211,15 @@
       }
     },
     {
-      "чужіих": {
+      "чужъ": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "чужіий"
+        "normal_form": "чужъ"
       }
     },
     {

@@ -103,14 +103,15 @@
       }
     },
     {
-      "миленькій-мил": {
+      "миленькъ": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn plur",
-          "gent"
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "миленькія-мила"
+        "normal_form": "миленькъ"
       }
     },
     {
@@ -203,15 +204,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -348,27 +349,25 @@
       }
     },
     {
-      "горючимъ": {
+      "горючим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "горючимъ"
+        "normal_form": "горючий"
       }
     },
     {
-      "слезамъ": {
+      "слезам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "слезамъ"
+        "normal_form": "слеза"
       }
     }
   ],
@@ -740,15 +739,14 @@
       }
     },
     {
-      "разбезсовестникъ": {
+      "разбезсовестник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "разбезсовестникъ"
+        "normal_form": "разбезсовестник"
       }
     }
   ],

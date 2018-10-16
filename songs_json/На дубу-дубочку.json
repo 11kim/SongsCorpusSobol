@@ -61,7 +61,7 @@
       }
     },
     {
-      "сизенькій": {
+      "сизенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -69,7 +69,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сизенькіть"
+        "normal_form": "сизенькть"
       }
     },
     {
@@ -127,15 +127,14 @@
       }
     },
     {
-      "молодчикъ": {
+      "молодчик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодчикъ"
+        "normal_form": "молодчик"
       }
     }
   ],
@@ -413,7 +412,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -421,7 +420,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -760,15 +759,16 @@
       }
     },
     {
-      "тужитъ": {
+      "тужит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "тужитъ"
+        "normal_form": "тужить"
       }
     }
   ]

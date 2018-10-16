@@ -39,15 +39,11 @@
       }
     },
     {
-      "кіеве": {
+      "ке": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "datv"
+          "UNKN"
         ],
-        "normal_form": "кіева"
+        "normal_form": "ке"
       }
     },
     {
@@ -171,13 +167,14 @@
       }
     },
     {
-      "благовещенія": {
+      "благовещеня": {
         "OpencorporaTag": [
           "GRND",
-          "impf",
-          "tran pres"
+          "perf",
+          "tran past",
+          "Fimp"
         ],
-        "normal_form": "благовещеніть"
+        "normal_form": "благовещенить"
       }
     },
     {
@@ -1162,14 +1159,14 @@
       }
     },
     {
-      "верхніе": {
+      "верхн": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
-          "loct"
+          "nomn"
         ],
-        "normal_form": "верхні"
+        "normal_form": "верхн"
       }
     }
   ],
@@ -1351,14 +1348,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -1373,11 +1370,15 @@
       }
     },
     {
-      "девій": {
+      "девй": {
         "OpencorporaTag": [
-          "UNKN"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "девій"
+        "normal_form": "девть"
       }
     },
     {
@@ -1587,14 +1588,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -1917,14 +1918,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -1939,11 +1940,15 @@
       }
     },
     {
-      "девій": {
+      "девй": {
         "OpencorporaTag": [
-          "UNKN"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "девій"
+        "normal_form": "девть"
       }
     },
     {
@@ -2326,11 +2331,15 @@
       }
     },
     {
-      "девій": {
+      "девй": {
         "OpencorporaTag": [
-          "UNKN"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "девій"
+        "normal_form": "девть"
       }
     },
     {
@@ -2663,14 +2672,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -2685,11 +2694,15 @@
       }
     },
     {
-      "девій": {
+      "девй": {
         "OpencorporaTag": [
-          "UNKN"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "девій"
+        "normal_form": "девть"
       }
     },
     {
@@ -2793,15 +2806,11 @@
       }
     },
     {
-      "келій": {
+      "кел": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "келіть"
+        "normal_form": "кел"
       }
     }
   ],
@@ -2986,14 +2995,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -3119,15 +3128,11 @@
       }
     },
     {
-      "келій": {
+      "кел": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "келіть"
+        "normal_form": "кел"
       }
     }
   ],
@@ -3282,14 +3287,14 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -4282,22 +4287,26 @@
       }
     },
     {
-      "ѳедор": {
+      "едор": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
-      "девій": {
+      "девй": {
         "OpencorporaTag": [
-          "UNKN"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "девій"
+        "normal_form": "девть"
       }
     },
     {
@@ -4679,15 +4688,11 @@
       }
     },
     {
-      "келій": {
+      "кел": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "келіть"
+        "normal_form": "кел"
       }
     }
   ],

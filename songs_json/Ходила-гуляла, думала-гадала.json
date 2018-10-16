@@ -277,15 +277,16 @@
       }
     },
     {
-      "забудетъ": {
+      "забудет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "забудетъ"
+        "normal_form": "забыть"
       }
     }
   ],

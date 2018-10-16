@@ -1007,13 +1007,15 @@
       }
     },
     {
-      "фамилія": {
+      "фамиля": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "nomn"
         ],
-        "normal_form": "фамиліть"
+        "normal_form": "фамиля"
       }
     },
     {
@@ -1132,14 +1134,13 @@
       }
     },
     {
-      "синіе": {
+      "сине": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual neut",
+          "sing"
         ],
-        "normal_form": "сині"
+        "normal_form": "синий"
       }
     },
     {

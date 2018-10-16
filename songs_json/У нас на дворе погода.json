@@ -257,7 +257,7 @@
       }
     },
     {
-      "солдатскій": {
+      "солдатскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -265,7 +265,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатскть"
       }
     },
     {
@@ -969,15 +969,11 @@
       }
     },
     {
-      "кіева": {
+      "к": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "кіева"
+        "normal_form": "к"
       }
     }
   ],
@@ -991,15 +987,11 @@
       }
     },
     {
-      "кіеве": {
+      "ке": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "datv"
+          "UNKN"
         ],
-        "normal_form": "кіева"
+        "normal_form": "ке"
       }
     },
     {

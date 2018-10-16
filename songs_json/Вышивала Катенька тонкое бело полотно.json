@@ -431,7 +431,7 @@
       }
     },
     {
-      "девочій": {
+      "девочй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -439,7 +439,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "девочіть"
+        "normal_form": "девочть"
       }
     },
     {
@@ -505,11 +505,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -950,27 +950,25 @@
       }
     },
     {
-      "душъ": {
+      "душ": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "душъ"
+        "normal_form": "душа"
       }
     },
     {
-      "крестьянъ": {
+      "крестьян": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "крестьянъ"
+        "normal_form": "крестьянин"
       }
     }
   ],
@@ -1156,15 +1154,14 @@
       }
     },
     {
-      "смычекъ": {
+      "смычек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "смычекъ"
+        "normal_form": "смычка"
       }
     }
   ],

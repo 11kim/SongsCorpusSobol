@@ -346,12 +346,15 @@
       }
     },
     {
-      "широкіих": {
+      "широкъ": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "широкіий"
+        "normal_form": "широкъ"
       }
     },
     {
@@ -412,17 +415,17 @@
       }
     },
     {
-      "красна́го": {
+      "краснао": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "neut",
+          "masc",
           "Sgtm",
           "Fixd",
-          "Orgn sing",
+          "Geox sing",
           "nomn"
         ],
-        "normal_form": "красна́го"
+        "normal_form": "краснао"
       }
     },
     {
@@ -803,11 +806,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {

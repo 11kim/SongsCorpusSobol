@@ -177,27 +177,27 @@
       }
     },
     {
-      "бригадиръ": {
+      "бригадир": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "бригадиръ"
+        "normal_form": "бригадир"
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     },
     {
@@ -209,15 +209,15 @@
       }
     },
     {
-      "преображенскій": {
+      "преображенск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "преображенскіть"
+        "normal_form": "преображенск"
       }
     },
     {
@@ -229,15 +229,11 @@
       }
     },
     {
-      "маіоръ": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіоръ"
+        "normal_form": "маъ"
       }
     },
     {
@@ -249,15 +245,15 @@
       }
     },
     {
-      "лейбъ-гренадерскій": {
+      "лейб-гренадерск": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Fixd plur",
-          "gent"
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "лейбъ-гренадерскія"
+        "normal_form": "лейб-гренадерск"
       }
     }
   ],
@@ -512,23 +508,27 @@
       }
     },
     {
-      "бригадиръ": {
+      "бригадир": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "бригадиръ"
+        "normal_form": "бригадир"
       }
     },
     {
-      "елъ": {
+      "ел": {
         "OpencorporaTag": [
-          "UNKN"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "елъ"
+        "normal_form": "есть"
       }
     },
     {
@@ -551,23 +551,24 @@
       }
     },
     {
-      "маіоръ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "маіоръ"
-      }
-    },
-    {
-      "елъ": {
+      "маъ": {
         "OpencorporaTag": [
           "UNKN"
         ],
-        "normal_form": "елъ"
+        "normal_form": "маъ"
+      }
+    },
+    {
+      "ел": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "есть"
       }
     },
     {
@@ -837,27 +838,27 @@
       }
     },
     {
-      "бригадиръ": {
+      "бригадир": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "бригадиръ"
+        "normal_form": "бригадир"
       }
     },
     {
-      "пилъ": {
+      "пил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пилъ"
+        "normal_form": "пить"
       }
     },
     {
@@ -880,15 +881,11 @@
       }
     },
     {
-      "маіоръ": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіоръ"
+        "normal_form": "маъ"
       }
     },
     {
@@ -1159,35 +1156,35 @@
       }
     },
     {
-      "бригадиръ": {
+      "бригадир": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "бригадиръ"
+        "normal_form": "бригадир"
       }
     },
     {
-      "спалъ": {
+      "спал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "спалъ"
+        "normal_form": "спасть"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1210,35 +1207,32 @@
       }
     },
     {
-      "маіоръ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "маіоръ"
-      }
-    },
-    {
-      "спалъ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
-        ],
-        "normal_form": "спалъ"
-      }
-    },
-    {
-      "въ": {
+      "маъ": {
         "OpencorporaTag": [
           "UNKN"
         ],
-        "normal_form": "въ"
+        "normal_form": "маъ"
+      }
+    },
+    {
+      "спал": {
+        "OpencorporaTag": [
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
+        ],
+        "normal_form": "спасть"
+      }
+    },
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
       }
     },
     {

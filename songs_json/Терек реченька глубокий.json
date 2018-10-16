@@ -24,15 +24,13 @@
       }
     },
     {
-      "глубокій": {
+      "глубок": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -186,7 +184,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -194,7 +192,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -238,27 +236,25 @@
       }
     },
     {
-      "крутымъ": {
+      "крутым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "крутымъ"
+        "normal_form": "крутой"
       }
     },
     {
-      "бережкомъ": {
+      "бережком": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "бережкомъ"
+        "normal_form": "бережок"
       }
     }
   ],
@@ -339,27 +335,26 @@
       }
     },
     {
-      "шелковымъ": {
+      "шелковым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt",
+          "Infr"
         ],
-        "normal_form": "шелковымъ"
+        "normal_form": "шёлковый"
       }
     },
     {
-      "платкомъ": {
+      "платком": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "платкомъ"
+        "normal_form": "платок"
       }
     }
   ],
@@ -629,15 +624,14 @@
       }
     },
     {
-      "гробъ": {
+      "гроб": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "гробъ"
+        "normal_form": "гроб"
       }
     }
   ],

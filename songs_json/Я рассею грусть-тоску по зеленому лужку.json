@@ -1007,15 +1007,11 @@
       }
     },
     {
-      "пріубран": {
+      "пр": {
         "OpencorporaTag": [
-          "PRTS",
-          "perf",
-          "past",
-          "pssv masc",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріубрать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -1218,11 +1214,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

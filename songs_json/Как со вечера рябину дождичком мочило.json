@@ -152,7 +152,7 @@
       }
     },
     {
-      "девичій": {
+      "девичй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -160,7 +160,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "девичіть"
+        "normal_form": "девичть"
       }
     },
     {
@@ -464,15 +464,16 @@
       }
     },
     {
-      "будетъ": {
+      "будет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "будетъ"
+        "normal_form": "быть"
       }
     },
     {

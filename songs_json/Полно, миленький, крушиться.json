@@ -10,15 +10,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -139,14 +139,11 @@
       }
     },
     {
-      "пріятель": {
+      "прь": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріятель"
+        "normal_form": "прь"
       }
     },
     {
@@ -225,14 +222,14 @@
       }
     },
     {
-      "драгіе": {
+      "драге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "драгі"
+        "normal_form": "драга"
       }
     },
     {
@@ -552,15 +549,11 @@
   ],
   [
     {
-      "пріопали": {
+      "при": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr plur",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "пріопасть"
+        "normal_form": "при"
       }
     },
     {

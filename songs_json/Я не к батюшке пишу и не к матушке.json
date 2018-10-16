@@ -264,7 +264,7 @@
       }
     },
     {
-      "манехонькій": {
+      "манехонькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -272,7 +272,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "манехонькіть"
+        "normal_form": "манехонькть"
       }
     },
     {
@@ -2198,15 +2198,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     }
   ],
@@ -2371,13 +2371,14 @@
       }
     },
     {
-      "разбестія": {
+      "разбест": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "разбестіть"
+        "normal_form": "разбест"
       }
     },
     {
@@ -2630,13 +2631,11 @@
       }
     },
     {
-      "кіевской": {
+      "кй": {
         "OpencorporaTag": [
-          "ADJF femn",
-          "sing",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "кіевский"
+        "normal_form": "кй"
       }
     },
     {

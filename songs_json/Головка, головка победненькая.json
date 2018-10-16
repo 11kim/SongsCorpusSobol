@@ -136,15 +136,14 @@
       }
     },
     {
-      "разыметъ": {
+      "разымет": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "разыметъ"
+        "normal_form": "разымета"
       }
     },
     {
@@ -826,13 +825,14 @@
       }
     },
     {
-      "чаем-кофіем": {
+      "чаем-коф": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual masc",
-          "sing"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "чаемый-кофіемый"
+        "normal_form": "чаем-коф"
       }
     }
   ]

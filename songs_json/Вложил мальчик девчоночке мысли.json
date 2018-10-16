@@ -995,11 +995,11 @@
       }
     },
     {
-      "охъ": {
+      "ох": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "охъ"
+        "normal_form": "ох"
       }
     },
     {
@@ -1030,15 +1030,14 @@
       }
     },
     {
-      "дуракъ": {
+      "дурак": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "дуракъ"
+        "normal_form": "дурак"
       }
     },
     {
@@ -1290,15 +1289,13 @@
       }
     },
     {
-      "хорошій": {
+      "хорош": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошіть"
+        "normal_form": "хороший"
       }
     },
     {

@@ -115,15 +115,14 @@
       }
     },
     {
-      "светичекъ": {
+      "светичек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "светичекъ"
+        "normal_form": "светичек"
       }
     },
     {
@@ -135,15 +134,15 @@
       }
     },
     {
-      "милъ": {
+      "мил": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "милъ"
+        "normal_form": "мила"
       }
     }
   ],
@@ -207,35 +206,34 @@
       }
     },
     {
-      "светъ": {
+      "свет": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "Sgtm sing",
+          "accs"
         ],
-        "normal_form": "светъ"
+        "normal_form": "свет"
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
-      "глазъ": {
+      "глаз": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "глазъ"
+        "normal_form": "глаз"
       }
     }
   ],
@@ -283,11 +281,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -322,15 +320,16 @@
       }
     },
     {
-      "несутъ": {
+      "несут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "несутъ"
+        "normal_form": "нести"
       }
     }
   ],
@@ -394,15 +393,15 @@
       }
     },
     {
-      "светъ": {
+      "свет": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "Sgtm sing",
+          "accs"
         ],
-        "normal_form": "светъ"
+        "normal_form": "свет"
       }
     },
     {
@@ -425,15 +424,16 @@
       }
     },
     {
-      "глядятъ": {
+      "глядят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "глядятъ"
+        "normal_form": "глядеть"
       }
     }
   ],
@@ -517,15 +517,16 @@
       }
     },
     {
-      "везутъ": {
+      "везут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "везутъ"
+        "normal_form": "везти"
       }
     }
   ],
@@ -591,15 +592,14 @@
       }
     },
     {
-      "древахъ": {
+      "древах": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut plur",
+          "loct"
         ],
-        "normal_form": "древахъ"
+        "normal_form": "древо"
       }
     },
     {
@@ -614,15 +614,16 @@
       }
     },
     {
-      "шумятъ": {
+      "шумят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "шумятъ"
+        "normal_form": "шуметь"
       }
     }
   ],
@@ -1672,15 +1673,14 @@
       }
     },
     {
-      "мужъ": {
+      "муж": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ"
+        "normal_form": "муж"
       }
     },
     {
@@ -1793,15 +1793,14 @@
       }
     },
     {
-      "свекоръ": {
+      "свекор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "свекоръ"
+        "normal_form": "свёкор"
       }
     },
     {

@@ -12,7 +12,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -20,7 +20,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -32,15 +32,15 @@
       }
     },
     {
-      "хорошенькій": {
+      "хорошеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "хорошенькіть"
+        "normal_form": "хорошенька"
       }
     }
   ],
@@ -57,15 +57,15 @@
       }
     },
     {
-      "коротенькій": {
+      "коротеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "коротенькіть"
+        "normal_form": "коротенька"
       }
     }
   ],

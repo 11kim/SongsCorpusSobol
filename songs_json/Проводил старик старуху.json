@@ -151,11 +151,15 @@
   ],
   [
     {
-      "что-ж-то": {
+      "что-жъ-то": {
         "OpencorporaTag": [
-          "CONJ"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "что-ж-то"
+        "normal_form": "что-жъ-то"
       }
     },
     {

@@ -1286,14 +1286,14 @@
       }
     },
     {
-      "высокіе": {
+      "высоке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высок"
       }
     },
     {
@@ -1927,12 +1927,15 @@
       }
     },
     {
-      "высокіих": {
+      "высокъ": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "высокіий"
+        "normal_form": "высокъ"
       }
     },
     {

@@ -32,13 +32,15 @@
       }
     },
     {
-      "солдатскія": {
+      "солдатск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатск"
       }
     }
   ],
@@ -180,14 +182,15 @@
       }
     },
     {
-      "последніе": {
+      "последн": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "последні"
+        "normal_form": "последна"
       }
     }
   ],
@@ -726,13 +729,15 @@
       }
     },
     {
-      "солдатскія": {
+      "солдатск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатск"
       }
     }
   ],
@@ -949,13 +954,15 @@
       }
     },
     {
-      "солдатскія": {
+      "солдатск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатск"
       }
     }
   ]

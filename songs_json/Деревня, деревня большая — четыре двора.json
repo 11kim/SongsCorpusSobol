@@ -93,15 +93,12 @@
       }
     },
     {
-      "тутъ": {
+      "тут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "тутъ"
+        "normal_form": "тут"
       }
     },
     {
@@ -136,15 +133,16 @@
       }
     },
     {
-      "живетъ": {
+      "живет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "живетъ"
+        "normal_form": "жить"
       }
     }
   ],
@@ -430,16 +428,15 @@
   ],
   [
     {
-      "третій-ет": {
+      "третъ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "3per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "третій-ть"
+        "normal_form": "третъ"
       }
     },
     {
@@ -736,15 +733,14 @@
       }
     },
     {
-      "подружекъ": {
+      "подружек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "подружекъ"
+        "normal_form": "подружка"
       }
     },
     {
@@ -761,15 +757,14 @@
       }
     },
     {
-      "медъ-вино": {
+      "мед-вино": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "медъ-вино"
+        "normal_form": "мёд-вино"
       }
     },
     {
@@ -848,11 +843,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -947,15 +942,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {

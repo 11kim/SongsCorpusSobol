@@ -190,7 +190,7 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -198,7 +198,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонскть"
       }
     },
     {
@@ -518,7 +518,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -526,7 +526,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -1623,15 +1623,15 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонск"
       }
     }
   ],
@@ -1830,7 +1830,7 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1838,7 +1838,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонскть"
       }
     },
     {
@@ -2084,13 +2084,14 @@
       }
     },
     {
-      "глыбокія": {
+      "глыбок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "глыбокіть"
+        "normal_form": "глыбок"
       }
     }
   ],
@@ -2138,14 +2139,13 @@
       }
     },
     {
-      "высокіе": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -2895,7 +2895,7 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2903,7 +2903,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонскть"
       }
     },
     {
@@ -3335,7 +3335,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3343,7 +3343,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -3376,7 +3376,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3384,7 +3384,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {

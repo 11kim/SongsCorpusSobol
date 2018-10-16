@@ -193,7 +193,7 @@
       }
     },
     {
-      "черненькій": {
+      "черненькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -201,7 +201,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "черненькіть"
+        "normal_form": "черненькть"
       }
     },
     {
@@ -218,7 +218,7 @@
   ],
   [
     {
-      "синій": {
+      "синй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -226,7 +226,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "синіть"
+        "normal_form": "синть"
       }
     },
     {
@@ -254,12 +254,14 @@
   ],
   [
     {
-      "брилліантова": {
+      "брилла": {
         "OpencorporaTag": [
-          "ADJS femn",
-          "sing"
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "брилліантовый"
+        "normal_form": "брилла"
       }
     },
     {

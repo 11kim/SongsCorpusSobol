@@ -435,7 +435,7 @@
       }
     },
     {
-      "горючій": {
+      "горючй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -443,7 +443,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "горючіть"
+        "normal_form": "горючть"
       }
     },
     {
@@ -481,14 +481,15 @@
       }
     },
     {
-      "гребенскіе": {
+      "гребенске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "гребенскі"
+        "normal_form": "гребенск"
       }
     },
     {
@@ -1043,15 +1044,11 @@
       }
     },
     {
-      "пятьсотъ": {
+      "пятьсот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NUMR nomn"
         ],
-        "normal_form": "пятьсотъ"
+        "normal_form": "пятьсот"
       }
     },
     {

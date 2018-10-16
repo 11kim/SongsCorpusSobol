@@ -746,12 +746,15 @@
       }
     },
     {
-      "последніих": {
+      "последн": {
         "OpencorporaTag": [
-          "ADJF plur",
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
           "gent"
         ],
-        "normal_form": "последніий"
+        "normal_form": "последна"
       }
     }
   ]

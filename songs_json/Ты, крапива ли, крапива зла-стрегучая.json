@@ -305,14 +305,15 @@
       }
     },
     {
-      "мо̀лодец": {
+      "мо": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc sing",
+          "inan",
+          "neut",
+          "Fixd sing",
           "nomn"
         ],
-        "normal_form": "мо̀лодец"
+        "normal_form": "мо"
       }
     }
   ],
@@ -373,14 +374,13 @@
       }
     },
     {
-      "глубокіе": {
+      "глубок": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокі"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -452,14 +452,15 @@
       }
     },
     {
-      "крещенскіе": {
+      "крещенск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "крещенскі"
+        "normal_form": "крещенск"
       }
     }
   ],
@@ -488,14 +489,14 @@
       }
     },
     {
-      "молоде́ц": {
+      "молоде": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "femn plur",
-          "gent"
+          "inan",
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "молоде́ца"
+        "normal_form": "молода"
       }
     },
     {
@@ -688,14 +689,15 @@
       }
     },
     {
-      "воро̀та": {
+      "вороа": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "gent"
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "воро̀т"
+        "normal_form": "вороа"
       }
     },
     {

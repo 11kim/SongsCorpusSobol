@@ -185,15 +185,15 @@
       }
     },
     {
-      "серенькій": {
+      "сереньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "серенькіть"
+        "normal_form": "серенька"
       }
     }
   ],
@@ -230,15 +230,15 @@
       }
     },
     {
-      "беленькій": {
+      "беленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленька"
       }
     }
   ],
@@ -310,13 +310,15 @@
       }
     },
     {
-      "желтенькія": {
+      "желтеньк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "желтенькіть"
+        "normal_form": "желтенька"
       }
     }
   ],
@@ -989,15 +991,11 @@
   ],
   [
     {
-      "пріезжали": {
+      "при": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "при"
       }
     },
     {

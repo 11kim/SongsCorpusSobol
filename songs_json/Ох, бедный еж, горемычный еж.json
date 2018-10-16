@@ -345,11 +345,14 @@
       }
     },
     {
-      "ежъ": {
+      "еж": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "ежъ"
+        "normal_form": "ёж"
       }
     }
   ],
@@ -363,15 +366,13 @@
       }
     },
     {
-      "зачемъ": {
+      "зачем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Ques",
+          "Prdx"
         ],
-        "normal_form": "зачемъ"
+        "normal_form": "зачем"
       }
     }
   ],
@@ -446,15 +447,16 @@
       }
     },
     {
-      "принесъ": {
+      "принес": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "принесъ"
+        "normal_form": "принести"
       }
     }
   ],
@@ -481,15 +483,16 @@
       }
     },
     {
-      "рублевъ": {
+      "рублев": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Sgtm",
+          "Surn sing",
           "nomn"
         ],
-        "normal_form": "рублевъ"
+        "normal_form": "рублёв"
       }
     }
   ],
@@ -1016,15 +1019,16 @@
       }
     },
     {
-      "принесъ": {
+      "принес": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "принесъ"
+        "normal_form": "принести"
       }
     }
   ],
@@ -1059,15 +1063,16 @@
       }
     },
     {
-      "рублевъ": {
+      "рублев": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Sgtm",
+          "Surn sing",
           "nomn"
         ],
-        "normal_form": "рублевъ"
+        "normal_form": "рублёв"
       }
     }
   ],
@@ -1104,7 +1109,7 @@
       }
     },
     {
-      "высокій": {
+      "высокй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1112,7 +1117,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокть"
       }
     },
     {

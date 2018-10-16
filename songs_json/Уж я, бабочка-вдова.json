@@ -210,7 +210,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -218,7 +218,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -353,14 +353,16 @@
       }
     },
     {
-      "здоровіе": {
+      "здорове": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
+          "anim",
+          "masc",
+          "Sgtm",
+          "Surn sing",
           "loct"
         ],
-        "normal_form": "здорові"
+        "normal_form": "здоров"
       }
     },
     {
@@ -442,7 +444,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -450,7 +452,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {

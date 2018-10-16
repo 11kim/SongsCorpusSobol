@@ -214,27 +214,21 @@
       }
     },
     {
-      "пятьсотъ": {
+      "пятьсот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NUMR nomn"
         ],
-        "normal_form": "пятьсотъ"
+        "normal_form": "пятьсот"
       }
     },
     {
-      "славныхъ": {
+      "славных": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual plur",
+          "gent"
         ],
-        "normal_form": "славныхъ"
+        "normal_form": "славный"
       }
     },
     {

@@ -65,7 +65,7 @@
   ],
   [
     {
-      "разсизенькій": {
+      "разсизенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -73,7 +73,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "разсизенькіть"
+        "normal_form": "разсизенькть"
       }
     },
     {
@@ -285,7 +285,7 @@
       }
     },
     {
-      "громкій": {
+      "громкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -293,7 +293,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "громкіть"
+        "normal_form": "громкть"
       }
     },
     {
@@ -653,23 +653,21 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "губернскомъ": {
+      "губернском": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "губернскомъ"
+        "normal_form": "губернский"
       }
     },
     {

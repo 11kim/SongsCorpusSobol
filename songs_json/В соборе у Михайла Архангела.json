@@ -421,7 +421,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -429,7 +429,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -686,15 +686,13 @@
       }
     },
     {
-      "христіане": {
+      "христ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "христіан"
+        "normal_form": "христый"
       }
     }
   ],
@@ -988,11 +986,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {

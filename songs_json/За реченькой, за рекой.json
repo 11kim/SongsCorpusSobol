@@ -780,15 +780,14 @@
       }
     },
     {
-      "баушкинъ": {
+      "баушкин": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "баушкинъ"
+        "normal_form": "баушкина"
       }
     }
   ],
@@ -824,21 +823,20 @@
       }
     },
     {
-      "дедушкинъ": {
+      "дедушкин": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Poss masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "дедушкинъ"
+        "normal_form": "дедушкин"
       }
     }
   ],
   [
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -846,7 +844,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -869,15 +867,16 @@
       }
     },
     {
-      "вдовонькинъ": {
+      "вдовонькин": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Sgtm",
+          "Surn sing",
           "nomn"
         ],
-        "normal_form": "вдовонькинъ"
+        "normal_form": "вдовонькин"
       }
     }
   ],

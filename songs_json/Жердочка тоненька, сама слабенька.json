@@ -358,15 +358,16 @@
       }
     },
     {
-      "пойдемъ": {
+      "пойдем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пойдемъ"
+        "normal_form": "пойти"
       }
     }
   ],
@@ -603,15 +604,16 @@
       }
     },
     {
-      "живетъ": {
+      "живет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "живетъ"
+        "normal_form": "жить"
       }
     }
   ],

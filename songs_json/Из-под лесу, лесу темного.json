@@ -887,15 +887,11 @@
       }
     },
     {
-      "пріехали": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -1008,11 +1004,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -1056,15 +1052,15 @@
       }
     },
     {
-      "батюшковъ": {
+      "батюшков": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "батюшковъ"
+        "normal_form": "батюшковы"
       }
     }
   ],

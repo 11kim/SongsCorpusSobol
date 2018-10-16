@@ -735,15 +735,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     },
     {
@@ -755,15 +752,16 @@
       }
     },
     {
-      "станемъ": {
+      "станем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "станемъ"
+        "normal_form": "стать"
       }
     },
     {
@@ -1090,14 +1088,13 @@
       }
     },
     {
-      "мерзавца-нехристіана": {
+      "мерзавца-нехрист": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc sing",
-          "gent"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "мерзавец-нехристіан"
+        "normal_form": "мерзавца-нехристый"
       }
     }
   ],

@@ -328,7 +328,7 @@
       }
     },
     {
-      "великій": {
+      "великй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -336,19 +336,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "великіть"
+        "normal_form": "великть"
       }
     },
     {
-      "панъ": {
+      "пан": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "панъ"
+        "normal_form": "пан"
       }
     }
   ],

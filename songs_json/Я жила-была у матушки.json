@@ -770,13 +770,13 @@
       }
     },
     {
-      "веселія": {
+      "веселя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "веселіть"
+        "normal_form": "веселить"
       }
     },
     {
@@ -848,13 +848,14 @@
       }
     },
     {
-      "вечернія": {
+      "вечерня": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "вечерніть"
+        "normal_form": "вечерня"
       }
     },
     {
@@ -1246,14 +1247,15 @@
       }
     },
     {
-      "серенькіе": {
+      "сереньк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "серенькі"
+        "normal_form": "серенька"
       }
     }
   ],

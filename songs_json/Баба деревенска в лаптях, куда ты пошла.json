@@ -311,15 +311,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -618,15 +614,11 @@
       }
     },
     {
-      "такъ": {
+      "так": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "такъ"
+        "normal_form": "так"
       }
     },
     {
@@ -638,7 +630,7 @@
       }
     },
     {
-      "вилантій": {
+      "вилантй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -646,7 +638,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "вилантіть"
+        "normal_form": "вилантть"
       }
     },
     {
@@ -658,27 +650,27 @@
       }
     },
     {
-      "мужъ-то": {
+      "муж-то": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ-то"
+        "normal_form": "муж-то"
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     },
     {
@@ -730,7 +722,7 @@
       }
     },
     {
-      "вилантій": {
+      "вилантй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -738,19 +730,20 @@
           "impr",
           "excl"
         ],
-        "normal_form": "вилантіть"
+        "normal_form": "вилантть"
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     },
     {
@@ -772,35 +765,36 @@
       }
     },
     {
-      "какимъ": {
+      "каким": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Apro plur",
+          "datv"
         ],
-        "normal_form": "какимъ"
+        "normal_form": "какой"
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
-      "промысломъ-то": {
+      "промыслом-то": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "промысломъ-то"
+        "normal_form": "промысл-то"
       }
     },
     {
@@ -835,15 +829,14 @@
       }
     },
     {
-      "скрыпочникъ": {
+      "скрыпочник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "скрыпочникъ"
+        "normal_form": "скрыпочник"
       }
     },
     {
@@ -869,15 +862,14 @@
       }
     },
     {
-      "балалаечникъ": {
+      "балалаечник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "балалаечникъ"
+        "normal_form": "балалаечник"
       }
     },
     {
@@ -899,21 +891,25 @@
       }
     },
     {
-      "какія": {
+      "какя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "какіть"
+        "normal_form": "какть"
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
@@ -947,15 +943,16 @@
       }
     },
     {
-      "пелъ": {
+      "пел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пелъ"
+        "normal_form": "петь"
       }
     }
   ]

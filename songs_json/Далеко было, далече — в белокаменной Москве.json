@@ -39,11 +39,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -554,7 +554,7 @@
   ],
   [
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -562,7 +562,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -997,7 +997,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1005,7 +1005,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -2508,27 +2508,27 @@
       }
     },
     {
-      "соколъ": {
+      "сокол": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "соколъ"
+        "normal_form": "сокол"
       }
     },
     {
-      "летитъ": {
+      "летит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "летитъ"
+        "normal_form": "лететь"
       }
     }
   ],
@@ -3076,11 +3076,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -3105,19 +3105,18 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3125,7 +3124,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -3316,7 +3315,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3324,7 +3323,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {
@@ -3570,13 +3569,13 @@
       }
     },
     {
-      "глубокія": {
+      "глубок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -3615,13 +3614,13 @@
       }
     },
     {
-      "высокія": {
+      "высок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -3905,13 +3904,13 @@
       }
     },
     {
-      "высокія": {
+      "высок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -4136,13 +4135,13 @@
       }
     },
     {
-      "высокія": {
+      "высок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -4338,7 +4337,7 @@
       }
     },
     {
-      "волконскій": {
+      "волконскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4346,7 +4345,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волконскіть"
+        "normal_form": "волконскть"
       }
     },
     {

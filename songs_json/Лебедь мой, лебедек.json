@@ -312,15 +312,14 @@
       }
     },
     {
-      "ягодъ": {
+      "ягод": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "ягодъ"
+        "normal_form": "ягода"
       }
     },
     {
@@ -738,15 +737,14 @@
       }
     },
     {
-      "яблокъ": {
+      "яблок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "яблокъ"
+        "normal_form": "яблоко"
       }
     },
     {
@@ -1007,15 +1005,14 @@
       }
     },
     {
-      "старичекъ": {
+      "старичек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "старичекъ"
+        "normal_form": "старичек"
       }
     }
   ],
@@ -1321,15 +1318,14 @@
       }
     },
     {
-      "старичекъ": {
+      "старичек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "старичекъ"
+        "normal_form": "старичек"
       }
     }
   ],

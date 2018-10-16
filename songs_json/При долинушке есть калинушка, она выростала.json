@@ -492,11 +492,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -885,11 +885,16 @@
       }
     },
     {
-      "мір": {
+      "м": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     }
   ],
@@ -905,11 +910,16 @@
       }
     },
     {
-      "мір": {
+      "м": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     },
     {

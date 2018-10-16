@@ -580,27 +580,26 @@
       }
     },
     {
-      "крутымъ": {
+      "крутым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "крутымъ"
+        "normal_form": "крутой"
       }
     },
     {
-      "горамъ": {
+      "горам": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "Name plur",
+          "datv"
         ],
-        "normal_form": "горамъ"
+        "normal_form": "гор"
       }
     }
   ],

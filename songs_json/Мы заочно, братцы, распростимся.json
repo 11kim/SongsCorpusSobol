@@ -565,15 +565,15 @@
       }
     },
     {
-      "самаръ-кабакъ": {
+      "самар-кабак": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Fixd sing",
+          "Geox sing",
           "nomn"
         ],
-        "normal_form": "самаръ-кабакъ"
+        "normal_form": "самар-кабак"
       }
     }
   ],
@@ -598,15 +598,13 @@
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {
@@ -1207,15 +1205,11 @@
       }
     },
     {
-      "сіяли": {
+      "с": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran plur",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "сіять"
+        "normal_form": "с"
       }
     }
   ],
@@ -2249,7 +2243,7 @@
       }
     },
     {
-      "ѳедька": {
+      "едька": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -2257,7 +2251,7 @@
           "Name sing",
           "nomn"
         ],
-        "normal_form": "ѳедька"
+        "normal_form": "едька"
       }
     },
     {
@@ -2501,14 +2495,11 @@
       }
     },
     {
-      "міром": {
+      "мъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "міром"
+        "normal_form": "мъ"
       }
     },
     {
@@ -2535,7 +2526,7 @@
       }
     },
     {
-      "ѳедька": {
+      "едька": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -2543,7 +2534,7 @@
           "Name sing",
           "nomn"
         ],
-        "normal_form": "ѳедька"
+        "normal_form": "едька"
       }
     },
     {
@@ -2748,7 +2739,7 @@
       }
     },
     {
-      "ѳедька": {
+      "едька": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -2756,7 +2747,7 @@
           "Name sing",
           "nomn"
         ],
-        "normal_form": "ѳедька"
+        "normal_form": "едька"
       }
     },
     {

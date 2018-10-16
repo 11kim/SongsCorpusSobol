@@ -642,11 +642,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -887,15 +887,14 @@
       }
     },
     {
-      "казакъ": {
+      "казак": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "казакъ"
+        "normal_form": "казак"
       }
     }
   ],
@@ -1753,23 +1752,22 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
-      "суседушкамъ": {
+      "суседушкам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "суседушкамъ"
+        "normal_form": "суседушка"
       }
     }
   ],
@@ -1999,15 +1997,14 @@
       }
     },
     {
-      "казакъ": {
+      "казак": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "казакъ"
+        "normal_form": "казак"
       }
     }
   ],

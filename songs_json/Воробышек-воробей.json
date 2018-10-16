@@ -156,27 +156,29 @@
       }
     },
     {
-      "болитъ": {
+      "болит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "болитъ"
+        "normal_form": "болеть"
       }
     },
     {
-      "болитъ": {
+      "болит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "болитъ"
+        "normal_form": "болеть"
       }
     },
     {
@@ -623,15 +625,14 @@
       }
     },
     {
-      "игрункомъ": {
+      "игрунком": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "игрункомъ"
+        "normal_form": "игрунок"
       }
     }
   ],
@@ -656,15 +657,14 @@
       }
     },
     {
-      "плясункомъ": {
+      "плясунком": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "плясункомъ"
+        "normal_form": "плясунок"
       }
     }
   ],

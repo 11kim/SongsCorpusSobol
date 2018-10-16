@@ -584,11 +584,15 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
@@ -611,15 +615,16 @@
       }
     },
     {
-      "приплылъ": {
+      "приплыл": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "приплылъ"
+        "normal_form": "приплыть"
       }
     }
   ],
@@ -710,15 +715,16 @@
       }
     },
     {
-      "поплылъ": {
+      "поплыл": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "поплылъ"
+        "normal_form": "поплыть"
       }
     }
   ],
@@ -784,15 +790,16 @@
       }
     },
     {
-      "поплылъ": {
+      "поплыл": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "поплылъ"
+        "normal_form": "поплыть"
       }
     }
   ],

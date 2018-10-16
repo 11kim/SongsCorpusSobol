@@ -256,7 +256,7 @@
       }
     },
     {
-      "нижній": {
+      "нижнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -264,7 +264,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "нижніть"
+        "normal_form": "нижнть"
       }
     },
     {
@@ -289,7 +289,7 @@
       }
     },
     {
-      "нижній": {
+      "нижнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -297,11 +297,11 @@
           "impr",
           "excl"
         ],
-        "normal_form": "нижніть"
+        "normal_form": "нижнть"
       }
     },
     {
-      "дальній": {
+      "дальнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -309,7 +309,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дальніть"
+        "normal_form": "дальнть"
       }
     },
     {
@@ -721,11 +721,11 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
@@ -740,15 +740,16 @@
       }
     },
     {
-      "выводятъ": {
+      "выводят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "выводятъ"
+        "normal_form": "выводить"
       }
     }
   ],
@@ -803,27 +804,27 @@
       }
     },
     {
-      "дворъ": {
+      "двор": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "дворъ"
+        "normal_form": "двор"
       }
     },
     {
-      "вызываютъ": {
+      "вызывают": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "вызываютъ"
+        "normal_form": "вызывать"
       }
     }
   ]

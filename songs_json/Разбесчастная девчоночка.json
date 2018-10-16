@@ -371,16 +371,11 @@
       }
     },
     {
-      "пріезжает": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr sing",
-          "3per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -910,15 +905,16 @@
       }
     },
     {
-      "кричалъ": {
+      "кричал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "кричалъ"
+        "normal_form": "кричать"
       }
     },
     {
@@ -946,15 +942,16 @@
       }
     },
     {
-      "махалъ": {
+      "махал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "махалъ"
+        "normal_form": "махать"
       }
     }
   ],

@@ -441,15 +441,16 @@
   ],
   [
     {
-      "міроеды": {
+      "м": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "femn",
-          "Sgtm sing",
+          "masc",
+          "Fixd",
+          "Abbr sing",
           "gent"
         ],
-        "normal_form": "міроеда"
+        "normal_form": "метр"
       }
     },
     {
@@ -566,15 +567,14 @@
       }
     },
     {
-      "голодъ": {
+      "голод": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "голодъ"
+        "normal_form": "голод"
       }
     },
     {
@@ -586,15 +586,13 @@
       }
     },
     {
-      "насъ": {
+      "нас": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "gent"
         ],
-        "normal_form": "насъ"
+        "normal_form": "мы"
       }
     },
     {
@@ -606,15 +604,14 @@
       }
     },
     {
-      "холодъ": {
+      "холод": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "холодъ"
+        "normal_form": "холод"
       }
     }
   ],
@@ -657,15 +654,14 @@
       }
     },
     {
-      "недородъ": {
+      "недород": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "недородъ"
+        "normal_form": "недород"
       }
     }
   ],

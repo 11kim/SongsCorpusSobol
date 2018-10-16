@@ -279,14 +279,11 @@
   ],
   [
     {
-      "ѣсть": {
+      "сть": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "ѣсть"
+        "normal_form": "сть"
       }
     },
     {
@@ -995,11 +992,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -1024,15 +1021,14 @@
       }
     },
     {
-      "чортъ": {
+      "чорт": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "чортъ"
+        "normal_form": "чорт"
       }
     },
     {

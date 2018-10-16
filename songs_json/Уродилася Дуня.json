@@ -860,16 +860,16 @@
       }
     },
     {
-      "пріехала": {
+      "пра": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пра"
       }
     },
     {
@@ -963,14 +963,14 @@
   ],
   [
     {
-      "дорогіе": {
+      "дорог": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "дорогі"
+        "normal_form": "дорога"
       }
     },
     {
@@ -1663,14 +1663,14 @@
       }
     },
     {
-      "высокіе": {
+      "высоке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высок"
       }
     },
     {

@@ -810,15 +810,11 @@
       }
     },
     {
-      "пятьдесятъ": {
+      "пятьдесят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NUMR nomn"
         ],
-        "normal_form": "пятьдесятъ"
+        "normal_form": "пятьдесят"
       }
     }
   ],
@@ -1083,16 +1079,14 @@
       }
     },
     {
-      "мантію": {
+      "мантю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "datv"
         ],
-        "normal_form": "мантіть"
+        "normal_form": "манть"
       }
     },
     {
@@ -1490,11 +1484,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1960,11 +1954,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {

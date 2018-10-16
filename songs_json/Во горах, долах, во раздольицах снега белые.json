@@ -310,39 +310,37 @@
       }
     },
     {
-      "частъ": {
+      "част": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "частъ"
+        "normal_form": "частый"
       }
     },
     {
-      "ракитовъ": {
+      "ракитов": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Sgtm",
+          "Surn sing",
           "nomn"
         ],
-        "normal_form": "ракитовъ"
+        "normal_form": "ракитов"
       }
     },
     {
-      "кустъ": {
+      "куст": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "кустъ"
+        "normal_form": "куст"
       }
     }
   ],
@@ -987,16 +985,11 @@
       }
     },
     {
-      "пріосердился": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріосердиться"
+        "normal_form": "пр"
       }
     }
   ],

@@ -436,14 +436,16 @@
       }
     },
     {
-      "коневіе": {
+      "конев": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "masc",
+          "Sgtm",
+          "Surn sing",
+          "nomn"
         ],
-        "normal_form": "коневі"
+        "normal_form": "конев"
       }
     }
   ],
@@ -822,13 +824,15 @@
       }
     },
     {
-      "оленія": {
+      "олен": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "оленіть"
+        "normal_form": "олена"
       }
     }
   ],
@@ -876,14 +880,14 @@
       }
     },
     {
-      "вороніе": {
+      "ворон": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
-          "loct"
+          "nomn"
         ],
-        "normal_form": "вороні"
+        "normal_form": "ворон"
       }
     }
   ],
@@ -1377,15 +1381,16 @@
       }
     },
     {
-      "дрожитъ": {
+      "дрожит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "дрожитъ"
+        "normal_form": "дрожать"
       }
     }
   ],
@@ -1431,39 +1436,35 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
-      "колоколъ": {
+      "колокол": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "колоколъ"
+        "normal_form": "колокол"
       }
     },
     {
-      "звенитъ": {
+      "звенит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "звенитъ"
+        "normal_form": "звенеть"
       }
     }
   ],

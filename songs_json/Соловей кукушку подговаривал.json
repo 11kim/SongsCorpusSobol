@@ -593,13 +593,15 @@
       }
     },
     {
-      "высокіим": {
+      "высокъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "высокіий"
+        "normal_form": "высокъ"
       }
     }
   ],
@@ -765,15 +767,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     }
   ],
@@ -1027,13 +1028,15 @@
       }
     },
     {
-      "высокіим": {
+      "высокъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "высокіий"
+        "normal_form": "высокъ"
       }
     }
   ],
@@ -1066,25 +1069,29 @@
       }
     },
     {
-      "молодецкія": {
+      "молодецк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "молодецкіть"
+        "normal_form": "молодецк"
       }
     }
   ],
   [
     {
-      "молодецкія": {
+      "молодецк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "молодецкіть"
+        "normal_form": "молодецк"
       }
     },
     {
@@ -1098,13 +1105,15 @@
       }
     },
     {
-      "солдатскія": {
+      "солдатск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатск"
       }
     }
   ],
@@ -1174,25 +1183,29 @@
       }
     },
     {
-      "молодецкія": {
+      "молодецк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "молодецкіть"
+        "normal_form": "молодецк"
       }
     }
   ],
   [
     {
-      "молодецкія": {
+      "молодецк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "молодецкіть"
+        "normal_form": "молодецк"
       }
     },
     {
@@ -1206,13 +1219,15 @@
       }
     },
     {
-      "казацкія": {
+      "казацк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "казацкіть"
+        "normal_form": "казацк"
       }
     }
   ]

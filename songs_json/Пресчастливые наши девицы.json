@@ -178,27 +178,26 @@
       }
     },
     {
-      "мальчикъ": {
+      "мальчик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мальчикъ"
+        "normal_form": "мальчик"
       }
     },
     {
-      "хорошенькій": {
+      "хорошеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "хорошенькіть"
+        "normal_form": "хорошенька"
       }
     }
   ],
@@ -220,15 +219,15 @@
       }
     },
     {
-      "богатенькій": {
+      "богатеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "богатенькіть"
+        "normal_form": "богатенька"
       }
     }
   ],
@@ -585,7 +584,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -593,7 +592,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -732,15 +731,13 @@
       }
     },
     {
-      "виноватъ": {
+      "виноват": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "виноватъ"
+        "normal_form": "виноватый"
       }
     }
   ],
@@ -778,15 +775,14 @@
       }
     },
     {
-      "самъ": {
+      "сам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "самъ"
+        "normal_form": "сам"
       }
     },
     {
@@ -798,15 +794,12 @@
       }
     },
     {
-      "радъ": {
+      "рад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "радъ"
+        "normal_form": "рад"
       }
     }
   ],
@@ -823,14 +816,14 @@
       }
     },
     {
-      "россіюшку": {
+      "россу": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "accs"
+          "anim",
+          "masc sing",
+          "datv"
         ],
-        "normal_form": "россіюшка"
+        "normal_form": "росс"
       }
     },
     {

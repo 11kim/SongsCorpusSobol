@@ -706,15 +706,16 @@
       }
     },
     {
-      "бранятъ": {
+      "бранят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "бранятъ"
+        "normal_form": "бранить"
       }
     }
   ],
@@ -794,15 +795,12 @@
       }
     },
     {
-      "говорятъ": {
+      "говорят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ",
+          "Prnt"
         ],
-        "normal_form": "говорятъ"
+        "normal_form": "говорят"
       }
     }
   ],
@@ -1231,15 +1229,13 @@
       }
     },
     {
-      "васъ": {
+      "вас": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "accs"
         ],
-        "normal_form": "васъ"
+        "normal_form": "вы"
       }
     },
     {
@@ -1305,39 +1301,31 @@
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {
-      "самимъ": {
+      "самим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Apro plur",
+          "datv"
         ],
-        "normal_form": "самимъ"
+        "normal_form": "сам"
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     },
     {

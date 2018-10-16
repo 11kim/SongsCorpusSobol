@@ -193,14 +193,14 @@
       }
     },
     {
-      "казачіе": {
+      "казаче": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
           "loct"
         ],
-        "normal_form": "казачі"
+        "normal_form": "казач"
       }
     },
     {
@@ -229,13 +229,13 @@
       }
     },
     {
-      "казачія": {
+      "казачя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "казачіть"
+        "normal_form": "казачть"
       }
     },
     {
@@ -615,16 +615,11 @@
       }
     },
     {
-      "пріезжал": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пр"
       }
     }
   ],

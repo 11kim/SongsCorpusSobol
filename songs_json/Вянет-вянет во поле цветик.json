@@ -871,38 +871,36 @@
       }
     },
     {
-      "убійцы": {
+      "убы": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc plur",
-          "nomn"
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "gent"
         ],
-        "normal_form": "убіец"
+        "normal_form": "уба"
       }
     },
     {
-      "бедныхъ": {
+      "бедных": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual plur",
+          "gent"
         ],
-        "normal_form": "бедныхъ"
+        "normal_form": "бедный"
       }
     },
     {
-      "насъ": {
+      "нас": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "gent"
         ],
-        "normal_form": "насъ"
+        "normal_form": "мы"
       }
     }
   ],

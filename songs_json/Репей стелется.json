@@ -310,27 +310,25 @@
       }
     },
     {
-      "старымъ": {
+      "старым": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "старымъ"
+        "normal_form": "старое"
       }
     },
     {
-      "мужемъ": {
+      "мужем": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "мужемъ"
+        "normal_form": "муж"
       }
     },
     {

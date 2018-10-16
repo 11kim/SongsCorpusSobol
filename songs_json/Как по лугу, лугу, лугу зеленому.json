@@ -356,39 +356,38 @@
       }
     },
     {
-      "золотъ": {
+      "золот": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "золотъ"
+        "normal_form": "золот"
       }
     },
     {
-      "венокъ": {
+      "венок": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "венокъ"
+        "normal_form": "венка"
       }
     },
     {
-      "вянетъ": {
+      "вянет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "вянетъ"
+        "normal_form": "вянуть"
       }
     }
   ],
@@ -552,7 +551,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -560,7 +559,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -585,15 +584,14 @@
       }
     },
     {
-      "венокъ": {
+      "венок": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "венокъ"
+        "normal_form": "венка"
       }
     },
     {

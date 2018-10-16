@@ -107,15 +107,14 @@
       }
     },
     {
-      "каменно́й": {
+      "каменной": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJF",
+          "Qual femn",
+          "sing",
+          "gent"
         ],
-        "normal_form": "каменно́ть"
+        "normal_form": "каменный"
       }
     },
     {
@@ -921,15 +920,11 @@
       }
     },
     {
-      "пріуснули": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr plur",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріуснуть"
+        "normal_form": "пр"
       }
     }
   ],
@@ -1282,11 +1277,11 @@
       }
     },
     {
-      "охъ": {
+      "ох": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "охъ"
+        "normal_form": "ох"
       }
     },
     {
@@ -1461,15 +1456,14 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {

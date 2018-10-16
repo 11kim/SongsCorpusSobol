@@ -273,15 +273,14 @@
       }
     },
     {
-      "другъ": {
+      "друг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "другъ"
+        "normal_form": "друг"
       }
     }
   ],
@@ -1614,16 +1613,14 @@
   ],
   [
     {
-      "честью-лестію": {
+      "честью-лестю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "datv"
         ],
-        "normal_form": "честью-лестіть"
+        "normal_form": "честью-лесть"
       }
     },
     {

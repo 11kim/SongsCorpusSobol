@@ -826,15 +826,16 @@
       }
     },
     {
-      "купимъ": {
+      "купим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "купимъ"
+        "normal_form": "купить"
       }
     },
     {
@@ -1030,15 +1031,14 @@
       }
     },
     {
-      "походъ": {
+      "поход": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "походъ"
+        "normal_form": "поход"
       }
     },
     {
@@ -1050,15 +1050,16 @@
       }
     },
     {
-      "пойдемъ": {
+      "пойдем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пойдемъ"
+        "normal_form": "пойти"
       }
     }
   ],
@@ -1117,13 +1118,15 @@
       }
     },
     {
-      "кавказскія": {
+      "кавказск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "кавказскіть"
+        "normal_form": "кавказск"
       }
     }
   ],
@@ -1176,14 +1179,15 @@
       }
     },
     {
-      "чеченскіе": {
+      "чеченск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "чеченскі"
+        "normal_form": "чеченск"
       }
     }
   ],
@@ -1322,7 +1326,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1330,7 +1334,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {

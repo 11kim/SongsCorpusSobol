@@ -228,7 +228,7 @@
   ],
   [
     {
-      "василій": {
+      "василй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -236,7 +236,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "василіть"
+        "normal_form": "василть"
       }
     },
     {
@@ -310,15 +310,13 @@
       }
     },
     {
-      "женатъ": {
+      "женат": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "женатъ"
+        "normal_form": "женатый"
       }
     },
     {
@@ -330,15 +328,13 @@
       }
     },
     {
-      "женатъ": {
+      "женат": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "женатъ"
+        "normal_form": "женатый"
       }
     }
   ],

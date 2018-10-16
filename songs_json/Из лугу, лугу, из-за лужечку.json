@@ -325,27 +325,27 @@
       }
     },
     {
-      "веночекъ": {
+      "веночек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "веночекъ"
+        "normal_form": "веночек"
       }
     },
     {
-      "завянетъ": {
+      "завянет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "завянетъ"
+        "normal_form": "завянуть"
       }
     }
   ],
@@ -454,15 +454,14 @@
       }
     },
     {
-      "венокъ": {
+      "венок": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "венокъ"
+        "normal_form": "венка"
       }
     },
     {
@@ -474,15 +473,16 @@
       }
     },
     {
-      "завянетъ": {
+      "завянет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "завянетъ"
+        "normal_form": "завянуть"
       }
     }
   ],

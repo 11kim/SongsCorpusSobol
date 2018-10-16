@@ -364,15 +364,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -396,15 +392,14 @@
       }
     },
     {
-      "другъ": {
+      "друг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "другъ"
+        "normal_form": "друг"
       }
     },
     {
@@ -532,14 +527,14 @@
       }
     },
     {
-      "веселіе": {
+      "веселе": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "веселі"
+        "normal_form": "весель"
       }
     },
     {
@@ -643,7 +638,7 @@
       }
     },
     {
-      "аленькій": {
+      "аленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -651,7 +646,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "аленькіть"
+        "normal_form": "аленькть"
       }
     },
     {
@@ -689,7 +684,7 @@
       }
     },
     {
-      "маленькій": {
+      "маленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -697,7 +692,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "маленькіть"
+        "normal_form": "маленькть"
       }
     },
     {
@@ -790,7 +785,7 @@
       }
     },
     {
-      "маленькій": {
+      "маленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -798,7 +793,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "маленькіть"
+        "normal_form": "маленькть"
       }
     },
     {

@@ -194,7 +194,7 @@
       }
     },
     {
-      "казацкій": {
+      "казацкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -202,7 +202,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "казацкіть"
+        "normal_form": "казацкть"
       }
     },
     {
@@ -927,15 +927,15 @@
       }
     },
     {
-      "арміею": {
+      "армю": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "ablt",
-          "V-ey"
+          "anim",
+          "femn",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "армія"
+        "normal_form": "армя"
       }
     },
     {

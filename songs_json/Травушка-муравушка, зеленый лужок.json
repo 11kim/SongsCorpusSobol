@@ -312,7 +312,7 @@
       }
     },
     {
-      "крайній": {
+      "крайнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -320,7 +320,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "крайніть"
+        "normal_form": "крайнть"
       }
     },
     {
@@ -1031,14 +1031,15 @@
   ],
   [
     {
-      "немецкіе": {
+      "немецке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "немецкі"
+        "normal_form": "немецк"
       }
     },
     {

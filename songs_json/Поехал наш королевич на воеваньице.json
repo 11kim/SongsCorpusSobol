@@ -1419,15 +1419,14 @@
       }
     },
     {
-      "сонъ": {
+      "сон": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сонъ"
+        "normal_form": "сон"
       }
     }
   ],
@@ -1441,15 +1440,11 @@
       }
     },
     {
-      "изъ-подъ": {
+      "из-под": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "изъ-подъ"
+        "normal_form": "из-под"
       }
     },
     {
@@ -1475,27 +1470,27 @@
       }
     },
     {
-      "соколъ": {
+      "сокол": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "соколъ"
+        "normal_form": "сокол"
       }
     },
     {
-      "вылеталъ": {
+      "вылетал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "вылеталъ"
+        "normal_form": "вылетать"
       }
     }
   ],
@@ -1780,15 +1775,13 @@
       }
     },
     {
-      "хорошъ": {
+      "хорош": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошъ"
+        "normal_form": "хороший"
       }
     },
     {
@@ -1803,15 +1796,14 @@
       }
     },
     {
-      "сонъ": {
+      "сон": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сонъ"
+        "normal_form": "сон"
       }
     }
   ],
@@ -2060,13 +2052,11 @@
       }
     },
     {
-      "пріуныв": {
+      "пр": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "intr past"
+          "UNKN"
         ],
-        "normal_form": "пріуныть"
+        "normal_form": "пр"
       }
     },
     {

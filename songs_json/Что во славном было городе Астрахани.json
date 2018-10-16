@@ -1102,11 +1102,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1123,27 +1123,27 @@
       }
     },
     {
-      "мигачъ": {
+      "мигач": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мигачъ"
+        "normal_form": "мигач"
       }
     },
     {
-      "бывалъ": {
+      "бывал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "бывалъ"
+        "normal_form": "бывать"
       }
     },
     {
@@ -1167,15 +1167,16 @@
       }
     },
     {
-      "видалъ": {
+      "видал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "видалъ"
+        "normal_form": "видать"
       }
     }
   ],
@@ -1233,15 +1234,16 @@
       }
     },
     {
-      "едалъ": {
+      "едал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "едалъ"
+        "normal_form": "едать"
       }
     }
   ],

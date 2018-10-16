@@ -444,14 +444,14 @@
       }
     },
     {
-      "молніи": {
+      "молн": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "femn sing",
+          "femn plur",
           "gent"
         ],
-        "normal_form": "молніь"
+        "normal_form": "молна"
       }
     }
   ],
@@ -476,17 +476,16 @@
       }
     },
     {
-      "ліючаго": {
+      "л": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Sgtm",
           "Fixd",
-          "Name sing",
+          "Abbr sing",
           "nomn"
         ],
-        "normal_form": "ліючаго"
+        "normal_form": "литр"
       }
     }
   ],

@@ -196,14 +196,11 @@
   ],
   [
     {
-      "дорогіе-то": {
+      "дорого": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "дорогі-то"
+        "normal_form": "дорого"
       }
     },
     {
@@ -355,14 +352,14 @@
       }
     },
     {
-      "высокіе": {
+      "высоке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высок"
       }
     },
     {
@@ -1778,15 +1775,15 @@
       }
     },
     {
-      "самсонъ": {
+      "самсон": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "самсонъ"
+        "normal_form": "самсон"
       }
     },
     {
@@ -1802,15 +1799,14 @@
       }
     },
     {
-      "заслонъ": {
+      "заслон": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "заслонъ"
+        "normal_form": "заслон"
       }
     }
   ],
@@ -2292,14 +2288,17 @@
       }
     },
     {
-      "большіе-то": {
+      "большо": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Name sing",
+          "nomn"
         ],
-        "normal_form": "больші-то"
+        "normal_form": "большо"
       }
     },
     {
@@ -2323,14 +2322,15 @@
       }
     },
     {
-      "новомазинскіе": {
+      "новомазинск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "новомазинскі"
+        "normal_form": "новомазинск"
       }
     }
   ],
@@ -2501,14 +2501,15 @@
       }
     },
     {
-      "николаевскіе": {
+      "николаевск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "николаевскі"
+        "normal_form": "николаевск"
       }
     }
   ],
@@ -2876,14 +2877,15 @@
       }
     },
     {
-      "маткаушскіе": {
+      "маткаушск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "маткаушскі"
+        "normal_form": "маткаушск"
       }
     }
   ],
@@ -2897,14 +2899,11 @@
       }
     },
     {
-      "сухіе-то": {
+      "сухо": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "сухі-то"
+        "normal_form": "сухо"
       }
     },
     {
@@ -3009,14 +3008,15 @@
       }
     },
     {
-      "юртовскіе": {
+      "юртовск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "юртовскі"
+        "normal_form": "юртовск"
       }
     }
   ],
@@ -3038,13 +3038,13 @@
       }
     },
     {
-      "синія": {
+      "синя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "синіть"
+        "normal_form": "синить"
       }
     },
     {
@@ -3067,14 +3067,15 @@
       }
     },
     {
-      "мензелинскіе": {
+      "мензелинске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "мензелинскі"
+        "normal_form": "мензелинск"
       }
     },
     {

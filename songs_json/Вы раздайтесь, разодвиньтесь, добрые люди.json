@@ -400,15 +400,16 @@
       }
     },
     {
-      "тужитъ-плачетъ": {
+      "тужит-плачет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "тужитъ-плачетъ"
+        "normal_form": "тужить-плакать"
       }
     }
   ],
@@ -466,15 +467,14 @@
       }
     },
     {
-      "свищетъ-гаркатъ": {
+      "свищет-гаркат": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "свищетъ-гаркатъ"
+        "normal_form": "свищет-гаркат"
       }
     }
   ],
@@ -531,15 +531,16 @@
       }
     },
     {
-      "восклицаетъ": {
+      "восклицает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "восклицаетъ"
+        "normal_form": "восклицать"
       }
     }
   ],
@@ -633,13 +634,13 @@
       }
     },
     {
-      "широкія": {
+      "широкя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {

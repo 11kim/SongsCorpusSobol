@@ -538,15 +538,16 @@
       }
     },
     {
-      "пожалеетъ": {
+      "пожалеет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пожалеетъ"
+        "normal_form": "пожалеть"
       }
     }
   ],
@@ -600,15 +601,16 @@
       }
     },
     {
-      "возьметъ": {
+      "возьмет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "возьметъ"
+        "normal_form": "взять"
       }
     }
   ]

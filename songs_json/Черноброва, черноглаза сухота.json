@@ -268,11 +268,11 @@
       }
     },
     {
-      "давнымъ-давно": {
+      "давным-давно": {
         "OpencorporaTag": [
           "ADVB"
         ],
-        "normal_form": "давнымъ-давно"
+        "normal_form": "давным-давно"
       }
     },
     {
@@ -528,15 +528,11 @@
       }
     },
     {
-      "замужъ": {
+      "замуж": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "замужъ"
+        "normal_form": "замуж"
       }
     },
     {
@@ -652,15 +648,16 @@
       }
     },
     {
-      "отпуститъ": {
+      "отпустит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "отпуститъ"
+        "normal_form": "отпустить"
       }
     },
     {
@@ -830,7 +827,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -838,7 +835,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {

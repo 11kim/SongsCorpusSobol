@@ -408,15 +408,14 @@
       }
     },
     {
-      "отецъ-мать": {
+      "отец-мать": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "отецъ-мать"
+        "normal_form": "отец-мать"
       }
     },
     {
@@ -428,15 +427,16 @@
       }
     },
     {
-      "спитъ": {
+      "спит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "спитъ"
+        "normal_form": "спать"
       }
     }
   ],
@@ -500,15 +500,16 @@
       }
     },
     {
-      "спитъ": {
+      "спит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "спитъ"
+        "normal_form": "спать"
       }
     }
   ],
@@ -630,15 +631,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ],

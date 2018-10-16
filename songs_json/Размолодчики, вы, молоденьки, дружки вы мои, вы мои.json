@@ -107,15 +107,14 @@
       }
     },
     {
-      "распріятныя": {
+      "распря": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "gent"
+          "inan",
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "распріятный"
+        "normal_form": "распря"
       }
     },
     {
@@ -959,13 +958,13 @@
       }
     },
     {
-      "горючія": {
+      "горючя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "горючіть"
+        "normal_form": "горючть"
       }
     },
     {

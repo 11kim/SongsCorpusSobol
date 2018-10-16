@@ -685,15 +685,16 @@
       }
     },
     {
-      "купилъ": {
+      "купил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "купилъ"
+        "normal_form": "купить"
       }
     }
   ],
@@ -738,15 +739,14 @@
       }
     },
     {
-      "дружокъ": {
+      "дружок": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "дружокъ"
+        "normal_form": "дружок"
       }
     },
     {
@@ -762,15 +762,16 @@
       }
     },
     {
-      "подарилъ": {
+      "подарил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "подарилъ"
+        "normal_form": "подарить"
       }
     }
   ],
@@ -835,23 +836,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "девкахъ": {
+      "девках": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "loct"
         ],
-        "normal_form": "девкахъ"
+        "normal_form": "девка"
       }
     },
     {

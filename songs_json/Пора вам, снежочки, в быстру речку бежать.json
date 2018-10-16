@@ -1253,15 +1253,16 @@
       }
     },
     {
-      "пошлемъ": {
+      "пошлем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пошлемъ"
+        "normal_form": "послать"
       }
     },
     {
@@ -1273,15 +1274,15 @@
       }
     },
     {
-      "винцомъ": {
+      "винцом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut",
+          "Sgtm sing",
+          "ablt"
         ],
-        "normal_form": "винцомъ"
+        "normal_form": "винцо"
       }
     }
   ],
@@ -1345,15 +1346,16 @@
       }
     },
     {
-      "позавтракаемъ": {
+      "позавтракаем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "позавтракаемъ"
+        "normal_form": "позавтракать"
       }
     }
   ],
@@ -1422,15 +1424,16 @@
       }
     },
     {
-      "заведемъ": {
+      "заведем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "заведемъ"
+        "normal_form": "завести"
       }
     }
   ],
@@ -1497,15 +1500,11 @@
       }
     },
     {
-      "запоемъ": {
+      "запоем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "запоемъ"
+        "normal_form": "запоем"
       }
     }
   ],
@@ -1559,27 +1558,27 @@
       }
     },
     {
-      "походъ": {
+      "поход": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "походъ"
+        "normal_form": "поход"
       }
     },
     {
-      "пойдемъ": {
+      "пойдем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "пойдемъ"
+        "normal_form": "пойти"
       }
     }
   ]

@@ -1265,14 +1265,14 @@
       }
     },
     {
-      "мелкіе": {
+      "мелк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
-          "loct"
+          "nomn"
         ],
-        "normal_form": "мелкі"
+        "normal_form": "мёлк"
       }
     }
   ],
@@ -1527,12 +1527,14 @@
       }
     },
     {
-      "мелкіих": {
+      "мелк": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "мелкіий"
+        "normal_form": "мёлк"
       }
     }
   ],
@@ -2363,14 +2365,14 @@
       }
     },
     {
-      "низкіе": {
+      "низк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
+          "anim",
           "masc sing",
-          "loct"
+          "nomn"
         ],
-        "normal_form": "низкі"
+        "normal_form": "низк"
       }
     }
   ],

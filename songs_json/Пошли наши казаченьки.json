@@ -407,14 +407,17 @@
       }
     },
     {
-      "турціи": {
+      "турци": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "anim",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Name sing",
+          "nomn"
         ],
-        "normal_form": "турціь"
+        "normal_form": "турци"
       }
     },
     {
@@ -480,15 +483,15 @@
       }
     },
     {
-      "молоденькій": {
+      "молоденьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "молоденькіть"
+        "normal_form": "молоденька"
       }
     }
   ],

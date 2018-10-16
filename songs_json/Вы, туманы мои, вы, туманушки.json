@@ -66,14 +66,12 @@
       }
     },
     {
-      "осенніе": {
+      "осенне": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS neut",
+          "sing"
         ],
-        "normal_form": "осенні"
+        "normal_form": "осенний"
       }
     },
     {
@@ -303,14 +301,14 @@
       }
     },
     {
-      "дорогіе": {
+      "дорог": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "дорогі"
+        "normal_form": "дорога"
       }
     }
   ],

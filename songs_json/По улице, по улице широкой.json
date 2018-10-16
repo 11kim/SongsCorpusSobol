@@ -421,14 +421,14 @@
       }
     },
     {
-      "ѳедюшки": {
+      "едюшки": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "gent"
         ],
-        "normal_form": "ѳедюшка"
+        "normal_form": "едюшка"
       }
     },
     {
@@ -506,14 +506,12 @@
       }
     },
     {
-      "большіе": {
+      "больше": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "COMP",
+          "Qual"
         ],
-        "normal_form": "больші"
+        "normal_form": "большой"
       }
     },
     {
@@ -1027,7 +1025,7 @@
   ],
   [
     {
-      "ѳедорова": {
+      "едорова": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -1036,7 +1034,7 @@
           "Surn sing",
           "gent"
         ],
-        "normal_form": "ѳедоров"
+        "normal_form": "едоров"
       }
     },
     {
@@ -1486,7 +1484,7 @@
       }
     },
     {
-      "ѳедорову": {
+      "едорову": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -1495,20 +1493,20 @@
           "Surn sing",
           "datv"
         ],
-        "normal_form": "ѳедоров"
+        "normal_form": "едоров"
       }
     }
   ],
   [
     {
-      "ѳедорушка": {
+      "едорушка": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "neut sing",
           "gent"
         ],
-        "normal_form": "ѳедорушко"
+        "normal_form": "едорушко"
       }
     },
     {
@@ -1780,15 +1778,14 @@
       }
     },
     {
-      "другъ": {
+      "друг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "другъ"
+        "normal_form": "друг"
       }
     },
     {
@@ -2135,11 +2132,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -2151,15 +2148,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {

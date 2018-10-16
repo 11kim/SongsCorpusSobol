@@ -413,27 +413,29 @@
       }
     },
     {
-      "тотъ": {
+      "тот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro",
+          "Subx",
+          "Anph masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "тотъ"
+        "normal_form": "тот"
       }
     },
     {
-      "молвитъ": {
+      "молвит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "молвитъ"
+        "normal_form": "молвить"
       }
     }
   ],
@@ -640,15 +642,16 @@
       }
     },
     {
-      "молвитъ": {
+      "молвит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "молвитъ"
+        "normal_form": "молвить"
       }
     }
   ],

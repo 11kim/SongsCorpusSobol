@@ -407,27 +407,25 @@
       }
     },
     {
-      "зеленымъ": {
+      "зеленым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "зеленымъ"
+        "normal_form": "зелёный"
       }
     },
     {
-      "виномъ": {
+      "вином": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "виномъ"
+        "normal_form": "вино"
       }
     }
   ],
@@ -461,13 +459,15 @@
       }
     },
     {
-      "высокіим": {
+      "высокъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "высокіий"
+        "normal_form": "высокъ"
       }
     }
   ],
@@ -674,13 +674,15 @@
       }
     },
     {
-      "дремучіим": {
+      "дремучъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "дремучіий"
+        "normal_form": "дремучъ"
       }
     }
   ],
@@ -708,13 +710,15 @@
       }
     },
     {
-      "заморскія": {
+      "заморск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "заморскіть"
+        "normal_form": "заморск"
       }
     },
     {
@@ -767,15 +771,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     }
   ],
@@ -1060,13 +1063,15 @@
       }
     },
     {
-      "высокіим": {
+      "высокъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "высокіий"
+        "normal_form": "высокъ"
       }
     }
   ],
@@ -1302,13 +1307,15 @@
       }
     },
     {
-      "дремучіим": {
+      "дремучъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "дремучіий"
+        "normal_form": "дремучъ"
       }
     }
   ],
@@ -1344,13 +1351,13 @@
       }
     },
     {
-      "заморскія": {
+      "заморскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "заморскіть"
+        "normal_form": "заморскть"
       }
     },
     {
@@ -1386,14 +1393,13 @@
       }
     },
     {
-      "едучіе": {
+      "едуч": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "едучі"
+        "normal_form": "едучий"
       }
     }
   ]

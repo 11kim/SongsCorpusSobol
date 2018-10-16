@@ -1,14 +1,14 @@
 [
   [
     {
-      "дорогіе": {
+      "дороге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "дорогі"
+        "normal_form": "дорога"
       }
     },
     {
@@ -174,13 +174,11 @@
       }
     },
     {
-      "пріуныла": {
+      "пр": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual femn",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріунылый"
+        "normal_form": "пр"
       }
     }
   ],

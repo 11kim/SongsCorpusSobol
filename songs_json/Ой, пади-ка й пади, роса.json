@@ -152,14 +152,13 @@
       }
     },
     {
-      "дремучіе": {
+      "дремуч": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "дремучі"
+        "normal_form": "дремучий"
       }
     }
   ],
@@ -173,14 +172,13 @@
       }
     },
     {
-      "дремучіе": {
+      "дремуче": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual neut",
+          "sing"
         ],
-        "normal_form": "дремучі"
+        "normal_form": "дремучий"
       }
     },
     {
@@ -224,13 +222,13 @@
       }
     },
     {
-      "зыбучія": {
+      "зыбуч": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "зыбучіть"
+        "normal_form": "зыбучий"
       }
     }
   ],
@@ -244,13 +242,13 @@
       }
     },
     {
-      "зыбучія": {
+      "зыбучя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "зыбучіть"
+        "normal_form": "зыбучть"
       }
     },
     {

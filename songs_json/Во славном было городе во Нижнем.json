@@ -203,14 +203,15 @@
       }
     },
     {
-      "сибирскіе": {
+      "сибирске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "сибирскі"
+        "normal_form": "сибирск"
       }
     },
     {
@@ -314,11 +315,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -346,15 +347,14 @@
       }
     },
     {
-      "сынъ": {
+      "сын": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сынъ"
+        "normal_form": "сын"
       }
     }
   ],
@@ -698,11 +698,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

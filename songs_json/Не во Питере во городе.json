@@ -214,13 +214,13 @@
       }
     },
     {
-      "ѳедоровна": {
+      "едоровна": {
         "OpencorporaTag": [
           "ADJS",
           "Qual femn",
           "sing"
         ],
-        "normal_form": "ѳедоровный"
+        "normal_form": "едоровный"
       }
     },
     {
@@ -459,27 +459,26 @@
       }
     },
     {
-      "сладкихъ": {
+      "сладких": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "сладкихъ"
+        "normal_form": "сладкое"
       }
     },
     {
-      "сливочекъ": {
+      "сливочек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "сливочекъ"
+        "normal_form": "сливочки"
       }
     }
   ],

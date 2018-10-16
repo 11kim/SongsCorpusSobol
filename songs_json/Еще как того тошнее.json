@@ -292,13 +292,13 @@
       }
     },
     {
-      "великія": {
+      "великя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "великіть"
+        "normal_form": "великть"
       }
     },
     {
@@ -1228,15 +1228,15 @@
       }
     },
     {
-      "милліонну": {
+      "милл": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "femn",
-          "Name sing",
-          "accs"
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "милліонна"
+        "normal_form": "милла"
       }
     }
   ],

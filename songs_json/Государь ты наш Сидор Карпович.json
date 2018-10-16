@@ -147,27 +147,22 @@
       }
     },
     {
-      "семьдесятъ": {
+      "семьдесят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NUMR nomn"
         ],
-        "normal_form": "семьдесятъ"
+        "normal_form": "семьдесят"
       }
     },
     {
-      "летъ": {
+      "лет": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "летъ"
+        "normal_form": "год"
       }
     },
     {
@@ -182,27 +177,22 @@
       }
     },
     {
-      "семьдесятъ": {
+      "семьдесят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NUMR nomn"
         ],
-        "normal_form": "семьдесятъ"
+        "normal_form": "семьдесят"
       }
     },
     {
-      "летъ": {
+      "лет": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "летъ"
+        "normal_form": "год"
       }
     }
   ],
@@ -275,39 +265,38 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "сидоръ": {
+      "сидор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "сидоръ"
+        "normal_form": "сидор"
       }
     },
     {
-      "карповичъ": {
+      "карпович": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Patr sing",
           "nomn"
         ],
-        "normal_form": "карповичъ"
+        "normal_form": "карп"
       }
     }
   ],
@@ -372,11 +361,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -402,11 +391,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -512,39 +501,38 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "сидоръ": {
+      "сидор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "сидоръ"
+        "normal_form": "сидор"
       }
     },
     {
-      "карповичъ": {
+      "карпович": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Patr sing",
           "nomn"
         ],
-        "normal_form": "карповичъ"
+        "normal_form": "карп"
       }
     }
   ],
@@ -609,11 +597,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -639,11 +627,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -749,39 +737,38 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "сидоръ": {
+      "сидор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "сидоръ"
+        "normal_form": "сидор"
       }
     },
     {
-      "карповичъ": {
+      "карпович": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Patr sing",
           "nomn"
         ],
-        "normal_form": "карповичъ"
+        "normal_form": "карп"
       }
     }
   ],
@@ -846,11 +833,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -873,11 +860,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -974,39 +961,38 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "сидоръ": {
+      "сидор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "сидоръ"
+        "normal_form": "сидор"
       }
     },
     {
-      "карповичъ": {
+      "карпович": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Patr sing",
           "nomn"
         ],
-        "normal_form": "карповичъ"
+        "normal_form": "карп"
       }
     }
   ],
@@ -1189,39 +1175,38 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "сидоръ": {
+      "сидор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "сидоръ"
+        "normal_form": "сидор"
       }
     },
     {
-      "карповичъ": {
+      "карпович": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Patr sing",
           "nomn"
         ],
-        "normal_form": "карповичъ"
+        "normal_form": "карп"
       }
     }
   ],
@@ -1302,11 +1287,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1332,11 +1317,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1442,39 +1427,38 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "сидоръ": {
+      "сидор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "сидоръ"
+        "normal_form": "сидор"
       }
     },
     {
-      "карповичъ": {
+      "карпович": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Patr sing",
           "nomn"
         ],
-        "normal_form": "карповичъ"
+        "normal_form": "карп"
       }
     }
   ],
@@ -1658,39 +1642,38 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "сидоръ": {
+      "сидор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "сидоръ"
+        "normal_form": "сидор"
       }
     },
     {
-      "карповичъ": {
+      "карпович": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Patr sing",
           "nomn"
         ],
-        "normal_form": "карповичъ"
+        "normal_form": "карп"
       }
     }
   ],
@@ -1763,14 +1746,16 @@
       }
     },
     {
-      "міру": {
+      "м": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     },
     {
@@ -1793,14 +1778,16 @@
       }
     },
     {
-      "міру": {
+      "м": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     }
   ],
@@ -1814,14 +1801,16 @@
       }
     },
     {
-      "міру": {
+      "м": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     },
     {
@@ -1845,14 +1834,16 @@
       }
     },
     {
-      "міру": {
+      "м": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     },
     {
@@ -1895,39 +1886,38 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "сидоръ": {
+      "сидор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "сидоръ"
+        "normal_form": "сидор"
       }
     },
     {
-      "карповичъ": {
+      "карпович": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Patr sing",
           "nomn"
         ],
-        "normal_form": "карповичъ"
+        "normal_form": "карп"
       }
     }
   ],
@@ -1941,14 +1931,11 @@
       }
     },
     {
-      "міру": {
+      "му": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "datv"
+          "INTJ"
         ],
-        "normal_form": "мір"
+        "normal_form": "му"
       }
     },
     {
@@ -2009,23 +1996,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "лапоткахъ": {
+      "лапотках": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "лапоткахъ"
+        "normal_form": "лапоток"
       }
     },
     {
@@ -2040,23 +2026,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "лапоткахъ": {
+      "лапотках": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "лапоткахъ"
+        "normal_form": "лапоток"
       }
     }
   ],
@@ -2151,39 +2136,38 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "сидоръ": {
+      "сидор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "сидоръ"
+        "normal_form": "сидор"
       }
     },
     {
-      "карповичъ": {
+      "карпович": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Patr sing",
           "nomn"
         ],
-        "normal_form": "карповичъ"
+        "normal_form": "карп"
       }
     }
   ],
@@ -2197,14 +2181,11 @@
       }
     },
     {
-      "міру": {
+      "му": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "datv"
+          "INTJ"
         ],
-        "normal_form": "мір"
+        "normal_form": "му"
       }
     },
     {
@@ -2237,15 +2218,16 @@
       }
     },
     {
-      "съедятъ": {
+      "съедят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "съедятъ"
+        "normal_form": "съесть"
       }
     },
     {
@@ -2267,11 +2249,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -2297,11 +2279,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -2407,39 +2389,38 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "сидоръ": {
+      "сидор": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "сидоръ"
+        "normal_form": "сидор"
       }
     },
     {
-      "карповичъ": {
+      "карпович": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Patr sing",
           "nomn"
         ],
-        "normal_form": "карповичъ"
+        "normal_form": "карп"
       }
     }
   ],
@@ -2453,14 +2434,11 @@
       }
     },
     {
-      "міру": {
+      "му": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "datv"
+          "INTJ"
         ],
-        "normal_form": "мір"
+        "normal_form": "му"
       }
     },
     {
@@ -2534,11 +2512,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -2564,11 +2542,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

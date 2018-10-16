@@ -33,11 +33,15 @@
       }
     },
     {
-      "бра́телко": {
+      "бра": {
         "OpencorporaTag": [
-          "ADVB"
+          "NOUN",
+          "inan",
+          "neut",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "бра́телко"
+        "normal_form": "бра"
       }
     }
   ],
@@ -107,27 +111,29 @@
       }
     },
     {
-      "вспоилъ": {
+      "вспоил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "вспоилъ"
+        "normal_form": "вспоить"
       }
     },
     {
-      "вскормилъ": {
+      "вскормил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "вскормилъ"
+        "normal_form": "вскормить"
       }
     },
     {
@@ -711,7 +717,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -719,7 +725,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -788,23 +794,22 @@
       }
     },
     {
-      "зверемъ": {
+      "зверем": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "зверемъ"
+        "normal_form": "зверь"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -850,11 +855,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -908,11 +913,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

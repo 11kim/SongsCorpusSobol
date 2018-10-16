@@ -1505,14 +1505,14 @@
       }
     },
     {
-      "лихіе": {
+      "лих": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "neut plur",
+          "gent"
         ],
-        "normal_form": "лихі"
+        "normal_form": "лихо"
       }
     }
   ],
@@ -1873,14 +1873,15 @@
       }
     },
     {
-      "барскіе": {
+      "барске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "барскі"
+        "normal_form": "барск"
       }
     },
     {
@@ -3163,15 +3164,15 @@
       }
     },
     {
-      "молодедъ": {
+      "молодед": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "молодедъ"
+        "normal_form": "молодед"
       }
     }
   ]

@@ -290,11 +290,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -320,23 +320,24 @@
       }
     },
     {
-      "сиделъ": {
+      "сидел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "сиделъ"
+        "normal_form": "сидеть"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1017,7 +1018,7 @@
       }
     },
     {
-      "полицейскій": {
+      "полицейскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1025,7 +1026,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "полицейскіть"
+        "normal_form": "полицейскть"
       }
     },
     {

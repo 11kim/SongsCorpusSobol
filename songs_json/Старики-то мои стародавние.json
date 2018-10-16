@@ -22,14 +22,15 @@
       }
     },
     {
-      "стародавніе": {
+      "стародавн": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "стародавні"
+        "normal_form": "стародавна"
       }
     }
   ],
@@ -627,16 +628,11 @@
   ],
   [
     {
-      "пріуснул-то": {
+      "про": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "пріуснуть-то"
+        "normal_form": "про"
       }
     },
     {

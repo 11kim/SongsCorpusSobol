@@ -174,35 +174,30 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "удалымъ": {
+      "удалым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "удалымъ"
+        "normal_form": "удалый"
       }
     },
     {
-      "молодцомъ": {
+      "молодцом": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "молодцомъ"
+        "normal_form": "молодцом"
       }
     }
   ],
@@ -298,16 +293,15 @@
       }
     },
     {
-      "компанію": {
+      "компаню": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "компаніть"
+        "normal_form": "компаня"
       }
     },
     {
@@ -665,14 +659,13 @@
       }
     },
     {
-      "несчастіе": {
+      "несчаст": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "несчасті"
+        "normal_form": "несчастый"
       }
     },
     {
@@ -1065,7 +1058,7 @@
   ],
   [
     {
-      "мил-хорошій": {
+      "мил-хорошй": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -1073,7 +1066,7 @@
           "Name plur",
           "gent"
         ],
-        "normal_form": "мила-хорошія"
+        "normal_form": "мила-хорошя"
       }
     },
     {

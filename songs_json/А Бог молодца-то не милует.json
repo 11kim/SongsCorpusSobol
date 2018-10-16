@@ -180,13 +180,15 @@
       }
     },
     {
-      "молодецкія": {
+      "молодецк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "молодецкіть"
+        "normal_form": "молодецк"
       }
     }
   ],
@@ -708,13 +710,15 @@
       }
     },
     {
-      "скатніим": {
+      "скатнъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "скатніий"
+        "normal_form": "скатнъ"
       }
     },
     {
@@ -739,16 +743,15 @@
       }
     },
     {
-      "третій-ет": {
+      "третъ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "3per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "третій-ть"
+        "normal_form": "третъ"
       }
     },
     {
@@ -1699,14 +1702,14 @@
       }
     },
     {
-      "булатніе": {
+      "булатн": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
-          "loct"
+          "nomn"
         ],
-        "normal_form": "булатні"
+        "normal_form": "булатн"
       }
     }
   ],
@@ -1984,14 +1987,13 @@
       }
     },
     {
-      "широкіе": {
+      "широк": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "широкі"
+        "normal_form": "широкий"
       }
     }
   ],
@@ -2656,14 +2658,11 @@
       }
     },
     {
-      "узкіе": {
+      "узк": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "UNKN"
         ],
-        "normal_form": "узкі"
+        "normal_form": "узк"
       }
     }
   ],
@@ -2688,14 +2687,14 @@
       }
     },
     {
-      "мелкіе": {
+      "мелк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
-          "loct"
+          "nomn"
         ],
-        "normal_form": "мелкі"
+        "normal_form": "мёлк"
       }
     }
   ],
@@ -2798,7 +2797,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2806,7 +2805,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -2903,14 +2902,11 @@
       }
     },
     {
-      "узкіе": {
+      "узк": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "UNKN"
         ],
-        "normal_form": "узкі"
+        "normal_form": "узк"
       }
     }
   ],
@@ -2951,14 +2947,14 @@
       }
     },
     {
-      "мелкіе": {
+      "мелк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
-          "loct"
+          "nomn"
         ],
-        "normal_form": "мелкі"
+        "normal_form": "мёлк"
       }
     }
   ],
@@ -3362,7 +3358,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3370,7 +3366,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -3744,14 +3740,14 @@
       }
     },
     {
-      "широкіе": {
+      "широке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "широкі"
+        "normal_form": "широк"
       }
     }
   ],
@@ -4276,14 +4272,14 @@
       }
     },
     {
-      "булатніе": {
+      "булатн": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
-          "loct"
+          "nomn"
         ],
-        "normal_form": "булатні"
+        "normal_form": "булатн"
       }
     }
   ],
@@ -4772,7 +4768,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4780,7 +4776,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {

@@ -512,15 +512,14 @@
       }
     },
     {
-      "солдатахъ": {
+      "солдатах": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "солдатахъ"
+        "normal_form": "солдат"
       }
     }
   ],

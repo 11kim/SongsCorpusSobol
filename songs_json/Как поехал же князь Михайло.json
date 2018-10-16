@@ -175,12 +175,14 @@
       }
     },
     {
-      "уда́лыми": {
+      "уда": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "ablt"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "gent"
         ],
-        "normal_form": "уда́лый"
+        "normal_form": "уд"
       }
     }
   ],
@@ -681,14 +683,14 @@
   ],
   [
     {
-      "белосиненькіе": {
+      "белосиненьке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "белосиненькі"
+        "normal_form": "белосиненька"
       }
     },
     {
@@ -2190,14 +2192,15 @@
       }
     },
     {
-      "домашніе": {
+      "домашн": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "домашні"
+        "normal_form": "домашн"
       }
     }
   ],
@@ -2234,7 +2237,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2242,7 +2245,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -2333,13 +2336,15 @@
       }
     },
     {
-      "громкіим": {
+      "громкъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "громкіий"
+        "normal_form": "громкъ"
       }
     },
     {
@@ -2373,7 +2378,7 @@
       }
     },
     {
-      "великій": {
+      "великй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2381,7 +2386,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "великіть"
+        "normal_form": "великть"
       }
     },
     {

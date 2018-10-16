@@ -36,29 +36,29 @@
       }
     },
     {
-      "сизонькій": {
+      "сизоньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "сизонькіть"
+        "normal_form": "сизонька"
       }
     }
   ],
   [
     {
-      "златокрыленькій": {
+      "златокрыленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "златокрыленькіть"
+        "normal_form": "златокрыленька"
       }
     }
   ],
@@ -175,23 +175,24 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
-      "леталъ": {
+      "летал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "леталъ"
+        "normal_form": "летать"
       }
     },
     {

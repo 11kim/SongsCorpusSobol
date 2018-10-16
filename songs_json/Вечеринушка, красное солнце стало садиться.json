@@ -307,15 +307,16 @@
       }
     },
     {
-      "слышатъ": {
+      "слышат": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "слышатъ"
+        "normal_form": "слышать"
       }
     }
   ],
@@ -392,15 +393,16 @@
       }
     },
     {
-      "видятъ": {
+      "видят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "видятъ"
+        "normal_form": "видеть"
       }
     }
   ],

@@ -499,16 +499,11 @@
       }
     },
     {
-      "сіяет": {
+      "с": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "3per",
-          "pres",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "сіять"
+        "normal_form": "с"
       }
     }
   ],
@@ -616,15 +611,14 @@
       }
     },
     {
-      "городъ": {
+      "город": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "городъ"
+        "normal_form": "город"
       }
     }
   ],

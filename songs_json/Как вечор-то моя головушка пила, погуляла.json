@@ -412,16 +412,11 @@
       }
     },
     {
-      "пріемну": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріемять"
+        "normal_form": "пр"
       }
     }
   ],
@@ -682,15 +677,11 @@
       }
     },
     {
-      "пріемной": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріемной"
+        "normal_form": "пр"
       }
     }
   ],

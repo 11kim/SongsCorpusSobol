@@ -164,13 +164,13 @@
       }
     },
     {
-      "легкія": {
+      "легкя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "легкіть"
+        "normal_form": "легкть"
       }
     },
     {
@@ -500,14 +500,11 @@
   ],
   [
     {
-      "мірскіе": {
+      "ме": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "UNKN"
         ],
-        "normal_form": "мірскі"
+        "normal_form": "ме"
       }
     },
     {
@@ -523,14 +520,15 @@
       }
     },
     {
-      "солдатскіе": {
+      "солдатске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "солдатскі"
+        "normal_form": "солдатск"
       }
     },
     {

@@ -240,14 +240,13 @@
       }
     },
     {
-      "высокіех": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокіех"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -730,14 +729,14 @@
       }
     },
     {
-      "пик-пик-пик": {
+      "пик-пикъ-пик": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "nomn"
         ],
-        "normal_form": "пик-пик-пик"
+        "normal_form": "пик-пикъ-пик"
       }
     },
     {
@@ -1479,7 +1478,7 @@
   ],
   [
     {
-      "ѣдет": {
+      "дет": {
         "OpencorporaTag": [
           "PRTS",
           "perf",
@@ -1487,7 +1486,7 @@
           "pssv masc",
           "sing"
         ],
-        "normal_form": "ѣдеть"
+        "normal_form": "деть"
       }
     },
     {
@@ -2708,14 +2707,16 @@
       }
     },
     {
-      "сладкіе": {
+      "сладк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "nomn"
         ],
-        "normal_form": "сладкі"
+        "normal_form": "сладк"
       }
     },
     {

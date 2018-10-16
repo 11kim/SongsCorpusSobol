@@ -374,27 +374,25 @@
       }
     },
     {
-      "подружекъ": {
+      "подружек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "подружекъ"
+        "normal_form": "подружка"
       }
     },
     {
-      "своихъ": {
+      "своих": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Apro",
+          "Anph plur",
+          "gent"
         ],
-        "normal_form": "своихъ"
+        "normal_form": "свой"
       }
     }
   ],
@@ -961,15 +959,14 @@
       }
     },
     {
-      "братецъ": {
+      "братец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "братецъ"
+        "normal_form": "братец"
       }
     },
     {

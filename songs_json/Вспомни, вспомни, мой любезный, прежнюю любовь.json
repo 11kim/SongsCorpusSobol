@@ -457,15 +457,16 @@
       }
     },
     {
-      "третій": {
+      "трет": {
         "OpencorporaTag": [
           "VERB",
           "impf",
           "tran sing",
-          "impr",
-          "excl"
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "третіть"
+        "normal_form": "тереть"
       }
     },
     {
@@ -656,15 +657,14 @@
       }
     },
     {
-      "другъ": {
+      "друг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "другъ"
+        "normal_form": "друг"
       }
     },
     {
@@ -694,27 +694,26 @@
       }
     },
     {
-      "велитъ": {
+      "велит": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "велитъ"
+        "normal_form": "велита"
       }
     },
     {
-      "женихъ": {
+      "жених": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "женихъ"
+        "normal_form": "жених"
       }
     }
   ]

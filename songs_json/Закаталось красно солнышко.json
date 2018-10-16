@@ -98,15 +98,11 @@
       }
     },
     {
-      "пріумолкли": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr plur",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріумолкнуть"
+        "normal_form": "пр"
       }
     }
   ],
@@ -922,13 +918,11 @@
   ],
   [
     {
-      "пріотдохнуть": {
+      "прь": {
         "OpencorporaTag": [
-          "INFN",
-          "perf",
-          "intr"
+          "UNKN"
         ],
-        "normal_form": "пріотдохнуть"
+        "normal_form": "прь"
       }
     },
     {
@@ -1015,11 +1009,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

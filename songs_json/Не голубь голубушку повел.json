@@ -124,11 +124,11 @@
       }
     },
     {
-      "жъ": {
+      "ж": {
         "OpencorporaTag": [
-          "UNKN"
+          "CONJ"
         ],
-        "normal_form": "жъ"
+        "normal_form": "ж"
       }
     },
     {
@@ -894,19 +894,18 @@
       }
     },
     {
-      "мужъ": {
+      "муж": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ"
+        "normal_form": "муж"
       }
     },
     {
-      "пьяница-дуракъ": {
+      "пьяница-дурак": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -914,7 +913,7 @@
           "Ms-f sing",
           "nomn"
         ],
-        "normal_form": "пьяница-дуракъ"
+        "normal_form": "пьяница-дурак"
       }
     }
   ],
@@ -992,14 +991,12 @@
       }
     },
     {
-      "большіе": {
+      "больше": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "COMP",
+          "Qual"
         ],
-        "normal_form": "больші"
+        "normal_form": "большой"
       }
     },
     {

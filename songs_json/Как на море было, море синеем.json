@@ -394,39 +394,32 @@
       }
     },
     {
-      "гулялъ-ли": {
+      "гулял-ли": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRCL"
         ],
-        "normal_form": "гулялъ-ли"
+        "normal_form": "гулял-ли"
       }
     },
     {
-      "вотъ": {
+      "вот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRCL"
         ],
-        "normal_form": "вотъ"
+        "normal_form": "вот"
       }
     },
     {
-      "леталъ": {
+      "летал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "леталъ"
+        "normal_form": "летать"
       }
     },
     {
@@ -549,15 +542,11 @@
       }
     },
     {
-      "видалъ-ли": {
+      "видал-ли": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRCL"
         ],
-        "normal_form": "видалъ-ли"
+        "normal_form": "видал-ли"
       }
     },
     {
@@ -571,15 +560,14 @@
       }
     },
     {
-      "орелъ": {
+      "орел": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "орелъ"
+        "normal_form": "орёл"
       }
     },
     {
@@ -735,27 +723,29 @@
       }
     },
     {
-      "тужатъ": {
+      "тужат": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "тужатъ"
+        "normal_form": "тужить"
       }
     },
     {
-      "плачутъ": {
+      "плачут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "плачутъ"
+        "normal_form": "плакать"
       }
     },
     {
@@ -1083,15 +1073,14 @@
       }
     },
     {
-      "мужъ": {
+      "муж": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ"
+        "normal_form": "муж"
       }
     },
     {
@@ -1106,15 +1095,16 @@
       }
     },
     {
-      "губилъ": {
+      "губил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "губилъ"
+        "normal_form": "губить"
       }
     }
   ],

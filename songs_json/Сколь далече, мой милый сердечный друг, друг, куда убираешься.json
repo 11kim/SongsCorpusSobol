@@ -354,13 +354,11 @@
       }
     },
     {
-      "пріубраться": {
+      "пр": {
         "OpencorporaTag": [
-          "INFN",
-          "perf",
-          "intr"
+          "UNKN"
         ],
-        "normal_form": "пріубраться"
+        "normal_form": "пр"
       }
     }
   ],
@@ -670,15 +668,16 @@
       }
     },
     {
-      "заехалъ": {
+      "заехал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "заехалъ"
+        "normal_form": "заехать"
       }
     }
   ],

@@ -143,15 +143,16 @@
       }
     },
     {
-      "возмутилъ": {
+      "возмутил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "возмутилъ"
+        "normal_form": "возмутить"
       }
     }
   ],
@@ -473,13 +474,13 @@
       }
     },
     {
-      "жигучія": {
+      "жигуч": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "жигучіть"
+        "normal_form": "жигучий"
       }
     }
   ],
@@ -504,13 +505,13 @@
       }
     },
     {
-      "колючія": {
+      "колюч": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "колючіть"
+        "normal_form": "колючий"
       }
     }
   ],

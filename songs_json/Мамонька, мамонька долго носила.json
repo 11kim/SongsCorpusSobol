@@ -116,14 +116,11 @@
       }
     },
     {
-      "чужіе": {
+      "чуже": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "чужі"
+        "normal_form": "чуже"
       }
     },
     {
@@ -148,14 +145,11 @@
       }
     },
     {
-      "чужіе": {
+      "чуже": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "чужі"
+        "normal_form": "чуже"
       }
     },
     {
@@ -843,15 +837,14 @@
       }
     },
     {
-      "хлебъ": {
+      "хлеб": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "хлебъ"
+        "normal_form": "хлеб"
       }
     },
     {
@@ -1036,27 +1029,27 @@
       }
     },
     {
-      "белилецъ": {
+      "белилец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "белилецъ"
+        "normal_form": "белилец"
       }
     },
     {
-      "убавятъ": {
+      "убавят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "убавятъ"
+        "normal_form": "убавить"
       }
     }
   ],
@@ -1115,15 +1108,16 @@
       }
     },
     {
-      "убавятъ": {
+      "убавят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "убавятъ"
+        "normal_form": "убавить"
       }
     }
   ]

@@ -880,7 +880,7 @@
   ],
   [
     {
-      "всякій": {
+      "всякй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -888,7 +888,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "всякіть"
+        "normal_form": "всякть"
       }
     },
     {
@@ -2058,15 +2058,14 @@
       }
     },
     {
-      "домочекъ": {
+      "домочек": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "домочекъ"
+        "normal_form": "домочка"
       }
     }
   ],

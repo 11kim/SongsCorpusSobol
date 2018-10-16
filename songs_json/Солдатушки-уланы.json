@@ -231,15 +231,15 @@
       }
     },
     {
-      "сутокъ": {
+      "суток": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "сутокъ"
+        "normal_form": "сутки"
       }
     }
   ],
@@ -333,16 +333,15 @@
       }
     },
     {
-      "армію": {
+      "армю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "арміть"
+        "normal_form": "армя"
       }
     },
     {
@@ -488,15 +487,13 @@
       }
     },
     {
-      "вдовій": {
+      "вдов": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "вдовіть"
+        "normal_form": "вдовый"
       }
     }
   ],
@@ -679,27 +676,22 @@
       }
     },
     {
-      "насъ": {
+      "нас": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "gent"
         ],
-        "normal_form": "насъ"
+        "normal_form": "мы"
       }
     },
     {
-      "уланушковъ": {
+      "уланушков": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "уланушковъ"
+        "normal_form": "уланушковый"
       }
     },
     {
@@ -915,15 +907,14 @@
       }
     },
     {
-      "стульямъ": {
+      "стульям": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "datv"
         ],
-        "normal_form": "стульямъ"
+        "normal_form": "стул"
       }
     }
   ],
@@ -956,15 +947,14 @@
       }
     },
     {
-      "кресламъ": {
+      "креслам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut plur",
+          "datv"
         ],
-        "normal_form": "кресламъ"
+        "normal_form": "кресло"
       }
     }
   ],
@@ -1164,15 +1154,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {

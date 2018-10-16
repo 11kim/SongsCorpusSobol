@@ -37,7 +37,7 @@
       }
     },
     {
-      "боярскій": {
+      "боярскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -45,19 +45,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "боярскіть"
+        "normal_form": "боярскть"
       }
     },
     {
-      "дворъ": {
+      "двор": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "дворъ"
+        "normal_form": "двор"
       }
     }
   ],
@@ -492,11 +491,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1450,13 +1449,13 @@
       }
     },
     {
-      "глубокія": {
+      "глубок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -1504,14 +1503,13 @@
       }
     },
     {
-      "высокіе": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокі"
+        "normal_form": "высокий"
       }
     }
   ],

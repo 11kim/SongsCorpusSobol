@@ -374,15 +374,16 @@
       }
     },
     {
-      "бегутъ": {
+      "бегут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "бегутъ"
+        "normal_form": "бежать"
       }
     }
   ],
@@ -827,7 +828,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -835,7 +836,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -1060,11 +1061,11 @@
       }
     },
     {
-      "жъ": {
+      "ж": {
         "OpencorporaTag": [
-          "UNKN"
+          "CONJ"
         ],
-        "normal_form": "жъ"
+        "normal_form": "ж"
       }
     },
     {
@@ -1161,15 +1162,11 @@
       }
     },
     {
-      "вкругъ": {
+      "вкруг": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "вкругъ"
+        "normal_form": "вкруг"
       }
     },
     {
@@ -1222,11 +1219,11 @@
       }
     },
     {
-      "жъ": {
+      "ж": {
         "OpencorporaTag": [
-          "UNKN"
+          "CONJ"
         ],
-        "normal_form": "жъ"
+        "normal_form": "ж"
       }
     },
     {
@@ -1301,11 +1298,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -1344,11 +1341,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

@@ -177,14 +177,11 @@
       }
     },
     {
-      "міру": {
+      "му": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "datv"
+          "INTJ"
         ],
-        "normal_form": "мір"
+        "normal_form": "му"
       }
     },
     {
@@ -557,14 +554,15 @@
       }
     },
     {
-      "эстьянскіе": {
+      "эстьянске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "эстьянскі"
+        "normal_form": "эстьянск"
       }
     },
     {
@@ -663,14 +661,15 @@
       }
     },
     {
-      "эстьянскіе": {
+      "эстьянске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "эстьянскі"
+        "normal_form": "эстьянск"
       }
     },
     {
@@ -693,14 +692,14 @@
       }
     },
     {
-      "недолукіе": {
+      "недолук": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "недолукі"
+        "normal_form": "недолука"
       }
     }
   ],

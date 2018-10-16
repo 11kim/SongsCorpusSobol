@@ -588,14 +588,11 @@
   ],
   [
     {
-      "государскіе-то": {
+      "государско": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "государскі-то"
+        "normal_form": "государско"
       }
     },
     {
@@ -753,7 +750,7 @@
       }
     },
     {
-      "генеральскій": {
+      "генеральскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -761,7 +758,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "генеральскіть"
+        "normal_form": "генеральскть"
       }
     },
     {
@@ -778,7 +775,7 @@
   ],
   [
     {
-      "генеральскій": {
+      "генеральскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -786,7 +783,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "генеральскіть"
+        "normal_form": "генеральскть"
       }
     },
     {
@@ -801,7 +798,7 @@
       }
     },
     {
-      "капитанскій": {
+      "капитанскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -809,7 +806,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "капитанскіть"
+        "normal_form": "капитанскть"
       }
     },
     {
@@ -881,7 +878,7 @@
   ],
   [
     {
-      "генеральскій": {
+      "генеральскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -889,7 +886,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "генеральскіть"
+        "normal_form": "генеральскть"
       }
     },
     {
@@ -1335,15 +1332,13 @@
       }
     },
     {
-      "тяжелъ": {
+      "тяжел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "тяжелъ"
+        "normal_form": "тяжёлый"
       }
     },
     {
@@ -1381,15 +1376,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     }
   ],
@@ -1427,13 +1421,14 @@
       }
     },
     {
-      "лисія": {
+      "лис": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "лисіть"
+        "normal_form": "лис"
       }
     }
   ],

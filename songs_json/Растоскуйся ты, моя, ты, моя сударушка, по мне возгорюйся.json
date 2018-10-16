@@ -566,13 +566,11 @@
       }
     },
     {
-      "пріему": {
+      "пр": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "datv"
+          "UNKN"
         ],
-        "normal_form": "пріий"
+        "normal_form": "пр"
       }
     }
   ],
@@ -588,14 +586,11 @@
       }
     },
     {
-      "пріемщики": {
+      "при": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc plur",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "пріемщик"
+        "normal_form": "при"
       }
     },
     {
@@ -833,11 +828,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -931,11 +926,16 @@
       }
     },
     {
-      "мір": {
+      "м": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     }
   ],

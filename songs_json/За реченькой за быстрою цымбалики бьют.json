@@ -183,7 +183,7 @@
       }
     },
     {
-      "миленькій-хорошенькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -191,7 +191,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть-хорошенькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -363,15 +363,16 @@
       }
     },
     {
-      "держатъ": {
+      "держат": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "держатъ"
+        "normal_form": "держать"
       }
     },
     {
@@ -414,15 +415,14 @@
       }
     },
     {
-      "платокъ": {
+      "платок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "платокъ"
+        "normal_form": "платок"
       }
     },
     {
@@ -485,15 +485,14 @@
       }
     },
     {
-      "платокъ": {
+      "платок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "платокъ"
+        "normal_form": "платок"
       }
     },
     {
@@ -519,35 +518,31 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "рукахъ": {
+      "руках": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "loct"
         ],
-        "normal_form": "рукахъ"
+        "normal_form": "рука"
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     },
     {
@@ -604,15 +599,14 @@
       }
     },
     {
-      "глазкомъ": {
+      "глазком": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "глазкомъ"
+        "normal_form": "глазок"
       }
     },
     {
@@ -695,15 +689,14 @@
       }
     },
     {
-      "глазкомъ": {
+      "глазком": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "глазкомъ"
+        "normal_form": "глазок"
       }
     },
     {
@@ -760,15 +753,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -806,15 +799,11 @@
       }
     },
     {
-      "последній": {
+      "последнй": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "последніть"
+        "normal_form": "последнй"
       }
     },
     {

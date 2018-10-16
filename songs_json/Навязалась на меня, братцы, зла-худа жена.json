@@ -1192,15 +1192,16 @@
       }
     },
     {
-      "запелъ": {
+      "запел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "запелъ"
+        "normal_form": "запеть"
       }
     },
     {
@@ -1855,16 +1856,11 @@
   ],
   [
     {
-      "пріезжала-то": {
+      "про": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr femn",
-          "sing",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "пріезжать-то"
+        "normal_form": "про"
       }
     },
     {

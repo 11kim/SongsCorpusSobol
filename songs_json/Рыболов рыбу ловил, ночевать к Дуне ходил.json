@@ -254,15 +254,12 @@
       }
     },
     {
-      "красноперыхъ": {
+      "красноперых": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF plur",
+          "gent"
         ],
-        "normal_form": "красноперыхъ"
+        "normal_form": "краснопёрый"
       }
     },
     {
@@ -646,11 +643,11 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
@@ -1411,27 +1408,27 @@
       }
     },
     {
-      "запляшемъ": {
+      "запляшем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "запляшемъ"
+        "normal_form": "заплясать"
       }
     },
     {
-      "казачекъ": {
+      "казачек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "казачекъ"
+        "normal_form": "казачка"
       }
     }
   ]

@@ -97,7 +97,7 @@
       }
     },
     {
-      "казацкій": {
+      "казацкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -105,7 +105,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "казацкіть"
+        "normal_form": "казацкть"
       }
     },
     {
@@ -247,7 +247,7 @@
       }
     },
     {
-      "офицерскій": {
+      "офицерскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -255,7 +255,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "офицерскіть"
+        "normal_form": "офицерскть"
       }
     },
     {
@@ -272,7 +272,7 @@
   ],
   [
     {
-      "офицерскій": {
+      "офицерскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -280,7 +280,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "офицерскіть"
+        "normal_form": "офицерскть"
       }
     },
     {
@@ -295,7 +295,7 @@
       }
     },
     {
-      "капитанскій": {
+      "капитанскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -303,7 +303,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "капитанскіть"
+        "normal_form": "капитанскть"
       }
     },
     {
@@ -383,15 +383,12 @@
       }
     },
     {
-      "раненъ": {
+      "ранен": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "раненъ"
+        "normal_form": "раненый"
       }
     }
   ],
@@ -434,15 +431,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {

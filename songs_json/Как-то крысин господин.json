@@ -77,14 +77,11 @@
       }
     },
     {
-      "міру": {
+      "му": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "datv"
+          "INTJ"
         ],
-        "normal_form": "мір"
+        "normal_form": "му"
       }
     },
     {
@@ -586,7 +583,7 @@
   ],
   [
     {
-      "татарскій": {
+      "татарскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -594,7 +591,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "татарскіть"
+        "normal_form": "татарскть"
       }
     },
     {
@@ -783,13 +780,14 @@
       }
     },
     {
-      "заднія-то": {
+      "задно": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "neut sing",
+          "nomn"
         ],
-        "normal_form": "задніть-то"
+        "normal_form": "задно"
       }
     },
     {
@@ -843,13 +841,14 @@
       }
     },
     {
-      "переднія-то": {
+      "передно": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "neut sing",
+          "nomn"
         ],
-        "normal_form": "передніть-то"
+        "normal_form": "передно"
       }
     },
     {
@@ -951,7 +950,7 @@
       }
     },
     {
-      "великій": {
+      "великй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -959,19 +958,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "великіть"
+        "normal_form": "великть"
       }
     },
     {
-      "постъ": {
+      "пост": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "постъ"
+        "normal_form": "пост"
       }
     }
   ]

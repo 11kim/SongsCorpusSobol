@@ -959,27 +959,25 @@
       }
     },
     {
-      "дуракъ": {
+      "дурак": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "дуракъ"
+        "normal_form": "дурак"
       }
     },
     {
-      "дуракъ": {
+      "дурак": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "дуракъ"
+        "normal_form": "дурак"
       }
     },
     {
@@ -1381,23 +1379,22 @@
       }
     },
     {
-      "самъ": {
+      "сам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "самъ"
+        "normal_form": "сам"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1412,15 +1409,16 @@
       }
     },
     {
-      "глядитъ": {
+      "глядит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "глядитъ"
+        "normal_form": "глядеть"
       }
     }
   ],
@@ -1937,14 +1935,11 @@
       }
     },
     {
-      "маіор": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіор"
+        "normal_form": "маъ"
       }
     },
     {
@@ -1982,14 +1977,11 @@
       }
     },
     {
-      "маіором": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіором"
+        "normal_form": "маъ"
       }
     },
     {
@@ -2066,14 +2058,11 @@
   ],
   [
     {
-      "маіор": {
+      "маъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіор"
+        "normal_form": "маъ"
       }
     },
     {
@@ -2134,14 +2123,11 @@
       }
     },
     {
-      "маіор": {
+      "ма": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "маіор"
+        "normal_form": "ма"
       }
     },
     {
@@ -2709,16 +2695,15 @@
       }
     },
     {
-      "маіоровой": {
+      "май": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "femn",
-          "Sgtm",
-          "Surn sing",
-          "gent"
+          "inan",
+          "masc",
+          "Sgtm sing",
+          "nomn"
         ],
-        "normal_form": "маіоров"
+        "normal_form": "май"
       }
     },
     {
@@ -2767,14 +2752,15 @@
       }
     },
     {
-      "маіоре": {
+      "мае": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Sgtm sing",
           "loct"
         ],
-        "normal_form": "маіор"
+        "normal_form": "май"
       }
     },
     {

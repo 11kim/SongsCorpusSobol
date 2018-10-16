@@ -956,15 +956,16 @@
       }
     },
     {
-      "моемъ": {
+      "моем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "1per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "моемъ"
+        "normal_form": "мыть"
       }
     },
     {
@@ -1379,13 +1380,11 @@
       }
     },
     {
-      "кіевской": {
+      "кй": {
         "OpencorporaTag": [
-          "ADJF femn",
-          "sing",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "кіевский"
+        "normal_form": "кй"
       }
     },
     {
@@ -1446,7 +1445,7 @@
   ],
   [
     {
-      "животворящій": {
+      "животворящй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1454,7 +1453,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "животворящіть"
+        "normal_form": "животворящть"
       }
     },
     {

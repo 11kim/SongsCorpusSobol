@@ -283,14 +283,15 @@
       }
     },
     {
-      "тугіе": {
+      "туге": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "тугі"
+        "normal_form": "туг"
       }
     },
     {
@@ -1272,17 +1273,15 @@
       }
     },
     {
-      "мила́го": {
+      "мила": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "neut",
-          "Sgtm",
-          "Fixd",
-          "Orgn sing",
+          "anim",
+          "femn",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "мила́го"
+        "normal_form": "мила"
       }
     }
   ],

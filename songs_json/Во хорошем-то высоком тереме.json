@@ -567,12 +567,15 @@
       }
     },
     {
-      "сладкіих": {
+      "сладкъ": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "сладкіий"
+        "normal_form": "сладкъ"
       }
     },
     {
@@ -775,14 +778,14 @@
       }
     },
     {
-      "сладкіе": {
+      "сладке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "сладкі"
+        "normal_form": "сладка"
       }
     },
     {
@@ -1012,11 +1015,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1068,13 +1071,13 @@
       }
     },
     {
-      "великія": {
+      "великя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "великіть"
+        "normal_form": "великть"
       }
     },
     {

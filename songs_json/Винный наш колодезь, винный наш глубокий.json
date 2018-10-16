@@ -56,15 +56,13 @@
       }
     },
     {
-      "глубокій": {
+      "глубок": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],
@@ -156,15 +154,16 @@
       }
     },
     {
-      "выпивалъ": {
+      "выпивал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "выпивалъ"
+        "normal_form": "выпивать"
       }
     },
     {
@@ -179,27 +178,27 @@
       }
     },
     {
-      "копытомъ": {
+      "копытом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "копытомъ"
+        "normal_form": "копыто"
       }
     },
     {
-      "выбивалъ": {
+      "выбивал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "выбивалъ"
+        "normal_form": "выбивать"
       }
     }
   ],
@@ -392,7 +391,7 @@
   ],
   [
     {
-      "ѣдет-то": {
+      "дет-то": {
         "OpencorporaTag": [
           "PRTS",
           "perf",
@@ -400,7 +399,7 @@
           "pssv masc",
           "sing"
         ],
-        "normal_form": "ѣдеть-то"
+        "normal_form": "деть-то"
       }
     },
     {

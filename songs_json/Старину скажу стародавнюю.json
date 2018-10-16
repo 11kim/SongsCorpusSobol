@@ -2471,16 +2471,16 @@
       }
     },
     {
-      "пріупился": {
+      "пря": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Arch sing",
+          "nomn"
         ],
-        "normal_form": "пріупиться"
+        "normal_form": "пря"
       }
     },
     {
@@ -2497,14 +2497,11 @@
   ],
   [
     {
-      "пріупившись": {
+      "пр": {
         "OpencorporaTag": [
-          "GRND",
-          "perf",
-          "intr past",
-          "V-sh"
+          "UNKN"
         ],
-        "normal_form": "пріупиться"
+        "normal_form": "пр"
       }
     },
     {

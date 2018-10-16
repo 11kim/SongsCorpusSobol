@@ -460,15 +460,14 @@
       }
     },
     {
-      "чистомъ": {
+      "чистом": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "чистомъ"
+        "normal_form": "чистый"
       }
     },
     {
@@ -533,15 +532,14 @@
       }
     },
     {
-      "поднебесамъ": {
+      "поднебесам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut plur",
+          "datv"
         ],
-        "normal_form": "поднебесамъ"
+        "normal_form": "поднебо"
       }
     }
   ],

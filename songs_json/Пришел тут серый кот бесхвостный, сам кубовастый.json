@@ -1158,15 +1158,14 @@
       }
     },
     {
-      "табачокъ": {
+      "табачок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "табачокъ"
+        "normal_form": "табачок"
       }
     }
   ],
@@ -1183,27 +1182,27 @@
       }
     },
     {
-      "шпанскій": {
+      "шпанск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "шпанскіть"
+        "normal_form": "шпанск"
       }
     },
     {
-      "королевскій": {
+      "королевск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскіть"
+        "normal_form": "королевск"
       }
     }
   ],

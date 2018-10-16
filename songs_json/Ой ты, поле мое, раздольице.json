@@ -935,27 +935,28 @@
       }
     },
     {
-      "жаръ": {
+      "жар": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Fixd sing",
+          "Sgtm sing",
           "nomn"
         ],
-        "normal_form": "жаръ"
+        "normal_form": "жар"
       }
     },
     {
-      "горитъ": {
+      "горит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "горитъ"
+        "normal_form": "гореть"
       }
     }
   ],

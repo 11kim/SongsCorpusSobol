@@ -19,14 +19,11 @@
       }
     },
     {
-      "воро́ты": {
+      "воро": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc plur",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "воро́т"
+        "normal_form": "воро"
       }
     }
   ],
@@ -834,14 +831,14 @@
       }
     },
     {
-      "дорогіе": {
+      "дорог": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "дорогі"
+        "normal_form": "дорога"
       }
     }
   ],
@@ -899,14 +896,15 @@
       }
     },
     {
-      "бурлацкіе": {
+      "бурлацке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "бурлацкі"
+        "normal_form": "бурлацк"
       }
     },
     {
@@ -932,14 +930,15 @@
       }
     },
     {
-      "бурлацкіе": {
+      "бурлацке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "бурлацкі"
+        "normal_form": "бурлацк"
       }
     },
     {

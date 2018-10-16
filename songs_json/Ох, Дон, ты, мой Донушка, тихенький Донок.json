@@ -53,7 +53,7 @@
       }
     },
     {
-      "тихенькій": {
+      "тихенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -61,7 +61,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихенькіть"
+        "normal_form": "тихенькть"
       }
     },
     {
@@ -164,23 +164,19 @@
       }
     },
     {
-      "охъ": {
+      "ох": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "охъ"
+        "normal_form": "ох"
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -221,15 +217,14 @@
       }
     },
     {
-      "веселымъ": {
+      "веселым": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "веселымъ"
+        "normal_form": "весёлый"
       }
     },
     {
@@ -307,14 +302,17 @@
       }
     },
     {
-      "партіи": {
+      "парти": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "anim",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Name sing",
+          "nomn"
         ],
-        "normal_form": "партіь"
+        "normal_form": "парти"
       }
     },
     {
@@ -352,13 +350,14 @@
       }
     },
     {
-      "партія": {
+      "партя": {
         "OpencorporaTag": [
           "GRND",
-          "impf",
-          "tran pres"
+          "perf",
+          "tran past",
+          "Fimp"
         ],
-        "normal_form": "партіть"
+        "normal_form": "партить"
       }
     },
     {
@@ -370,14 +369,15 @@
       }
     },
     {
-      "донскіе": {
+      "донске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "донскі"
+        "normal_form": "донск"
       }
     },
     {
@@ -414,13 +414,14 @@
       }
     },
     {
-      "партія": {
+      "партя": {
         "OpencorporaTag": [
           "GRND",
-          "impf",
-          "tran pres"
+          "perf",
+          "tran past",
+          "Fimp"
         ],
-        "normal_form": "партіть"
+        "normal_form": "партить"
       }
     },
     {
@@ -474,13 +475,14 @@
       }
     },
     {
-      "партія": {
+      "партя": {
         "OpencorporaTag": [
           "GRND",
-          "impf",
-          "tran pres"
+          "perf",
+          "tran past",
+          "Fimp"
         ],
-        "normal_form": "партіть"
+        "normal_form": "партить"
       }
     },
     {
@@ -492,15 +494,16 @@
       }
     },
     {
-      "везутъ": {
+      "везут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "везутъ"
+        "normal_form": "везти"
       }
     },
     {
@@ -649,16 +652,16 @@
       }
     },
     {
-      "ліется": {
+      "л": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr sing",
-          "3per",
-          "pres",
-          "indc"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "nomn"
         ],
-        "normal_form": "літься"
+        "normal_form": "литр"
       }
     }
   ],
@@ -688,15 +691,14 @@
       }
     },
     {
-      "большой-набольшій": {
+      "большой-набольш": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "большой-набольшіть"
+        "normal_form": "большой-набольша"
       }
     }
   ],
@@ -1087,15 +1089,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {
@@ -1210,15 +1211,14 @@
       }
     },
     {
-      "другъ": {
+      "друг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "другъ"
+        "normal_form": "друг"
       }
     }
   ],

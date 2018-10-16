@@ -190,27 +190,26 @@
       }
     },
     {
-      "сынъ": {
+      "сын": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сынъ"
+        "normal_form": "сын"
       }
     },
     {
-      "боярскій": {
+      "боярск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "боярскіть"
+        "normal_form": "боярск"
       }
     }
   ],
@@ -681,15 +680,11 @@
       }
     },
     {
-      "по-подъ": {
+      "по-под": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "по-подъ"
+        "normal_form": "по-под"
       }
     },
     {
@@ -864,15 +859,11 @@
       }
     },
     {
-      "безъ": {
+      "без": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "безъ"
+        "normal_form": "без"
       }
     },
     {
@@ -1021,15 +1012,11 @@
       }
     },
     {
-      "безъ": {
+      "без": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "безъ"
+        "normal_form": "без"
       }
     },
     {
@@ -1044,15 +1031,16 @@
       }
     },
     {
-      "течетъ": {
+      "течет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "течетъ"
+        "normal_form": "течь"
       }
     },
     {
@@ -1179,15 +1167,11 @@
       }
     },
     {
-      "безъ": {
+      "без": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "безъ"
+        "normal_form": "без"
       }
     },
     {
@@ -1210,15 +1194,14 @@
       }
     },
     {
-      "скотъ": {
+      "скот": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "скотъ"
+        "normal_form": "скот"
       }
     },
     {
@@ -1368,15 +1351,11 @@
       }
     },
     {
-      "безъ": {
+      "без": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "безъ"
+        "normal_form": "без"
       }
     },
     {
@@ -1400,15 +1379,13 @@
       }
     },
     {
-      "горючъ": {
+      "горюч": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "горючъ"
+        "normal_form": "горючий"
       }
     },
     {

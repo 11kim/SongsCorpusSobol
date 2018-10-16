@@ -646,14 +646,13 @@
       }
     },
     {
-      "горючіе": {
+      "горюч": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "горючі"
+        "normal_form": "горючий"
       }
     }
   ],
@@ -800,15 +799,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     }
   ],
@@ -1160,13 +1158,15 @@
       }
     },
     {
-      "молодецкія": {
+      "молодецк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "молодецкіть"
+        "normal_form": "молодецк"
       }
     }
   ]

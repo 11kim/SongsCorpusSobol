@@ -105,13 +105,15 @@
       }
     },
     {
-      "морскія": {
+      "морск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "морскіть"
+        "normal_form": "морск"
       }
     },
     {
@@ -126,13 +128,15 @@
       }
     },
     {
-      "тверскія": {
+      "тверск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "тверскіть"
+        "normal_form": "тверск"
       }
     }
   ],
@@ -436,7 +440,7 @@
       }
     },
     {
-      "сердечній": {
+      "сердечнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -444,7 +448,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сердечніть"
+        "normal_form": "сердечнть"
       }
     },
     {

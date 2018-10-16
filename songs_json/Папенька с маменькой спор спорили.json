@@ -709,15 +709,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -878,27 +874,24 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
-      "станемъ": {
+      "станем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "станемъ"
+        "normal_form": "стать"
       }
     },
     {
@@ -1046,7 +1039,7 @@
       }
     },
     {
-      "горючіимъ": {
+      "горючъ": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -1054,19 +1047,18 @@
           "Fixd sing",
           "nomn"
         ],
-        "normal_form": "горючіимъ"
+        "normal_form": "горючъ"
       }
     },
     {
-      "слезамъ": {
+      "слезам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "слезамъ"
+        "normal_form": "слеза"
       }
     },
     {
@@ -1121,23 +1113,22 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "подружкамъ": {
+      "подружкам": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "подружкамъ"
+        "normal_form": "подружка"
       }
     },
     {
@@ -1193,36 +1184,30 @@
       }
     },
     {
-      "какъ": {
+      "как": {
+        "OpencorporaTag": [
+          "CONJ"
+        ],
+        "normal_form": "как"
+      }
+    },
+    {
+      "в": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "в"
+      }
+    },
+    {
+      "келю": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "datv"
         ],
-        "normal_form": "какъ"
-      }
-    },
-    {
-      "въ": {
-        "OpencorporaTag": [
-          "UNKN"
-        ],
-        "normal_form": "въ"
-      }
-    },
-    {
-      "келію": {
-        "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
-        ],
-        "normal_form": "келіть"
+        "normal_form": "кель"
       }
     },
     {
@@ -1623,23 +1608,22 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
-      "богомъ": {
+      "богом": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "богомъ"
+        "normal_form": "бог"
       }
     },
     {

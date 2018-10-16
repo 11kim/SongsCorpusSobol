@@ -483,14 +483,13 @@
       }
     },
     {
-      "синіе": {
+      "сине": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual neut",
+          "sing"
         ],
-        "normal_form": "сині"
+        "normal_form": "синий"
       }
     },
     {
@@ -505,14 +504,15 @@
       }
     },
     {
-      "астраханскіе": {
+      "астраханске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "астраханскі"
+        "normal_form": "астраханск"
       }
     },
     {
@@ -826,7 +826,7 @@
       }
     },
     {
-      "дворянскій": {
+      "дворянскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -834,7 +834,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дворянскіть"
+        "normal_form": "дворянскть"
       }
     },
     {
@@ -1681,15 +1681,16 @@
       }
     },
     {
-      "продаетъ": {
+      "продает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "продаетъ"
+        "normal_form": "продавать"
       }
     }
   ],
@@ -1868,12 +1869,15 @@
       }
     },
     {
-      "прохожіих-то": {
+      "прохожо": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "inan",
+          "neut",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "прохожіий-то"
+        "normal_form": "прохожо"
       }
     },
     {
@@ -2794,7 +2798,7 @@
       }
     },
     {
-      "дворянскій": {
+      "дворянскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2802,7 +2806,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дворянскіть"
+        "normal_form": "дворянскть"
       }
     },
     {
@@ -3909,16 +3913,11 @@
       }
     },
     {
-      "пріоправилися": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr plur",
-          "past",
-          "indc",
-          "Infr"
+          "UNKN"
         ],
-        "normal_form": "пріоправиться"
+        "normal_form": "пр"
       }
     }
   ],
@@ -4977,15 +4976,11 @@
       }
     },
     {
-      "аѳанас": {
+      "а": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "аѳанас"
+        "normal_form": "а"
       }
     },
     {
@@ -5048,14 +5043,11 @@
       }
     },
     {
-      "агаѳон": {
+      "ага": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "INTJ"
         ],
-        "normal_form": "агаѳон"
+        "normal_form": "ага"
       }
     },
     {

@@ -482,15 +482,14 @@
       }
     },
     {
-      "чертямъ": {
+      "чертям": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "datv"
         ],
-        "normal_form": "чертямъ"
+        "normal_form": "чёрт"
       }
     }
   ],
@@ -1296,15 +1295,14 @@
       }
     },
     {
-      "челнокъ": {
+      "челнок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "челнокъ"
+        "normal_form": "челнок"
       }
     },
     {

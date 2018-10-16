@@ -273,7 +273,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -281,7 +281,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -471,15 +471,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -567,15 +567,11 @@
       }
     },
     {
-      "темъ": {
+      "тем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "темъ"
+        "normal_form": "тем"
       }
     },
     {
@@ -587,15 +583,11 @@
       }
     },
     {
-      "семъ": {
+      "сем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRCL"
         ],
-        "normal_form": "семъ"
+        "normal_form": "сем"
       }
     },
     {
@@ -623,11 +615,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -750,11 +742,14 @@
       }
     },
     {
-      "бестію": {
+      "бест": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "бестію"
+        "normal_form": "бест"
       }
     },
     {
@@ -827,11 +822,13 @@
       }
     },
     {
-      "бестія": {
+      "бестя": {
         "OpencorporaTag": [
-          "UNKN"
+          "GRND",
+          "impf",
+          "tran pres"
         ],
-        "normal_form": "бестія"
+        "normal_form": "бестить"
       }
     },
     {
@@ -932,15 +929,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {

@@ -817,27 +817,24 @@
       }
     },
     {
-      "темныхъ": {
+      "темных": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual plur",
+          "gent"
         ],
-        "normal_form": "темныхъ"
+        "normal_form": "тёмный"
       }
     },
     {
-      "лесахъ": {
+      "лесах": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "loct"
         ],
-        "normal_form": "лесахъ"
+        "normal_form": "леса"
       }
     }
   ],
@@ -891,27 +888,24 @@
       }
     },
     {
-      "чистыхъ": {
+      "чистых": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual plur",
+          "gent"
         ],
-        "normal_form": "чистыхъ"
+        "normal_form": "чистый"
       }
     },
     {
-      "поляхъ": {
+      "полях": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut plur",
+          "loct"
         ],
-        "normal_form": "поляхъ"
+        "normal_form": "поле"
       }
     }
   ],
@@ -1028,11 +1022,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {

@@ -334,7 +334,7 @@
       }
     },
     {
-      "здешній": {
+      "здешнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -342,15 +342,20 @@
           "impr",
           "excl"
         ],
-        "normal_form": "здешніть"
+        "normal_form": "здешнть"
       }
     },
     {
-      "мір": {
+      "м": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     }
   ],

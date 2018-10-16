@@ -221,14 +221,15 @@
       }
     },
     {
-      "губернскіе": {
+      "губернск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "губернскі"
+        "normal_form": "губернск"
       }
     }
   ],
@@ -272,15 +273,15 @@
       }
     },
     {
-      "архангельскій": {
+      "архангельск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "архангельскіть"
+        "normal_form": "архангельск"
       }
     }
   ],
@@ -325,15 +326,15 @@
       }
     },
     {
-      "саратовскій": {
+      "саратовск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "саратовскіть"
+        "normal_form": "саратовск"
       }
     }
   ],

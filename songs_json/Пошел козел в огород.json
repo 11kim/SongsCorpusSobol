@@ -636,15 +636,11 @@
       }
     },
     {
-      "противъ": {
+      "против": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "противъ"
+        "normal_form": "против"
       }
     },
     {
@@ -826,15 +822,15 @@
       }
     },
     {
-      "козелъ": {
+      "козел": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "козелъ"
+        "normal_form": "козлы"
       }
     },
     {
@@ -856,15 +852,15 @@
       }
     },
     {
-      "козелъ": {
+      "козел": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "козелъ"
+        "normal_form": "козлы"
       }
     },
     {
@@ -887,15 +883,16 @@
       }
     },
     {
-      "пошелъ": {
+      "пошел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пошелъ"
+        "normal_form": "пойти"
       }
     }
   ],

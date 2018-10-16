@@ -450,12 +450,16 @@
       }
     },
     {
-      "пріемна": {
+      "пра": {
         "OpencorporaTag": [
-          "ADJS femn",
-          "sing"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріёмный"
+        "normal_form": "пра"
       }
     },
     {
@@ -481,12 +485,11 @@
       }
     },
     {
-      "пріемна": {
+      "пр": {
         "OpencorporaTag": [
-          "ADJS femn",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріёмный"
+        "normal_form": "пр"
       }
     },
     {
@@ -577,15 +580,11 @@
       }
     },
     {
-      "пріемной": {
+      "прй": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріемной"
+        "normal_form": "прй"
       }
     }
   ],
@@ -775,16 +774,11 @@
       }
     },
     {
-      "пріем": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran plur",
-          "1per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріть"
+        "normal_form": "пр"
       }
     }
   ],

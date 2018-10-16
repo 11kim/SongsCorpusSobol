@@ -62,14 +62,11 @@
       }
     },
     {
-      "сіять": {
+      "с": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "сіять"
+        "normal_form": "с"
       }
     }
   ],
@@ -155,15 +152,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -188,15 +181,11 @@
       }
     },
     {
-      "какъ": {
+      "как": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "какъ"
+        "normal_form": "как"
       }
     },
     {
@@ -861,7 +850,7 @@
   ],
   [
     {
-      "расхорошій": {
+      "расхорошй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -869,7 +858,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "расхорошіть"
+        "normal_form": "расхорошть"
       }
     },
     {

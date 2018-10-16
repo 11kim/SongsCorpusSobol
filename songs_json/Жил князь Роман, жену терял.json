@@ -1401,15 +1401,14 @@
       }
     },
     {
-      "крестьянъ": {
+      "крестьян": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "крестьянъ"
+        "normal_form": "крестьянин"
       }
     }
   ],
@@ -1505,23 +1504,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "зеленомъ": {
+      "зеленом": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "зеленомъ"
+        "normal_form": "зелёный"
       }
     },
     {
@@ -2613,15 +2611,16 @@
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     },
     {
@@ -2636,15 +2635,15 @@
       }
     },
     {
-      "романъ": {
+      "роман": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "романъ"
+        "normal_form": "роман"
       }
     },
     {
@@ -2659,15 +2658,16 @@
       }
     },
     {
-      "терялъ": {
+      "терял": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "терялъ"
+        "normal_form": "терять"
       }
     }
   ],
@@ -2765,11 +2765,11 @@
       }
     },
     {
-      "жъ": {
+      "ж": {
         "OpencorporaTag": [
-          "UNKN"
+          "CONJ"
         ],
-        "normal_form": "жъ"
+        "normal_form": "ж"
       }
     },
     {
@@ -3083,11 +3083,11 @@
       }
     },
     {
-      "охъ": {
+      "ох": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "охъ"
+        "normal_form": "ох"
       }
     },
     {

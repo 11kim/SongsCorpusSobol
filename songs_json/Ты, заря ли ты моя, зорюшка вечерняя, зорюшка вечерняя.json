@@ -657,12 +657,12 @@
       }
     },
     {
-      "серопегіих": {
+      "серопег": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "серопегіий"
+        "normal_form": "серопегий"
       }
     },
     {
@@ -688,12 +688,15 @@
   ],
   [
     {
-      "серопегіих": {
+      "серопегъ": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "серопегіий"
+        "normal_form": "серопегъ"
       }
     },
     {

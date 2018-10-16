@@ -262,15 +262,11 @@
       }
     },
     {
-      "кіеве": {
+      "к": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "datv"
+          "PREP"
         ],
-        "normal_form": "кіева"
+        "normal_form": "к"
       }
     }
   ],
@@ -951,12 +947,13 @@
       }
     },
     {
-      "высокіих": {
+      "высок": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокіий"
+        "normal_form": "высокий"
       }
     }
   ],
@@ -3563,15 +3560,11 @@
       }
     },
     {
-      "сорокъ": {
+      "сорок": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NUMR nomn"
         ],
-        "normal_form": "сорокъ"
+        "normal_form": "сорок"
       }
     },
     {
@@ -3818,27 +3811,25 @@
       }
     },
     {
-      "царевъ": {
+      "царев": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Poss masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "царевъ"
+        "normal_form": "царёв"
       }
     },
     {
-      "кабакъ": {
+      "кабак": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "кабакъ"
+        "normal_form": "кабак"
       }
     }
   ]

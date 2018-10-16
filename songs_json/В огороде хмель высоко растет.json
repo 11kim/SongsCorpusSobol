@@ -570,27 +570,27 @@
       }
     },
     {
-      "пирогъ": {
+      "пирог": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "пирогъ"
+        "normal_form": "пирог"
       }
     },
     {
-      "съелъ": {
+      "съел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "съелъ"
+        "normal_form": "съесть"
       }
     }
   ],

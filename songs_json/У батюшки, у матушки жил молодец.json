@@ -65,7 +65,7 @@
   ],
   [
     {
-      "одинакій": {
+      "одинакй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -73,7 +73,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "одинакіть"
+        "normal_form": "одинакть"
       }
     },
     {
@@ -111,11 +111,16 @@
   ],
   [
     {
-      "ѣл": {
+      "л": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "nomn"
         ],
-        "normal_form": "ѣл"
+        "normal_form": "литр"
       }
     },
     {
@@ -958,12 +963,15 @@
       }
     },
     {
-      "заморскіих": {
+      "заморск": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "заморскіий"
+        "normal_form": "заморск"
       }
     }
   ],
@@ -1624,15 +1632,11 @@
       }
     },
     {
-      "пріютитися": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріютитися"
+        "normal_form": "пр"
       }
     }
   ],
@@ -2438,15 +2442,11 @@
       }
     },
     {
-      "пріютитися": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріютитися"
+        "normal_form": "пр"
       }
     }
   ],
@@ -3219,14 +3219,15 @@
       }
     },
     {
-      "кабацкіе": {
+      "кабацк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "кабацкі"
+        "normal_form": "кабацк"
       }
     }
   ],
@@ -4370,7 +4371,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4378,7 +4379,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -5080,13 +5081,15 @@
       }
     },
     {
-      "басонскія": {
+      "басонск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "басонскіть"
+        "normal_form": "басонск"
       }
     }
   ],
@@ -5950,12 +5953,15 @@
       }
     },
     {
-      "заморскіих": {
+      "заморск": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "заморскіий"
+        "normal_form": "заморск"
       }
     }
   ],
@@ -6475,15 +6481,11 @@
       }
     },
     {
-      "пріютитися": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріютитися"
+        "normal_form": "пр"
       }
     }
   ],
@@ -7288,15 +7290,11 @@
       }
     },
     {
-      "пріютитися": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріютитися"
+        "normal_form": "пр"
       }
     }
   ],
@@ -8072,14 +8070,15 @@
       }
     },
     {
-      "кабацкіе": {
+      "кабацк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "кабацкі"
+        "normal_form": "кабацк"
       }
     }
   ],
@@ -8972,7 +8971,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -8980,7 +8979,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -9682,13 +9681,15 @@
       }
     },
     {
-      "басонскія": {
+      "басонск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "басонскіть"
+        "normal_form": "басонск"
       }
     }
   ],
@@ -10340,14 +10341,15 @@
       }
     },
     {
-      "го́ловы": {
+      "го": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc plur",
+          "neut",
+          "Fixd sing",
           "nomn"
         ],
-        "normal_form": "го́лов"
+        "normal_form": "го"
       }
     }
   ],
@@ -10549,12 +10551,15 @@
       }
     },
     {
-      "заморскіих": {
+      "заморск": {
         "OpencorporaTag": [
-          "ADJF plur",
-          "gent"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "заморскіий"
+        "normal_form": "заморск"
       }
     }
   ],
@@ -11074,15 +11079,11 @@
       }
     },
     {
-      "пріютитися": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріютитися"
+        "normal_form": "пр"
       }
     }
   ],
@@ -11889,15 +11890,11 @@
       }
     },
     {
-      "пріютитися": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "femn",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріютитися"
+        "normal_form": "пр"
       }
     }
   ],
@@ -12673,14 +12670,15 @@
       }
     },
     {
-      "кабацкіе": {
+      "кабацк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "кабацкі"
+        "normal_form": "кабацк"
       }
     }
   ],
@@ -13581,7 +13579,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -13589,7 +13587,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {
@@ -14759,7 +14757,7 @@
       }
     },
     {
-      "дородній": {
+      "дороднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -14767,7 +14765,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "дородніть"
+        "normal_form": "дороднть"
       }
     },
     {

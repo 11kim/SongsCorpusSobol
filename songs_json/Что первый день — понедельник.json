@@ -39,15 +39,14 @@
       }
     },
     {
-      "понедельникъ": {
+      "понедельник": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "понедельникъ"
+        "normal_form": "понедельник"
       }
     }
   ],
@@ -91,15 +90,14 @@
       }
     },
     {
-      "вовторникъ": {
+      "вовторник": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "вовторникъ"
+        "normal_form": "вовторник"
       }
     }
   ],
@@ -181,39 +179,36 @@
       }
     },
     {
-      "нашъ": {
+      "наш": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "нашъ"
+        "normal_form": "наш"
       }
     },
     {
-      "четвертокъ": {
+      "четверток": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "четвертокъ"
+        "normal_form": "четверток"
       }
     },
     {
-      "четвертокъ": {
+      "четверток": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "четвертокъ"
+        "normal_form": "четверток"
       }
     }
   ],
@@ -302,15 +297,14 @@
       }
     },
     {
-      "коверъ": {
+      "ковер": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "коверъ"
+        "normal_form": "ковёр"
       }
     },
     {
@@ -322,15 +316,14 @@
       }
     },
     {
-      "коверъ": {
+      "ковер": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "коверъ"
+        "normal_form": "ковёр"
       }
     }
   ],

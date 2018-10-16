@@ -549,7 +549,7 @@
       }
     },
     {
-      "нынешній": {
+      "нынешнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -557,7 +557,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "нынешніть"
+        "normal_form": "нынешнть"
       }
     },
     {
@@ -626,14 +626,14 @@
   ],
   [
     {
-      "ѳедора": {
+      "едора": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "ѳедора"
+        "normal_form": "едора"
       }
     },
     {
@@ -655,23 +655,26 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
-      "великъ": {
+      "велик": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "великъ"
+        "normal_form": "велик"
       }
     },
     {
@@ -683,15 +686,13 @@
       }
     },
     {
-      "глупъ": {
+      "глуп": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глупъ"
+        "normal_form": "глупый"
       }
     }
   ],
@@ -726,35 +727,36 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
-      "насмешливъ": {
+      "насмешлив": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "насмешливъ"
+        "normal_form": "насмешливый"
       }
     },
     {
-      "плутъ": {
+      "плут": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "плутъ"
+        "normal_form": "плут"
       }
     }
   ],
@@ -798,23 +800,25 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
-      "толстъ": {
+      "толст": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "толстъ"
+        "normal_form": "толстый"
       }
     },
     {
@@ -826,15 +830,13 @@
       }
     },
     {
-      "простъ": {
+      "прост": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "простъ"
+        "normal_form": "простой"
       }
     }
   ],
@@ -880,15 +882,15 @@
       }
     },
     {
-      "барышъ": {
+      "барыш": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Fixd sing",
+          "Geox sing",
           "nomn"
         ],
-        "normal_form": "барышъ"
+        "normal_form": "барыш"
       }
     },
     {
@@ -900,15 +902,14 @@
       }
     },
     {
-      "великъ": {
+      "велик": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "великъ"
+        "normal_form": "велик"
       }
     }
   ],
@@ -944,11 +945,15 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
@@ -971,15 +976,13 @@
       }
     },
     {
-      "всемъ": {
+      "всем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Apro plur",
+          "datv"
         ],
-        "normal_form": "всемъ"
+        "normal_form": "весь"
       }
     }
   ],
@@ -1015,15 +1018,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     },
     {
@@ -1038,23 +1038,21 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "немъ": {
+      "нем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "немъ"
+        "normal_form": "немой"
       }
     }
   ],
@@ -1090,11 +1088,15 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
@@ -1106,15 +1108,16 @@
       }
     },
     {
-      "живетъ": {
+      "живет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "живетъ"
+        "normal_form": "жить"
       }
     }
   ],
@@ -1150,47 +1153,49 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
-      "манеренъ": {
+      "манерен": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "манеренъ"
+        "normal_form": "манерный"
       }
     },
     {
-      "врагъ": {
+      "враг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "врагъ"
+        "normal_form": "враг"
       }
     }
   ],
   [
     {
-      "дмитрія": {
+      "дмитря": {
         "OpencorporaTag": [
           "GRND",
-          "impf",
-          "tran pres"
+          "perf",
+          "tran past",
+          "Fimp"
         ],
-        "normal_form": "дмитріть"
+        "normal_form": "дмитрить"
       }
     },
     {
@@ -1284,15 +1289,13 @@
       }
     },
     {
-      "лукавъ": {
+      "лукав": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "лукавъ"
+        "normal_form": "лукавый"
       }
     }
   ],
@@ -1346,15 +1349,15 @@
       }
     },
     {
-      "велитъ": {
+      "велит": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "велитъ"
+        "normal_form": "велита"
       }
     },
     {

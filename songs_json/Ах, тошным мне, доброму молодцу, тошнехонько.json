@@ -634,27 +634,26 @@
       }
     },
     {
-      "иванъ": {
+      "иван": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Name sing",
           "nomn"
         ],
-        "normal_form": "иванъ"
+        "normal_form": "иван"
       }
     },
     {
-      "каиновъ": {
+      "каинов": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "каиновъ"
+        "normal_form": "каин"
       }
     }
   ],

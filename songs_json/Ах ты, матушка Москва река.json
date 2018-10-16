@@ -442,14 +442,15 @@
       }
     },
     {
-      "артиллерійскіе": {
+      "артиллер": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "артиллерійскі"
+        "normal_form": "артиллер"
       }
     }
   ],
@@ -654,15 +655,16 @@
       }
     },
     {
-      "несутъ": {
+      "несут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "несутъ"
+        "normal_form": "нести"
       }
     }
   ],
@@ -695,11 +697,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -714,15 +716,16 @@
       }
     },
     {
-      "бьютъ": {
+      "бьют": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "бьютъ"
+        "normal_form": "бить"
       }
     }
   ],

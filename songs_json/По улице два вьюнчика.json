@@ -439,7 +439,7 @@
       }
     },
     {
-      "подьячій": {
+      "подьячй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -447,7 +447,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "подьячіть"
+        "normal_form": "подьячть"
       }
     },
     {
@@ -629,7 +629,7 @@
       }
     },
     {
-      "подьячій": {
+      "подьячй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -637,7 +637,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "подьячіть"
+        "normal_form": "подьячть"
       }
     },
     {
@@ -801,11 +801,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -833,15 +833,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     }
   ]

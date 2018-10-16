@@ -147,15 +147,13 @@
       }
     },
     {
-      "зачемъ": {
+      "зачем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Ques",
+          "Prdx"
         ],
-        "normal_form": "зачемъ"
+        "normal_form": "зачем"
       }
     },
     {
@@ -211,15 +209,14 @@
       }
     },
     {
-      "невестъ": {
+      "невест": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "невестъ"
+        "normal_form": "невеста"
       }
     },
     {
@@ -361,27 +358,22 @@
       }
     },
     {
-      "вотъ": {
+      "вот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRCL"
         ],
-        "normal_form": "вотъ"
+        "normal_form": "вот"
       }
     },
     {
-      "женишокъ": {
+      "женишок": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "женишокъ"
+        "normal_form": "женишок"
       }
     }
   ],
@@ -407,15 +399,15 @@
       }
     },
     {
-      "хорошенькій": {
+      "хорошеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "хорошенькіть"
+        "normal_form": "хорошенька"
       }
     },
     {
@@ -461,15 +453,14 @@
       }
     },
     {
-      "сертучокъ": {
+      "сертучок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сертучокъ"
+        "normal_form": "сертучок"
       }
     },
     {
@@ -514,27 +505,22 @@
       }
     },
     {
-      "вотъ": {
+      "вот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRCL"
         ],
-        "normal_form": "вотъ"
+        "normal_form": "вот"
       }
     },
     {
-      "сертучокъ": {
+      "сертучок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сертучокъ"
+        "normal_form": "сертучок"
       }
     }
   ],
@@ -668,15 +654,13 @@
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {
@@ -691,15 +675,16 @@
       }
     },
     {
-      "принесетъ": {
+      "принесет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "принесетъ"
+        "normal_form": "принести"
       }
     }
   ],
@@ -770,15 +755,13 @@
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {
@@ -837,15 +820,13 @@
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {

@@ -205,15 +205,14 @@
       }
     },
     {
-      "старымъ": {
+      "старым": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "старымъ"
+        "normal_form": "старое"
       }
     },
     {
@@ -348,15 +347,14 @@
       }
     },
     {
-      "малымъ": {
+      "малым": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "малымъ"
+        "normal_form": "малое"
       }
     },
     {
@@ -406,15 +404,14 @@
       }
     },
     {
-      "малымъ": {
+      "малым": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "neut sing",
+          "ablt"
         ],
-        "normal_form": "малымъ"
+        "normal_form": "малое"
       }
     },
     {
@@ -444,15 +441,11 @@
       }
     },
     {
-      "векъ": {
+      "век": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "векъ"
+        "normal_form": "век"
       }
     },
     {

@@ -295,13 +295,12 @@
       }
     },
     {
-      "нехорошія": {
+      "нехорош": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "нехорошіть"
+        "normal_form": "нехороший"
       }
     }
   ],
@@ -506,12 +505,11 @@
       }
     },
     {
-      "пріубраннаго": {
+      "пр": {
         "OpencorporaTag": [
-          "ADJS neut",
-          "sing"
+          "UNKN"
         ],
-        "normal_form": "пріубраннагой"
+        "normal_form": "пр"
       }
     }
   ],
@@ -914,7 +912,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -922,7 +920,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {

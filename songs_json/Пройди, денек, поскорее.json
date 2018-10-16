@@ -240,11 +240,16 @@
       }
     },
     {
-      "мір": {
+      "м": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "мір"
+        "normal_form": "метр"
       }
     },
     {
@@ -273,11 +278,11 @@
       }
     },
     {
-      "мір": {
+      "мъ": {
         "OpencorporaTag": [
           "UNKN"
         ],
-        "normal_form": "мір"
+        "normal_form": "мъ"
       }
     },
     {
@@ -354,11 +359,11 @@
   ],
   [
     {
-      "мір": {
+      "мъ": {
         "OpencorporaTag": [
           "UNKN"
         ],
-        "normal_form": "мір"
+        "normal_form": "мъ"
       }
     },
     {
@@ -662,16 +667,11 @@
       }
     },
     {
-      "пріемну": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріемять"
+        "normal_form": "пр"
       }
     }
   ],

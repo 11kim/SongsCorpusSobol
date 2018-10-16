@@ -675,14 +675,15 @@
       }
     },
     {
-      "серенькіе": {
+      "сереньк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "серенькі"
+        "normal_form": "серенька"
       }
     }
   ],
@@ -699,14 +700,15 @@
       }
     },
     {
-      "маленькіе": {
+      "маленьк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "маленькі"
+        "normal_form": "маленька"
       }
     }
   ],

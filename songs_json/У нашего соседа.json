@@ -1249,7 +1249,7 @@
   ],
   [
     {
-      "этакій": {
+      "этакй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1257,7 +1257,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "этакіть"
+        "normal_form": "этакть"
       }
     },
     {
@@ -4000,7 +4000,7 @@
       }
     },
     {
-      "горючій": {
+      "горючй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4008,7 +4008,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "горючіть"
+        "normal_form": "горючть"
       }
     },
     {
@@ -4045,14 +4045,17 @@
       }
     },
     {
-      "арміи": {
+      "арми": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "anim",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Name sing",
+          "nomn"
         ],
-        "normal_form": "арміь"
+        "normal_form": "арми"
       }
     },
     {
@@ -4615,13 +4618,13 @@
       }
     },
     {
-      "армія": {
+      "армя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
-          "tran pres"
+          "intr pres"
         ],
-        "normal_form": "арміть"
+        "normal_form": "армить"
       }
     },
     {

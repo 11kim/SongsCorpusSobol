@@ -1,14 +1,14 @@
 [
   [
     {
-      "ѣхал": {
+      "хал": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn plur",
           "gent"
         ],
-        "normal_form": "ѣхала"
+        "normal_form": "хала"
       }
     },
     {
@@ -320,13 +320,15 @@
   ],
   [
     {
-      "немецкіим": {
+      "немецкъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "немецкіий"
+        "normal_form": "немецкъ"
       }
     },
     {
@@ -759,15 +761,14 @@
       }
     },
     {
-      "молодчикъ": {
+      "молодчик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодчикъ"
+        "normal_form": "молодчик"
       }
     },
     {
@@ -1328,15 +1329,14 @@
       }
     },
     {
-      "молодчикъ": {
+      "молодчик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодчикъ"
+        "normal_form": "молодчик"
       }
     },
     {

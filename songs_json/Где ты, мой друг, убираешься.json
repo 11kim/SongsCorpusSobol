@@ -134,15 +134,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     }
   ],
@@ -234,14 +233,16 @@
       }
     },
     {
-      "жаркіе": {
+      "жарк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "masc",
+          "Sgtm",
+          "Surn sing",
+          "nomn"
         ],
-        "normal_form": "жаркі"
+        "normal_form": "жарк"
       }
     },
     {
@@ -255,14 +256,15 @@
       }
     },
     {
-      "петровскіе": {
+      "петровск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "петровскі"
+        "normal_form": "петровск"
       }
     }
   ],
@@ -301,27 +303,28 @@
       }
     },
     {
-      "крещенскіе": {
+      "крещенск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "крещенскі"
+        "normal_form": "крещенск"
       }
     }
   ],
   [
     {
-      "глубокіе": {
+      "глубоке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "masc sing",
           "loct"
         ],
-        "normal_form": "глубокі"
+        "normal_form": "глубок"
       }
     },
     {
@@ -810,39 +813,35 @@
       }
     },
     {
-      "даромъ": {
+      "даром": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "даромъ"
+        "normal_form": "даром"
       }
     },
     {
-      "свистъ": {
+      "свист": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "свистъ"
+        "normal_form": "свист"
       }
     },
     {
-      "пропалъ": {
+      "пропал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пропалъ"
+        "normal_form": "пропасть"
       }
     }
   ],
@@ -1183,14 +1182,15 @@
       }
     },
     {
-      "немецкіе": {
+      "немецк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "немецкі"
+        "normal_form": "немецк"
       }
     }
   ],

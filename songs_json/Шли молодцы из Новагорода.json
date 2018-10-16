@@ -440,15 +440,16 @@
       }
     },
     {
-      "засеялъ": {
+      "засеял": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "засеялъ"
+        "normal_form": "засеять"
       }
     },
     {
@@ -1298,7 +1299,7 @@
       }
     },
     {
-      "девичій": {
+      "девичй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1306,7 +1307,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "девичіть"
+        "normal_form": "девичть"
       }
     },
     {

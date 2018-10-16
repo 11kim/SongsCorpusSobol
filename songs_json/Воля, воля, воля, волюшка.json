@@ -142,27 +142,25 @@
       }
     },
     {
-      "краснымъ": {
+      "красным": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "ablt"
         ],
-        "normal_form": "краснымъ"
+        "normal_form": "красный"
       }
     },
     {
-      "девушкамъ": {
+      "девушкам": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn plur",
+          "datv"
         ],
-        "normal_form": "девушкамъ"
+        "normal_form": "девушка"
       }
     },
     {
@@ -1126,15 +1124,14 @@
       }
     },
     {
-      "отецъ": {
+      "отец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "отецъ"
+        "normal_form": "отец"
       }
     },
     {
@@ -1283,15 +1280,13 @@
       }
     },
     {
-      "худыхъ": {
+      "худых": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual plur",
+          "gent"
         ],
-        "normal_form": "худыхъ"
+        "normal_form": "худой"
       }
     },
     {
@@ -2013,7 +2008,7 @@
       }
     },
     {
-      "тонкій": {
+      "тонкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2021,7 +2016,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тонкіть"
+        "normal_form": "тонкть"
       }
     },
     {

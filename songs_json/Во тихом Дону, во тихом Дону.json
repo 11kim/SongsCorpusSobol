@@ -226,14 +226,15 @@
   ],
   [
     {
-      "донскіе": {
+      "донске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "донскі"
+        "normal_form": "донск"
       }
     },
     {
@@ -250,13 +251,13 @@
   ],
   [
     {
-      "татарскія": {
+      "татарскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "татарскіть"
+        "normal_form": "татарскть"
       }
     },
     {
@@ -311,7 +312,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -319,7 +320,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -372,15 +373,15 @@
       }
     },
     {
-      "русскій": {
+      "русск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "русскіть"
+        "normal_form": "русск"
       }
     }
   ],
@@ -708,15 +709,15 @@
       }
     },
     {
-      "василій": {
+      "васил": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "masc",
+          "Name sing",
+          "nomn"
         ],
-        "normal_form": "василіть"
+        "normal_form": "васил"
       }
     }
   ],
@@ -1335,7 +1336,7 @@
       }
     },
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1343,18 +1344,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
-      "донъ-река": {
+      "дон-река": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "донъ-река"
+        "normal_form": "дон-река"
       }
     },
     {
@@ -1757,7 +1758,7 @@
   ],
   [
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1765,7 +1766,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {
@@ -1796,7 +1797,7 @@
   ],
   [
     {
-      "тихій": {
+      "тихй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1804,7 +1805,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тихіть"
+        "normal_form": "тихть"
       }
     },
     {

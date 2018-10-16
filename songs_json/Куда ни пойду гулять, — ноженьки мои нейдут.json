@@ -74,15 +74,16 @@
       }
     },
     {
-      "нейдутъ": {
+      "нейдут": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "нейдутъ"
+        "normal_form": "нейти"
       }
     }
   ],
@@ -179,15 +180,16 @@
       }
     },
     {
-      "глядятъ": {
+      "глядят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "глядятъ"
+        "normal_form": "глядеть"
       }
     }
   ],
@@ -565,13 +567,13 @@
       }
     },
     {
-      "горькія": {
+      "горькя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "горькіть"
+        "normal_form": "горькть"
       }
     },
     {

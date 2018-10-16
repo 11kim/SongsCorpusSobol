@@ -243,14 +243,14 @@
       }
     },
     {
-      "ворам-міроедам": {
+      "ворам-м": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc plur",
           "datv"
         ],
-        "normal_form": "вор-міроед"
+        "normal_form": "вор-метр"
       }
     }
   ],
@@ -478,15 +478,11 @@
       }
     },
     {
-      "дакъ": {
+      "дак": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "дакъ"
+        "normal_form": "дак"
       }
     },
     {
@@ -594,7 +590,7 @@
   ],
   [
     {
-      "один-одинакій": {
+      "один-одинакй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -602,7 +598,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "один-одинакіть"
+        "normal_form": "один-одинакть"
       }
     },
     {
@@ -806,14 +802,11 @@
       }
     },
     {
-      "міру": {
+      "му": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "datv"
+          "INTJ"
         ],
-        "normal_form": "мір"
+        "normal_form": "му"
       }
     },
     {

@@ -51,7 +51,7 @@
       }
     },
     {
-      "ѳедей": {
+      "едей": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
@@ -59,7 +59,7 @@
           "Name plur",
           "gent"
         ],
-        "normal_form": "ѳедея"
+        "normal_form": "едея"
       }
     },
     {
@@ -118,14 +118,14 @@
       }
     },
     {
-      "марѳу": {
+      "мару": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "femn sing",
+          "accs"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -187,14 +187,14 @@
       }
     },
     {
-      "марѳу": {
+      "мару": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "femn sing",
+          "accs"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -232,14 +232,14 @@
       }
     },
     {
-      "ѳединька": {
+      "единька": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "ѳединька"
+        "normal_form": "единька"
       }
     },
     {
@@ -271,14 +271,14 @@
       }
     },
     {
-      "марѳу": {
+      "мару": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "femn sing",
+          "accs"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -313,14 +313,14 @@
       }
     },
     {
-      "марѳа": {
+      "мар": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "femn plur",
           "gent"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -415,14 +415,14 @@
   ],
   [
     {
-      "марѳа": {
+      "мара": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "gent"
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -510,12 +510,14 @@
       }
     },
     {
-      "марѳонька": {
+      "мара": {
         "OpencorporaTag": [
-          "ADJS femn",
-          "sing"
+          "NOUN",
+          "inan",
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "марѳонький"
+        "normal_form": "мара"
       }
     },
     {
@@ -561,14 +563,14 @@
       }
     },
     {
-      "ѳединька": {
+      "единька": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "ѳединька"
+        "normal_form": "единька"
       }
     },
     {
@@ -630,14 +632,14 @@
   ],
   [
     {
-      "марѳа": {
+      "мара": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "gent"
+          "femn sing",
+          "nomn"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -808,14 +810,14 @@
       }
     },
     {
-      "марѳу": {
+      "мар": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -853,13 +855,13 @@
       }
     },
     {
-      "ѳедя": {
+      "едя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "ѳесть"
+        "normal_form": "есть"
       }
     },
     {
@@ -871,13 +873,15 @@
       }
     },
     {
-      "марѳой": {
+      "марй": {
         "OpencorporaTag": [
-          "ADJF femn",
-          "sing",
-          "gent"
+          "VERB",
+          "impf",
+          "tran sing",
+          "impr",
+          "excl"
         ],
-        "normal_form": "марѳий"
+        "normal_form": "марть"
       }
     },
     {
@@ -915,14 +919,14 @@
       }
     },
     {
-      "марѳу": {
+      "мару": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "femn sing",
+          "accs"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -950,14 +954,11 @@
   ],
   [
     {
-      "ѳедю": {
+      "едю": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc sing",
-          "datv"
+          "UNKN"
         ],
-        "normal_form": "ѳедь"
+        "normal_form": "едю"
       }
     },
     {
@@ -1043,25 +1044,25 @@
       }
     },
     {
-      "ѳединька": {
+      "единька": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "ѳединька"
+        "normal_form": "единька"
       }
     },
     {
-      "марѳу": {
+      "мару": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "femn sing",
+          "accs"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -1277,14 +1278,14 @@
       }
     },
     {
-      "ѳединька": {
+      "единька": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "ѳединька"
+        "normal_form": "единька"
       }
     },
     {
@@ -1516,14 +1517,14 @@
       }
     },
     {
-      "марѳу": {
+      "мару": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "datv"
+          "femn sing",
+          "accs"
         ],
-        "normal_form": "марѳ"
+        "normal_form": "мара"
       }
     },
     {
@@ -1556,15 +1557,14 @@
       }
     },
     {
-      "недосугъ": {
+      "недосуг": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "недосугъ"
+        "normal_form": "недосуг"
       }
     },
     {

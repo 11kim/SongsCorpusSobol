@@ -22,7 +22,7 @@
       }
     },
     {
-      "сельскій": {
+      "сельскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -30,7 +30,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сельскіть"
+        "normal_form": "сельскть"
       }
     },
     {
@@ -153,15 +153,12 @@
       }
     },
     {
-      "радъ": {
+      "рад": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "радъ"
+        "normal_form": "рад"
       }
     },
     {
@@ -204,15 +201,14 @@
       }
     },
     {
-      "гостинецъ": {
+      "гостинец": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "гостинецъ"
+        "normal_form": "гостинец"
       }
     },
     {
@@ -624,15 +620,11 @@
       }
     },
     {
-      "подъ": {
+      "под": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "подъ"
+        "normal_form": "под"
       }
     },
     {

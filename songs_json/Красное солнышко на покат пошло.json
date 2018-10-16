@@ -645,27 +645,27 @@
       }
     },
     {
-      "садъ": {
+      "сад": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "садъ"
+        "normal_form": "сад"
       }
     },
     {
-      "садитъ": {
+      "садит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "садитъ"
+        "normal_form": "садить"
       }
     }
   ],
@@ -719,27 +719,27 @@
       }
     },
     {
-      "макъ": {
+      "мак": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "макъ"
+        "normal_form": "мак"
       }
     },
     {
-      "цвететъ": {
+      "цветет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "цвететъ"
+        "normal_form": "цвести"
       }
     }
   ],
@@ -782,15 +782,13 @@
       }
     },
     {
-      "пьянъ": {
+      "пьян": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "пьянъ"
+        "normal_form": "пьяный"
       }
     },
     {

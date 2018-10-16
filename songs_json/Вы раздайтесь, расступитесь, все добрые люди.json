@@ -313,15 +313,16 @@
       }
     },
     {
-      "кричитъ-вопитъ": {
+      "кричит-вопит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "кричитъ-вопитъ"
+        "normal_form": "кричать-вопить"
       }
     }
   ],
@@ -379,15 +380,16 @@
       }
     },
     {
-      "воскликаетъ": {
+      "воскликает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "воскликаетъ"
+        "normal_form": "воскликать"
       }
     }
   ],
@@ -484,13 +486,13 @@
       }
     },
     {
-      "широкія": {
+      "широкя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {
@@ -1122,14 +1124,14 @@
       }
     },
     {
-      "крепкіе": {
+      "крепке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "крепкі"
+        "normal_form": "крепка"
       }
     },
     {
@@ -1152,14 +1154,15 @@
       }
     },
     {
-      "дикіе": {
+      "дике": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
+          "anim",
+          "masc",
+          "Name sing",
           "loct"
         ],
-        "normal_form": "дикі"
+        "normal_form": "дик"
       }
     },
     {

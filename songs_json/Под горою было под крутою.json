@@ -202,7 +202,7 @@
       }
     },
     {
-      "старшій": {
+      "старшй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -210,7 +210,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "старшіть"
+        "normal_form": "старшть"
       }
     },
     {
@@ -443,15 +443,14 @@
       }
     },
     {
-      "братецъ": {
+      "братец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "братецъ"
+        "normal_form": "братец"
       }
     },
     {
@@ -549,14 +548,15 @@
       }
     },
     {
-      "горскіе": {
+      "горск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "горскі"
+        "normal_form": "горск"
       }
     }
   ],
@@ -771,15 +771,14 @@
       }
     },
     {
-      "мечъ": {
+      "меч": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мечъ"
+        "normal_form": "меч"
       }
     },
     {

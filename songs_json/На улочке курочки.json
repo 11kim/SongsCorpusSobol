@@ -132,14 +132,14 @@
       }
     },
     {
-      "дорогіе": {
+      "дорог": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "дорогі"
+        "normal_form": "дорога"
       }
     },
     {
@@ -778,7 +778,7 @@
       }
     },
     {
-      "гвардейскій": {
+      "гвардейскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -786,7 +786,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "гвардейскіть"
+        "normal_form": "гвардейскть"
       }
     },
     {
@@ -1180,15 +1180,12 @@
       }
     },
     {
-      "нетъ": {
+      "нет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRED",
+          "pres"
         ],
-        "normal_form": "нетъ"
+        "normal_form": "нет"
       }
     },
     {

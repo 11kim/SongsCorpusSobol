@@ -199,11 +199,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -218,27 +218,26 @@
       }
     },
     {
-      "городъ": {
+      "город": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "городъ"
+        "normal_form": "город"
       }
     },
     {
-      "петербургъ": {
+      "петербург": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Fixd sing",
+          "Geox sing",
           "nomn"
         ],
-        "normal_form": "петербургъ"
+        "normal_form": "петербург"
       }
     }
   ]

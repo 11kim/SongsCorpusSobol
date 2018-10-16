@@ -56,15 +56,14 @@
       }
     },
     {
-      "глыбокій": {
+      "глыбок": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "глыбокіть"
+        "normal_form": "глыбок"
       }
     }
   ],
@@ -172,15 +171,16 @@
       }
     },
     {
-      "выпивалъ": {
+      "выпивал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "выпивалъ"
+        "normal_form": "выпивать"
       }
     },
     {
@@ -206,15 +206,16 @@
       }
     },
     {
-      "выпивалъ": {
+      "выпивал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "выпивалъ"
+        "normal_form": "выпивать"
       }
     }
   ],
@@ -432,16 +433,11 @@
   ],
   [
     {
-      "пріехал": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пръ"
       }
     },
     {
@@ -467,16 +463,11 @@
       }
     },
     {
-      "пріехал": {
+      "пръ": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пръ"
       }
     },
     {

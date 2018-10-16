@@ -859,13 +859,15 @@
       }
     },
     {
-      "русскія": {
+      "русск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "русскіть"
+        "normal_form": "русск"
       }
     }
   ],
@@ -887,13 +889,15 @@
       }
     },
     {
-      "русскія": {
+      "русск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "русскіть"
+        "normal_form": "русск"
       }
     },
     {
@@ -905,13 +909,16 @@
       }
     },
     {
-      "шведскія": {
+      "шведск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Fixd",
+          "Orgn sing",
+          "nomn"
         ],
-        "normal_form": "шведскіть"
+        "normal_form": "шведск"
       }
     }
   ],

@@ -224,7 +224,7 @@
       }
     },
     {
-      "высокій": {
+      "высокй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -232,7 +232,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокть"
       }
     },
     {
@@ -801,15 +801,16 @@
       }
     },
     {
-      "дрожитъ": {
+      "дрожит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "дрожитъ"
+        "normal_form": "дрожать"
       }
     }
   ],
@@ -855,27 +856,27 @@
       }
     },
     {
-      "колоколъ": {
+      "колокол": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "колоколъ"
+        "normal_form": "колокол"
       }
     },
     {
-      "звенитъ": {
+      "звенит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "звенитъ"
+        "normal_form": "звенеть"
       }
     }
   ],

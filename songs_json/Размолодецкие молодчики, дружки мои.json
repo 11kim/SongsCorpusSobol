@@ -1,14 +1,15 @@
 [
   [
     {
-      "размолодецкіе": {
+      "размолодецке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "размолодецкі"
+        "normal_form": "размолодецк"
       }
     },
     {
@@ -75,14 +76,14 @@
       }
     },
     {
-      "распріятливыя": {
+      "распря": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
           "femn sing",
           "nomn"
         ],
-        "normal_form": "распріятливыя"
+        "normal_form": "распря"
       }
     },
     {
@@ -538,15 +539,15 @@
       }
     },
     {
-      "разлюбезненькій": {
+      "разлюбезненьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "разлюбезненькіть"
+        "normal_form": "разлюбезненька"
       }
     },
     {
@@ -708,7 +709,7 @@
       }
     },
     {
-      "кругленькій": {
+      "кругленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -716,7 +717,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "кругленькіть"
+        "normal_form": "кругленькть"
       }
     },
     {

@@ -816,27 +816,24 @@
       }
     },
     {
-      "тынъ": {
+      "тын": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "тынъ"
+        "normal_form": "тын"
       }
     },
     {
-      "высокъ": {
+      "высок": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "высокъ"
+        "normal_form": "высокий"
       }
     }
   ],

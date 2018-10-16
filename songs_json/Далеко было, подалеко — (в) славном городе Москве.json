@@ -40,23 +40,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "славномъ": {
+      "славном": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "славномъ"
+        "normal_form": "славный"
       }
     },
     {
@@ -219,7 +218,7 @@
       }
     },
     {
-      "волфонскій": {
+      "волфонскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -227,7 +226,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волфонскіть"
+        "normal_form": "волфонскть"
       }
     },
     {
@@ -264,15 +263,11 @@
       }
     },
     {
-      "о)дин": {
+      "оъ": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "о)дин"
+        "normal_form": "оъ"
       }
     },
     {
@@ -305,11 +300,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -624,7 +619,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -632,7 +627,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -724,7 +719,7 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -732,7 +727,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонскть"
       }
     },
     {
@@ -1180,14 +1175,11 @@
       }
     },
     {
-      "се(ло)м": {
+      "се": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "се(ло)м"
+        "normal_form": "се"
       }
     },
     {
@@ -1467,15 +1459,15 @@
       }
     },
     {
-      "зелененькій": {
+      "зелененьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "зелененькіть"
+        "normal_form": "зелененька"
       }
     }
   ],
@@ -1537,14 +1529,11 @@
   ],
   [
     {
-      "к(ак": {
+      "къ": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "к(ак"
+        "normal_form": "къ"
       }
     },
     {
@@ -1642,13 +1631,13 @@
   ],
   [
     {
-      "лександ(р)ицкая": {
+      "лександя": {
         "OpencorporaTag": [
-          "ADJF femn",
-          "sing",
-          "nomn"
+          "GRND",
+          "impf",
+          "tran pres"
         ],
-        "normal_form": "лександ(р)ицкий"
+        "normal_form": "лександить"
       }
     },
     {
@@ -1684,13 +1673,14 @@
       }
     },
     {
-      "слов(н)о": {
+      "слово": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual neut",
-          "sing"
+          "NOUN",
+          "inan",
+          "neut sing",
+          "nomn"
         ],
-        "normal_form": "слов(н)ый"
+        "normal_form": "слово"
       }
     },
     {
@@ -1745,7 +1735,7 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1753,7 +1743,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонскть"
       }
     },
     {
@@ -2287,23 +2277,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "славномъ": {
+      "славном": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF",
+          "Qual masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "славномъ"
+        "normal_form": "славный"
       }
     },
     {
@@ -2409,7 +2398,7 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -2417,7 +2406,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонскть"
       }
     },
     {
@@ -3306,7 +3295,7 @@
       }
     },
     {
-      "волхонскій": {
+      "волхонскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -3314,7 +3303,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "волхонскіть"
+        "normal_form": "волхонскть"
       }
     },
     {
@@ -3521,13 +3510,13 @@
       }
     },
     {
-      "глубокія": {
+      "глубок": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "глубокіть"
+        "normal_form": "глубокий"
       }
     }
   ],

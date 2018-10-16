@@ -247,14 +247,15 @@
       }
     },
     {
-      "россіи": {
+      "росси": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
+          "anim",
+          "femn",
+          "Name sing",
           "gent"
         ],
-        "normal_form": "россіь"
+        "normal_form": "росся"
       }
     },
     {
@@ -790,7 +791,7 @@
       }
     },
     {
-      "тальянскій": {
+      "тальянскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -798,7 +799,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "тальянскіть"
+        "normal_form": "тальянскть"
       }
     },
     {

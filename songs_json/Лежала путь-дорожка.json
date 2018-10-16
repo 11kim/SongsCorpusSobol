@@ -281,7 +281,7 @@
       }
     },
     {
-      "казачій": {
+      "казачй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -289,7 +289,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "казачіть"
+        "normal_form": "казачть"
       }
     },
     {
@@ -931,16 +931,15 @@
       }
     },
     {
-      "попріутих": {
+      "попр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "intr masc",
-          "sing",
-          "past",
-          "indc"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "попріутихнуть"
+        "normal_form": "попр"
       }
     }
   ],
@@ -1438,14 +1437,14 @@
   ],
   [
     {
-      "казачіи": {
+      "казачи": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "anim",
+          "masc plur",
+          "nomn"
         ],
-        "normal_form": "казачіь"
+        "normal_form": "казач"
       }
     },
     {

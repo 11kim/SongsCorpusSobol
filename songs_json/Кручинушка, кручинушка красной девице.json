@@ -90,7 +90,7 @@
       }
     },
     {
-      "сердечній": {
+      "сердечнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -98,7 +98,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "сердечніть"
+        "normal_form": "сердечнть"
       }
     },
     {
@@ -170,13 +170,14 @@
       }
     },
     {
-      "разбестія": {
+      "разбест": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "разбестіть"
+        "normal_form": "разбест"
       }
     },
     {
@@ -512,14 +513,15 @@
       }
     },
     {
-      "московскіе": {
+      "московске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "московскі"
+        "normal_form": "московск"
       }
     },
     {
@@ -688,14 +690,15 @@
       }
     },
     {
-      "московскіе": {
+      "московске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "московскі"
+        "normal_form": "московск"
       }
     },
     {
@@ -1053,15 +1056,14 @@
       }
     },
     {
-      "молодцемъ": {
+      "молодцем": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "молодцемъ"
+        "normal_form": "молодец"
       }
     },
     {

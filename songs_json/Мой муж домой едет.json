@@ -255,16 +255,11 @@
       }
     },
     {
-      "пріезжает": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr sing",
-          "3per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -488,11 +483,11 @@
       }
     },
     {
-      "ужъ": {
+      "уж": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADVB"
         ],
-        "normal_form": "ужъ"
+        "normal_form": "уж"
       }
     },
     {
@@ -506,15 +501,14 @@
       }
     },
     {
-      "мужъ-мужишко": {
+      "муж-мужишко": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ-мужишко"
+        "normal_form": "муж-мужишко"
       }
     }
   ],
@@ -902,15 +896,14 @@
       }
     },
     {
-      "мужъ-мужишко": {
+      "муж-мужишко": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мужъ-мужишко"
+        "normal_form": "муж-мужишко"
       }
     }
   ],

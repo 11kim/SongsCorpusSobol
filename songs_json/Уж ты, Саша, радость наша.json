@@ -56,13 +56,16 @@
   ],
   [
     {
-      "пріуныла": {
+      "пра": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual femn",
-          "sing"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріунылый"
+        "normal_form": "пра"
       }
     },
     {
@@ -121,13 +124,16 @@
       }
     },
     {
-      "пріуныла": {
+      "пра": {
         "OpencorporaTag": [
-          "ADJS",
-          "Qual femn",
-          "sing"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "пріунылый"
+        "normal_form": "пра"
       }
     },
     {
@@ -545,7 +551,7 @@
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -553,7 +559,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -610,15 +616,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     }
   ],

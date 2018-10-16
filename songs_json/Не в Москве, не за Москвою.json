@@ -165,7 +165,7 @@
       }
     },
     {
-      "божій": {
+      "божй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -173,7 +173,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "божіть"
+        "normal_form": "божть"
       }
     },
     {
@@ -1421,15 +1421,11 @@
       }
     },
     {
-      "сіянье": {
+      "с": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "neut sing",
-          "nomn",
-          "V-be"
+          "PREP"
         ],
-        "normal_form": "сіяние"
+        "normal_form": "с"
       }
     },
     {

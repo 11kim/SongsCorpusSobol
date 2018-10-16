@@ -1320,7 +1320,7 @@
       }
     },
     {
-      "горькій": {
+      "горькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1328,7 +1328,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "горькіть"
+        "normal_form": "горькть"
       }
     },
     {
@@ -1650,23 +1650,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "горохъ": {
+      "горох": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "горохъ"
+        "normal_form": "горох"
       }
     },
     {

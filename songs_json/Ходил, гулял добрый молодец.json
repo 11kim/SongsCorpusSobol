@@ -224,14 +224,15 @@
       }
     },
     {
-      "барскіе": {
+      "барск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "барскі"
+        "normal_form": "барск"
       }
     }
   ],
@@ -651,14 +652,15 @@
       }
     },
     {
-      "немецкіе": {
+      "немецк": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "немецкі"
+        "normal_form": "немецк"
       }
     }
   ],
@@ -827,27 +829,24 @@
       }
     },
     {
-      "милыихъ": {
+      "милыих": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF plur",
+          "gent"
         ],
-        "normal_form": "милыихъ"
+        "normal_form": "милыий"
       }
     },
     {
-      "детушекъ": {
+      "детушек": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "GNdr",
+          "Pltm plur",
+          "gent"
         ],
-        "normal_form": "детушекъ"
+        "normal_form": "детушки"
       }
     }
   ],
@@ -1020,35 +1019,33 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "сыръ": {
+      "сыр": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сыръ"
+        "normal_form": "сыр"
       }
     },
     {
-      "боръ": {
+      "бор": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "боръ"
+        "normal_form": "бора"
       }
     },
     {

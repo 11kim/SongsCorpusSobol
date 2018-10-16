@@ -410,15 +410,16 @@
       }
     },
     {
-      "велелъ": {
+      "велел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "велелъ"
+        "normal_form": "велеть"
       }
     },
     {
@@ -630,15 +631,14 @@
       }
     },
     {
-      "сынъ": {
+      "сын": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "сынъ"
+        "normal_form": "сын"
       }
     }
   ],
@@ -664,16 +664,11 @@
       }
     },
     {
-      "пріедет": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr sing",
-          "3per",
-          "pres",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріехать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -903,14 +898,11 @@
       }
     },
     {
-      "міру": {
+      "му": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "datv"
+          "INTJ"
         ],
-        "normal_form": "мір"
+        "normal_form": "му"
       }
     },
     {
@@ -940,14 +932,11 @@
       }
     },
     {
-      "міру": {
+      "му": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "datv"
+          "INTJ"
         ],
-        "normal_form": "мір"
+        "normal_form": "му"
       }
     },
     {

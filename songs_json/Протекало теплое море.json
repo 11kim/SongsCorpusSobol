@@ -361,13 +361,15 @@
       }
     },
     {
-      "морскія": {
+      "морск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "морскіть"
+        "normal_form": "морск"
       }
     }
   ],
@@ -420,14 +422,14 @@
       }
     },
     {
-      "большіе": {
+      "больш": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "больші"
+        "normal_form": "больша"
       }
     }
   ],
@@ -480,14 +482,14 @@
       }
     },
     {
-      "меньшіе": {
+      "меньш": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "меньші"
+        "normal_form": "меньша"
       }
     }
   ],
@@ -595,13 +597,13 @@
       }
     },
     {
-      "русскія": {
+      "русскя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "русскіть"
+        "normal_form": "русскть"
       }
     },
     {
@@ -658,13 +660,14 @@
       }
     },
     {
-      "большія": {
+      "больш": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "большіть"
+        "normal_form": "больша"
       }
     }
   ],
@@ -710,13 +713,14 @@
       }
     },
     {
-      "меньшія": {
+      "меньш": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "меньшіть"
+        "normal_form": "меньша"
       }
     }
   ],
@@ -813,15 +817,12 @@
       }
     },
     {
-      "подьячій": {
+      "подьяч": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "подьячіть"
+        "normal_form": "подьячий"
       }
     }
   ],
@@ -865,15 +866,14 @@
       }
     },
     {
-      "целовальникъ": {
+      "целовальник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "целовальникъ"
+        "normal_form": "целовальник"
       }
     }
   ],
@@ -917,15 +917,14 @@
       }
     },
     {
-      "водоливецъ": {
+      "водоливец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "водоливецъ"
+        "normal_form": "водоливец"
       }
     }
   ],
@@ -939,13 +938,13 @@
       }
     },
     {
-      "долгія": {
+      "долгя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
-          "tran pres"
+          "intr pres"
         ],
-        "normal_form": "долгіть"
+        "normal_form": "долгать"
       }
     },
     {
@@ -1076,15 +1075,14 @@
       }
     },
     {
-      "живописецъ": {
+      "живописец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "живописецъ"
+        "normal_form": "живописец"
       }
     }
   ],
@@ -1139,15 +1137,14 @@
       }
     },
     {
-      "мастеръ": {
+      "мастер": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "мастеръ"
+        "normal_form": "мастер"
       }
     }
   ],
@@ -1230,13 +1227,13 @@
       }
     },
     {
-      "высокія": {
+      "высокя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокть"
       }
     },
     {
@@ -1400,13 +1397,13 @@
   ],
   [
     {
-      "высокія": {
+      "высокя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "высокіть"
+        "normal_form": "высокть"
       }
     },
     {
@@ -1935,15 +1932,14 @@
       }
     },
     {
-      "игуменъ": {
+      "игумен": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "игуменъ"
+        "normal_form": "игумен"
       }
     }
   ],
@@ -2329,15 +2325,14 @@
       }
     },
     {
-      "харчевникъ": {
+      "харчевник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "харчевникъ"
+        "normal_form": "харчевник"
       }
     }
   ],
@@ -2381,15 +2376,14 @@
       }
     },
     {
-      "плотникъ": {
+      "плотник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "плотникъ"
+        "normal_form": "плотник"
       }
     }
   ],
@@ -2547,15 +2541,14 @@
       }
     },
     {
-      "наездникъ": {
+      "наездник": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "наездникъ"
+        "normal_form": "наездник"
       }
     }
   ],
@@ -2682,15 +2675,14 @@
       }
     },
     {
-      "разсыльщикъ": {
+      "разсыльщик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "разсыльщикъ"
+        "normal_form": "разсыльщик"
       }
     }
   ],

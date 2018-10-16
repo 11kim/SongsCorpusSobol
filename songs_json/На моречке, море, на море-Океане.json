@@ -39,14 +39,14 @@
       }
     },
     {
-      "море-окіане": {
+      "море-ок": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "мор-окіана"
+        "normal_form": "море-ка"
       }
     }
   ],
@@ -60,14 +60,14 @@
       }
     },
     {
-      "море-окіане": {
+      "море-ок": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "мор-окіана"
+        "normal_form": "море-ка"
       }
     },
     {
@@ -964,7 +964,7 @@
   ],
   [
     {
-      "всякій": {
+      "всякй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -972,7 +972,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "всякіть"
+        "normal_form": "всякть"
       }
     },
     {
@@ -1457,11 +1457,11 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
@@ -1644,35 +1644,36 @@
       }
     },
     {
-      "дратовъ": {
+      "дратов": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "дратовъ"
+        "normal_form": "драт"
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
-      "дождевыхъ": {
+      "дождевых": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "GNdr",
+          "Ms-f",
+          "Pltm",
+          "Surn plur",
+          "gent"
         ],
-        "normal_form": "дождевыхъ"
+        "normal_form": "дождев"
       }
     },
     {
@@ -1864,11 +1865,11 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {
@@ -2074,11 +2075,11 @@
       }
     },
     {
-      "изъ": {
+      "из": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "изъ"
+        "normal_form": "из"
       }
     },
     {

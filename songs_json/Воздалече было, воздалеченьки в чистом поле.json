@@ -357,14 +357,15 @@
       }
     },
     {
-      "донскіе": {
+      "донске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "донскі"
+        "normal_form": "донск"
       }
     },
     {
@@ -389,7 +390,7 @@
       }
     },
     {
-      "старшій": {
+      "старшй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -397,7 +398,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "старшіть"
+        "normal_form": "старшть"
       }
     },
     {
@@ -459,7 +460,7 @@
   ],
   [
     {
-      "средній": {
+      "среднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -467,7 +468,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "средніть"
+        "normal_form": "среднть"
       }
     },
     {
@@ -528,7 +529,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -536,7 +537,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {

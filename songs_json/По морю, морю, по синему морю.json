@@ -621,15 +621,16 @@
       }
     },
     {
-      "беретъ": {
+      "берет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "беретъ"
+        "normal_form": "брать"
       }
     }
   ],
@@ -1388,15 +1389,16 @@
       }
     },
     {
-      "посвистываетъ": {
+      "посвистывает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "посвистываетъ"
+        "normal_form": "посвистывать"
       }
     }
   ],
@@ -1455,11 +1457,15 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
+          "NPRO",
+          "masc",
+          "3per",
+          "Anph sing",
+          "nomn"
         ],
-        "normal_form": "онъ"
+        "normal_form": "он"
       }
     },
     {
@@ -1474,15 +1480,16 @@
       }
     },
     {
-      "поетъ": {
+      "поет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "поетъ"
+        "normal_form": "петь"
       }
     }
   ],

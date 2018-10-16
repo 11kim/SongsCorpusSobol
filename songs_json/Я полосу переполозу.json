@@ -329,23 +329,21 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "почестномъ": {
+      "почестном": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJF masc",
+          "sing",
+          "loct"
         ],
-        "normal_form": "почестномъ"
+        "normal_form": "почестной"
       }
     },
     {
@@ -496,15 +494,11 @@
       }
     },
     {
-      "супротивъ": {
+      "супротив": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "супротивъ"
+        "normal_form": "супротив"
       }
     },
     {
@@ -734,35 +728,35 @@
       }
     },
     {
-      "анъ": {
+      "ан": {
         "OpencorporaTag": [
-          "UNKN"
+          "CONJ"
         ],
-        "normal_form": "анъ"
+        "normal_form": "ан"
       }
     },
     {
-      "рукавъ": {
+      "рукав": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "рукавъ"
+        "normal_form": "рукав"
       }
     },
     {
-      "трещитъ": {
+      "трещит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "трещитъ"
+        "normal_form": "трещать"
       }
     }
   ],

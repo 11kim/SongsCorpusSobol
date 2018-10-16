@@ -148,23 +148,27 @@
       }
     },
     {
-      "умъ": {
+      "ум": {
         "OpencorporaTag": [
-          "UNKN"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "умъ"
+        "normal_form": "ум"
       }
     },
     {
-      "нейдетъ": {
+      "нейдет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "нейдетъ"
+        "normal_form": "нейти"
       }
     }
   ],

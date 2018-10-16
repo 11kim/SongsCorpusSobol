@@ -224,15 +224,16 @@
   ],
   [
     {
-      "пріоденьте": {
+      "пре": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran plur",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "femn",
+          "Sgtm",
+          "Geox sing",
+          "datv"
         ],
-        "normal_form": "пріодеть"
+        "normal_form": "пра"
       }
     },
     {
@@ -247,15 +248,11 @@
       }
     },
     {
-      "пріокутайте": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "perf",
-          "tran plur",
-          "impr",
-          "excl"
+          "UNKN"
         ],
-        "normal_form": "пріокутать"
+        "normal_form": "пр"
       }
     }
   ],

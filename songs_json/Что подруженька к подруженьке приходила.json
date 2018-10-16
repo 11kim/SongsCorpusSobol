@@ -446,15 +446,17 @@
       }
     },
     {
-      "девичій": {
+      "девич": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Abbr sing",
+          "nomn"
         ],
-        "normal_form": "девичіть"
+        "normal_form": "девич"
       }
     }
   ],
@@ -565,15 +567,16 @@
       }
     },
     {
-      "воздыхаетъ": {
+      "воздыхает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "воздыхаетъ"
+        "normal_form": "воздыхать"
       }
     }
   ],
@@ -622,15 +625,16 @@
       }
     },
     {
-      "плачетъ": {
+      "плачет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "плачетъ"
+        "normal_form": "плакать"
       }
     }
   ],
@@ -665,15 +669,16 @@
       }
     },
     {
-      "возрыдаетъ": {
+      "возрыдает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "возрыдаетъ"
+        "normal_form": "возрыдать"
       }
     }
   ],

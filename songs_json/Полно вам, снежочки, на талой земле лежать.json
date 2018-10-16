@@ -218,13 +218,15 @@
       }
     },
     {
-      "турецкіим": {
+      "турецкъ": {
         "OpencorporaTag": [
-          "ADJF masc",
-          "sing",
-          "ablt"
+          "NOUN",
+          "anim",
+          "masc",
+          "Fixd sing",
+          "nomn"
         ],
-        "normal_form": "турецкіий"
+        "normal_form": "турецкъ"
       }
     },
     {
@@ -1103,15 +1105,16 @@
       }
     },
     {
-      "купимъ": {
+      "купим": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "купимъ"
+        "normal_form": "купить"
       }
     },
     {
@@ -1325,15 +1328,11 @@
       }
     },
     {
-      "запоемъ": {
+      "запоем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "запоемъ"
+        "normal_form": "запоем"
       }
     }
   ],

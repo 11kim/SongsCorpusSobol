@@ -887,15 +887,16 @@
       }
     },
     {
-      "взошелъ": {
+      "взошел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "взошелъ"
+        "normal_form": "взойти"
       }
     },
     {
@@ -1302,15 +1303,11 @@
       }
     },
     {
-      "вечоръ": {
+      "вечор": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "вечоръ"
+        "normal_form": "вечор"
       }
     },
     {
@@ -1708,7 +1705,7 @@
       }
     },
     {
-      "широкій": {
+      "широкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1716,7 +1713,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "широкіть"
+        "normal_form": "широкть"
       }
     },
     {

@@ -76,7 +76,7 @@
   ],
   [
     {
-      "генеральскій": {
+      "генеральскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -84,7 +84,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "генеральскіть"
+        "normal_form": "генеральскть"
       }
     },
     {
@@ -114,27 +114,27 @@
   ],
   [
     {
-      "генеральскій": {
+      "генеральск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "генеральскіть"
+        "normal_form": "генеральск"
       }
     },
     {
-      "капитанскій": {
+      "капитанск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "капитанскіть"
+        "normal_form": "капитанск"
       }
     }
   ],
@@ -754,11 +754,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {

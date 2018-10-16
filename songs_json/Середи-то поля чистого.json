@@ -626,13 +626,15 @@
       }
     },
     {
-      "немецкія": {
+      "немецк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "немецкіть"
+        "normal_form": "немецк"
       }
     }
   ],
@@ -657,14 +659,15 @@
       }
     },
     {
-      "королевскіе": {
+      "королевск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскі"
+        "normal_form": "королевск"
       }
     }
   ],
@@ -1068,13 +1071,15 @@
       }
     },
     {
-      "немецкія": {
+      "немецк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "немецкіть"
+        "normal_form": "немецк"
       }
     }
   ],
@@ -1099,14 +1104,15 @@
       }
     },
     {
-      "королевскіе": {
+      "королевск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "королевскі"
+        "normal_form": "королевск"
       }
     }
   ],

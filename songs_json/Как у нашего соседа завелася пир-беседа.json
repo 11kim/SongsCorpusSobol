@@ -427,15 +427,13 @@
       }
     },
     {
-      "міроеды": {
+      "мы": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn",
-          "Sgtm sing",
-          "gent"
+          "NPRO",
+          "1per plur",
+          "nomn"
         ],
-        "normal_form": "міроеда"
+        "normal_form": "мы"
       }
     },
     {
@@ -452,15 +450,13 @@
   ],
   [
     {
-      "міроеды": {
+      "мы": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn",
-          "Sgtm sing",
-          "gent"
+          "NPRO",
+          "1per plur",
+          "nomn"
         ],
-        "normal_form": "міроеда"
+        "normal_form": "мы"
       }
     },
     {
@@ -561,14 +557,14 @@
       }
     },
     {
-      "большіе": {
+      "больш": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "больші"
+        "normal_form": "больша"
       }
     }
   ],
@@ -595,14 +591,14 @@
       }
     },
     {
-      "большіе": {
+      "больш": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "больші"
+        "normal_form": "больша"
       }
     },
     {
@@ -1156,7 +1152,7 @@
       }
     },
     {
-      "татарскій": {
+      "татарскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1164,7 +1160,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "татарскіть"
+        "normal_form": "татарскть"
       }
     },
     {

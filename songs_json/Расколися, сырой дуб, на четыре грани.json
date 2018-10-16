@@ -293,15 +293,14 @@
       }
     },
     {
-      "грехамъ": {
+      "грехам": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc plur",
+          "datv"
         ],
-        "normal_form": "грехамъ"
+        "normal_form": "грех"
       }
     },
     {
@@ -370,15 +369,16 @@
       }
     },
     {
-      "затрясетъ": {
+      "затрясет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "затрясетъ"
+        "normal_form": "затрясти"
       }
     }
   ]

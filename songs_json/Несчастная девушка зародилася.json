@@ -436,7 +436,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -444,7 +444,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -776,7 +776,7 @@
   ],
   [
     {
-      "родименькій": {
+      "родименькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -784,7 +784,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "родименькіть"
+        "normal_form": "родименькть"
       }
     },
     {
@@ -1006,15 +1006,14 @@
       }
     },
     {
-      "теремъ": {
+      "терем": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "теремъ"
+        "normal_form": "терем"
       }
     }
   ],
@@ -1078,11 +1077,11 @@
       }
     },
     {
-      "съ": {
+      "с": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "съ"
+        "normal_form": "с"
       }
     },
     {
@@ -1097,15 +1096,11 @@
       }
     },
     {
-      "вонъ": {
+      "вон": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB"
         ],
-        "normal_form": "вонъ"
+        "normal_form": "вон"
       }
     }
   ]

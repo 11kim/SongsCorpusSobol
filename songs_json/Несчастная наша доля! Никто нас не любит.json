@@ -613,13 +613,14 @@
   ],
   [
     {
-      "разбестія": {
+      "разбест": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "разбестіть"
+        "normal_form": "разбест"
       }
     },
     {
@@ -662,11 +663,14 @@
       }
     },
     {
-      "по-россійски": {
+      "по-росс": {
         "OpencorporaTag": [
-          "ADVB"
+          "NOUN",
+          "anim",
+          "masc sing",
+          "nomn"
         ],
-        "normal_form": "по-россійски"
+        "normal_form": "по-росс"
       }
     }
   ],
@@ -1077,23 +1081,21 @@
       }
     },
     {
-      "васъ": {
+      "вас": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "accs"
         ],
-        "normal_form": "васъ"
+        "normal_form": "вы"
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -1285,11 +1287,11 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
@@ -1303,11 +1305,13 @@
       }
     },
     {
-      "бестія": {
+      "бестя": {
         "OpencorporaTag": [
-          "UNKN"
+          "GRND",
+          "impf",
+          "tran pres"
         ],
-        "normal_form": "бестія"
+        "normal_form": "бестить"
       }
     },
     {
@@ -1322,15 +1326,13 @@
       }
     },
     {
-      "зачемъ": {
+      "зачем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Ques",
+          "Prdx"
         ],
-        "normal_form": "зачемъ"
+        "normal_form": "зачем"
       }
     },
     {
@@ -1444,11 +1446,11 @@
       }
     },
     {
-      "жъ": {
+      "ж": {
         "OpencorporaTag": [
-          "UNKN"
+          "CONJ"
         ],
-        "normal_form": "жъ"
+        "normal_form": "ж"
       }
     },
     {
@@ -1584,15 +1586,14 @@
       }
     },
     {
-      "самъ": {
+      "сам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "ADJF",
+          "Apro masc",
+          "sing",
           "nomn"
         ],
-        "normal_form": "самъ"
+        "normal_form": "сам"
       }
     },
     {
@@ -1846,16 +1847,15 @@
       }
     },
     {
-      "третію": {
+      "третю": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третя"
       }
     },
     {

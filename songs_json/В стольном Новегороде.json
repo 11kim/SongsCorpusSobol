@@ -499,7 +499,7 @@
       }
     },
     {
-      "рыбій": {
+      "рыбй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -507,7 +507,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "рыбіть"
+        "normal_form": "рыбть"
       }
     },
     {
@@ -2838,15 +2838,14 @@
       }
     },
     {
-      "терентій": {
+      "терент": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "терентіть"
+        "normal_form": "терента"
       }
     },
     {
@@ -3808,27 +3807,21 @@
       }
     },
     {
-      "вотъ": {
+      "вот": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PRCL"
         ],
-        "normal_form": "вотъ"
+        "normal_form": "вот"
       }
     },
     {
-      "вамъ": {
+      "вам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "2per plur",
+          "datv"
         ],
-        "normal_form": "вамъ"
+        "normal_form": "вы"
       }
     },
     {
@@ -3858,15 +3851,16 @@
       }
     },
     {
-      "рублевъ": {
+      "рублев": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
+          "Sgtm",
+          "Surn sing",
           "nomn"
         ],
-        "normal_form": "рублевъ"
+        "normal_form": "рублёв"
       }
     }
   ],
@@ -5522,15 +5516,16 @@
       }
     },
     {
-      "клюютъ": {
+      "клюют": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran plur",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "клюютъ"
+        "normal_form": "клевать"
       }
     }
   ],
@@ -6171,7 +6166,7 @@
       }
     },
     {
-      "терентій": {
+      "терентй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -6179,7 +6174,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "терентіть"
+        "normal_form": "терентть"
       }
     },
     {
@@ -7754,11 +7749,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -7773,15 +7768,16 @@
       }
     },
     {
-      "скочилъ": {
+      "скочил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "скочилъ"
+        "normal_form": "скочить"
       }
     }
   ],

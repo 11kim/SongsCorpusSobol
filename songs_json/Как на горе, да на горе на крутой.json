@@ -121,14 +121,15 @@
       }
     },
     {
-      "светленькіе": {
+      "светленьк": {
         "OpencorporaTag": [
           "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "светленькі"
+        "normal_form": "светленька"
       }
     }
   ],
@@ -250,14 +251,13 @@
       }
     },
     {
-      "кипучіе": {
+      "кипуч": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "кипучі"
+        "normal_form": "кипучий"
       }
     }
   ],

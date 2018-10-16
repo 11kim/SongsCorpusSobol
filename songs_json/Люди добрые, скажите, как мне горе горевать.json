@@ -801,31 +801,33 @@
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
-        ],
-        "normal_form": "онъ"
-      }
-    },
-    {
-      "близокъ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
+          "NPRO",
           "masc",
-          "Fixd sing",
+          "3per",
+          "Anph sing",
           "nomn"
         ],
-        "normal_form": "близокъ"
+        "normal_form": "он"
       }
     },
     {
-      "къ": {
+      "близок": {
         "OpencorporaTag": [
-          "UNKN"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "къ"
+        "normal_form": "близкий"
+      }
+    },
+    {
+      "к": {
+        "OpencorporaTag": [
+          "PREP"
+        ],
+        "normal_form": "к"
       }
     },
     {
@@ -840,15 +842,16 @@
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     }
   ],

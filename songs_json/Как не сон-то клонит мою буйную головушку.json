@@ -795,14 +795,15 @@
       }
     },
     {
-      "непріятелю": {
+      "непр": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc sing",
-          "datv"
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "непріятель"
+        "normal_form": "непр"
       }
     }
   ]

@@ -189,13 +189,15 @@
       }
     },
     {
-      "армія": {
+      "арм": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "арміть"
+        "normal_form": "арма"
       }
     }
   ],
@@ -211,13 +213,13 @@
       }
     },
     {
-      "армія": {
+      "армя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
-          "tran pres"
+          "intr pres"
         ],
-        "normal_form": "арміть"
+        "normal_form": "армить"
       }
     },
     {
@@ -482,16 +484,15 @@
       }
     },
     {
-      "артиллерію": {
+      "артиллер": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "артиллеріть"
+        "normal_form": "артиллер"
       }
     }
   ],

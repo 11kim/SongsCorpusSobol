@@ -586,14 +586,15 @@
       }
     },
     {
-      "такіе": {
+      "таке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn",
+          "Sgtm sing",
+          "datv"
         ],
-        "normal_form": "такі"
+        "normal_form": "така"
       }
     },
     {
@@ -632,15 +633,14 @@
       }
     },
     {
-      "пиръ-вечереньку": {
+      "пир-вечереньку": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "accs"
         ],
-        "normal_form": "пиръ-вечеренька"
+        "normal_form": "пир-вечеренька"
       }
     }
   ],

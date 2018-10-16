@@ -555,39 +555,35 @@
       }
     },
     {
-      "подъ": {
+      "под": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "подъ"
+        "normal_form": "под"
       }
     },
     {
-      "ракитовымъ": {
+      "ракитовым": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "Sgtm",
+          "Surn sing",
+          "ablt"
         ],
-        "normal_form": "ракитовымъ"
+        "normal_form": "ракитов"
       }
     },
     {
-      "кустомъ": {
+      "кустом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "кустомъ"
+        "normal_form": "куст"
       }
     }
   ],
@@ -641,15 +637,14 @@
       }
     },
     {
-      "ремезъ": {
+      "ремез": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "ремезъ"
+        "normal_form": "ремез"
       }
     },
     {
@@ -664,15 +659,16 @@
       }
     },
     {
-      "свивалъ": {
+      "свивал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "свивалъ"
+        "normal_form": "свивать"
       }
     }
   ],
@@ -787,13 +783,11 @@
       }
     },
     {
-      "змія": {
+      "змя": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "UNKN"
         ],
-        "normal_form": "зміть"
+        "normal_form": "змя"
       }
     },
     {

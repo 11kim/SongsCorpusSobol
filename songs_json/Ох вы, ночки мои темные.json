@@ -66,35 +66,39 @@
       }
     },
     {
-      "осеннія": {
+      "осенн": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "осенніть"
+        "normal_form": "осенна"
       }
     }
   ],
   [
     {
-      "разосеннія": {
+      "разосенн": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "разосенніть"
+        "normal_form": "разосенна"
       }
     },
     {
-      "последнія": {
+      "последн": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "последніть"
+        "normal_form": "последна"
       }
     }
   ],

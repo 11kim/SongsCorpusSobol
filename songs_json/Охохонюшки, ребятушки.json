@@ -96,19 +96,20 @@
       }
     },
     {
-      "твой-етъ": {
+      "твой-ет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "твой-етъ"
+        "normal_form": "твой-ть"
       }
     },
     {
-      "миленькій": {
+      "миленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -116,7 +117,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленькть"
       }
     },
     {
@@ -139,15 +140,16 @@
       }
     },
     {
-      "стоитъ": {
+      "стоит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr",
+          "Impe sing",
+          "pres",
+          "indc"
         ],
-        "normal_form": "стоитъ"
+        "normal_form": "стоить"
       }
     }
   ],

@@ -883,14 +883,11 @@
   ],
   [
     {
-      "городскіе-то": {
+      "городско": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "городскі-то"
+        "normal_form": "городско"
       }
     },
     {
@@ -1160,14 +1157,11 @@
   ],
   [
     {
-      "городскіе-то": {
+      "городско": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "городскі-то"
+        "normal_form": "городско"
       }
     },
     {
@@ -1495,11 +1489,11 @@
       }
     },
     {
-      "охъ": {
+      "ох": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "охъ"
+        "normal_form": "ох"
       }
     },
     {
@@ -1539,14 +1533,14 @@
   ],
   [
     {
-      "мягкіе": {
+      "мягке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "мягкі"
+        "normal_form": "мягка"
       }
     },
     {

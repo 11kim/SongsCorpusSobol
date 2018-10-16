@@ -557,15 +557,16 @@
       }
     },
     {
-      "отпустятъ": {
+      "отпустят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "отпустятъ"
+        "normal_form": "отпустить"
       }
     }
   ],

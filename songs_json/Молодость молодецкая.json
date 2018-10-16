@@ -614,14 +614,11 @@
       }
     },
     {
-      "пріятели": {
+      "пр": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "femn sing",
-          "gent"
+          "UNKN"
         ],
-        "normal_form": "пріятель"
+        "normal_form": "пр"
       }
     }
   ],
@@ -929,16 +926,13 @@
       }
     },
     {
-      "счастію": {
+      "счаст": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "счастіть"
+        "normal_form": "счастый"
       }
     }
   ],

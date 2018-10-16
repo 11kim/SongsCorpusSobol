@@ -144,14 +144,11 @@
       }
     },
     {
-      "чужіе": {
+      "чуже": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "чужі"
+        "normal_form": "чуже"
       }
     },
     {
@@ -168,14 +165,11 @@
   ],
   [
     {
-      "чужіе": {
+      "чуже": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "ADVB"
         ],
-        "normal_form": "чужі"
+        "normal_form": "чуже"
       }
     },
     {
@@ -190,14 +184,14 @@
       }
     },
     {
-      "близкіе": {
+      "близке": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "femn sing",
+          "datv"
         ],
-        "normal_form": "близкі"
+        "normal_form": "близка"
       }
     },
     {
@@ -432,15 +426,11 @@
       }
     },
     {
-      "поддружій": {
+      "поддруж": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADVB"
         ],
-        "normal_form": "поддружіть"
+        "normal_form": "поддруж"
       }
     }
   ],
@@ -779,15 +769,11 @@
       }
     },
     {
-      "поддружій": {
+      "поддруж": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADVB"
         ],
-        "normal_form": "поддружіть"
+        "normal_form": "поддруж"
       }
     },
     {

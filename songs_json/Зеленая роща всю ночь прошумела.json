@@ -223,11 +223,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -244,11 +244,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -324,15 +324,11 @@
   ],
   [
     {
-      "пріезжали": {
+      "при": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "PREP"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "при"
       }
     },
     {
@@ -560,15 +556,13 @@
       }
     },
     {
-      "хорошій": {
+      "хорош": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошіть"
+        "normal_form": "хороший"
       }
     },
     {
@@ -678,27 +672,29 @@
       }
     },
     {
-      "конь-етъ": {
+      "конь-ет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "конь-етъ"
+        "normal_form": "конь-ть"
       }
     },
     {
-      "виноходитъ": {
+      "виноходит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "виноходитъ"
+        "normal_form": "виноходить"
       }
     }
   ],
@@ -755,27 +751,24 @@
       }
     },
     {
-      "подъ": {
+      "под": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "подъ"
+        "normal_form": "под"
       }
     },
     {
-      "нимъ": {
+      "ним": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
+          "NPRO",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "3per",
+          "Anph sing",
+          "ablt",
+          "Af-p"
         ],
-        "normal_form": "нимъ"
+        "normal_form": "он"
       }
     },
     {
@@ -827,51 +820,50 @@
       }
     },
     {
-      "конь-етъ": {
+      "конь-ет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "конь-етъ"
+        "normal_form": "конь-ть"
       }
     },
     {
-      "подъ": {
+      "под": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "подъ"
+        "normal_form": "под"
       }
     },
     {
-      "нимъ": {
+      "ним": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
+          "NPRO",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "3per",
+          "Anph sing",
+          "ablt",
+          "Af-p"
         ],
-        "normal_form": "нимъ"
+        "normal_form": "он"
       }
     },
     {
-      "пляшетъ": {
+      "пляшет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "пляшетъ"
+        "normal_form": "плясать"
       }
     }
   ],
@@ -920,39 +912,37 @@
       }
     },
     {
-      "подъ": {
+      "под": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "PREP"
         ],
-        "normal_form": "подъ"
+        "normal_form": "под"
       }
     },
     {
-      "нимъ": {
+      "ним": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
+          "NPRO",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "3per",
+          "Anph sing",
+          "ablt",
+          "Af-p"
         ],
-        "normal_form": "нимъ"
+        "normal_form": "он"
       }
     },
     {
-      "играетъ": {
+      "играет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "играетъ"
+        "normal_form": "играть"
       }
     }
   ],
@@ -998,27 +988,27 @@
       }
     },
     {
-      "садикъ": {
+      "садик": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "садикъ"
+        "normal_form": "садик"
       }
     },
     {
-      "зеленеетъ": {
+      "зеленеет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "зеленеетъ"
+        "normal_form": "зеленеть"
       }
     }
   ],

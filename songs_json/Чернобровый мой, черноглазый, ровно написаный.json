@@ -142,15 +142,15 @@
       }
     },
     {
-      "чернобровенькій": {
+      "чернобровеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "чернобровенькіть"
+        "normal_form": "чернобровенька"
       }
     },
     {
@@ -224,15 +224,15 @@
       }
     },
     {
-      "черноглазенькій": {
+      "черноглазеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "черноглазенькіть"
+        "normal_form": "черноглазенька"
       }
     },
     {
@@ -786,25 +786,27 @@
       }
     },
     {
-      "молодецкія": {
+      "молодецк": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "молодецкіть"
+        "normal_form": "молодецк"
       }
     }
   ],
   [
     {
-      "молодецкія": {
+      "молодецкя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "молодецкіть"
+        "normal_form": "молодецкть"
       }
     },
     {
@@ -829,13 +831,15 @@
       }
     },
     {
-      "солдатскія": {
+      "солдатск": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "солдатскіть"
+        "normal_form": "солдатск"
       }
     }
   ]

@@ -44,13 +44,14 @@
       }
     },
     {
-      "дорогія": {
+      "дорог": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "NOUN",
+          "inan",
+          "femn plur",
+          "gent"
         ],
-        "normal_form": "дорогіть"
+        "normal_form": "дорога"
       }
     }
   ],

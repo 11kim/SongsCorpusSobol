@@ -99,7 +99,7 @@
       }
     },
     {
-      "крайній": {
+      "крайнй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -107,7 +107,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "крайніть"
+        "normal_form": "крайнть"
       }
     },
     {
@@ -331,7 +331,7 @@
       }
     },
     {
-      "добренькій": {
+      "добренькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -339,19 +339,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "добренькіть"
+        "normal_form": "добренькть"
       }
     },
     {
-      "молодчикъ": {
+      "молодчик": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодчикъ"
+        "normal_form": "молодчик"
       }
     },
     {
@@ -363,11 +362,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -382,15 +381,16 @@
       }
     },
     {
-      "пришелъ": {
+      "пришел": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "пришелъ"
+        "normal_form": "прийти"
       }
     }
   ],

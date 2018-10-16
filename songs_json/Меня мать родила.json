@@ -420,7 +420,7 @@
       }
     },
     {
-      "жеребій": {
+      "жеребй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -428,7 +428,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "жеребіть"
+        "normal_form": "жеребть"
       }
     },
     {
@@ -582,15 +582,11 @@
       }
     },
     {
-      "пріемной": {
+      "прй": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Name sing",
-          "nomn"
+          "UNKN"
         ],
-        "normal_form": "пріемной"
+        "normal_form": "прй"
       }
     },
     {
@@ -1147,14 +1143,11 @@
       }
     },
     {
-      "старшіе": {
+      "старше": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "COMP"
         ],
-        "normal_form": "старші"
+        "normal_form": "старший"
       }
     },
     {

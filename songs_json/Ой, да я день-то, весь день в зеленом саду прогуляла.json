@@ -602,15 +602,17 @@
       }
     },
     {
-      "вдовичій": {
+      "вдович": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Sgtm",
+          "Fixd",
+          "Abbr sing",
+          "nomn"
         ],
-        "normal_form": "вдовичіть"
+        "normal_form": "вдович"
       }
     }
   ],
@@ -700,15 +702,16 @@
       }
     },
     {
-      "вспоминаетъ": {
+      "вспоминает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "вспоминаетъ"
+        "normal_form": "вспоминать"
       }
     }
   ],
@@ -773,15 +776,16 @@
       }
     },
     {
-      "плачетъ": {
+      "плачет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "плачетъ"
+        "normal_form": "плакать"
       }
     }
   ],
@@ -849,11 +853,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -868,15 +872,16 @@
       }
     },
     {
-      "поджидаетъ": {
+      "поджидает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "поджидаетъ"
+        "normal_form": "поджидать"
       }
     }
   ]

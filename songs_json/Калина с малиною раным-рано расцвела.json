@@ -414,7 +414,7 @@
       }
     },
     {
-      "третій": {
+      "третй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -422,7 +422,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "третіть"
+        "normal_form": "третть"
       }
     },
     {
@@ -843,7 +843,7 @@
   ],
   [
     {
-      "средній": {
+      "среднй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -851,7 +851,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "средніть"
+        "normal_form": "среднть"
       }
     },
     {
@@ -1105,15 +1105,14 @@
       }
     },
     {
-      "солдатахъ": {
+      "солдатах": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "солдатахъ"
+        "normal_form": "солдат"
       }
     },
     {
@@ -1174,15 +1173,14 @@
       }
     },
     {
-      "разбойникахъ": {
+      "разбойниках": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "loct"
         ],
-        "normal_form": "разбойникахъ"
+        "normal_form": "разбойник"
       }
     }
   ],
@@ -1243,15 +1241,14 @@
       }
     },
     {
-      "домомъ": {
+      "домом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "домомъ"
+        "normal_form": "дом"
       }
     },
     {

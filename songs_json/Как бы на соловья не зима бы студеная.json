@@ -98,14 +98,15 @@
       }
     },
     {
-      "крещенскіе": {
+      "крещенск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "крещенскі"
+        "normal_form": "крещенск"
       }
     }
   ],
@@ -329,14 +330,15 @@
       }
     },
     {
-      "солдатскіе": {
+      "солдатск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "солдатскі"
+        "normal_form": "солдатск"
       }
     }
   ],
@@ -634,15 +636,15 @@
       }
     },
     {
-      "политовскій": {
+      "политовск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "политовскіть"
+        "normal_form": "политовск"
       }
     }
   ],
@@ -2329,15 +2331,15 @@
       }
     },
     {
-      "политовскій": {
+      "политовск": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "политовскіть"
+        "normal_form": "политовск"
       }
     }
   ],
@@ -4494,7 +4496,7 @@
       }
     },
     {
-      "политовскій": {
+      "политовскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -4502,7 +4504,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "политовскіть"
+        "normal_form": "политовскть"
       }
     }
   ],
@@ -4588,14 +4590,15 @@
       }
     },
     {
-      "решеніе": {
+      "решен": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "PRTS",
+          "perf",
+          "past",
+          "pssv masc",
+          "sing"
         ],
-        "normal_form": "решені"
+        "normal_form": "решить"
       }
     }
   ],
@@ -4667,14 +4670,15 @@
       }
     },
     {
-      "политовскіе": {
+      "политовске": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
+          "masc",
+          "Geox sing",
           "loct"
         ],
-        "normal_form": "политовскі"
+        "normal_form": "политовск"
       }
     }
   ],
@@ -4887,14 +4891,15 @@
       }
     },
     {
-      "политовскіе": {
+      "политовск": {
         "OpencorporaTag": [
           "NOUN",
           "inan",
-          "masc sing",
-          "loct"
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "политовскі"
+        "normal_form": "политовск"
       }
     }
   ],
@@ -6313,15 +6318,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     }
   ],

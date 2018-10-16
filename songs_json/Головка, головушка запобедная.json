@@ -217,15 +217,16 @@
       }
     },
     {
-      "воспоилъ-вскормилъ": {
+      "воспоил-вскормил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "воспоилъ-вскормилъ"
+        "normal_form": "воспоить-вскормить"
       }
     },
     {
@@ -239,15 +240,16 @@
       }
     },
     {
-      "міръ": {
+      "м": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
+          "inan",
           "masc",
-          "Fixd sing",
-          "nomn"
+          "Fixd",
+          "Abbr sing",
+          "gent"
         ],
-        "normal_form": "міръ"
+        "normal_form": "метр"
       }
     }
   ],

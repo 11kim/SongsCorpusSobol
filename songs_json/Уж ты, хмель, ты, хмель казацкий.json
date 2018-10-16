@@ -51,15 +51,15 @@
       }
     },
     {
-      "казацкій": {
+      "казацк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "inan",
+          "masc",
+          "Geox sing",
+          "nomn"
         ],
-        "normal_form": "казацкіть"
+        "normal_form": "казацк"
       }
     }
   ],
@@ -395,13 +395,12 @@
       }
     },
     {
-      "летнія": {
+      "летня": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS femn",
+          "sing"
         ],
-        "normal_form": "летніть"
+        "normal_form": "летний"
       }
     },
     {
@@ -1517,15 +1516,11 @@
       }
     },
     {
-      "пріезжали": {
+      "пр": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "intr plur",
-          "past",
-          "indc"
+          "UNKN"
         ],
-        "normal_form": "пріезжать"
+        "normal_form": "пр"
       }
     }
   ],
@@ -2810,27 +2805,26 @@
       }
     },
     {
-      "намъ": {
+      "нам": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "NPRO",
+          "1per plur",
+          "datv"
         ],
-        "normal_form": "намъ"
+        "normal_form": "мы"
       }
     },
     {
-      "сказалъ": {
+      "сказал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "сказалъ"
+        "normal_form": "сказать"
       }
     }
   ],
@@ -5250,7 +5244,7 @@
       }
     },
     {
-      "великій": {
+      "великй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -5258,7 +5252,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "великіть"
+        "normal_form": "великть"
       }
     },
     {

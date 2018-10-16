@@ -307,7 +307,7 @@
       }
     },
     {
-      "мелкій": {
+      "мелкй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -315,7 +315,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "мелкіть"
+        "normal_form": "мелкть"
       }
     },
     {
@@ -677,15 +677,14 @@
       }
     },
     {
-      "молодецъ": {
+      "молодец": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "молодецъ"
+        "normal_form": "молодец"
       }
     },
     {
@@ -715,15 +714,16 @@
       }
     },
     {
-      "сечетъ": {
+      "сечет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "сечетъ"
+        "normal_form": "сечь"
       }
     },
     {

@@ -312,15 +312,14 @@
       }
     },
     {
-      "товарищъ": {
+      "товарищ": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "товарищъ"
+        "normal_form": "товарищ"
       }
     },
     {
@@ -334,11 +333,11 @@
       }
     },
     {
-      "къ": {
+      "к": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "къ"
+        "normal_form": "к"
       }
     },
     {
@@ -354,15 +353,16 @@
       }
     },
     {
-      "доведетъ": {
+      "доведет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "доведетъ"
+        "normal_form": "довести"
       }
     }
   ],
@@ -590,23 +590,21 @@
       }
     },
     {
-      "ахъ": {
+      "ах": {
         "OpencorporaTag": [
-          "UNKN"
+          "INTJ"
         ],
-        "normal_form": "ахъ"
+        "normal_form": "ах"
       }
     },
     {
-      "старъ": {
+      "стар": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "старъ"
+        "normal_form": "старый"
       }
     },
     {
@@ -618,15 +616,16 @@
       }
     },
     {
-      "дойдетъ": {
+      "дойдет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "дойдетъ"
+        "normal_form": "дойти"
       }
     },
     {
@@ -712,15 +711,16 @@
       }
     },
     {
-      "дойдетъ": {
+      "дойдет": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "дойдетъ"
+        "normal_form": "дойти"
       }
     },
     {
@@ -732,15 +732,16 @@
       }
     },
     {
-      "знаетъ": {
+      "знает": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "знаетъ"
+        "normal_form": "знать"
       }
     },
     {

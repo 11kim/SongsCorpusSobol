@@ -46,15 +46,15 @@
   ],
   [
     {
-      "беленькій": {
+      "беленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленька"
       }
     },
     {
@@ -108,11 +108,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -149,11 +149,11 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
@@ -227,29 +227,30 @@
       }
     },
     {
-      "делалъ": {
+      "делал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "делалъ"
+        "normal_form": "делать"
       }
     }
   ],
   [
     {
-      "беленькій": {
+      "беленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленька"
       }
     },
     {
@@ -313,15 +314,16 @@
       }
     },
     {
-      "поливалъ": {
+      "поливал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "поливалъ"
+        "normal_form": "поливать"
       }
     },
     {
@@ -336,15 +338,16 @@
       }
     },
     {
-      "заломалъ": {
+      "заломал": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "заломалъ"
+        "normal_form": "заломать"
       }
     },
     {
@@ -417,15 +420,15 @@
   ],
   [
     {
-      "беленькій": {
+      "беленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленька"
       }
     },
     {
@@ -582,15 +585,11 @@
       }
     },
     {
-      "чемъ": {
+      "чем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "CONJ"
         ],
-        "normal_form": "чемъ"
+        "normal_form": "чем"
       }
     },
     {
@@ -608,15 +607,15 @@
   ],
   [
     {
-      "беленькій": {
+      "беленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленька"
       }
     },
     {
@@ -670,15 +669,14 @@
       }
     },
     {
-      "кулакомъ": {
+      "кулаком": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "кулакомъ"
+        "normal_form": "кулак"
       }
     },
     {
@@ -701,15 +699,14 @@
       }
     },
     {
-      "рукавомъ": {
+      "рукавом": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "ablt"
         ],
-        "normal_form": "рукавомъ"
+        "normal_form": "рукав"
       }
     }
   ],
@@ -828,15 +825,15 @@
   ],
   [
     {
-      "беленькій": {
+      "беленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленька"
       }
     },
     {
@@ -1040,29 +1037,30 @@
       }
     },
     {
-      "врачемъ": {
+      "врачем": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "1per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "врачемъ"
+        "normal_form": "вракать"
       }
     }
   ],
   [
     {
-      "беленькій": {
+      "беленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "беленькіть"
+        "normal_form": "беленька"
       }
     },
     {
@@ -1131,15 +1129,13 @@
       }
     },
     {
-      "хорошъ": {
+      "хорош": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "хорошъ"
+        "normal_form": "хороший"
       }
     },
     {
@@ -1151,27 +1147,27 @@
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     },
     {
-      "врачъ": {
+      "врач": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "врачъ"
+        "normal_form": "врач"
       }
     },
     {

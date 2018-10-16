@@ -261,7 +261,7 @@
       }
     },
     {
-      "аленькій": {
+      "аленькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -269,19 +269,18 @@
           "impr",
           "excl"
         ],
-        "normal_form": "аленькіть"
+        "normal_form": "аленькть"
       }
     },
     {
-      "цветокъ": {
+      "цветок": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
+          "inan",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "цветокъ"
+        "normal_form": "цветок"
       }
     }
   ],
@@ -592,15 +591,15 @@
       }
     },
     {
-      "миленькій": {
+      "миленьк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "миленькіть"
+        "normal_form": "миленька"
       }
     },
     {
@@ -612,16 +611,15 @@
       }
     },
     {
-      "компанію": {
+      "компаню": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "1per",
-          "pres",
-          "indc"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name sing",
+          "accs"
         ],
-        "normal_form": "компаніть"
+        "normal_form": "компаня"
       }
     },
     {
@@ -1157,13 +1155,12 @@
       }
     },
     {
-      "последнія": {
+      "последня": {
         "OpencorporaTag": [
-          "GRND",
-          "impf",
-          "tran pres"
+          "ADJS femn",
+          "sing"
         ],
-        "normal_form": "последніть"
+        "normal_form": "последний"
       }
     },
     {
@@ -1373,14 +1370,16 @@
       }
     },
     {
-      "третіе": {
+      "трете": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "VERB",
+          "impf",
+          "tran plur",
+          "2per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "треті"
+        "normal_form": "тереть"
       }
     },
     {
@@ -1416,15 +1415,15 @@
       }
     },
     {
-      "цветъ": {
+      "цвет": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "цветъ"
+        "normal_form": "цвета"
       }
     },
     {
@@ -1439,23 +1438,22 @@
       }
     },
     {
-      "другъ": {
+      "друг": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "другъ"
+        "normal_form": "друг"
       }
     },
     {
-      "отъ": {
+      "от": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "отъ"
+        "normal_form": "от"
       }
     },
     {
@@ -1470,15 +1468,16 @@
       }
     },
     {
-      "бежитъ": {
+      "бежит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr sing",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "бежитъ"
+        "normal_form": "бежать"
       }
     }
   ],
@@ -1492,7 +1491,7 @@
       }
     },
     {
-      "голубенькій": {
+      "голубенькй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1500,7 +1499,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "голубенькіть"
+        "normal_form": "голубенькть"
       }
     },
     {

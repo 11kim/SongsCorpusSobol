@@ -97,31 +97,36 @@
       }
     },
     {
-      "жъ": {
+      "ж": {
         "OpencorporaTag": [
-          "UNKN"
+          "CONJ"
         ],
-        "normal_form": "жъ"
+        "normal_form": "ж"
       }
     },
     {
-      "онъ": {
+      "он": {
         "OpencorporaTag": [
-          "UNKN"
-        ],
-        "normal_form": "онъ"
-      }
-    },
-    {
-      "делаетъ": {
-        "OpencorporaTag": [
-          "NOUN",
-          "anim",
+          "NPRO",
           "masc",
-          "Fixd sing",
+          "3per",
+          "Anph sing",
           "nomn"
         ],
-        "normal_form": "делаетъ"
+        "normal_form": "он"
+      }
+    },
+    {
+      "делает": {
+        "OpencorporaTag": [
+          "VERB",
+          "impf",
+          "tran sing",
+          "3per",
+          "pres",
+          "indc"
+        ],
+        "normal_form": "делать"
       }
     },
     {
@@ -143,27 +148,26 @@
       }
     },
     {
-      "боленъ": {
+      "болен": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "боленъ"
+        "normal_form": "больной"
       }
     },
     {
-      "лежитъ": {
+      "лежит": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr sing",
+          "3per",
+          "pres",
+          "indc"
         ],
-        "normal_form": "лежитъ"
+        "normal_form": "лежать"
       }
     }
   ],
@@ -236,15 +240,14 @@
       }
     },
     {
-      "кумъ": {
+      "кум": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
+          "masc sing",
           "nomn"
         ],
-        "normal_form": "кумъ"
+        "normal_form": "кум"
       }
     },
     {
@@ -258,23 +261,22 @@
       }
     },
     {
-      "въ": {
+      "в": {
         "OpencorporaTag": [
-          "UNKN"
+          "PREP"
         ],
-        "normal_form": "въ"
+        "normal_form": "в"
       }
     },
     {
-      "огородъ": {
+      "огород": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "огородъ"
+        "normal_form": "огород"
       }
     }
   ],
@@ -367,15 +369,16 @@
       }
     },
     {
-      "парилъ": {
+      "парил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "парилъ"
+        "normal_form": "парить"
       }
     },
     {
@@ -619,15 +622,16 @@
       }
     },
     {
-      "парилъ": {
+      "парил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "парилъ"
+        "normal_form": "парить"
       }
     },
     {

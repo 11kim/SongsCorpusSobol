@@ -615,27 +615,25 @@
       }
     },
     {
-      "маковъ": {
+      "маков": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADJS",
+          "Qual masc",
+          "sing"
         ],
-        "normal_form": "маковъ"
+        "normal_form": "маковый"
       }
     },
     {
-      "цветъ": {
+      "цвет": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "цветъ"
+        "normal_form": "цвета"
       }
     }
   ],
@@ -1004,15 +1002,14 @@
       }
     },
     {
-      "кутилъ": {
+      "кутил": {
         "OpencorporaTag": [
           "NOUN",
           "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "masc plur",
+          "gent"
         ],
-        "normal_form": "кутилъ"
+        "normal_form": "кутила"
       }
     },
     {
@@ -1027,15 +1024,16 @@
       }
     },
     {
-      "шутилъ": {
+      "шутил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "шутилъ"
+        "normal_form": "шутить"
       }
     },
     {
@@ -1058,15 +1056,16 @@
       }
     },
     {
-      "купилъ": {
+      "купил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "купилъ"
+        "normal_form": "купить"
       }
     },
     {
@@ -1109,15 +1108,16 @@
       }
     },
     {
-      "купилъ": {
+      "купил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "купилъ"
+        "normal_form": "купить"
       }
     },
     {
@@ -1149,15 +1149,16 @@
       }
     },
     {
-      "просилъ": {
+      "просил": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "tran masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "просилъ"
+        "normal_form": "просить"
       }
     }
   ],

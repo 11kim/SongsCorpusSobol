@@ -41,15 +41,12 @@
       }
     },
     {
-      "пегій": {
+      "пег": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "пегіть"
+        "normal_form": "пегий"
       }
     },
     {
@@ -64,15 +61,12 @@
       }
     },
     {
-      "серопегій": {
+      "серопег": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "ADJS masc",
+          "sing"
         ],
-        "normal_form": "серопегіть"
+        "normal_form": "серопегий"
       }
     }
   ],
@@ -919,27 +913,27 @@
       }
     },
     {
-      "серенькій": {
+      "сереньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "серенькіть"
+        "normal_form": "серенька"
       }
     },
     {
-      "серопегенькій": {
+      "серопегеньк": {
         "OpencorporaTag": [
-          "VERB",
-          "impf",
-          "tran sing",
-          "impr",
-          "excl"
+          "NOUN",
+          "anim",
+          "femn",
+          "Name plur",
+          "gent"
         ],
-        "normal_form": "серопегенькіть"
+        "normal_form": "серопегенька"
       }
     }
   ],

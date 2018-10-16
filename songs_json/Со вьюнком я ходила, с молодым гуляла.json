@@ -357,15 +357,16 @@
       }
     },
     {
-      "сходятъ": {
+      "сходят": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "perf",
+          "intr plur",
+          "3per",
+          "futr",
+          "indc"
         ],
-        "normal_form": "сходятъ"
+        "normal_form": "сходить"
       }
     }
   ]

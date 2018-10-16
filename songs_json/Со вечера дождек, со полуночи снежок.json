@@ -243,13 +243,13 @@
       }
     },
     {
-      "другія": {
+      "другя": {
         "OpencorporaTag": [
           "GRND",
           "impf",
           "tran pres"
         ],
-        "normal_form": "другіть"
+        "normal_form": "другть"
       }
     },
     {
@@ -384,7 +384,7 @@
       }
     },
     {
-      "лединскій": {
+      "лединскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -392,7 +392,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "лединскіть"
+        "normal_form": "лединскть"
       }
     },
     {
@@ -419,7 +419,7 @@
       }
     },
     {
-      "лединскій": {
+      "лединскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -427,7 +427,7 @@
           "impr",
           "excl"
         ],
-        "normal_form": "лединскіть"
+        "normal_form": "лединскть"
       }
     },
     {
@@ -1065,19 +1065,16 @@
       }
     },
     {
-      "тамъ": {
+      "там": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "ADVB",
+          "Dmns"
         ],
-        "normal_form": "тамъ"
+        "normal_form": "там"
       }
     },
     {
-      "лединскій": {
+      "лединскй": {
         "OpencorporaTag": [
           "VERB",
           "impf",
@@ -1085,19 +1082,20 @@
           "impr",
           "excl"
         ],
-        "normal_form": "лединскіть"
+        "normal_form": "лединскть"
       }
     },
     {
-      "былъ": {
+      "был": {
         "OpencorporaTag": [
-          "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "VERB",
+          "impf",
+          "intr masc",
+          "sing",
+          "past",
+          "indc"
         ],
-        "normal_form": "былъ"
+        "normal_form": "быть"
       }
     }
   ]

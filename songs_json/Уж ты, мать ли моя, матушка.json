@@ -1133,14 +1133,12 @@
       }
     },
     {
-      "большіе": {
+      "больше": {
         "OpencorporaTag": [
-          "NOUN",
-          "inan",
-          "masc sing",
-          "loct"
+          "COMP",
+          "Qual"
         ],
-        "normal_form": "больші"
+        "normal_form": "большой"
       }
     },
     {
@@ -1513,15 +1511,14 @@
       }
     },
     {
-      "сахаръ": {
+      "сахар": {
         "OpencorporaTag": [
           "NOUN",
-          "anim",
-          "masc",
-          "Fixd sing",
-          "nomn"
+          "inan",
+          "masc sing",
+          "accs"
         ],
-        "normal_form": "сахаръ"
+        "normal_form": "сахар"
       }
     },
     {
